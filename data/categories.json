@@ -1,0 +1,96 @@
+[
+  {
+    "id": "ablation_benign",
+    "label": "Ablation Thermique des Tumeurs Osseuses Bénignes",
+    "short_label": "RF & Cryo (OO / Chondroblastome)",
+    "icon": "flame",
+    "color": "#f97316",
+    "agenda_examples": [
+      "RF ostéome ostéoïde coude, tibia proximal, hanche",
+      "RF / Cryothérapie ostéome ostéoïde de l'astragale (no-touch)",
+      "RF & Cryoablation de chondroblastome du genou (à distance lame sous-chondrale)"
+    ]
+  },
+  {
+    "id": "desmoid_soft_tissue",
+    "label": "Cryoablation des Tumeurs Desmoïdes & Parties Molles",
+    "short_label": "Cryo Desmoïdes & Tissus Mous",
+    "icon": "snowflake",
+    "color": "#06b6d4",
+    "agenda_examples": [
+      "Cryothérapie tumeur desmoïde creux sus-claviculaire (proximité plexus brachial)",
+      "Cryothérapie nodules paravertébraux et du trapèze"
+    ]
+  },
+  {
+    "id": "ect_mets",
+    "label": "Électrochimiothérapie (ECT) & Métastases Osseuses",
+    "short_label": "ECT (Bléomycine) & Métastases",
+    "icon": "zap",
+    "color": "#eab308",
+    "agenda_examples": [
+      "Électrochimiothérapie (ECT - Bléomycine 30 mg IV) au scanner Achard -1",
+      "Traitement combiné Cryoablation + ECT (métastase osseuse du pied - cancer rénal)",
+      "Cryoablation pariétale thoracique à visée antalgique"
+    ]
+  },
+  {
+    "id": "consolidation_screw_cement",
+    "label": "Cimentoplastie & Vissage Percutané du Bassin",
+    "short_label": "Cimentoplastie & Vissage Bassin",
+    "icon": "shield",
+    "color": "#8b5cf6",
+    "agenda_examples": [
+      "Vissage percutané du bassin post-radiothérapie en HDJ Radio B",
+      "Combinaison cryoablation de debulking + vissage du bassin",
+      "Cimentoplastie cervicale sous AG post-radiothérapie (gestion Eliquis + Plavix)"
+    ]
+  },
+  {
+    "id": "cyst_sclerotherapy",
+    "label": "Alcoolisation & Sclérothérapie des Kystes Osseux",
+    "short_label": "Alcoolisation KOA / KOE",
+    "icon": "droplet",
+    "color": "#10b981",
+    "agenda_examples": [
+      "Alcoolisation (+/- cimentoplastie) de kyste osseux essentiel de l'aile iliaque",
+      "Suivi TDM à 1 an de kyste osseux anévrismal (KOA) de l'humérus traité par alcoolisation"
+    ]
+  },
+  {
+    "id": "pain_cryoneurolysis",
+    "label": "Douleur & Neurolyse : Morton, Géniculés, Intercostaux",
+    "short_label": "Cryoneurolyse & RF Nerveuse",
+    "icon": "activity",
+    "color": "#ec4899",
+    "agenda_examples": [
+      "Cryothérapie sous AL au scanner de névrome de Morton (3e espace)",
+      "Test anesthésique sous écho + Radiofréquence des nerfs géniculés (gonarthrose)",
+      "Cryoneurolyse du nerf intercostal (douleurs post-zona) & douleurs post-amputation"
+    ]
+  },
+  {
+    "id": "msk_biopsy",
+    "label": "Biopsies Ostéo-Articulaires, Synoviales & Sarcomes",
+    "short_label": "Biopsies TDM & Écho",
+    "icon": "crosshair",
+    "color": "#3b82f6",
+    "agenda_examples": [
+      "Biopsie synoviale du genou sous scanner (suspicion chondromatose / SVN)",
+      "Biopsie osseuse sous scanner (récidive lymphome B, masse pré-sacrée / sacrum)",
+      "Biopsie de masse des parties molles sous écho sans traverser le fascia (sarcome)"
+    ]
+  },
+  {
+    "id": "msk_imaging",
+    "label": "Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Geste",
+    "short_label": "IRM / TDM Diagnostique & Suivi",
+    "icon": "eye",
+    "color": "#6366f1",
+    "agenda_examples": [
+      "IRM dynamique protocole ostéome ostéoïde avant RF",
+      "IRM rachis lombaire et cervicale de contrôle post-cryothérapie (à 6 semaines et 3 mois)",
+      "IRM de suivi de TTCG / synovite villonodulaire sous thérapie ciblée & arthroscanner"
+    ]
+  }
+]

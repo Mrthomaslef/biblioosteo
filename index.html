@@ -1,0 +1,1520 @@
+<!DOCTYPE html>
+<html lang="fr" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BiblioOstéo Cochin — Radiologie Interventionnelle & Imagerie Ostéo-Articulaire</title>
+  <link rel="icon" type="image/svg+xml" href="assets/icon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg-primary: #0b1120;
+      --bg-secondary: #111827;
+      --bg-card: #1e293b;
+      --bg-card-hover: #263449;
+      --bg-elevated: #0f172a;
+      --text-primary: #f8fafc;
+      --text-secondary: #cbd5e1;
+      --text-muted: #94a3b8;
+      --border: #334155;
+      --border-subtle: rgba(148, 163, 184, 0.16);
+      --accent: #38bdf8;
+      --accent-strong: #0284c7;
+      --accent-glow: rgba(56, 189, 248, 0.14);
+      --cochin-amber: #f97316;
+      --cochin-amber-bg: rgba(249, 115, 22, 0.12);
+      --zotero-red: #ef4444;
+      --success: #10b981;
+      --radius-lg: 16px;
+      --radius-md: 12px;
+      --radius-sm: 8px;
+      --shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+    }
+
+    html.light {
+      --bg-primary: #f8fafc;
+      --bg-secondary: #f1f5f9;
+      --bg-card: #ffffff;
+      --bg-card-hover: #f8fafc;
+      --bg-elevated: #ffffff;
+      --text-primary: #0f172a;
+      --text-secondary: #334155;
+      --text-muted: #64748b;
+      --border: #cbd5e1;
+      --border-subtle: #e2e8f0;
+      --accent: #0284c7;
+      --accent-strong: #0369a1;
+      --accent-glow: rgba(2, 132, 199, 0.09);
+      --cochin-amber: #ea580c;
+      --cochin-amber-bg: rgba(234, 88, 12, 0.08);
+      --shadow: 0 8px 24px -8px rgba(15, 23, 42, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.55;
+      min-height: 100vh;
+    }
+
+    /* Top Header */
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 40;
+      background: rgba(15, 23, 42, 0.88);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid var(--border-subtle);
+      padding: 0.9rem 1.5rem;
+    }
+    html.light .topbar {
+      background: rgba(255, 255, 255, 0.9);
+    }
+
+    .topbar-inner {
+      max-width: 1440px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.85rem;
+    }
+
+    .brand-logo {
+      width: 42px;
+      height: 42px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, #0284c7, #6366f1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 1.15rem;
+      color: #fff;
+      box-shadow: 0 4px 14px rgba(2, 132, 199, 0.35);
+      flex-shrink: 0;
+    }
+
+    .brand-title {
+      font-size: 1.2rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      flex-wrap: wrap;
+    }
+
+    .badge-cochin {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      padding: 0.2rem 0.55rem;
+      border-radius: 999px;
+      background: var(--cochin-amber-bg);
+      color: var(--cochin-amber);
+      border: 1px solid rgba(249, 115, 22, 0.35);
+    }
+
+    .brand-sub {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+
+    .top-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      padding: 0.52rem 0.95rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.83rem;
+      font-weight: 600;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--bg-card);
+      color: var(--text-primary);
+      text-decoration: none;
+      transition: all 0.16s ease;
+    }
+    .btn:hover {
+      background: var(--bg-card-hover);
+      border-color: var(--accent);
+    }
+    .btn-zotero {
+      background: linear-gradient(135deg, #dc2626, #b91c1c);
+      border-color: #ef4444;
+      color: #ffffff;
+    }
+    .btn-zotero:hover {
+      background: linear-gradient(135deg, #ef4444, #dc2626);
+      border-color: #fca5a5;
+    }
+    .btn-primary {
+      background: linear-gradient(135deg, #0284c7, #2563eb);
+      border-color: #38bdf8;
+      color: #ffffff;
+    }
+    .btn-primary:hover {
+      filter: brightness(1.08);
+    }
+
+    /* Main Container */
+    .container {
+      max-width: 1440px;
+      margin: 0 auto;
+      padding: 1.5rem;
+    }
+
+    /* Hero & KPI Strip */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .kpi-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 1rem 1.15rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+      box-shadow: var(--shadow);
+    }
+
+    .kpi-label {
+      font-size: 0.76rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    .kpi-value {
+      font-size: 1.55rem;
+      font-weight: 800;
+      color: var(--text-primary);
+      display: flex;
+      align-items: baseline;
+      gap: 0.5rem;
+    }
+
+    .kpi-foot {
+      font-size: 0.78rem;
+      color: var(--text-secondary);
+    }
+
+    /* Agenda Interventionnel Mapping Banner */
+    .agenda-banner {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-left: 4px solid var(--cochin-amber);
+      border-radius: var(--radius-md);
+      padding: 1rem 1.25rem;
+      margin-bottom: 1.5rem;
+      box-shadow: var(--shadow);
+    }
+
+    .agenda-banner-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      margin-bottom: 0.65rem;
+      flex-wrap: wrap;
+    }
+
+    .agenda-banner-title {
+      font-size: 0.92rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .agenda-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+    }
+
+    .agenda-chip {
+      font-size: 0.76rem;
+      font-weight: 600;
+      padding: 0.32rem 0.7rem;
+      border-radius: 999px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .agenda-chip:hover, .agenda-chip.active {
+      background: var(--cochin-amber-bg);
+      color: var(--cochin-amber);
+      border-color: var(--cochin-amber);
+    }
+
+    /* Search & Filter Controls */
+    .controls-bar {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 1rem 1.25rem;
+      margin-bottom: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+      box-shadow: var(--shadow);
+    }
+
+    .search-row {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .search-input-wrap {
+      flex: 1;
+      min-width: 260px;
+      position: relative;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 0.68rem 1rem 0.68rem 2.4rem;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      background: var(--bg-elevated);
+      color: var(--text-primary);
+      font-size: 0.9rem;
+      outline: none;
+    }
+    .search-input:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px var(--accent-glow);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 0.8rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      pointer-events: none;
+    }
+
+    .select-filter {
+      padding: 0.65rem 0.9rem;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      background: var(--bg-elevated);
+      color: var(--text-primary);
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+    }
+
+    /* Category Pills */
+    .category-pills {
+      display: flex;
+      gap: 0.5rem;
+      overflow-x: auto;
+      padding-bottom: 0.25rem;
+      flex-wrap: wrap;
+    }
+
+    .cat-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      padding: 0.42rem 0.8rem;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      border: 1px solid var(--border);
+      background: var(--bg-elevated);
+      color: var(--text-secondary);
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .cat-pill:hover {
+      border-color: var(--accent);
+      color: var(--text-primary);
+    }
+    .cat-pill.active {
+      background: var(--accent-strong);
+      border-color: var(--accent);
+      color: #ffffff;
+    }
+    .cat-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+    }
+    .cat-count {
+      font-size: 0.72rem;
+      opacity: 0.85;
+      padding: 0.05rem 0.4rem;
+      border-radius: 99px;
+      background: rgba(255, 255, 255, 0.12);
+    }
+
+    /* Articles Grid */
+    .articles-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.25rem;
+    }
+
+    .article-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-lg);
+      padding: 1.35rem 1.5rem;
+      box-shadow: var(--shadow);
+      transition: border-color 0.18s ease;
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+    }
+    .article-card:hover {
+      border-color: rgba(56, 189, 248, 0.45);
+    }
+
+    .card-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .card-badges {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      font-size: 0.73rem;
+      font-weight: 700;
+      padding: 0.22rem 0.6rem;
+      border-radius: 6px;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    .badge-modality {
+      background: rgba(56, 189, 248, 0.12);
+      color: var(--accent);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+    }
+
+    .badge-intervention {
+      background: rgba(16, 185, 129, 0.12);
+      color: #34d399;
+      border: 1px solid rgba(16, 185, 129, 0.3);
+    }
+    html.light .badge-intervention {
+      color: #059669;
+    }
+
+    .badge-pdf-oa {
+      background: rgba(139, 92, 246, 0.14);
+      color: #c4b5fd;
+      border: 1px solid rgba(139, 92, 246, 0.35);
+    }
+    html.light .badge-pdf-oa {
+      color: #6d28d9;
+    }
+
+    .card-meta-right {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.76rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 0.65rem;
+    }
+
+    .article-title-fr {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      line-height: 1.38;
+    }
+
+    .article-title-en {
+      font-size: 0.88rem;
+      color: var(--text-muted);
+      font-style: italic;
+      margin-top: -0.35rem;
+    }
+
+    .article-authors-journal {
+      font-size: 0.84rem;
+      color: var(--text-secondary);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+    }
+
+    .journal-pill {
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    /* Cochin Relevance Callout */
+    .cochin-callout {
+      background: var(--cochin-amber-bg);
+      border: 1px solid rgba(249, 115, 22, 0.3);
+      border-radius: var(--radius-sm);
+      padding: 0.65rem 0.9rem;
+      font-size: 0.84rem;
+      color: var(--text-primary);
+      display: flex;
+      align-items: flex-start;
+      gap: 0.6rem;
+    }
+
+    .cochin-callout strong {
+      color: var(--cochin-amber);
+    }
+
+    /* Tabs inside each card: Résumé FR | Protocole & Points Clés | Abstract Original (EN) */
+    .card-tabs {
+      display: flex;
+      gap: 0.4rem;
+      border-bottom: 1px solid var(--border-subtle);
+      padding-bottom: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .tab-btn {
+      padding: 0.38rem 0.78rem;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      background: transparent;
+      border: 1px solid transparent;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all 0.14s ease;
+    }
+    .tab-btn:hover {
+      color: var(--text-primary);
+      background: var(--bg-elevated);
+    }
+    .tab-btn.active {
+      background: var(--accent-glow);
+      color: var(--accent);
+      border-color: rgba(56, 189, 248, 0.35);
+    }
+
+    .tab-panel {
+      display: none;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-md);
+      padding: 1rem 1.15rem;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+    }
+    .tab-panel.active {
+      display: block;
+    }
+
+    .summary-section-title {
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--accent);
+      font-weight: 700;
+      margin-bottom: 0.35rem;
+    }
+
+    .key-points-list {
+      margin-top: 0.6rem;
+      padding-left: 1.2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+    .key-points-list li {
+      color: var(--text-primary);
+      font-size: 0.87rem;
+    }
+
+    .protocol-box {
+      background: rgba(56, 189, 248, 0.06);
+      border-left: 3px solid var(--accent);
+      padding: 0.7rem 0.9rem;
+      border-radius: 0 8px 8px 0;
+      margin-bottom: 0.75rem;
+      font-size: 0.87rem;
+      color: var(--text-primary);
+    }
+
+    .abstract-en-box {
+      font-family: 'Inter', serif;
+      line-height: 1.65;
+      color: var(--text-secondary);
+      font-size: 0.88rem;
+    }
+
+    /* Card Footer Actions */
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.75rem;
+      padding-top: 0.4rem;
+      flex-wrap: wrap;
+    }
+
+    .tag-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+    }
+
+    .tag-chip {
+      font-size: 0.72rem;
+      padding: 0.18rem 0.52rem;
+      border-radius: 99px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      cursor: pointer;
+    }
+    .tag-chip:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .card-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .btn-sm {
+      padding: 0.4rem 0.75rem;
+      font-size: 0.79rem;
+      border-radius: 7px;
+    }
+
+    /* Modals (PDF Viewer, Zotero Sync, Live PubMed Search) */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 100;
+      background: rgba(2, 6, 23, 0.78);
+      backdrop-filter: blur(6px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1.25rem;
+    }
+    .modal-backdrop.open {
+      display: flex;
+    }
+
+    .modal-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      width: 100%;
+      max-width: 920px;
+      max-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.7);
+      overflow: hidden;
+    }
+
+    .modal-header {
+      padding: 1rem 1.35rem;
+      border-bottom: 1px solid var(--border-subtle);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+
+    .modal-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .modal-body {
+      padding: 1.25rem 1.35rem;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .pdf-iframe {
+      width: 100%;
+      height: 74vh;
+      border: none;
+      background: #fff;
+      border-radius: var(--radius-sm);
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+    }
+    .form-group label {
+      font-size: 0.83rem;
+      font-weight: 600;
+      color: var(--text-secondary);
+    }
+    .form-input {
+      padding: 0.65rem 0.85rem;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      background: var(--bg-elevated);
+      color: var(--text-primary);
+      font-size: 0.88rem;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .status-log {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.8rem;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-sm);
+      padding: 0.85rem;
+      max-height: 220px;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      color: var(--text-secondary);
+    }
+
+    @media (max-width: 768px) {
+      .container {
+        padding: 1rem;
+      }
+      .article-card {
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Sticky Topbar -->
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <div class="brand-logo">BO</div>
+        <div>
+          <div class="brand-title">
+            BiblioOstéo
+            <span class="badge-cochin">Hôpital Cochin • Radiologie B</span>
+          </div>
+          <div class="brand-sub">
+            Radiologie Interventionnelle Ostéo-Articulaire (Achard -1 / Ollier) &amp; Imagerie Diagnostique MSK
+          </div>
+        </div>
+      </div>
+
+      <div class="top-actions">
+        <button class="btn btn-zotero" onclick="openZoteroModal()">
+          📚 Synchroniser Zotero &amp; Exports (.RIS / PDF)
+        </button>
+        <button class="btn btn-primary" onclick="openPubmedModal()">
+          ➕ Recherche Live PubMed
+        </button>
+        <a class="btn" href="exports/biblioosteo_zotero.ris" download="BiblioOsteo_Cochin_Zotero.ris">
+          ⬇️ Export Zotero (.RIS)
+        </a>
+        <button class="btn" onclick="toggleTheme()" id="themeBtn" title="Basculer thème clair/sombre">
+          ☀️ / 🌙
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- KPI Row -->
+    <section class="kpi-grid">
+      <div class="kpi-card">
+        <span class="kpi-label">Articles &amp; Résumés Cliniques</span>
+        <div class="kpi-value">
+          <span id="kpiTotalArticles">24</span>
+          <span style="font-size: 0.82rem; font-weight: 600; color: var(--accent);">FR + Abstract EN</span>
+        </div>
+        <span class="kpi-foot">Synthèses structurées + protocoles + abstracts originaux</span>
+      </div>
+
+      <div class="kpi-card">
+        <span class="kpi-label">PDFs Stockés &amp; Consultables</span>
+        <div class="kpi-value">
+          <span id="kpiTotalPdfs">24</span>
+          <span style="font-size: 0.82rem; font-weight: 600; color: #c4b5fd;">100% disponibles</span>
+        </div>
+        <span class="kpi-foot" id="kpiPdfBreakdown">PDFs éditeurs Open-Access + Fiches complètes PDF</span>
+      </div>
+
+      <div class="kpi-card">
+        <span class="kpi-label">Actes Agenda Interventionnel</span>
+        <div class="kpi-value">
+          <span>8</span>
+          <span style="font-size: 0.82rem; font-weight: 600; color: var(--cochin-amber);">pôles Cochin</span>
+        </div>
+        <span class="kpi-foot">RF OO/Chondro, Cryo Desmoïde/Morton, ECT, Vissage, Biopsies</span>
+      </div>
+
+      <div class="kpi-card">
+        <span class="kpi-label">Intégration Zotero</span>
+        <div class="kpi-value">
+          <span id="kpiZoteroStatus" style="font-size: 1.15rem; color: #34d399;">Prêt (API v3 &amp; RIS)</span>
+        </div>
+        <span class="kpi-foot">Import 1-clic ou synchronisation directe dans votre collection Zotero</span>
+      </div>
+    </section>
+
+    <!-- Agenda Interventionnel Quick Mapping -->
+    <section class="agenda-banner">
+      <div class="agenda-banner-header">
+        <div class="agenda-banner-title">
+          <span>🗓️</span>
+          <span>Filtrer par Geste de votre <strong>Agenda Interventionnel (Cochin — HDJ Radio B / Scanner Achard -1 / Écho Ollier)</strong> :</span>
+        </div>
+        <button class="btn btn-sm" onclick="resetAllFilters()">Réinitialiser les filtres</button>
+      </div>
+      <div class="agenda-chips" id="agendaQuickChips">
+        <button class="agenda-chip" onclick="filterByKeyword('Ostéome ostéoïde', this)">🔥 RF / Cryo Ostéome Ostéoïde (Tibia, Coude, Astragale no-touch)</button>
+        <button class="agenda-chip" onclick="filterByKeyword('Chondroblastome', this)">🦴 RF / Cryo Chondroblastome Genou</button>
+        <button class="agenda-chip" onclick="filterByKeyword('Tumeur desmoïde', this)">❄️ Cryoablation Tumeur Desmoïde (Creux sus-claviculaire)</button>
+        <button class="agenda-chip" onclick="filterByKeyword('Électrochimiothérapie', this)">⚡ Électrochimiothérapie (ECT Bléomycine 30 mg &amp; Cryo+ECT Pied)</button>
+        <button class="agenda-chip" onclick="filterByKeyword('Vissage du bassin', this)">🔩 Vissage Percutané du Bassin post-RT</button>
+        <button class="agenda-chip" onclick="filterByKeyword('Cimentoplastie cervicale', this)">💉 Cimentoplastie Cervicale sous AG (Eliquis + Plavix)</button>
+        <button class="agenda-chip" onclick="filterByKeyword('Alcoolisation', this)">💧 Alcoolisation KOA Humérus / KOE Aile Iliaque</button>
+        <button class="agenda-chip" onclick="filterByKeyword('Névrome de Morton', this)">🦶 Cryothérapie Névrome de Morton sous AL</button>
+        <button class="agenda-chip" onclick="filterByKeyword('Nerfs géniculés', this)">🦵 Test Écho &amp; RF Nerfs Géniculés / Cryoneurolyse Intercostale</button>
+        <button class="agenda-chip" onclick="filterByKeyword('Biopsie', this)">🎯 Biopsies TDM/Écho (Synoviale, Lymphome, Sacrum, Sarcome fascia)</button>
+        <button class="agenda-chip" onclick="filterByKeyword('TTCG', this)">🧲 IRM Suivi TTCG/SVN &amp; IRM Dynamique OO</button>
+      </div>
+    </section>
+
+    <!-- Search & Filter Bar -->
+    <section class="controls-bar">
+      <div class="search-row">
+        <div class="search-input-wrap">
+          <span class="search-icon">🔍</span>
+          <input
+            type="text"
+            id="searchInput"
+            class="search-input"
+            placeholder="Rechercher un geste, pathologie, auteur, molécule (ex: bléomycine, Morton, Deschamps, astragale, USP6, Eliquis, PMID...)"
+            oninput="renderArticles()"
+          />
+        </div>
+
+        <select id="modalityFilter" class="select-filter" onchange="renderArticles()">
+          <option value="all">Toutes les modalités (TDM, Écho, IRM)</option>
+          <option value="Scanner">Scanner TDM / CBCT</option>
+          <option value="Écho">Échographie</option>
+          <option value="IRM">IRM Diagnostique &amp; Suivi</option>
+        </select>
+
+        <select id="viewModeSelect" class="select-filter" onchange="setGlobalTab(this.value)">
+          <option value="fr">Affichage par défaut : Résumé Clinique (FR)</option>
+          <option value="proto">Affichage par défaut : Protocole &amp; Points Clés</option>
+          <option value="en">Affichage par défaut : Abstract Original (EN)</option>
+          <option value="both">Affichage combiné : Résumé FR + Abstract EN</option>
+        </select>
+      </div>
+
+      <div class="category-pills" id="categoryPills"></div>
+    </section>
+
+    <!-- Results Count -->
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.9rem; font-size: 0.85rem; color: var(--text-muted);">
+      <span id="resultsCountLabel">Chargement de la bibliothèque...</span>
+      <span>Cliquez sur <strong>📄 Ouvrir PDF</strong> pour lire l'article ou la fiche de synthèse intégrale</span>
+    </div>
+
+    <!-- Articles Container -->
+    <section class="articles-grid" id="articlesGrid"></section>
+  </main>
+
+  <!-- PDF Viewer Modal -->
+  <div class="modal-backdrop" id="pdfModal" onclick="if(event.target===this) closePdfModal()">
+    <div class="modal-card" style="max-width: 1120px;">
+      <div class="modal-header">
+        <div class="modal-title" id="pdfModalTitle">📄 Lecture du PDF</div>
+        <div style="display: flex; gap: 0.5rem;">
+          <a id="pdfModalDownloadBtn" class="btn btn-sm btn-primary" href="#" download>⬇️ Télécharger le PDF</a>
+          <button class="btn btn-sm" onclick="closePdfModal()">✕ Fermer</button>
+        </div>
+      </div>
+      <div class="modal-body" style="padding: 0.75rem;">
+        <iframe id="pdfModalIframe" class="pdf-iframe" src=""></iframe>
+      </div>
+    </div>
+  </div>
+
+  <!-- Zotero Sync & Export Modal -->
+  <div class="modal-backdrop" id="zoteroModal" onclick="if(event.target===this) closeZoteroModal()">
+    <div class="modal-card" style="max-width: 680px;">
+      <div class="modal-header">
+        <div class="modal-title">📚 Synchronisation &amp; Export Zotero (Entrées + Résumés FR + PDFs)</div>
+        <button class="btn btn-sm" onclick="closeZoteroModal()">✕ Fermer</button>
+      </div>
+      <div class="modal-body">
+        <div class="cochin-callout" style="margin-bottom: 0.25rem;">
+          <div>
+            <strong>Deux méthodes intégrées pour alimenter votre Zotero :</strong>
+            <ul style="margin-top: 0.35rem; padding-left: 1.1rem;">
+              <li><strong>Synchronisation automatique via l'API Web Zotero v3 :</strong> saisissez votre clé API Zotero (créée sur <a href="https://www.zotero.org/settings/keys/new" target="_blank" rel="noopener" style="color: var(--accent);">zotero.org/settings/keys/new</a> avec droits d'écriture). Votre <code>userID</code> est détecté automatiquement et une collection <em>« BiblioOstéo — RI &amp; Ostéo-Articulaire (Cochin) »</em> est créée avec chaque article, sa fiche résumé FR en note enfant, l'abstract original et le lien/fichier PDF.</li>
+              <li><strong>Import direct en 1 clic :</strong> téléchargez le fichier <a href="exports/biblioosteo_zotero.ris" download style="color: var(--accent); font-weight: 600;">biblioosteo_zotero.ris</a> ou <a href="exports/biblioosteo_csl.json" download style="color: var(--accent); font-weight: 600;">biblioosteo_csl.json</a> (Fichier → Importer dans Zotero).</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="zoteroApiKeyInput">Clé API Zotero (stockée uniquement dans votre navigateur local) :</label>
+          <input
+            type="password"
+            id="zoteroApiKeyInput"
+            class="form-input"
+            placeholder="Ex: aBcDeFgHiJkLmNoPqRsTuVwX"
+          />
+        </div>
+
+        <div style="display: flex; gap: 0.6rem; flex-wrap: wrap;">
+          <button class="btn btn-zotero" onclick="syncAllToZoteroFromBrowser()" id="btnSyncAllZotero">
+            🚀 Envoyer toute la bibliographie + PDFs dans mon Zotero
+          </button>
+          <a class="btn" href="exports/biblioosteo_zotero.ris" download="BiblioOsteo_Cochin_Zotero.ris">
+            ⬇️ Fichier Zotero (.RIS)
+          </a>
+          <a class="btn" href="exports/biblioosteo_zotero.bib" download="BiblioOsteo_Cochin.bib">
+            ⬇️ BibTeX (.BIB)
+          </a>
+          <a class="btn" href="exports/biblioosteo_csl.json" download="BiblioOsteo_Cochin_CSL.json">
+            ⬇️ CSL-JSON (.JSON)
+          </a>
+        </div>
+
+        <div class="status-log" id="zoteroStatusLog">Prêt. Entrez votre clé API Zotero ci-dessus ou utilisez l'export .RIS en 1 clic.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Live PubMed Search & Add Modal -->
+  <div class="modal-backdrop" id="pubmedModal" onclick="if(event.target===this) closePubmedModal()">
+    <div class="modal-card" style="max-width: 820px;">
+      <div class="modal-header">
+        <div class="modal-title">➕ Veille Live PubMed / Europe PMC (Radiologie Interventionnelle &amp; MSK)</div>
+        <button class="btn btn-sm" onclick="closePubmedModal()">✕ Fermer</button>
+      </div>
+      <div class="modal-body">
+        <p style="font-size: 0.86rem; color: var(--text-secondary);">
+          Interrogez en direct PubMed / Europe PMC par mot-clé ou PMID pour consulter les dernières publications, lire l'abstract original, générer une fiche et l'envoyer en 1 clic dans votre collection Zotero.
+        </p>
+        <div style="display: flex; gap: 0.6rem;">
+          <input
+            type="text"
+            id="livePubmedQuery"
+            class="form-input"
+            style="flex: 1; font-family: 'Inter', sans-serif;"
+            placeholder="Ex: cryoablation osteoid osteoma, electrochemotherapy bone metastases, Morton neuroma..."
+            value="cryoablation musculoskeletal tumor"
+            onkeydown="if(event.key==='Enter') runLivePubmedSearch()"
+          />
+          <button class="btn btn-primary" onclick="runLivePubmedSearch()">🔍 Chercher sur PubMed</button>
+        </div>
+        <div id="livePubmedResults" style="display: flex; flex-direction: column; gap: 0.85rem; margin-top: 0.5rem;"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Embedded Fallback Data (populated by build script) -->
+  <script src="data/embedded_data.js"></script>
+
+  <script>
+    let allArticles = window.BIBLIO_ARTICLES || [];
+    let allCategories = window.BIBLIO_CATEGORIES || [];
+    let activeCategory = 'all';
+    let activeKeywordChip = null;
+    let globalTabMode = 'fr';
+
+    async function initApp() {
+      const savedKey = localStorage.getItem('biblioosteo_zotero_key') || '';
+      if (savedKey) {
+        document.getElementById('zoteroApiKeyInput').value = savedKey;
+      }
+
+      try {
+        const [artRes, catRes] = await Promise.all([
+          fetch('data/articles.json'),
+          fetch('data/categories.json')
+        ]);
+        if (artRes.ok) allArticles = await artRes.json();
+        if (catRes.ok) allCategories = await catRes.json();
+      } catch (e) {
+        // Uses window.BIBLIO_ARTICLES fallback
+      }
+
+      updateKpis();
+      renderCategoryPills();
+      renderArticles();
+    }
+
+    function updateKpis() {
+      document.getElementById('kpiTotalArticles').textContent = allArticles.length;
+      document.getElementById('kpiTotalPdfs').textContent = allArticles.length;
+      const oaCount = allArticles.filter(a => a.pdf_source === 'publisher_oa_pdf').length;
+      document.getElementById('kpiPdfBreakdown').textContent =
+        `${oaCount} PDFs éditeurs intégraux + ${allArticles.length} fiches PDF synthèses`;
+    }
+
+    function renderCategoryPills() {
+      const wrap = document.getElementById('categoryPills');
+      const total = allArticles.length;
+      let html = `
+        <button class="cat-pill ${activeCategory === 'all' ? 'active' : ''}" onclick="selectCategory('all')">
+          <span>Toutes les thématiques</span>
+          <span class="cat-count">${total}</span>
+        </button>
+      `;
+
+      for (const cat of allCategories) {
+        const count = allArticles.filter(a => a.category_id === cat.id).length;
+        const isActive = activeCategory === cat.id ? 'active' : '';
+        html += `
+          <button class="cat-pill ${isActive}" onclick="selectCategory('${cat.id}')">
+            <span class="cat-dot" style="background:${cat.color}"></span>
+            <span>${cat.short_label}</span>
+            <span class="cat-count">${count}</span>
+          </button>
+        `;
+      }
+      wrap.innerHTML = html;
+    }
+
+    function selectCategory(catId) {
+      activeCategory = catId;
+      renderCategoryPills();
+      renderArticles();
+    }
+
+    function filterByKeyword(kw, btnEl) {
+      const searchEl = document.getElementById('searchInput');
+      const chips = document.querySelectorAll('.agenda-chip');
+      if (activeKeywordChip === kw) {
+        activeKeywordChip = null;
+        searchEl.value = '';
+        chips.forEach(c => c.classList.remove('active'));
+      } else {
+        activeKeywordChip = kw;
+        searchEl.value = kw;
+        chips.forEach(c => c.classList.remove('active'));
+        if (btnEl) btnEl.classList.add('active');
+      }
+      activeCategory = 'all';
+      renderCategoryPills();
+      renderArticles();
+    }
+
+    function resetAllFilters() {
+      activeCategory = 'all';
+      activeKeywordChip = null;
+      document.getElementById('searchInput').value = '';
+      document.getElementById('modalityFilter').value = 'all';
+      document.querySelectorAll('.agenda-chip').forEach(c => c.classList.remove('active'));
+      renderCategoryPills();
+      renderArticles();
+    }
+
+    function setGlobalTab(mode) {
+      globalTabMode = mode;
+      renderArticles();
+    }
+
+    function switchCardTab(pmid, tabName, btnEl) {
+      const card = document.getElementById(`card-${pmid}`);
+      if (!card) return;
+      card.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      card.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+      if (btnEl) btnEl.classList.add('active');
+      const target = card.querySelector(`.tab-panel[data-tab="${tabName}"]`);
+      if (target) target.classList.add('active');
+    }
+
+    function escapeHtml(str) {
+      return String(str || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    function renderArticles() {
+      const q = (document.getElementById('searchInput').value || '').trim().toLowerCase();
+      const modFilter = document.getElementById('modalityFilter').value;
+
+      const filtered = allArticles.filter(art => {
+        if (activeCategory !== 'all' && art.category_id !== activeCategory) return false;
+        if (modFilter !== 'all' && !(art.modality || '').toLowerCase().includes(modFilter.toLowerCase())) return false;
+        if (q) {
+          const haystack = [
+            art.title,
+            art.title_fr,
+            art.authors_short,
+            (art.authors_list || []).join(' '),
+            art.journal,
+            art.pmid,
+            art.doi,
+            art.category_label,
+            art.intervention_type,
+            art.cochin_link,
+            art.summary_fr_short,
+            art.summary_fr_detailed,
+            art.protocol_fr,
+            (art.key_points_fr || []).join(' '),
+            art.abstract_en,
+            (art.tags || []).join(' ')
+          ].join(' ').toLowerCase();
+          if (!haystack.includes(q)) return false;
+        }
+        return true;
+      });
+
+      document.getElementById('resultsCountLabel').innerHTML =
+        `Affichage de <strong>${filtered.length}</strong> sur ${allArticles.length} articles sélectionnés`;
+
+      const grid = document.getElementById('articlesGrid');
+      if (filtered.length === 0) {
+        grid.innerHTML = `
+          <div class="article-card" style="text-align:center; padding: 2.5rem;">
+            <p style="font-size: 1.05rem; font-weight: 600;">Aucun article local ne correspond à ce filtre.</p>
+            <p style="color: var(--text-muted); margin-top: 0.4rem;">Essayez de réinitialiser les filtres ou lancez une recherche directe sur PubMed via le bouton en haut à droite.</p>
+          </div>
+        `;
+        return;
+      }
+
+      grid.innerHTML = filtered.map(art => {
+        const isOaPdf = art.pdf_source === 'publisher_oa_pdf';
+        const pdfBadgeText = isOaPdf
+          ? `📄 PDF Éditeur Intégral (${art.pdf_size_kb} Ko)`
+          : `📄 Fiche & Abstract PDF (${art.pdf_size_kb} Ko)`;
+
+        const kpHtml = (art.key_points_fr || [])
+          .map(kp => `<li>${escapeHtml(kp)}</li>`)
+          .join('');
+
+        const tagsHtml = (art.tags || [])
+          .map(t => `<span class="tag-chip" onclick="filterByKeyword('${escapeHtml(t)}')">#${escapeHtml(t)}</span>`)
+          .join('');
+
+        const tabFrActive = (globalTabMode === 'fr' || globalTabMode === 'both') ? 'active' : '';
+        const tabProtoActive = globalTabMode === 'proto' ? 'active' : '';
+        const tabEnActive = globalTabMode === 'en' ? 'active' : '';
+
+        return `
+          <article class="article-card" id="card-${art.pmid}">
+            <div class="card-top">
+              <div class="card-badges">
+                <span class="badge" style="background:${art.category_color}22; color:${art.category_color}; border:1px solid ${art.category_color}55;">
+                  ${escapeHtml(art.category_short)}
+                </span>
+                <span class="badge badge-modality">${escapeHtml(art.modality)}</span>
+                <span class="badge badge-intervention">${escapeHtml(art.intervention_type)}</span>
+                <span class="badge badge-pdf-oa">${pdfBadgeText}</span>
+              </div>
+              <div class="card-meta-right">
+                <span>PMID: <a href="${art.pubmed_url}" target="_blank" rel="noopener" style="color:var(--accent); text-decoration:none;">${art.pmid}</a></span>
+                <span>•</span>
+                <span><strong>${art.year}</strong></span>
+              </div>
+            </div>
+
+            <h2 class="article-title-fr">${escapeHtml(art.title_fr)}</h2>
+            <div class="article-title-en">${escapeHtml(art.title)}</div>
+
+            <div class="article-authors-journal">
+              <span>👨‍⚕️ ${escapeHtml(art.authors_short)}</span>
+              <span>•</span>
+              <span class="journal-pill">${escapeHtml(art.journal)} (${art.year})</span>
+              ${art.doi ? `<span>• <a href="${art.doi_url}" target="_blank" rel="noopener" style="color:var(--text-muted); font-size:0.78rem;">DOI: ${escapeHtml(art.doi)}</a></span>` : ''}
+            </div>
+
+            <div class="cochin-callout">
+              <span>🎯</span>
+              <div>
+                <strong>Lien Agenda Interventionnel Cochin :</strong> ${escapeHtml(art.cochin_link)}
+              </div>
+            </div>
+
+            <div class="card-tabs">
+              <button class="tab-btn ${tabFrActive}" onclick="switchCardTab('${art.pmid}', 'fr', this)">
+                🇫🇷 Résumé Clinique Structuré
+              </button>
+              <button class="tab-btn ${tabProtoActive}" onclick="switchCardTab('${art.pmid}', 'proto', this)">
+                🔬 Protocole Technique &amp; Points Clés
+              </button>
+              <button class="tab-btn ${tabEnActive}" onclick="switchCardTab('${art.pmid}', 'en', this)">
+                🇬🇧 Abstract Original (PubMed)
+              </button>
+            </div>
+
+            <div class="tab-panel ${tabFrActive}" data-tab="fr">
+              <div class="summary-section-title">Synthèse Exécutive</div>
+              <p style="color: var(--text-primary); font-weight: 500; margin-bottom: 0.65rem;">
+                ${escapeHtml(art.summary_fr_short)}
+              </p>
+              <div class="summary-section-title">Analyse Détaillée</div>
+              <p>${escapeHtml(art.summary_fr_detailed)}</p>
+              ${globalTabMode === 'both' ? `
+                <hr style="border:none; border-top:1px solid var(--border-subtle); margin: 0.85rem 0;" />
+                <div class="summary-section-title">🇬🇧 Original PubMed Abstract</div>
+                <p class="abstract-en-box">${escapeHtml(art.abstract_en)}</p>
+              ` : ''}
+            </div>
+
+            <div class="tab-panel ${tabProtoActive}" data-tab="proto">
+              <div class="summary-section-title">Protocole Interventionnel / Imagerie</div>
+              <div class="protocol-box">${escapeHtml(art.protocol_fr)}</div>
+              <div class="summary-section-title">Points Clés pour la Pratique à Cochin</div>
+              <ul class="key-points-list">${kpHtml}</ul>
+            </div>
+
+            <div class="tab-panel ${tabEnActive}" data-tab="en">
+              <div class="summary-section-title">Original Abstract (PubMed — PMID ${art.pmid})</div>
+              <p class="abstract-en-box">${escapeHtml(art.abstract_en)}</p>
+            </div>
+
+            <div class="card-footer">
+              <div class="tag-list">${tagsHtml}</div>
+              <div class="card-actions">
+                <button class="btn btn-sm btn-primary" onclick="openPdfModal('${art.pdf_file}', '${escapeHtml(art.title_fr.replace(/'/g, "\\'"))}')">
+                  📄 Ouvrir PDF (${art.pdf_size_kb} Ko)
+                </button>
+                <button class="btn btn-sm" onclick="openPdfModal('${art.synth_pdf_file}', 'Fiche Synthèse FR — PMID ${art.pmid}')">
+                  📋 Fiche PDF (FR)
+                </button>
+                <button class="btn btn-sm btn-zotero" onclick="pushSingleArticleToZotero('${art.pmid}')">
+                  📚 + Zotero
+                </button>
+                <a class="btn btn-sm" href="${art.pubmed_url}" target="_blank" rel="noopener">
+                  🔗 PubMed
+                </a>
+              </div>
+            </div>
+          </article>
+        `;
+      }).join('');
+    }
+
+    /* PDF Viewer Modal */
+    function openPdfModal(pdfUrl, title) {
+      document.getElementById('pdfModalTitle').textContent = `📄 ${title}`;
+      document.getElementById('pdfModalIframe').src = pdfUrl;
+      document.getElementById('pdfModalDownloadBtn').href = pdfUrl;
+      document.getElementById('pdfModal').classList.add('open');
+    }
+
+    function closePdfModal() {
+      document.getElementById('pdfModal').classList.remove('open');
+      document.getElementById('pdfModalIframe').src = '';
+    }
+
+    /* Zotero Modal & Browser Direct API Sync */
+    function openZoteroModal() {
+      document.getElementById('zoteroModal').classList.add('open');
+    }
+
+    function closeZoteroModal() {
+      document.getElementById('zoteroModal').classList.remove('open');
+    }
+
+    function appendZoteroLog(msg) {
+      const el = document.getElementById('zoteroStatusLog');
+      el.textContent += `\n${msg}`;
+      el.scrollTop = el.scrollHeight;
+    }
+
+    async function resolveZoteroUserAndCollection(apiKey) {
+      const keyRes = await fetch(`https://api.zotero.org/keys/${encodeURIComponent(apiKey)}`, {
+        headers: { 'Zotero-API-Version': '3', 'Zotero-API-Key': apiKey }
+      });
+      if (!keyRes.ok) throw new Error('Clé API Zotero invalide ou refusée par api.zotero.org.');
+      const keyData = await keyRes.json();
+      const userId = keyData.userID;
+      const username = keyData.username || userId;
+
+      const colName = 'BiblioOstéo — RI & Ostéo-Articulaire (Cochin)';
+      const colsRes = await fetch(`https://api.zotero.org/users/${userId}/collections?limit=100`, {
+        headers: { 'Zotero-API-Version': '3', 'Zotero-API-Key': apiKey }
+      });
+      const cols = await colsRes.json();
+      let colKey = null;
+      for (const c of cols) {
+        if (c.data && c.data.name === colName) {
+          colKey = c.key;
+          break;
+        }
+      }
+      if (!colKey) {
+        const createRes = await fetch(`https://api.zotero.org/users/${userId}/collections`, {
+          method: 'POST',
+          headers: {
+            'Zotero-API-Version': '3',
+            'Zotero-API-Key': apiKey,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify([{ name: colName }])
+        });
+        const createData = await createRes.json();
+        colKey = createData.successful['0'].key;
+      }
+      return { userId, username, colKey };
+    }
+
+    async function pushArticleObjectToZotero(art, userId, colKey, apiKey) {
+      const baseUrl = window.location.origin + window.location.pathname.replace(/\/index\.html$/, '').replace(/\/$/, '');
+      const creators = (art.authors_list || []).map(a => {
+        const parts = a.trim().split(/\s+/);
+        if (parts.length >= 2) {
+          const firstName = parts.pop();
+          return { creatorType: 'author', lastName: parts.join(' '), firstName };
+        }
+        return { creatorType: 'author', name: a };
+      });
+
+      const tags = (art.tags || []).map(t => ({ tag: t }));
+      tags.push({ tag: 'BiblioOstéo Cochin' });
+
+      const itemPayload = [{
+        itemType: 'journalArticle',
+        title: art.title,
+        creators,
+        publicationTitle: art.journal || '',
+        date: String(art.year || ''),
+        volume: String(art.volume || ''),
+        issue: String(art.issue || ''),
+        pages: String(art.pages || ''),
+        DOI: art.doi || '',
+        url: art.pubmed_url || `https://pubmed.ncbi.nlm.nih.gov/${art.pmid}/`,
+        abstractNote:
+          `🇫🇷 RÉSUMÉ CLINIQUE (COCHIN) :\n${art.summary_fr_short}\n\n` +
+          `🎯 LIEN AGENDA INTERVENTIONNEL :\n${art.cochin_link}\n\n` +
+          `🇬🇧 ORIGINAL ABSTRACT :\n${art.abstract_en}`,
+        extra: `PMID: ${art.pmid}${art.pmcid ? '\nPMCID: ' + art.pmcid : ''}`,
+        collections: [colKey],
+        tags
+      }];
+
+      const res = await fetch(`https://api.zotero.org/users/${userId}/items`, {
+        method: 'POST',
+        headers: {
+          'Zotero-API-Version': '3',
+          'Zotero-API-Key': apiKey,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(itemPayload)
+      });
+      const data = await res.json();
+      const parentKey = data.successful && data.successful['0'] ? data.successful['0'].key : null;
+      if (!parentKey) throw new Error(`Erreur création item PMID ${art.pmid}`);
+
+      // Attach Child Note (FR Summary + Protocol + Original Abstract) & Linked PDF
+      const pdfFullUrl = `${baseUrl}/${art.pdf_file}`;
+      const childrenPayload = [
+        {
+          itemType: 'note',
+          parentItem: parentKey,
+          note:
+            `<h2>🇫🇷 Fiche Synthèse BiblioOstéo — ${escapeHtml(art.title_fr)}</h2>` +
+            `<p><strong>Lien Agenda Cochin :</strong> ${escapeHtml(art.cochin_link)}</p>` +
+            `<p><strong>Résumé :</strong> ${escapeHtml(art.summary_fr_detailed)}</p>` +
+            `<p><strong>Protocole :</strong> ${escapeHtml(art.protocol_fr)}</p>` +
+            `<hr/><p><strong>Original Abstract :</strong> ${escapeHtml(art.abstract_en)}</p>`,
+          tags: [{ tag: 'Synthèse FR' }]
+        },
+        {
+          itemType: 'attachment',
+          parentItem: parentKey,
+          linkMode: 'linked_url',
+          title: `PDF Intégral — PMID ${art.pmid}`,
+          contentType: 'application/pdf',
+          url: pdfFullUrl,
+          tags: [{ tag: 'PDF Complet' }]
+        }
+      ];
+
+      await fetch(`https://api.zotero.org/users/${userId}/items`, {
+        method: 'POST',
+        headers: {
+          'Zotero-API-Version': '3',
+          'Zotero-API-Key': apiKey,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(childrenPayload)
+      });
+
+      return parentKey;
+    }
+
+    async function pushSingleArticleToZotero(pmid) {
+      const art = allArticles.find(a => String(a.pmid) === String(pmid));
+      if (!art) return;
+      const apiKey = (localStorage.getItem('biblioosteo_zotero_key') || document.getElementById('zoteroApiKeyInput').value || '').trim();
+      if (!apiKey) {
+        openZoteroModal();
+        document.getElementById('zoteroStatusLog').textContent =
+          `Pour envoyer automatiquement l'article PMID ${pmid} ("${art.title_fr}") dans votre Zotero, saisissez votre clé API Zotero ci-dessus puis cliquez sur Synchroniser.`;
+        return;
+      }
+      openZoteroModal();
+      document.getElementById('zoteroStatusLog').textContent = `Connexion à Zotero pour l'envoi de PMID ${pmid}...`;
+      try {
+        localStorage.setItem('biblioosteo_zotero_key', apiKey);
+        const { userId, username, colKey } = await resolveZoteroUserAndCollection(apiKey);
+        appendZoteroLog(`Connecté au compte Zotero : ${username} (ID ${userId})`);
+        const itemKey = await pushArticleObjectToZotero(art, userId, colKey, apiKey);
+        appendZoteroLog(`✅ Article PMID ${pmid} + Fiche FR + PDF ajoutés avec succès (Zotero Key: ${itemKey}) !`);
+      } catch (err) {
+        appendZoteroLog(`❌ Erreur : ${err.message}`);
+      }
+    }
+
+    async function syncAllToZoteroFromBrowser() {
+      const apiKey = document.getElementById('zoteroApiKeyInput').value.trim();
+      if (!apiKey) {
+        document.getElementById('zoteroStatusLog').textContent = '⚠️ Veuillez entrer votre clé API Zotero.';
+        return;
+      }
+      localStorage.setItem('biblioosteo_zotero_key', apiKey);
+      const logEl = document.getElementById('zoteroStatusLog');
+      logEl.textContent = '🔄 Vérification de la clé API Zotero...';
+      try {
+        const { userId, username, colKey } = await resolveZoteroUserAndCollection(apiKey);
+        appendZoteroLog(`✅ Authentifié : ${username} (userID: ${userId}) | Collection: ${colKey}`);
+
+        for (let i = 0; i < allArticles.length; i++) {
+          const art = allArticles[i];
+          appendZoteroLog(`[${i + 1}/${allArticles.length}] Envoi PMID ${art.pmid} — ${art.title_fr.slice(0, 55)}...`);
+          await pushArticleObjectToZotero(art, userId, colKey, apiKey);
+        }
+        appendZoteroLog(`🎉 Synchronisation terminée : ${allArticles.length} articles + résumés FR + PDFs envoyés dans votre Zotero !`);
+        document.getElementById('kpiZoteroStatus').textContent = `Synchronisé (${username})`;
+      } catch (err) {
+        appendZoteroLog(`❌ Erreur : ${err.message}`);
+      }
+    }
+
+    /* Live PubMed Search Modal */
+    function openPubmedModal() {
+      document.getElementById('pubmedModal').classList.add('open');
+    }
+
+    function closePubmedModal() {
+      document.getElementById('pubmedModal').classList.remove('open');
+    }
+
+    async function runLivePubmedSearch() {
+      const q = document.getElementById('livePubmedQuery').value.trim();
+      if (!q) return;
+      const box = document.getElementById('livePubmedResults');
+      box.innerHTML = `<div style="color:var(--text-muted);">Recherche en cours sur Europe PMC / PubMed pour « ${escapeHtml(q)} »...</div>`;
+      try {
+        const url = `https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=${encodeURIComponent(q)}&format=json&pageSize=6&resultType=core`;
+        const res = await fetch(url);
+        const data = await res.json();
+        const items = (data.resultList && data.resultList.result) || [];
+        if (items.length === 0) {
+          box.innerHTML = `<div>Aucun résultat trouvé sur PubMed.</div>`;
+          return;
+        }
+        box.innerHTML = items.map(it => {
+          const pmid = it.pmid || '';
+          const title = it.title || 'Sans titre';
+          const journal = (it.journalInfo && it.journalInfo.journal && it.journalInfo.journal.title) || '';
+          const year = it.pubYear || '';
+          const authors = it.authorString || '';
+          const abs = (it.abstractText || 'Abstract non disponible.').replace(/<[^>]+>/g, ' ');
+          return `
+            <div style="background:var(--bg-elevated); border:1px solid var(--border-subtle); border-radius:10px; padding:1rem;">
+              <div style="display:flex; justify-content:space-between; gap:0.5rem; font-size:0.78rem; color:var(--accent); font-weight:700;">
+                <span>${escapeHtml(journal)} (${escapeHtml(year)})</span>
+                <span>PMID: ${escapeHtml(pmid)}</span>
+              </div>
+              <div style="font-weight:700; font-size:0.96rem; margin:0.3rem 0;">${escapeHtml(title)}</div>
+              <div style="font-size:0.8rem; color:var(--text-muted); margin-bottom:0.5rem;">${escapeHtml(authors)}</div>
+              <details style="font-size:0.84rem; color:var(--text-secondary);">
+                <summary style="cursor:pointer; color:var(--accent); font-weight:600;">Lire l'Abstract Original (EN)</summary>
+                <p style="margin-top:0.45rem; line-height:1.55;">${escapeHtml(abs)}</p>
+              </details>
+              <div style="margin-top:0.65rem; display:flex; gap:0.5rem;">
+                <a class="btn btn-sm" href="https://pubmed.ncbi.nlm.nih.gov/${pmid}/" target="_blank" rel="noopener">🔗 Ouvrir PubMed</a>
+                ${it.doi ? `<a class="btn btn-sm" href="https://doi.org/${it.doi}" target="_blank" rel="noopener">📄 Accès Éditeur (DOI)</a>` : ''}
+              </div>
+            </div>
+          `;
+        }).join('');
+      } catch (err) {
+        box.innerHTML = `<div style="color:#ef4444;">Erreur lors de la requête PubMed : ${escapeHtml(err.message)}</div>`;
+      }
+    }
+
+    function toggleTheme() {
+      const root = document.documentElement;
+      if (root.classList.contains('dark')) {
+        root.classList.remove('dark');
+        root.classList.add('light');
+      } else {
+        root.classList.remove('light');
+        root.classList.add('dark');
+      }
+    }
+
+    window.addEventListener('DOMContentLoaded', initApp);
+  </script>
+</body>
+</html>
