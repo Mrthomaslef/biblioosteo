@@ -3,9 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <meta name="theme-color" content="#fbf8f1" id="metaThemeColor" />
+  <meta name="theme-color" content="#faf6ee" id="metaThemeColor" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="BiblioOstéo" />
   <title>BiblioOstéo Cochin</title>
   <link rel="icon" type="image/svg+xml" href="assets/icon.svg" />
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png" />
+  <link rel="manifest" href="manifest.json" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
@@ -90,20 +95,13 @@
     }
 
     .brand-icon {
-      width: 34px;
-      height: 34px;
-      border-radius: 9px;
-      background: var(--accent);
-      color: #fff;
-      font-weight: 700;
-      font-size: 0.92rem;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      width: 38px;
+      height: 38px;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(92, 64, 18, 0.14);
+      border: 1px solid var(--border);
       flex-shrink: 0;
-    }
-    html.dark .brand-icon {
-      color: #161410;
+      display: block;
     }
 
     .brand-text h1 {
@@ -507,7 +505,7 @@
   <header class="header">
     <div class="header-top">
       <div class="brand">
-        <div class="brand-icon">BO</div>
+        <img src="assets/icon.svg" alt="BiblioOstéo" class="brand-icon" />
         <div class="brand-text">
           <h1>BiblioOstéo</h1>
           <span>Cochin • RI &amp; Imagerie Ostéo</span>

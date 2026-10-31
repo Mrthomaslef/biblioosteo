@@ -1,4 +1,118 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#7c3aed"/>
-  <text x="32" y="32" dy="0.35em" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="32" font-weight="600" fill="#ffffff">B</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <!-- Fond Crème / Beige Parchemin style OpenEvidence -->
+    <radialGradient id="bgGrad" cx="50%" cy="35%" r="75%">
+      <stop offset="0%" stop-color="#FFFDF8" />
+      <stop offset="65%" stop-color="#F6EDD9" />
+      <stop offset="100%" stop-color="#EADBC0" />
+    </radialGradient>
+
+    <!-- Or / Ambre Chaud pour l'emblème -->
+    <linearGradient id="amberGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E59A18" />
+      <stop offset="50%" stop-color="#C9820E" />
+      <stop offset="100%" stop-color="#9A5E04" />
+    </linearGradient>
+
+    <!-- Encre Expresso profonde -->
+    <linearGradient id="inkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D2418" />
+      <stop offset="100%" stop-color="#1A140D" />
+    </linearGradient>
+
+    <!-- Halo doré subtil au centre (nidus / cible d'ablation) -->
+    <radialGradient id="nidusGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.38" />
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0" />
+    </radialGradient>
+
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#5C4012" flood-opacity="0.14" />
+    </filter>
+  </defs>
+
+  <!-- Fond d'icône iOS / App -->
+  <rect width="512" height="512" rx="114" fill="url(#bgGrad)" />
+
+  <!-- Cadre éditorial fin doré style OpenEvidence -->
+  <rect x="26" y="26" width="460" height="460" rx="92" fill="none" stroke="url(#amberGrad)" stroke-width="3.5" stroke-opacity="0.38" />
+
+  <!-- Halo central -->
+  <circle cx="256" cy="256" r="145" fill="url(#nidusGlow)" />
+
+  <!-- Anneau de visée scanner / imagerie (pointillés géométriques fins) -->
+  <circle cx="256" cy="256" r="168" fill="none" stroke="url(#amberGrad)" stroke-width="3" stroke-dasharray="10 14" opacity="0.55" />
+
+  <!-- Le Grand "O" d'OpenEvidence / Ostéo : Anneau éditorial à contraste pleins/déliés -->
+  <g filter="url(#softShadow)">
+    <!-- Anneau externe stylisé (Calligraphie Serif / Géométrique) -->
+    <path
+      d="M256 104
+         C344 104, 408 172, 408 256
+         C408 340, 344 408, 256 408
+         C168 408, 104 340, 104 256
+         C104 172, 168 104, 256 104 Z
+         M256 132
+         C196 132, 152 186, 152 256
+         C152 326, 196 380, 256 380
+         C316 380, 360 326, 360 256
+         C360 186, 316 132, 256 132 Z"
+      fill="url(#inkGrad)"
+    />
+
+    <!-- Silhouette Ostéo-Articulaire centrale (Épiphyse / Articulation stylisée en espace négatif & or) -->
+    <!-- Partie supérieure osseuse -->
+    <path
+      d="M222 162
+         C222 148, 238 142, 256 154
+         C274 142, 290 148, 290 162
+         C290 176, 274 192, 270 214
+         C262 210, 250 210, 242 214
+         C238 192, 222 176, 222 162 Z"
+      fill="url(#amberGrad)"
+    />
+
+    <!-- Partie inférieure osseuse -->
+    <path
+      d="M242 298
+         C250 302, 262 302, 270 298
+         C274 320, 290 336, 290 350
+         C290 364, 274 370, 256 358
+         C238 370, 222 364, 222 350
+         C222 336, 238 320, 242 298 Z"
+      fill="url(#amberGrad)"
+    />
+
+    <!-- Livre Ouvert / Pages de la Biblio formant l'interligne articulaire -->
+    <path
+      d="M174 264
+         C202 250, 232 254, 256 270
+         C280 254, 310 250, 338 264
+         C312 240, 282 238, 256 254
+         C230 238, 200 240, 174 264 Z"
+      fill="#2D2418"
+      opacity="0.88"
+    />
+
+    <!-- Aiguille de Radiologie Interventionnelle (RF / Cryo) arrivant obliquement au cœur du nidus -->
+    <line x1="378" y1="134" x2="268" y2="244" stroke="url(#amberGrad)" stroke-width="8" stroke-linecap="round" />
+    <line x1="392" y1="120" x2="366" y2="146" stroke="#2D2418" stroke-width="13" stroke-linecap="round" />
+
+    <!-- Étoile / Étincelle centrale type OpenEvidence (Synthèse IA + Nidus d'ablation) -->
+    <path
+      d="M256 210
+         Q256 256 302 256
+         Q256 256 256 302
+         Q256 256 210 256
+         Q256 256 256 210 Z"
+      fill="url(#amberGrad)"
+    />
+    <circle cx="256" cy="256" r="8" fill="#FFFDF8" />
+  </g>
+
+  <!-- 4 repères cardinaux subtils de visée scanner -->
+  <line x1="256" y1="68" x2="256" y2="88" stroke="#C9820E" stroke-width="4" stroke-linecap="round" />
+  <line x1="256" y1="424" x2="256" y2="444" stroke="#C9820E" stroke-width="4" stroke-linecap="round" />
+  <line x1="68" y1="256" x2="88" y2="256" stroke="#C9820E" stroke-width="4" stroke-linecap="round" />
+  <line x1="424" y1="256" x2="444" y2="256" stroke="#C9820E" stroke-width="4" stroke-linecap="round" />
 </svg>

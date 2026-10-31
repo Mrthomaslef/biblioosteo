@@ -1,0 +1,30 @@
+{
+  "name": "BiblioOstéo Cochin — RI & Imagerie Ostéo-Articulaire",
+  "short_name": "BiblioOstéo",
+  "description": "Synthèses cliniques, abstracts PubMed, PDFs et Zotero — Radiologie Interventionnelle & Imagerie Ostéo-Articulaire (Hôpital Cochin)",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#faf6ee",
+  "theme_color": "#faf6ee",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
