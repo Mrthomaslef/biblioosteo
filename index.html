@@ -513,9 +513,56 @@
       overflow-y: auto;
       white-space: pre-wrap;
     }
+
+    /* Pull-to-refresh (Glisser vers le bas en mode App) */
+    .ptr-bar {
+      height: 0;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--accent-text);
+      background: var(--bg-subtle);
+      border-bottom: 1px solid transparent;
+      transition: height 0.22s ease, opacity 0.2s ease;
+      opacity: 0;
+      user-select: none;
+    }
+    .ptr-bar.pulling {
+      transition: none;
+      border-bottom-color: var(--border);
+    }
+    .ptr-bar.refreshing {
+      height: 48px !important;
+      opacity: 1 !important;
+      border-bottom-color: var(--border);
+    }
+    .ptr-spinner {
+      width: 16px;
+      height: 16px;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      display: inline-block;
+    }
+    .ptr-bar.refreshing .ptr-spinner {
+      animation: ptrSpin 0.7s linear infinite;
+    }
+    @keyframes ptrSpin {
+      to { transform: rotate(360deg); }
+    }
   </style>
 </head>
 <body>
+  <!-- Indicateur Pull-to-Refresh (Glisser vers le bas pour actualiser) -->
+  <div class="ptr-bar" id="ptrBar">
+    <span class="ptr-spinner" id="ptrSpinner"></span>
+    <span id="ptrText">Tirer vers le bas pour actualiser…</span>
+  </div>
+
   <!-- En-tête épuré spécial mobile -->
   <header class="header">
     <div class="header-top">
@@ -656,6 +703,96 @@
       msk_imaging: '🧲 Imagerie IRM/TDM'
     };
 
+    async function fetchLatestData(showFeedback = false) {
+      try {
+        const ts = Date.now();
+        const [artRes, catRes] = await Promise.all([
+          fetch(`data/articles.json?t=${ts}`, { cache: 'no-store' }),
+          fetch(`data/categories.json?t=${ts}`, { cache: 'no-store' })
+        ]);
+        if (artRes.ok) articles = await artRes.json();
+        if (catRes.ok) categories = await catRes.json();
+        renderPills();
+        renderList();
+        if (showFeedback) {
+          const ptrText = document.getElementById('ptrText');
+          if (ptrText) ptrText.textContent = `✓ À jour (${articles.length} articles)`;
+        }
+      } catch (e) {
+        if (showFeedback) {
+          const ptrText = document.getElementById('ptrText');
+          if (ptrText) ptrText.textContent = 'Mode hors-ligne (données locales)';
+        }
+      }
+    }
+
+    function setupPullToRefresh() {
+      const ptrBar = document.getElementById('ptrBar');
+      const ptrText = document.getElementById('ptrText');
+      const ptrSpinner = document.getElementById('ptrSpinner');
+      let startY = 0;
+      let pullDist = 0;
+      let isPulling = false;
+      let isRefreshing = false;
+      const THRESHOLD = 68;
+
+      window.addEventListener('touchstart', (e) => {
+        if (isRefreshing) return;
+        // Activer uniquement si on est tout en haut de la page et qu'aucune modale n'est ouverte
+        const modalOpen = document.querySelector('.modal-backdrop.open');
+        if (window.scrollY <= 2 && !modalOpen && e.touches.length === 1) {
+          startY = e.touches[0].clientY;
+          pullDist = 0;
+          isPulling = true;
+        }
+      }, { passive: true });
+
+      window.addEventListener('touchmove', (e) => {
+        if (!isPulling || isRefreshing) return;
+        const currentY = e.touches[0].clientY;
+        const dy = currentY - startY;
+        if (dy > 0 && window.scrollY <= 0) {
+          pullDist = Math.min(115, dy * 0.52);
+          if (pullDist > 8) {
+            ptrBar.classList.add('pulling');
+            ptrBar.style.height = `${pullDist}px`;
+            ptrBar.style.opacity = String(Math.min(1, pullDist / THRESHOLD));
+            ptrSpinner.style.transform = `rotate(${pullDist * 4}deg)`;
+            ptrText.textContent = pullDist >= THRESHOLD
+              ? 'Relâcher pour actualiser la veille…'
+              : 'Tirer vers le bas pour actualiser…';
+          }
+        } else {
+          pullDist = 0;
+          ptrBar.style.height = '0px';
+          ptrBar.style.opacity = '0';
+        }
+      }, { passive: true });
+
+      window.addEventListener('touchend', async () => {
+        if (!isPulling || isRefreshing) return;
+        isPulling = false;
+        ptrBar.classList.remove('pulling');
+
+        if (pullDist >= THRESHOLD) {
+          isRefreshing = true;
+          ptrBar.classList.add('refreshing');
+          ptrText.textContent = 'Actualisation de la biblio…';
+          await fetchLatestData(true);
+          setTimeout(() => {
+            ptrBar.classList.remove('refreshing');
+            ptrBar.style.height = '0px';
+            ptrBar.style.opacity = '0';
+            isRefreshing = false;
+          }, 650);
+        } else {
+          ptrBar.style.height = '0px';
+          ptrBar.style.opacity = '0';
+        }
+        pullDist = 0;
+      }, { passive: true });
+    }
+
     function init() {
       // Restaurer préférence mode sombre
       if (localStorage.getItem('biblio_dark') === '1') {
@@ -669,6 +806,8 @@
 
       renderPills();
       renderList();
+      setupPullToRefresh();
+      fetchLatestData(false);
     }
 
     function toggleDarkMode() {
