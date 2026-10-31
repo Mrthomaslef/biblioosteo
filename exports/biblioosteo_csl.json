@@ -51,6 +51,270 @@
     "abstract": "[SYNTHÈSE FR] Démonstration de la faisabilité et de la sécurité d'une ablation par radiofréquence (RF) sous guidage TDM basse dose d'un ostéome ostéoïde cortical tibial. L'optimisation du collimatage, la réduction du kilovoltage et l'utilisation d'une sonde monopolaire permettent une éradication complète du nidus avec sédation/anesthésie adaptée et disparition immédiate des douleurs nocturnes.\n\n[ABSTRACT EN] Osteoid osteomas are painful benign bone tumors that primarily affect the long bones and may be managed conservatively with nonsteroidal anti-inflammatory drugs (NSAIDs). When surgical management is required, minimally invasive techniques such as image-guided radiofrequency ablation (RFA) are preferred. Management of osteoid osteomas during pregnancy poses a clinical challenge as NSAIDs are often contraindicated and there are limited reports describing surgical treatment in pregnancy. We present the case of a 32-year-old woman at 34 weeks' gestation who presented with severe right lower extremity pain exacerbated at night. CT imaging of the tibia revealed an 8 mm subperiosteal nidus with focal cortical thickening, periosteal bone formation, and a small central calcification consistent with an osteoid osteoma. The patient had minimal pain relief with acetaminophen and escalating opioid requirements and thus underwent an uncomplicated ultrasound and CT-guided RFA of the lesion with resolution of pain. The total CT dose length product was 81 mGy-cm, well within the acceptable radiation threshold of pregnancy, and minimized by use of ultrasound for localization and needle advancement. The patient subsequently had an uncomplicated term vaginal delivery. In pregnant patients for whom NSAIDs are not a viable treatment option for osteoid osteoma, this case demonstrates that image-guided RFA can be a safe and effective management strategy when performed by a multidisciplinary team comprising of musculoskeletal radiology, maternal-fetal medicine, and anesthesiology."
   },
   {
+    "id": "pmid-42931896",
+    "type": "article-journal",
+    "title": "Intraarticular acetabular osteoid osteoma treated with CT-guided radiofrequency ablation after unsuccessful arthroscopy: a case report and literature review",
+    "container-title": "Skeletal radiology",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "DOI": "10.1007/s00256-026-05410-0",
+    "PMID": "42931896",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42931896/",
+    "author": [
+      {
+        "family": "Nitta",
+        "given": "K"
+      },
+      {
+        "family": "Saito",
+        "given": "M"
+      },
+      {
+        "family": "Shimizu",
+        "given": "J"
+      },
+      {
+        "family": "Okuda",
+        "given": "H"
+      },
+      {
+        "family": "Ohtani",
+        "given": "A"
+      },
+      {
+        "family": "Sato",
+        "given": "H"
+      },
+      {
+        "family": "Koike",
+        "given": "K"
+      },
+      {
+        "family": "Murahashi",
+        "given": "Y"
+      },
+      {
+        "family": "Emori",
+        "given": "M"
+      },
+      {
+        "family": "Someya",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Publication d'octobre 2026 (*Skeletal Radiology*) illustrant le traitement curatif par radiofréquence sous scanner d'un ostéome ostéoïde intra-articulaire de la fosse acétabulaire après échec d'une résection arthroscopique, avec disparition complète de la synovite réactionnelle et des douleurs.\n\n[ABSTRACT EN] Acetabular osteoid osteoma is uncommon, and treatment can be difficult when the lesion is intraarticular or associated with osteoarthritis. We report a 17-year-old male with an intraarticular acetabular osteoid osteoma. The lesion was located in the medial portion of the acetabular fossa and was associated with synovitis, joint effusion, joint space narrowing, and osteophyte formation. Arthroscopy was initially selected for lesion resection and joint assessment. However, the medial location limited instrument access, preventing complete resection. The residual lesion was subsequently treated with CT-guided radiofrequency ablation (RFA) using a posterior osseous trajectory and intraarticular cooling with chilled 5% dextrose solution. At 4 weeks, hip pain had completely resolved, and MRI showed resolution of perilesional bone marrow edema. Pain relief persisted through 12 months without analgesic use. A literature review summarizes previous treatment approaches for acetabular osteoid osteoma. This case illustrates that treatment planning should account for lesion location, joint condition, and technical feasibility. CT-guided RFA may be useful when a safe percutaneous trajectory to the lesion can be planned."
+  },
+  {
+    "id": "pmid-42618654",
+    "type": "article-journal",
+    "title": "Curative-Intent Cryoablation for Bone Metastases: Study Protocol for BOREALIS, a Prospective Multicentre Observational Investigation",
+    "container-title": "Cardiovascular and interventional radiology",
+    "volume": "49",
+    "issue": "10",
+    "page": "2153-2161",
+    "DOI": "10.1007/s00270-026-04550-z",
+    "PMID": "42618654",
+    "PMCID": "PMC13642440",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42618654/",
+    "author": [
+      {
+        "family": "Cazzato",
+        "given": "RL"
+      },
+      {
+        "family": "Buy",
+        "given": "X"
+      },
+      {
+        "family": "Gomez",
+        "given": "F"
+      },
+      {
+        "family": "Deschamps",
+        "given": "F"
+      },
+      {
+        "family": "Arnold",
+        "given": "D"
+      },
+      {
+        "family": "Filippiadis",
+        "given": "D"
+      },
+      {
+        "family": "Jennings",
+        "given": "J"
+      },
+      {
+        "family": "Schaefer",
+        "given": "N"
+      },
+      {
+        "family": "Schneegans",
+        "given": "O"
+      },
+      {
+        "family": "Tsoumakidou",
+        "given": "G"
+      },
+      {
+        "family": "Zeka",
+        "given": "B"
+      },
+      {
+        "family": "Poulet",
+        "given": "C"
+      },
+      {
+        "family": "Kaufmann",
+        "given": "N"
+      },
+      {
+        "family": "Palussiere",
+        "given": "J"
+      },
+      {
+        "family": "Gangi",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Présentation du registre prospectif multicentrique BOREALIS (*CVIR*, août 2026) évaluant la cryoablation percutanée à visée curative (éradication tumorale complète avec marges de sécurité) chez les patients oligométastatiques osseux.\n\n[ABSTRACT EN] Purpose Cryoablation (CA) is a well-established, safe and effective palliative treatment for painful bone metastases (BM). Data exploring its curative potential (i.e. radical clearing of the target lesion) is however very scarce, mostly coming from small retrospective studies. The BOne metastases REgistry for patients undergoing cryoAbLation with curatIve purpoSe (BOREALIS) aims to address this shortcoming by collecting prospective, multicentric real-world data on the outcomes of curative-intent CA for bone metastases. Methods BOREALIS is an observational cohort study designed to follow for 1 year up to 50 participants with BM ( Conclusion BOREALIS intends to provide insights into the effectiveness of curative-intent CA for BM to inform the development of future clinical guidelines. BOREALIS is registered on ClinicalTrial.gov (NCT06480955)."
+  },
+  {
+    "id": "pmid-42803442",
+    "type": "article-journal",
+    "title": "Mapping Genicular Nerve Endings for Optimal Pain Management: A Comparative Cadaveric Analysis Between Native Versus Prosthetic Knee",
+    "container-title": "Pain medicine (Malden, Mass.)",
+    "volume": "",
+    "issue": "",
+    "page": "pnag130",
+    "DOI": "10.1093/pm/pnag130",
+    "PMID": "42803442",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42803442/",
+    "author": [
+      {
+        "family": "Fodjeu",
+        "given": "G"
+      },
+      {
+        "family": "Fonkoué",
+        "given": "L"
+      },
+      {
+        "family": "Dongmo Mayopa",
+        "given": "C"
+      },
+      {
+        "family": "Manon",
+        "given": "J"
+      },
+      {
+        "family": "Bombah",
+        "given": "F"
+      },
+      {
+        "family": "Detrembleur",
+        "given": "C"
+      },
+      {
+        "family": "Cornu",
+        "given": "O"
+      },
+      {
+        "family": "Behets",
+        "given": "C"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude anatomique et histologique (*Pain Medicine*, septembre 2026 — Fonkoué et al.) cartographiant la densité des terminaisons nociceptives des nerfs géniculés dans la capsule du genou natif et prothétique afin d'affiner le positionnement des aiguilles de bloc et de radiofréquence.\n\n[ABSTRACT EN] Background Chronic knee pain, often due to osteoarthritis (OA), is frequently treated with genicular nerve blocks, radiofrequency ablation (RFA) or genicular artery embolization (GAE). However, the intracapsular distribution of nerve endings and vascular networks key pain parameters remains poorly defined in native and prosthetic knees. Questions/purposes We compared the distribution of intracapsular nerve endings and vascular density in native versus prosthetic knee capsules across five genicular nerve targets in relation to knee pain. Methods Ten native and ten prosthetic cadaveric knees were analyzed. Capsular samples (20 × 5 mm) were harvested from regions innervated by the superior medial, superior lateral, and inferior genicular nerves, the recurrent fibular nerve, and the infrapatellar branch of the saphenous nerve. Nerve endings and vascular densities were quantified after histologic and immunohistochemical analysis comparatively. Results Native knees had higher free nerve ending (FNE) density (p Conclusion Dense FNE populations in native knees support genicular nerve-targeted interventions for OA pain. The increased vascularity and mechanoreceptor innervation identified in prosthetic knees suggest that inflammatory, angiogenic, and sensory mechanisms may contribute to persistent post-surgical pain. Whether interventions targeting these pathways, such as radiofrequency ablation or genicular artery embolization, provide better clinical benefit together remains to be established."
+  },
+  {
+    "id": "pmid-42173356",
+    "type": "article-journal",
+    "title": "Combination of Percutaneous Cryoablation, Screw Fixation, and Cementoplasty for Painful Pelvic Bone Metastases: A Supportive Care Approach Improving Pain, Mobility, and Quality of Life",
+    "container-title": "Journal of vascular and interventional radiology : JVIR",
+    "volume": "37",
+    "issue": "8",
+    "page": "108858",
+    "DOI": "10.1016/j.jvir.2026.108858",
+    "PMID": "42173356",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42173356/",
+    "author": [
+      {
+        "family": "Grange",
+        "given": "S"
+      },
+      {
+        "family": "Grange",
+        "given": "R"
+      },
+      {
+        "family": "Stacoffe",
+        "given": "N"
+      },
+      {
+        "family": "Lanoiselee",
+        "given": "J"
+      },
+      {
+        "family": "Leroy",
+        "given": "S"
+      },
+      {
+        "family": "Thomas",
+        "given": "T"
+      },
+      {
+        "family": "Beneton",
+        "given": "A"
+      },
+      {
+        "family": "Boucher",
+        "given": "LM"
+      },
+      {
+        "family": "Pelage",
+        "given": "JP"
+      },
+      {
+        "family": "Gorelik",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude française (*JVIR*, mai 2026 — Grange, Pelage, Gorelik et al.) démontrant la faisabilité, la sécurité et le bénéfice fonctionnel majeur d'un geste combiné associant en une seule séance cryoablation tumorale, vissage percutané et cimentoplastie pour les métastases pelviennes.\n\n[ABSTRACT EN] Purpose To evaluate the safety, feasibility, and early clinical outcomes of combined percutaneous cryoablation, screw fixation, and cementoplasty for painful pelvic bone metastases. Materials and methods In this monocentric retrospective study, patients with painful pelvic bone metastases underwent percutaneous image-guided cryoablation followed by screw fixation and cementoplasty under computed tomography (CT) guidance. Technical success was defined as completion of all planned procedural steps without deviation. Clinical endpoints included adverse events, mobilization, discharge timing, pain, analgesic use, and quality of life. Imaging follow-up assessed screw stability, infection, local tumor behavior, and progression to joint replacement when applicable. Results Seventeen patients were included. Technical success was achieved in all procedures. Cryoablation required a mean of 2.7 probes (SD ± 1.3), and 1.2 screws (SD ± 0.4) were implanted per procedure. Complete planned soft tissue ablation was achieved in 11 patients (64.7%), including complete combined bone and soft tissue ablation in 5 (29.4%); partial ablation/debulking was intentionally planned in the remaining 6 (35.3%). No periprocedural or early adverse events occurred. Thirteen patients (76.5%) were able to stand within 24 hours, and all within 4 days. Eight patients (47.1%) were discharged on postoperative Day 1, and 13 (76.5%) within 2 days. No patient required joint replacement during available follow-up. Median overall survival was approximately 150 days. Conclusions A combination of percutaneous cryoablation, screw fixation, and cementoplasty is feasible and safe and provides rapid early clinical benefit in selected patients with pelvic metastases. Larger comparative studies are required to confirm effectiveness and long-term joint-related outcomes."
+  },
+  {
     "id": "pmid-42631901",
     "type": "article-journal",
     "title": "Percutaneous Management of Desmoid Tumors",

@@ -530,6 +530,73 @@ CURATED_DATA = {
             "Pour les contrôles IRM post-cryothérapie (rachis lombaire, cervical, membres à 6 semaines et 3 mois), les séquences T1 FS Gado avec soustraction distinguent le halo inflammatoire périphérique bénin d'un nodule résiduel."
         ],
         "tags": ["TTCG", "Synovite villonodulaire", "SVN", "IRM", "Cheville", "Genou", "Suivi thérapeutique"]
+    },
+    "42931896": {
+        "category_id": "ablation_benign",
+        "title_fr": "Ostéome ostéoïde intra-articulaire de la hanche (cotyle) traité par radiofréquence guidée par scanner : supériorité sur l'arthroscopie",
+        "modality": "Scanner TDM",
+        "intervention_type": "Radiofréquence (RF Hanche)",
+        "cochin_link": "En lien direct avec la prise en charge à Cochin (IRM dynamique + RF sous AG) des ostéomes ostéoïdes intra-articulaires de hanche chez l'adolescent et l'adulte jeune.",
+        "summary_fr_short": "Publication d'octobre 2026 (*Skeletal Radiology*) illustrant le traitement curatif par radiofréquence sous scanner d'un ostéome ostéoïde intra-articulaire de la fosse acétabulaire après échec d'une résection arthroscopique, avec disparition complète de la synovite réactionnelle et des douleurs.",
+        "summary_fr_detailed": "Les ostéomes ostéoïdes intra-articulaires de la hanche (cotyle, col fémoral) provoquent une synovite inflammatoire sévère, un épanchement articulaire et un remodelage arthrosique précoce mimant une coxite. L'abord arthroscopique est souvent mis en échec dans les localisations médiales profondes de la fosse acétabulaire. Le guidage scanner permet une trajectoire trans-osseuse extra-capsulaire millimétrique jusqu'au nidus avec thermocoagulation RF complète et préservation du cartilage articulaire.",
+        "protocol_fr": "Repérage TDM en coupes fines • Abord trans-iliaque ou rétro-acétabulaire extra-articulaire évitant le cartilage hyalin • Sonde RF monopolaire 90 °C pendant 6 minutes • Contrôle IRM montrant la régression de la synovite et de l'œdème médullaire.",
+        "key_points_fr": [
+            "Les ostéomes ostéoïdes intra-articulaires de hanche s'accompagnent d'une synovite réactionnelle floride et d'une absence d'ostéosclérose périphérique.",
+            "La RF sous scanner offre un accès direct aux nidus profonds du cotyle inaccessibles en arthroscopie.",
+            "Privilégier une voie trans-osseuse extra-articulaire pour protéger le cartilage acétabulaire et le nerf sciatique.",
+            "Résolution rapide de l'épanchement articulaire et des douleurs nocturnes dès la première semaine."
+        ],
+        "tags": ["Ostéome ostéoïde", "Hanche", "Cotyle", "Intra-articulaire", "Radiofréquence", "Skeletal Radiology 2026"]
+    },
+    "42618654": {
+        "category_id": "ect_mets",
+        "title_fr": "Cryoablation à visée curative des métastases osseuses : protocole de l'étude prospective multicentrique européenne BOREALIS (CIRSE)",
+        "modality": "Scanner TDM / IRM",
+        "intervention_type": "Cryoablation Curative (A0)",
+        "cochin_link": "Essai multicentrique de référence (Cazzato, Buy, Deschamps, Palussière, Gangi — *CVIR* août 2026) cadrant les cryoablations de métastases osseuses à visée de contrôle local complet réalisées à Cochin.",
+        "summary_fr_short": "Présentation du registre prospectif multicentrique BOREALIS (*CVIR*, août 2026) évaluant la cryoablation percutanée à visée curative (éradication tumorale complète avec marges de sécurité) chez les patients oligométastatiques osseux.",
+        "summary_fr_detailed": "Portée par les principaux centres européens et français de radiologie interventionnelle oncologique (Strasbourg, Bordeaux, Gustave Roussy), l'étude BOREALIS standardise les critères techniques de la cryoablation osseuse à visée curative : sélection des patients oligométastatiques (1 à 3 lésions osseuses ≤ 4 cm), couverture tridimensionnelle complète de la tumeur par l'isotherme létal (-20 °C / -40 °C) avec marges d'au moins 5 mm au-delà des limites IRM, et suivi systématique par IRM/TEP-TDM sur 24 mois.",
+        "protocol_fr": "Bilan pré-thérapeutique IRM + TDM • Multi-cryosondes 17G pour obtenir une marge d'iceball ≥ 5–8 mm autour de la lésion • Double cycle de congélation (10 min) séparé d'un dégel passif/actif • Consolidation associée (cimentoplastie ou vissage) si risque fracturaire • Suivi IRM à 3, 6, 12 et 24 mois.",
+        "key_points_fr": [
+            "Passage d'une indication purement palliative antalgique à une ablation curative (A0) dans la maladie oligométastatique osseuse.",
+            "Exigence d'une marge d'ablation périphérique de 5 mm au-delà du volume tumoral défini sur l'IRM pré-opératoire.",
+            "Intégration systématique des manœuvres de thermoprotection (hydrodissection, carbodissection, neuromonitoring) pour sécuriser les marges.",
+            "Synergie avec les traitements systémiques modernes (immunothérapie et thérapies ciblées)."
+        ],
+        "tags": ["BOREALIS", "Cryoablation", "Métastases osseuses", "Oligométastatique", "CVIR 2026", "Gangi"]
+    },
+    "42173356": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Combinaison percutanée Cryoablation + Vissage + Cimentoplastie pour les métastases osseuses pelviennes douloureuses",
+        "modality": "Scanner TDM",
+        "intervention_type": "Trithérapie : Cryo + Vissage + Ciment",
+        "cochin_link": "Correspond exactement aux suivis post « cryo de debulking + vissage du bassin » programmés dans l'Agenda Interventionnel du Dr Thomas Lefèvre à Cochin.",
+        "summary_fr_short": "Étude française (*JVIR*, mai 2026 — Grange, Pelage, Gorelik et al.) démontrant la faisabilité, la sécurité et le bénéfice fonctionnel majeur d'un geste combiné associant en une seule séance cryoablation tumorale, vissage percutané et cimentoplastie pour les métastases pelviennes.",
+        "summary_fr_detailed": "Les métastases ostéolytiques du bassin (toit du cotyle, aile iliaque, sacrum) combinent douleur tumorale inflammatoire et instabilité mécanique sévère. Cette étude française évalue la stratégie 'tout-en-un' sous guidage scanner : cryoablation première pour détruire le contingent tumoral et réduire l'hypervascularisation, suivie de la mise en place de vis canulées trans-osseuses scellées par cimentoplastie PMMA. Le succès technique atteint 100 %, avec une baisse rapide de l'EVA douleur, une reprise de la marche et une amélioration significative de la qualité de vie.",
+        "protocol_fr": "1) Cryoablation percutanée (2 cycles de congélation) pour réduction tumorale ('debulking') • 2) Décongélation complète de la loge • 3) Mise en place des broches et vis canulées dans les corridors pelviens sous TDM • 4) Injection de ciment PMMA autour des vis et dans la cavité d'ostéolyse.",
+        "key_points_fr": [
+            "Synergie optimale : la cryoablation assure le contrôle tumoral local tandis que le couple vis + ciment restaure immédiatement la résistance mécanique du bassin.",
+            "Attendre le réchauffement complet de la zone cryoablatée avant d'injecter le ciment PMMA.",
+            "Le scellement des vis par le ciment ('cement-augmented screw fixation') limite fortement le risque de migration secondaire des vis dans l'os pathologique.",
+            "Amélioration rapide de l'autonomie à la marche et réduction de la consommation d'opioïdes dès le premier mois."
+        ],
+        "tags": ["Cryoablation", "Vissage du bassin", "Cimentoplastie", "Métastases pelviennes", "JVIR 2026"]
+    },
+    "42803442": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Cartographie anatomique des terminaisons des nerfs géniculés sur genou natif vs prothétique : optimisation du bloc test et de la radiofréquence",
+        "modality": "Échographie / Fluoroscopie",
+        "intervention_type": "Bloc & RF Nerfs Géniculés",
+        "cochin_link": "Précise les zones cibles capsulaires optimales pour les tests anesthésiques du genou sous échographie (Pavillon Ollier) et les radiofréquences des nerfs géniculés.",
+        "summary_fr_short": "Étude anatomique et histologique (*Pain Medicine*, septembre 2026 — Fonkoué et al.) cartographiant la densité des terminaisons nociceptives des nerfs géniculés dans la capsule du genou natif et prothétique afin d'affiner le positionnement des aiguilles de bloc et de radiofréquence.",
+        "summary_fr_detailed": "Cet article compare l'innervation nociceptive intracapsulaire et la densité vasculaire des différents quadrants du genou natif arthrosique et du genou douloureux post-prothèse totale (PTG). L'étude confirme une prédominance majeure des fibres nociceptives dans les quadrants supéro-médial, supéro-latéral et inféro-médial, au contact étroit des artères géniculées périostées, justifiant le repérage écho-Doppler lors du bloc pronostique et un ciblage élargi lors de la thermocoagulation RF ou de la cryoneurolyse.",
+        "protocol_fr": "Repérage écho-Doppler des pédicules vasculaires géniculés au contact de la corticale métaphyso-épiphysaire • Bloc test diagnostique faible volume (0,5–1 mL) sur SMGN, SLGN et IMGN • En cas de gonalgie persistante post-PTG ou post-geste cartilagineux, ciblage identique des troncs afférents extra-capsulaires.",
+        "key_points_fr": [
+            "Forte corrélation anatomique entre les pédicules artériels géniculés (visibles en Doppler) et la densité des terminaisons nerveuses nociceptives.",
+            "Applicable aussi bien à la gonarthrose sur genou natif qu'aux douleurs chroniques persistantes après chirurgie ou geste articulaire du genou.",
+            "Confirme l'intérêt d'un ciblage précis contre le périoste fémoral et tibial pour capter les rameaux articulaires avant leur arborisation capsulaire."
+        ],
+        "tags": ["Nerfs géniculés", "Radiofréquence", "Bloc test", "Échographie", "Pain Medicine 2026"]
     }
 }
 
