@@ -92,5 +92,17 @@
       "IRM rachis lombaire et cervicale de contrôle post-cryothérapie (à 6 semaines et 3 mois)",
       "IRM de suivi de TTCG / synovite villonodulaire sous thérapie ciblée & arthroscanner"
     ]
+  },
+  {
+    "id": "percutaneous_ablation_general",
+    "label": "Ablation Percutanée Tumorale : Standards, Endométriome & Oncologie",
+    "short_label": "Ablation Percutanée (Standards & Onco)",
+    "icon": "target",
+    "color": "#e11d48",
+    "agenda_examples": [
+      "Standards CIRSE d'ablation thermique osseuse (RF, cryoablation, micro-ondes)",
+      "Cryoablation percutanée d'endométriome pariétal abdominal et parties molles",
+      "Ablation thermique à visée curative et palliative des tumeurs osseuses malignes"
+    ]
   }
 ]

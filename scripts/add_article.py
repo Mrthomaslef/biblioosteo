@@ -65,6 +65,9 @@ def infer_category_and_modality(title: str, abstract: str) -> tuple:
     elif "osteoid osteoma" in txt or "chondroblastoma" in txt:
         cat_id = "ablation_benign"
         interv = "Ablation Thermique (RF / Cryo)"
+    elif "ablation" in txt or "cryoablation" in txt or "radiofrequency" in txt or "microwave" in txt or "endometriosis" in txt:
+        cat_id = "percutaneous_ablation_general"
+        interv = "Ablation Percutanée Tumorale"
     else:
         cat_id = "msk_imaging"
         interv = "Imagerie Ostéo-Articulaire"

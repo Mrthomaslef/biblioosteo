@@ -119,8 +119,21 @@ CATEGORIES = {
             "IRM rachis lombaire et cervicale de contrôle post-cryothérapie (à 6 semaines et 3 mois)",
             "IRM de suivi de TTCG / synovite villonodulaire sous thérapie ciblée & arthroscanner"
         ]
+    },
+    "percutaneous_ablation_general": {
+        "id": "percutaneous_ablation_general",
+        "label": "Ablation Percutanée Tumorale : Standards, Endométriome & Oncologie",
+        "short_label": "Ablation Percutanée (Standards & Onco)",
+        "icon": "target",
+        "color": "#e11d48",
+        "agenda_examples": [
+            "Standards CIRSE d'ablation thermique osseuse (RF, cryoablation, micro-ondes)",
+            "Cryoablation percutanée d'endométriome pariétal abdominal et parties molles",
+            "Ablation thermique à visée curative et palliative des tumeurs osseuses malignes"
+        ]
     }
 }
+
 
 CURATED_DATA = {
     "42489686": {
@@ -597,6 +610,125 @@ CURATED_DATA = {
             "Confirme l'intérêt d'un ciblage précis contre le périoste fémoral et tibial pour capter les rameaux articulaires avant leur arborisation capsulaire."
         ],
         "tags": ["Nerfs géniculés", "Radiofréquence", "Bloc test", "Échographie", "Pain Medicine 2026"]
+    },
+    "34812672": {
+        "category_id": "ablation_benign",
+        "title_fr": "Ostéome ostéoïde de l'adulte : la cryoablation percutanée sous scanner (approche 'no-touch' extra-osseuse) est sûre, efficace et durable",
+        "modality": "Scanner TDM",
+        "intervention_type": "Cryoablation (No-Touch)",
+        "cochin_link": "Issu de votre collection Zotero « Ablation percutanée » — Référence majeure (*Radiology*, 2022) validant la cryoablation extra-osseuse 'no-touch' sous sédation consciente, appliquée à Cochin notamment pour les ostéomes ostéoïdes superficiels ou de l'astragale.",
+        "summary_fr_short": "Étude de référence (*Radiology*, févr. 2022) sur 50 patients adultes traités par cryoablation TDM d'un ostéome ostéoïde : taux de succès clinique global de 96 % (48/50), réalisé dans 60 % des cas sous anesthésie locale et sédation consciente en positionnant la cryosonde en extra-osseux ('no-touch') sans forer le nidus.",
+        "summary_fr_detailed": "Cette série rétrospective de 50 patients (âge médian 24 ans) démontre que la cryoablation percutanée sous scanner permet d'éradiquer durablement l'ostéome ostéoïde chez l'adolescent et l'adulte avec une chute de l'EVA médiane de 8/10 à 0/10 à 6 semaines et à long terme (18–90 mois). L'innovation majeure réside dans l'approche extra-osseuse : dans 60 % des cas, la cryosonde est simplement apposée contre le cortex en regard du nidus sans forage trans-cortical, ce qui évite la douleur per-procédurale du forage et autorise une prise en charge sous anesthésie locale + sédation consciente sans complication majeure.",
+        "protocol_fr": "Sous AL + sédation consciente (ou AG) • Positionnement de la cryosonde au contact direct de la corticale ('no-touch' extra-osseux) ou intra-osseux • Couverture complète du nidus par l'iceball visible au scanner • 2 cycles de congélation-décongélation • Surveillance de la peau et des nerfs adjacents.",
+        "key_points_fr": [
+            "Taux de succès clinique global de 96 % (48/50) avec disparition durable des douleurs (EVA 8 -> 0).",
+            "Dans 60 % des cas, réalisation sous anesthésie locale et sédation consciente grâce à la position extra-osseuse de la cryosonde sans forage du nidus.",
+            "Visualisation directe de la sphère de glace (iceball) englobant le nidus à travers l'os cortical.",
+            "Aucune complication majeure rapportée (seulement 6 % de complications mineures transitoires)."
+        ],
+        "tags": ["Ostéome ostéoïde", "Cryoablation", "No-touch", "Radiology", "Ablation percutanée", "Zotero"]
+    },
+    "39576446": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "Cryoablation percutanée de l'endométriose pariétale abdominale : revue systématique sur 10 ans de la sécurité et de l'efficacité",
+        "modality": "Échographie / Scanner TDM",
+        "intervention_type": "Cryoablation Pariétale",
+        "cochin_link": "Issu de votre collection Zotero « Ablation percutanée » (Bodard et al., *Insights into Imaging*, nov. 2024) — Référence clé pour l'ablation percutanée des nodules d'endométriome de la paroi abdominale et des masses pariétales des parties molles.",
+        "summary_fr_short": "Revue systématique sur 10 ans (8 études, *Insights into Imaging*, nov. 2024) démontrant que la cryoablation percutanée des endométriomes de la paroi abdominale (AWE) réduit la douleur médiane de 8/10 à 1/10 (p < 0,0001), avec 80 à 100 % de réponse antalgique complète et moins de 2 % de complications majeures.",
+        "summary_fr_detailed": "L'endométriose pariétale abdominale (souvent sur cicatrice de césarienne ou laparoscopie) entraîne des douleurs cycliques invalidantes. La chirurgie d'exérèse large expose à un risque de défect aponévrotique et d'éventration. Cette revue systématique (2014–2024) confirme que la cryoablation guidée par échographie et/ou scanner offre une réponse antalgique complète dans 80 à 100 % des séries et une survie sans douleur locale médiane de 76,8 % au dernier suivi, sans aucun cas d'aggravation douloureuse post-procédurale et avec un profil de sécurité remarquable en ambulatoire.",
+        "protocol_fr": "Planification IRM pelvienne/pariétale • Guidage échographique + contrôle TDM de l'iceball • Hydrodissection sous-cutanée (protection cutanée) et rétro-aponévrotique/pré-péritonéale si proximité digestive • 2 cycles de congélation couvrant le nodule fibreux avec marges.",
+        "key_points_fr": [
+            "Diminution spectaculaire de l'EVA douleur de 8/10 (IQR 7–9) à 1/10 (IQR 0–2) au suivi à long terme (p < 0,0001).",
+            "Taux médian de réponse complète sur la douleur locale compris entre 80 % et 100 %.",
+            "Préserve l'intégrité musculo-aponévrotique de la sangle abdominale (aucun recours à un filet prothétique).",
+            "Hydrodissection indispensable pour protéger le derme superficiel en avant et le péritoine/anses digestives en profondeur."
+        ],
+        "tags": ["Endométriome pariétal", "Cryoablation", "Paroi abdominale", "Ablation percutanée", "Insights into Imaging", "Zotero"]
+    },
+    "37030078": {
+        "category_id": "ect_mets",
+        "title_fr": "Électrochimiothérapie (ECT) des compressions médullaires épidurales métastatiques réfractaires à la radiothérapie",
+        "modality": "Scanner TDM",
+        "intervention_type": "Électrochimiothérapie (ECT Rachis)",
+        "cochin_link": "Issu de votre collection Zotero « Ablation percutanée » (Deschamps, Tselikas et al., *Eur J Cancer*, juin 2023) — Étude majeure justifiant le recours à l'ECT (Bléomycine IV) pour les lésions vertébrales et épidurales radio-résistantes sans recours chirurgical possible.",
+        "summary_fr_short": "Série princeps (*European Journal of Cancer*, juin 2023) chez 40 patients présentant une compression médullaire épidurale métastatique (MESCC) réfractaire à la radiothérapie : l'électrochimiothérapie percutanée à la bléomycine réduit l'EVA médiane de 7/10 à 1/10 à 1 mois (p < 0,001), améliore le statut neurologique chez 56 % des patients et obtient 77 % de réponse objective épidurale en IRM.",
+        "summary_fr_detailed": "Lorsque la compression médullaire ou radiculaire épidurale récidive après radiothérapie chez des patients non opérables, l'ablation thermique (RF, cryoablation) est contre-indiquée au contact direct du cordon médullaire en raison de la neurotoxicité thermique irréversible. L'électrochimiothérapie (ECT) détruit sélectivement les cellules tumorales en division par électroporation réversible + bléomycine tout en respectant la trame conjonctive et les structures nerveuses adjacentes. Sur 40 patients consécutifs, l'IRM à 1 mois montre 46 % de réponse complète et 31 % de réponse partielle selon le score de Bilsky (ESCCS), démontrant que l'ECT peut sauver des compressions médullaires en impasse thérapeutique.",
+        "protocol_fr": "Sous AG • Mise en place transpédiculaire ou paravertébrale d'électrodes aiguilles encadrant la coulée épidurale sous TDM • Bolus IV de Bléomycine (15 000 UI/m² ou dose fixe adaptée) • Délivrance des impulsions électriques entre 8 et 28 min post-injection • Contrôle IRM à 1 et 3 mois (score ESCCS).",
+        "key_points_fr": [
+            "Chute majeure de la douleur médiane de 7/10 à 1/10 à 1 mois et 2/10 à 3 mois (p < 0,001).",
+            "Amélioration neurologique marquée ou modérée chez 56 % des patients à 1 mois (et stabilisation chez 38 %).",
+            "Réponse radiologique objective sur le contingent épidural en IRM (score ESCCS) chez 77 % des patients à 1 mois (46 % complète, 31 % partielle).",
+            "Seule technique ablative percutanée utilisable au contact immédiat du fourreau dural et de la moelle épinière après échec de la radiothérapie."
+        ],
+        "tags": ["Électrochimiothérapie", "Compression médullaire", "Épidurite", "Bléomycine", "Rachis", "Eur J Cancer", "Zotero"]
+    },
+    "41720112": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "Cryoablation percutanée pour la prise en charge des tumeurs osseuses et des parties molles : état de l'art 2026",
+        "modality": "Scanner TDM / IRM / Écho",
+        "intervention_type": "Cryoablation Musculosquelettique",
+        "cochin_link": "Issu de votre collection Zotero « Ablation percutanée » (*Seminars in Musculoskeletal Radiology*, févr. 2026) — Synthèse de référence couvrant l'ensemble du spectre d'ablation percutanée pratiqué à Cochin (ostéome ostéoïde, desmoïdes, métastases, endométriomes, récidives de sarcomes).",
+        "summary_fr_short": "Revue d'état de l'art (*Semin Musculoskelet Radiol*, févr. 2026) détaillant les indications établies (ostéome ostéoïde, palliation antalgique et contrôle oligométastatique osseux) et émergentes (chondroblastome, tumeurs desmoïdes, anomalies vasculaires, endométriose pariétale, récidives locales de sarcomes) de la cryoablation percutanée.",
+        "summary_fr_detailed": "Cet article de synthèse 2026 fait le point sur la maturité technologique et clinique de la cryoablation guidée par l'image en pathologie musculosquelettique. Il détaille la planification multi-sondes pour sculpter l'iceball aux géométries tumorales complexes, les stratégies de prévention des complications (hydrodissection, carbodissection, réchauffement cutané, monitoring neurophysiologique et consolidation mécanique préventive) ainsi que l'expansion des indications vers les tumeurs bénignes agressives et le rattrapage local des sarcomes osseux et des parties molles.",
+        "protocol_fr": "Choix du calibre et de la longueur d'extrémité active des cryosondes (règle d'espacement 1,5–2 cm, distance < 1 cm de la berge tumorale) • Double cycle Congélation-Décongélation • Thermoprotection active si structure noble < 10 mm • Cimentoplastie/ostéosynthèse combinée sur os porteur.",
+        "key_points_fr": [
+            "Panorama complet 2026 des indications validées et émergentes de la cryoablation osseuse et des parties molles.",
+            "Détaille les techniques d'optimisation de la géométrie de l'iceball par synergie multi-sondes.",
+            "Systématise les protocoles de neuroprotection et de protection cutanée/cartilagineuse.",
+            "Souligne la place croissante de la cryoablation dans les récidives locales de sarcomes et les lésions des tissus mous (desmoïdes, malformations vasculaires, endométriomes)."
+        ],
+        "tags": ["Cryoablation", "Tumeurs osseuses", "Parties molles", "État de l'art 2026", "Ablation percutanée", "Zotero"]
+    },
+    "24859596": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "Techniques d'ablation thermique (RF / Cryoablation) : un traitement curatif des métastases osseuses chez des patients sélectionnés ?",
+        "modality": "Scanner TDM",
+        "intervention_type": "Ablation Thermique Curative (RF / Cryo)",
+        "cochin_link": "Issu de votre collection Zotero « Ablation percutanée » (Deschamps, Farouil, Ternes et al., *European Radiology*, août 2014) — Étude fondatrice définissant les critères pronostiques de guérison locale complète des métastases osseuses par ablation thermique.",
+        "summary_fr_short": "Série fondatrice (*European Radiology*, août 2014) portant sur 89 patients (122 métastases osseuses) traités par radiofréquence ou cryoablation à visée curative : taux de contrôle local complet de 67 % à 1 an, atteignant > 85 % pour les lésions oligométastatiques métachrones < 2 cm sans rupture corticale.",
+        "summary_fr_detailed": "Cette étude rétrospective de Gustave Roussy a établi le changement de paradigme entre ablation palliative antalgique et ablation thermique à visée curative dans les métastases osseuses. Sur 122 métastases traitées avec intention d'éradication complète (suivi médian 22,8 mois), l'analyse multivariée identifie 5 facteurs pronostiques indépendants de succès local complet : le statut oligométastatique (p = 0,02), le caractère métachrone (p = 0,004), une taille tumorale < 2 cm (p = 0,001), l'absence d'érosion corticale (p = 0,01) et l'absence de structure neurologique au contact immédiat (p = 0,002).",
+        "protocol_fr": "Sélection en RCP des patients oligométastatiques (1–3 lésions) • Ablation thermique par RF ou Cryoablation visant des marges de sécurité circonférentielles d'au moins 5 mm • Consolidation par cimentoplastie associée si localisation portante • Suivi longitudinal par IRM et TEP-TDM.",
+        "key_points_fr": [
+            "Taux de contrôle local complet à 1 an de 67 % en intention de traiter sur 122 métastases osseuses.",
+            "Cinq facteurs prédictifs majeurs de succès curatif : maladie oligométastatique, lésion métachrone, taille < 2 cm, corticale intacte et distance aux nerfs.",
+            "Pose les bases historiques des essais prospectifs modernes d'ablation curative osseuse (comme BOREALIS).",
+            "La cryoablation est privilégiée dès que la lésion dépasse 2 cm ou présente une composante ostéocondensante/extra-osseuse."
+        ],
+        "tags": ["Ablation curative", "Métastases osseuses", "Oligométastatique", "Radiofréquence", "Cryoablation", "Eur Radiol", "Zotero"]
+    },
+    "37742284": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "Prise en charge interventionnelle des tumeurs osseuses malignes : le paradigme palliatif-curatif",
+        "modality": "Scanner TDM / Fluoroscopie",
+        "intervention_type": "Ablation + Consolidation Osseuse",
+        "cochin_link": "Issu de votre collection Zotero « Ablation percutanée » (*J Med Imaging Radiat Oncol*, déc. 2023) — Synthèse décisionnelle structurant l'association ablation (cryo, RF, ECT) et consolidation (cimentoplastie, vissage) en oncologie osseuse.",
+        "summary_fr_short": "Revue clinique (*JMIRO*, déc. 2023) structurant la radiologie interventionnelle des tumeurs osseuses malignes autour du paradigme « palliatif–curatif », articulant techniques d'ablation (cryoablation, RF, micro-ondes, électrochimiothérapie) et techniques de consolidation (cimentoplastie, ostéosynthèse percutanée).",
+        "summary_fr_detailed": "Cet article propose un cadre décisionnel pragmatique pour le radiologue interventionnel face aux métastases osseuses et tumeurs malignes primitives. Il distingue l'approche palliative (soulagement rapide de la douleur et prévention fracturaire par cimentoplastie/vissage +/- ablation de debulking) de l'approche curative (destruction A0 avec marges de sécurité chez le patient oligométastatique). Il compare les avantages respectifs de la cryoablation, de la radiofréquence, des micro-ondes et de l'électrochimiothérapie selon la topographie (rachis vs bassin vs os longs) et la proximité nerveuse.",
+        "protocol_fr": "Évaluation multidisciplinaire (score SINS au rachis, Mirels sur os longs, Harrington au cotyle) • Choix de la modalité ablative selon la taille et la matrice osseuse • Consolidation systématique par ciment PMMA et/ou vis canulées en zone de contrainte mécanique.",
+        "key_points_fr": [
+            "Articulation claire du paradigme « palliatif vs curatif » en radiologie interventionnelle oncologique osseuse.",
+            "Complémentarité systématique entre destruction tumorale (cryoablation / RF / ECT) et stabilisation mécanique (cimentoplastie / vissage).",
+            "Intégration des scores d'instabilité mécanique (SINS, Mirels) dans l'arbre décisionnel interventionnel.",
+            "Place spécifique de l'électrochimiothérapie et de la cryoablation sous neuromonitoring pour les lésions péri-nerveuses."
+        ],
+        "tags": ["Tumeurs osseuses malignes", "Paradigme palliatif-curatif", "Ablation thermique", "Consolidation", "Zotero"]
+    },
+    "35348870": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "Recommandations et Standards de Pratique du CIRSE sur l'ablation thermique des tumeurs osseuses",
+        "modality": "Scanner TDM / IRM / Fluoroscopie",
+        "intervention_type": "Standards CIRSE (RF / Cryo / MW / Laser)",
+        "cochin_link": "Issu de votre collection Zotero « Ablation percutanée » (Ryan, Tsoumakidou, Buy, Gangi et al., *CVIR*, mai 2022) — Référentiel européen officiel encadrant les standards techniques, la thermoprotection et les indications d'ablation osseuse à Cochin.",
+        "summary_fr_short": "Consensus officiel du CIRSE (*CardioVascular and Interventional Radiology*, mai 2022) définissant les standards de bonne pratique pour l'ablation thermique percutanée des tumeurs osseuses bénignes et malignes : indications curatives et palliatives, choix de l'énergie, monitorage thermique et gestes adjuvants (embolisation, consolidation).",
+        "summary_fr_detailed": "Rédigé par le comité des Standards de Pratique du CIRSE, ce document de référence établit les recommandations européennes pour la réalisation sécurisée des ablations thermiques osseuses (radiofréquence, cryoablation, micro-ondes, laser). Il précise le bilan pré-thérapeutique, les seuils de sécurité thermique pour la moelle épinière et les nerfs périphériques, les techniques de protection active (hydrodissection, carbodissection, thermocouples, potentiels évoqués moteurs/sensitifs) et le timing optimal de l'embolisation pré-opératoire (tumeurs hypervasculaires : rein, thyroïde) et de la cimentoplastie.",
+        "protocol_fr": "Validation préalable en RCP • Bilan d'imagerie en coupes (< 1 mois) • Antibioprophylaxie ciblée (céphalosporine 1re/2e génération, surtout si cimentoplastie associée) • Thermométrie par thermocouple + dissection isolante dès qu'une structure nerveuse est à < 10 mm • Consolidation PMMA immédiate en zone portante.",
+        "key_points_fr": [
+            "Référentiel européen officiel du CIRSE pour les ablations thermiques osseuses bénignes (ostéome ostéoïde, chondroblastome) et malignes (métastases).",
+            "Recommandations précises sur le choix entre RF, Cryoablation et Micro-ondes selon le caractère ostéolytique ou ostéocondensant et la taille tumorale.",
+            "Standardisation de la thermoprotection active (CO2, sérum glucosé/salé, contrôle par thermocouple avec seuils stricts < 10 °C et > 45 °C).",
+            "Indication d'embolisation transartérielle préalable pour les volumineuses métastases hypervasculaires afin de réduire le saignement et l'effet 'heat-sink'."
+        ],
+        "tags": ["Standards CIRSE", "Ablation thermique", "Tumeurs osseuses", "Thermoprotection", "CVIR 2022", "Zotero"]
     }
 }
 
@@ -803,6 +935,8 @@ JOURNAL_IMPACT_FACTORS = {
     "journal of clinical medicine": (3.0, "J Clin Med"),
     "pain medicine": (2.9, "Pain Med"),
     "pediatric radiology": (2.1, "Pediatr Radiol"),
+    "seminars in musculoskeletal radiology": (1.8, "Semin Musculoskelet Radiol"),
+    "journal of medical imaging and radiation oncology": (1.8, "J Med Imaging Radiat Oncol"),
     "european journal of orthopaedic surgery": (1.5, "Eur J Orthop Surg Traumatol"),
     "journal of ultrasonography": (1.6, "J Ultrason"),
     "bjr open": (1.3, "BJR Open"),
@@ -848,7 +982,7 @@ def main():
     url = "https://www.ebi.ac.uk/europepmc/webservices/rest/search?" + urllib.parse.urlencode({
         "query": query,
         "format": "json",
-        "pageSize": 35,
+        "pageSize": 100,
         "resultType": "core",
     })
     req = urllib.request.Request(url, headers={"User-Agent": "BiblioOsteo-Cochin/1.0"})

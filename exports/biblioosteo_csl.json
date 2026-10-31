@@ -527,6 +527,53 @@
     "abstract": "[SYNTHÈSE FR] Article de *European Radiology Experimental* (2026) montrant l'apport de l'imagerie spectrale / comptage photonique et de la corrélation IRM-TDM lors des biopsies osseuses sous scanner pour cibler les zones d'infiltration médullaire active (lymphome osseux, métastases médullaires) même en l'absence d'ostéolyse corticale franche.\n\n[ABSTRACT EN] Objective Computed tomography-guided biopsies are needed to diagnose bone lesions, but can sometimes be challenging. We evaluated the feasibility and usefulness of photon-counting computed tomography (PCCT)-guided bone biopsies, focusing on real-time bone marrow oedema (BME) mapping to optimise diagnostic yield. Materials and methods This retrospective single-centre study included procedures performed from September 2024 to May 2025 using a first-generation dual-source PCCT scanner with Quantum HD mode. Ten consecutive patients underwent PCCT-guided bone biopsy with real-time BME reconstructions. The reference standard was established using histopathology or microbiological confirmation when available; clinical and ≥ 3-month radiologic follow-up for nondiagnostic or discordant results. Statistical analysis included descriptive statistics, independent unpaired t-tests, and correlation analysis (SPSS v22.0, RStudio). Results Ten patients, five women and five men, aged 60.5 ± 13.5 years (mean ± standard deviation), were included in the final analysis. The overall diagnostic yield was 70% (7/10), with a diagnostic accuracy of 87.5% (7/8) for cases with a definitive reference standard. Final diagnoses comprised tumour bone metastases (n = 7, 70%), bone osteomyelitis (n = 1, 10%), and bone marrow deposition disease (n = 2, 20%). Mean radiation dose (dose-length product) was 644.5 ± 112.1 mGy·cm. Monoenergetic 70-keV imaging showed significant differences between mean HU values of lytic (42.6) and sclerotic lesions (476.2) (p = 0.009), with a strong negative correlation between lesion morphology (sclerotic versus lytic) and monoenergetic 70-keV attenuation values (r = -0.84; p = 0.002). Conclusion PCCT-guided bone biopsy with real-time BME mapping proved feasible and showed encouraging diagnostic performance in this small exploratory cohort. Larger validation studies are needed. Relevance statement By combining monoenergetic images and BME mapping, PCCT-guided bone biopsy improves lesion visualisation, operator confidence, procedural efficiency, and overall safety for diagnostic tissue sampling and active disease targeting. Key points Accurate targeting of active disease within complex bone lesions during CT-guided biopsy remains challenging sometimes. PCCT-guided biopsy with real-time BME mapping can enhance lesion targeting and procedural efficiency. PCCT-guided biopsy may improve safety, diagnostic accuracy, and operator confidence."
   },
   {
+    "id": "pmid-41720112",
+    "type": "article-journal",
+    "title": "Percutaneous Cryoablation for the Management of Bone and Soft Tissue Tumors",
+    "container-title": "Seminars in musculoskeletal radiology",
+    "volume": "30",
+    "issue": "1",
+    "page": "61-74",
+    "DOI": "10.1055/a-2744-8457",
+    "PMID": "41720112",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/41720112/",
+    "author": [
+      {
+        "family": "Le Corroller",
+        "given": "T"
+      },
+      {
+        "family": "Arrigoni",
+        "given": "F"
+      },
+      {
+        "family": "Guenoun",
+        "given": "D"
+      },
+      {
+        "family": "Rochwerger",
+        "given": "A"
+      },
+      {
+        "family": "Champsaur",
+        "given": "P"
+      },
+      {
+        "family": "Mattei",
+        "given": "JC"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue d'état de l'art (*Semin Musculoskelet Radiol*, févr. 2026) détaillant les indications établies (ostéome ostéoïde, palliation antalgique et contrôle oligométastatique osseux) et émergentes (chondroblastome, tumeurs desmoïdes, anomalies vasculaires, endométriose pariétale, récidives locales de sarcomes) de la cryoablation percutanée.\n\n[ABSTRACT EN] Image-guided percutaneous cryoablation plays an increasingly important role in managing bone and soft tissue tumors. Well-established indications include the treatment of osteoid osteoma, palliation of painful skeletal metastases, and local control of oligometastatic disease. Emerging indications are now a variety of painful benign bone tumors beyond osteoid osteoma, symptomatic soft tissue lesions (such as desmoid fibromatosis, vascular anomalies, abdominal wall endometriosis), as well as local recurrences of bone and soft tissue sarcoma. This state-of-the-art review describes the percutaneous cryoablation technique including current strategies to prevent complications. We also discuss the expanding range of clinical indications, as well as future directions of this promising technology in the musculoskeletal system."
+  },
+  {
     "id": "pmid-39556172",
     "type": "article-journal",
     "title": "Percutaneous cryoablation in soft tissue tumor management: an educational review",
@@ -576,6 +623,57 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Revue didactique (*Insights into Imaging*, 2024) détaillant la sélection des patients, la balistique des cryosondes, la synergie thermique et la prévention des complications lors de la cryoablation des tumeurs bénignes et malignes des parties molles (desmoïdes, endométriomes pariétaux, métastases musculaires et sous-cutanées).\n\n[ABSTRACT EN] Background Percutaneous cryoablation (PCA), having shown effectiveness in treating liver, lung, prostate, breast, and kidney tumors, is now gaining attention for the treatment of soft tissue tumors. PCA functions by freezing tissue, which induces ice crystal formation and cell death without damaging collagen structures. Technical considerations include the selection and handling of cryoprobes and cryogenic agents, procedural duration, and choice of image guidance for precision. This review aims to synthesize the mechanisms, applications, and technical aspects of PCA in the treatment of soft tissue tumors. Methods Adhering to PRISMA 2020 guidelines, a review was conducted of studies published prior to March 2024 that investigated PCA of soft tissue tumors. The review focused on technical and procedural aspects of cryoablation, cryobiological principles, cellular and tissue responses to extreme cold, intra- and post-procedure physiological mechanisms during and post-procedure, and main clinical applications. Results PCA is efficient in treating soft tissue tumors, including desmoid tumors, vascular malformations, and abdominal wall endometriosis. Several cryobiological mechanisms are involved, notably ice crystal formation, cellular dehydration, osmotic effects, and the inflammatory response, all of which contribute to its efficacy. Key technical aspects include the choice of cryoprobes, cryogenic agents (argon gas or liquid nitrogen), and the duration and control of freezing/thawing cycles. PCA also frequently outperformed traditional treatments like surgery and radiotherapy in terms of pain reduction, tumor size reduction, and patient outcomes. Moreover, its nerve sideration properties make it effective under local anesthesia. Conclusion Demonstrating substantial pain reduction, tumor size decrease, and high technical success rates, PCA offers a promising and minimally invasive alternative for soft tissue tumor treatment. Critical relevance statement Percutaneous cryoablation provides a minimally invasive, precise alternative for soft tissue tumor management, advancing clinical radiology by offering effective treatment with reduced patient risk and enhanced outcomes through image-guided procedures. Key points Percutaneous cryoablation (PCA) offers a promising, minimally invasive alternative for managing soft tissue tumors. PCA employs image-guided techniques to accurately target and treat tumors, ensuring high precision and control. PCA preserves structures like collagen, reduces pain, decreases tumor size, and generally enhances patient outcomes."
+  },
+  {
+    "id": "pmid-39576446",
+    "type": "article-journal",
+    "title": "Percutaneous cryoablation of abdominal wall endometriosis: a systematic literature review of safety and efficacy",
+    "container-title": "Insights into imaging",
+    "volume": "15",
+    "issue": "1",
+    "page": "282",
+    "DOI": "10.1186/s13244-024-01823-4",
+    "PMID": "39576446",
+    "PMCID": "PMC11584811",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/39576446/",
+    "author": [
+      {
+        "family": "Bodard",
+        "given": "S"
+      },
+      {
+        "family": "Razakamanantsoa",
+        "given": "L"
+      },
+      {
+        "family": "Geevarghese",
+        "given": "R"
+      },
+      {
+        "family": "O'Gorman",
+        "given": "J"
+      },
+      {
+        "family": "Dohan",
+        "given": "A"
+      },
+      {
+        "family": "Marcelin",
+        "given": "C"
+      },
+      {
+        "family": "Cornelis",
+        "given": "FH"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue systématique sur 10 ans (8 études, *Insights into Imaging*, nov. 2024) démontrant que la cryoablation percutanée des endométriomes de la paroi abdominale (AWE) réduit la douleur médiane de 8/10 à 1/10 (p < 0,0001), avec 80 à 100 % de réponse antalgique complète et moins de 2 % de complications majeures.\n\n[ABSTRACT EN] Purpose To investigate over 10 years the safety and efficacy of percutaneous cryoablation for the treatment of abdominal wall endometriosis (AWE). Methods A systematic review was conducted of literature published between March 2014 and March 2024. Inclusion criteria focused on treatment efficacy studies, while exclusion criteria targeted case reports and studies lacking pertinent outcome data. Methodological quality was assessed using the Newcastle-Ottawa Scale for cohort studies. Results A total of eight studies were included. Local pain scores decreased from a median of 8/10 (interquartile range (IQR) 7-9) on the visual analog scale to 1/10 (IQR 0-2) at the last follow-up (p Conclusion In the last decade, percutaneous image-guided cryoablation has offered consistent results and appears to be a promising, minimally invasive option for AWE treatment. Prospective trials are now essential to establish cryoablation as a new standard in patient care for AWE. Critical relevance statement Over a decade-long study, percutaneous cryoablation has proven to be a safe and effective minimally invasive treatment for abdominal wall endometriosis, significantly reducing pain with minimal complications. Key points Percutaneous cryoablation significantly reduced local pain scores for abdominal wall endometriosis. The procedure demonstrated a favorable safety profile with minor complications. Cryoablation has emerged as a minimally invasive alternative to traditional treatments."
   },
   {
     "id": "pmid-38438685",
@@ -735,6 +833,45 @@
     "abstract": "[SYNTHÈSE FR] Revue générale (*BJR Open*, 2024) détaillant l'évolution des gestes percutanés osseux : critères de sélection entre cimentoplastie seule, ostéosynthèse par vis canulées et association ablation thermique + consolidation selon la classification de Mirels et le score SINS.\n\n[ABSTRACT EN] Recent advances in percutaneous image-guided techniques have empowered interventional radiologists with diverse treatment options for the management of musculoskeletal lesions. Of note, there is growing utility for cementoplasty procedures, with indications ranging from stabilization of bone metastases to treatment of painful vertebral compression fractures. Likewise, cryoablation has emerged as a viable adjunct in the treatment of both primary and secondary bone and soft tissue neoplasms. These treatment options have been progressively incorporated into the multidisciplinary approach to holistic care of patients, alongside conventional radiotherapy, systemic therapy, surgery, and analgesia. This review article serves to outline the indications, technical considerations, latest developments, and evidence for the burgeoning role of cementoplasty and cryoablation in the musculoskeletal system, with an emphasis on pain palliation and tumour control."
   },
   {
+    "id": "pmid-37742284",
+    "type": "article-journal",
+    "title": "Interventional management of malignant bone tumours",
+    "container-title": "Journal of medical imaging and radiation oncology",
+    "volume": "67",
+    "issue": "8",
+    "page": "862-869",
+    "DOI": "10.1111/1754-9485.13587",
+    "PMID": "37742284",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/37742284/",
+    "author": [
+      {
+        "family": "Cazzato",
+        "given": "RL"
+      },
+      {
+        "family": "Garnon",
+        "given": "J"
+      },
+      {
+        "family": "Jennings",
+        "given": "JW"
+      },
+      {
+        "family": "Gangi",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue clinique (*JMIRO*, déc. 2023) structurant la radiologie interventionnelle des tumeurs osseuses malignes autour du paradigme « palliatif–curatif », articulant techniques d'ablation (cryoablation, RF, micro-ondes, électrochimiothérapie) et techniques de consolidation (cimentoplastie, ostéosynthèse percutanée).\n\n[ABSTRACT EN] In the last few decades, interventional radiology (IR) has significantly increased its role in the management of bone tumours including bone metastases (BM) that represent the most common type of tumour involving the bone. The current IR management of BM is based on the 'palliative-curative' paradigm and relies on the use of consolidative (i.e. osteplasty, osteosynthesis) and/or ablation (i.e. cryoablation, radiofrequency ablation, electrochemotherapy) techniques. The present narrative review will overview the current role of IR for the management of BM."
+  },
+  {
     "id": "pmid-37834793",
     "type": "article-journal",
     "title": "Electrochemotherapy in the Treatment of Bone Metastases: A Systematic Review",
@@ -853,6 +990,73 @@
     "abstract": "[SYNTHÈSE FR] Revue complète sur la cryoablation percutanée des métastases osseuses à visée palliative (antalgique / debulking) ou curative (maladie oligométastatique). Analyse des résultats cliniques, du couplage avec les thérapies systémiques (anti-angiogéniques comme le lenvatinib, immunothérapie) et des techniques de consolidation associées.\n\n[ABSTRACT EN] In the rapidly evolving field of interventional oncology, minimally invasive methods, including CT-guided cryoablation, play an increasingly important role in tumor treatment, notably in bone and soft tissue cancers. Cryoablation works using compressed gas-filled probes to freeze tumor cells to temperatures below -20 °C, exploiting the Joule-Thompson effect. This cooling causes cell destruction by forming intracellular ice crystals and disrupting blood flow through endothelial cell damage, leading to local ischemia and devascularization. Coupling this with CT technology enables precise tumor targeting, preserving healthy surrounding tissues and decreasing postoperative complications. This review reports the most important literature on CT-guided cryoablation's application in musculoskeletal oncology, including sarcoma, bone metastases, and bone and soft tissue benign primary tumors, reporting on the success rate, recurrence rate, complications, and technical aspects to maximize success for cryoablation in the musculoskeletal system."
   },
   {
+    "id": "pmid-37030078",
+    "type": "article-journal",
+    "title": "Electrochemotherapy in radiotherapy-resistant epidural spinal cord compression in metastatic cancer patients",
+    "container-title": "European journal of cancer (Oxford, England : 1990)",
+    "volume": "186",
+    "issue": "",
+    "page": "62-68",
+    "DOI": "10.1016/j.ejca.2023.03.012",
+    "PMID": "37030078",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/37030078/",
+    "author": [
+      {
+        "family": "Deschamps",
+        "given": "F"
+      },
+      {
+        "family": "Tselikas",
+        "given": "L"
+      },
+      {
+        "family": "Yevich",
+        "given": "S"
+      },
+      {
+        "family": "Bonnet",
+        "given": "B"
+      },
+      {
+        "family": "Roux",
+        "given": "C"
+      },
+      {
+        "family": "Kobe",
+        "given": "A"
+      },
+      {
+        "family": "Besse",
+        "given": "B"
+      },
+      {
+        "family": "Berthelot",
+        "given": "K"
+      },
+      {
+        "family": "Gaudin",
+        "given": "A"
+      },
+      {
+        "family": "Mir",
+        "given": "LM"
+      },
+      {
+        "family": "de Baere",
+        "given": "T"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Série princeps (*European Journal of Cancer*, juin 2023) chez 40 patients présentant une compression médullaire épidurale métastatique (MESCC) réfractaire à la radiothérapie : l'électrochimiothérapie percutanée à la bléomycine réduit l'EVA médiane de 7/10 à 1/10 à 1 mois (p < 0,001), améliore le statut neurologique chez 56 % des patients et obtient 77 % de réponse objective épidurale en IRM.\n\n[ABSTRACT EN] Objective To report efficacy and safety of percutaneous electrochemotherapy (ECT) in patients with radiotherapy-resistant metastatic epidural spinal cord compression (MESCC). Material/ methods This retrospective study analyzed all consecutive patients treated with bleomycin-based ECT between February-2020 and September-2022 in a single tertiary referral cancer center. Changes in pain were evaluated with the Numerical Rating Score (NRS), in neurological deficit with the Neurological Deficit Scale, and changes in epidural spinal cord compression were evaluated with the epidural spinal cord compression scale (ESCCS) using an MRI. Results Forty consecutive solid tumour patients with previously radiated MESCC and no effective systemic treatment options were eligible. With a median follow-up of 5.1 months [1-19.1], toxicities were temporary acute radicular pain (25%), prolonged radicular hypoesthesia (10%), and paraplegia (7.5%). At 1 month, pain was significantly improved over baseline (median NRS: 1.0 [0-8] versus 7.0 [1.0-10], P Conclusions This study provides the first evidence that ECT can rescue radiotherapy-resistant MESCC."
+  },
+  {
     "id": "pmid-35941207",
     "type": "article-journal",
     "title": "Update on aneurysmal bone cyst: pathophysiology, histology, imaging and treatment",
@@ -894,6 +1098,104 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Mise au point de référence (*Pediatric Radiology*, 2022) sur le kyste osseux anévrismal (KOA) primaire (réarrangement du gène *USP6*) : sémiologie IRM/TDM, diagnostic différentiel avec l'ostéosarcome télangiectasique et protocoles de sclérothérapie percutanée (éthanol absolu, polidocanol, doxycycline).\n\n[ABSTRACT EN] Aneurysmal bone cyst (ABC) is a benign but locally aggressive lesion that predominantly affects children and young adults. ABC, which accounts for approximately 70% of the cases, is now recognized to be a true neoplasm, whereas ABC-like changes associated to other bone neoplasms (also referred in the literature as secondary ABC) accounts for the remaining 30%. The solid variant of ABC is also considered a true neoplasm but is rare. ABC can involve any bone in the body, and although it has a metaphyseal preference, it can involve any part of a bone and soft tissues. As with any bone tumor, the initial evaluation of ABCs should be done with radiographs followed by magnetic resonance imaging or less frequently computed tomography for further characterization. The imaging appearance of ABC is variable; however, a lytic and expansile lesion with fluid-fluid levels is the most common presentation. The main differential diagnosis of an ABC in the pediatric population is unicameral bone cyst (UBC) and telangiectatic osteosarcoma, therefore a biopsy is recommended before treatment. The therapeutic options of ABC range from curettage with or without adjuncts such as phenol, liquid nitrogen, argon laser and bone grafting or bone substitutes to more recently employed alternatives such as image-guided sclerotherapy with various sclerosing agents and monoclonal antibodies (e.g., Denosumab)."
+  },
+  {
+    "id": "pmid-35348870",
+    "type": "article-journal",
+    "title": "CIRSE Standards of Practice on Thermal Ablation of Bone Tumours",
+    "container-title": "Cardiovascular and interventional radiology",
+    "volume": "45",
+    "issue": "5",
+    "page": "591-605",
+    "DOI": "10.1007/s00270-022-03126-x",
+    "PMID": "35348870",
+    "PMCID": "PMC9018647",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/35348870/",
+    "author": [
+      {
+        "family": "Ryan",
+        "given": "A"
+      },
+      {
+        "family": "Byrne",
+        "given": "C"
+      },
+      {
+        "family": "Pusceddu",
+        "given": "C"
+      },
+      {
+        "family": "Buy",
+        "given": "X"
+      },
+      {
+        "family": "Tsoumakidou",
+        "given": "G"
+      },
+      {
+        "family": "Filippiadis",
+        "given": "D"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Consensus officiel du CIRSE (*CardioVascular and Interventional Radiology*, mai 2022) définissant les standards de bonne pratique pour l'ablation thermique percutanée des tumeurs osseuses bénignes et malignes : indications curatives et palliatives, choix de l'énergie, monitorage thermique et gestes adjuvants (embolisation, consolidation).\n\n[ABSTRACT EN] Background Percutaneous thermal ablation is an effective, minimally invasive means of treating a variety of focal benign and malignant osseous lesions. To determine the role of ablation in individual cases, multidisciplinary team (MDT) discussion is required to assess the suitability and feasibility of a thermal ablative approach, to select the most appropriate technique and to set the goals of treatment i.e. curative or palliative. Purpose This document will presume the indication for treatment is clear and approved by the MDT and will define the standards required for the performance of each modality. CIRSE Standards of Practice documents are not intended to impose a standard of clinical patient care, but recommend a reasonable approach to, and best practices for, the performance of thermal ablation of bone tumours. Methods The writing group was established by the CIRSE Standards of Practice Committee and consisted of five clinicians with internationally recognised expertise in thermal ablation of bone tumours. The writing group reviewed the existing literature on thermal ablation of bone tumours, performing a pragmatic evidence search using PubMed to search for publications in English and relating to human subjects from 2009 to 2019. Selected studies published in 2020 and 2021 during the course of writing these standards were subsequently included. The final recommendations were formulated through consensus. Results Recommendations were produced for the performance of thermal ablation of bone tumours taking into account the biologic behaviour of the tumour and the therapeutic intent of the procedure. Recommendations are provided based on lesion characteristics and thermal modality, for the use of tissue monitoring and protection, and for the appropriately timed application of adjunctive procedures such as osseus consolidation and transarterial embolisation. Results Percutaneous thermal ablation has an established role in the successful management of bone lesions, with both curative and palliative intent. This Standards of Practice document provides up-to-date recommendations for the safe performance of thermal ablation of bone tumours."
+  },
+  {
+    "id": "pmid-34812672",
+    "type": "article-journal",
+    "title": "Osteoid Osteoma: Percutaneous CT-guided Cryoablation Is a Safe, Effective, and Durable Treatment Option in Adults",
+    "container-title": "Radiology",
+    "volume": "302",
+    "issue": "2",
+    "page": "392-399",
+    "DOI": "10.1148/radiol.2021211100",
+    "PMID": "34812672",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/34812672/",
+    "author": [
+      {
+        "family": "Le Corroller",
+        "given": "T"
+      },
+      {
+        "family": "Vives",
+        "given": "T"
+      },
+      {
+        "family": "Mattei",
+        "given": "JC"
+      },
+      {
+        "family": "Pauly",
+        "given": "V"
+      },
+      {
+        "family": "Guenoun",
+        "given": "D"
+      },
+      {
+        "family": "Rochwerger",
+        "given": "A"
+      },
+      {
+        "family": "Champsaur",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de référence (*Radiology*, févr. 2022) sur 50 patients adultes traités par cryoablation TDM d'un ostéome ostéoïde : taux de succès clinique global de 96 % (48/50), réalisé dans 60 % des cas sous anesthésie locale et sédation consciente en positionnant la cryosonde en extra-osseux ('no-touch') sans forer le nidus.\n\n[ABSTRACT EN] Background Cryoablation is playing an increasing role in the percutaneous treatment of bone tumors. However, despite its potential advantages over heat-based ablation techniques, the clinical safety and efficacy of cryoablation have not been established for osteoid osteoma treatment. Purpose To evaluate percutaneous CT-guided cryoablation for the treatment of osteoid osteoma in young patients and adults. Materials and Methods This retrospective study reviewed data from 50 consecutive patients who underwent percutaneous CT-guided cryoablation for the treatment of osteoid osteoma between January 2013 and June 2019 in a single institution. In 30 of 50 patients (60%), the procedure was carried out with the patient under local anesthesia and conscious sedation, with the cryoprobe covering the lesion from an extraosseous position, avoiding direct penetration of the nidus. Clinical and radiologic features, procedure-related data, visual analog scale (VAS) pain scores, complications, and overall success rate were evaluated. Statistical analyses were performed by using the nonparametric Friedman test and Wilcoxon signed rank test for repeated measures. Results Fifty patients (median age, 24 years; interquartile range [IQR], 19-38 years; 31 men) underwent CT-guided cryoablation for the treatment of osteoid osteoma, with a 96% (48 of 50 patients) overall clinical success rate. Of the two patients without clinical success, one patient had incomplete pain relief and the other experienced a recurrence of osteoid osteoma at 11 months, which was successfully treated with a second cryoablation procedure. The median VAS pain score was 8 (IQR, 7-8) before the procedure and 0 (IQR, 0-1; P < .001) after the procedure at both primary (6 weeks) and secondary (18-90 months) follow-up. Three of the 50 patients had minor complications (6%); no major complications were reported. Conclusion Osteoid osteoma was safely, effectively, and durably treated with CT-guided percutaneous cryoablation. In the majority of patients, treatment could be performed without general anesthesia, with the cryosphere covering the nidus from an extraosseous position. © RSNA, 2021."
   },
   {
     "id": "pmid-33839926",
@@ -1335,6 +1637,69 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Série princeps de Deschamps, de Baère et Tselikas (*European Radiology*) démontrant l'efficacité et la fiabilité du vissage percutané guidé par scanner (seul ou associé à une cimentoplastie/ablation) pour stabiliser les fractures pathologiques ou post-radiques de l'anneau pelvien et du cotyle chez les patients atteints de cancer.\n\n[ABSTRACT EN] Purpose Screw fixation (osteosynthesis) can be performed percutaneously by interventional radiologists. We report our experience in cancer patients. Material/methods We retrospectively reviewed all cases of percutaneous osteosynthesis (PO) of the pelvic ring and proximal femur performed in our hospital. PO were performed for fracture palliation or for osteolytic metastases consolidation. Screws were inserted under CT- or cone-beam CT- guidance and general anaesthesia. Patients were followed-up with pelvic-CT and medical consultation at 1 month, then every 3 months. For fractures, the goal was pain palliation and for osteolytic metastases, pathologic fracture prevention. Results Between February 2010 and August 2014, 64 cancer patients were treated with PO. Twenty-one patients had PO alone for 33 painful fractures (13 bone-insufficiency, 20 pathologic fractures). The pain was significantly improved at 1 month (VAS score = 20/100 vs. 80/100). In addition, 43 cancer patients were preventively consolidated using PO plus cementoplasty for 45 impending pathologic fractures (10 iliac crests, 35 proximal femurs). For the iliac crests, no fracture occurred (median-FU = 75 days). For the proximal femurs, 2 pathological fractures occurred (fracture rate = 5.7 %, median-FU = 205 days). Conclusion PO is a new tool in the therapeutic arsenal of interventional radiologists for bone pain management. Key points • Screw fixation (osteosynthesis) can be performed percutaneously by interventional radiologists. • CT- or CBCT-guidance results in high technical success rates for screw placement. • This minimally invasive technique avoids extensive surgical exposure in bone cancer patients. • Osteosynthesis provides pain relief for bone-insufficiency fractures and for pathologic fractures. • Osteosynthesis plus cementoplasty provide prophylactic consolidation of impending pathological fractures."
+  },
+  {
+    "id": "pmid-24859596",
+    "type": "article-journal",
+    "title": "Thermal ablation techniques: a curative treatment of bone metastases in selected patients?",
+    "container-title": "European radiology",
+    "volume": "24",
+    "issue": "8",
+    "page": "1971-1980",
+    "DOI": "10.1007/s00330-014-3202-1",
+    "PMID": "24859596",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/24859596/",
+    "author": [
+      {
+        "family": "Deschamps",
+        "given": "F"
+      },
+      {
+        "family": "Farouil",
+        "given": "G"
+      },
+      {
+        "family": "Ternes",
+        "given": "N"
+      },
+      {
+        "family": "Gaudin",
+        "given": "A"
+      },
+      {
+        "family": "Hakime",
+        "given": "A"
+      },
+      {
+        "family": "Tselikas",
+        "given": "L"
+      },
+      {
+        "family": "Teriitehau",
+        "given": "C"
+      },
+      {
+        "family": "Baudin",
+        "given": "E"
+      },
+      {
+        "family": "Auperin",
+        "given": "A"
+      },
+      {
+        "family": "de Baere",
+        "given": "T"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Série fondatrice (*European Radiology*, août 2014) portant sur 89 patients (122 métastases osseuses) traités par radiofréquence ou cryoablation à visée curative : taux de contrôle local complet de 67 % à 1 an, atteignant > 85 % pour les lésions oligométastatiques métachrones < 2 cm sans rupture corticale.\n\n[ABSTRACT EN] Introduction Thermal ablation techniques (radiofrequency-ablation/cryotherapy) can be indicated with a curative intent. The success rate and prognostic factors for complete treatment were analysed. Material/methods The medical records of all patients who had undergone curatively intended thermal ablation of bone metastases between September 2001 and February 2012 were retrospectively analysed. The goal was to achieve complete treatment of all bone metastases in patients with oligometastatic disease (group 1) or only of bone metastases that could potentially lead to skeletal-related events in patients with a long life expectancy (group 2). We report the rate of complete treatment according to patient characteristics, primary tumour site, bone metastasis characteristics, radiofrequency ablation/cryotherapy and the treatment group (group 1/group 2). Results Eighty-nine consecutive patients had undergone curatively intended thermal ablation of 122 bone metastases. The median follow-up was 22.8 months [IQR = 12.2-44.4]. In the intent-to-treat analysis, the 1-year complete treatment rate was 67% (95%CI: 50%-76%). In the multivariate analysis the favourable prognostic factors for complete local treatment were oligometastatic status (p = 0.02), metachronous (p = 0.004) and small-sized (p = 0.001) bone metastases, without cortical bone erosion (p = 0.01) or neurological structures in the vicinity (p = 0.002). Conclusion Thermal ablation should be included in the therapeutic arsenal for the cure of bone metastases. Key points • Thermal ablation techniques are currently performed to palliate pain caused by bone metastases. • In selected patients, thermal ablation can also be indicated with a curative intent. • Oligometastatic and/or metachronous diseases are good prognostic factors for local success. • Small-size (<2 cm) bone metastases and no cortical erosion are good prognostic factors."
   },
   {
     "id": "pmid-24838839",
