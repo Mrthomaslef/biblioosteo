@@ -457,14 +457,213 @@ def sync_to_zotero(api_key: str, github_pages_url: str = "https://mrthomaslef.gi
     return state
 
 
+def get_local_zotero_existing_pmids() -> set:
+    """Read ~/Zotero/zotero.sqlite (via a safe temp snapshot) to find already imported PMIDs."""
+    import shutil
+    import sqlite3
+
+    zot_db = Path.home() / "Zotero" / "zotero.sqlite"
+    if not zot_db.exists():
+        return set()
+    tmp_db = Path("/tmp/biblioosteo_zot_check.sqlite")
+    for ext in ["", "-wal", "-shm"]:
+        src = Path(f"{zot_db}{ext}")
+        dst = Path(f"{tmp_db}{ext}")
+        if src.exists():
+            shutil.copy(src, dst)
+        elif dst.exists():
+            dst.unlink()
+
+    existing = set()
+    try:
+        con = sqlite3.connect(str(tmp_db))
+        cur = con.cursor()
+        rows = cur.execute("""
+            SELECT iv.value FROM items i
+            JOIN itemData id ON i.itemID = id.itemID
+            JOIN fields f ON id.fieldID = f.fieldID
+            JOIN itemDataValues iv ON id.valueID = iv.valueID
+            WHERE f.fieldName IN ('PMID', 'extra')
+              AND i.itemID NOT IN (SELECT itemID FROM deletedItems)
+        """).fetchall()
+        for (val,) in rows:
+            val_s = str(val).strip()
+            if val_s.isdigit():
+                existing.add(val_s)
+            for line in val_s.splitlines():
+                if line.upper().startswith("PMID:"):
+                    existing.add(line.split(":", 1)[1].strip())
+        con.close()
+    except Exception:
+        pass
+    return existing
+
+
+def sync_to_local_zotero_desktop(github_pages_url: str = "https://mrthomaslef.github.io/biblioosteo") -> dict:
+    """
+    Push all articles + French clinical notes + full PDF files directly into the local Zotero.app
+    running on the Mac mini via its local Connector Server (http://127.0.0.1:23119).
+    Automatically launches /Applications/Zotero.app if it is not running yet.
+    """
+    import subprocess
+
+    ping_url = "http://127.0.0.1:23119/connector/ping"
+    zotero_running = False
+    try:
+        with urllib.request.urlopen(ping_url, timeout=2) as r:
+            zotero_running = r.status == 200
+    except Exception:
+        pass
+
+    if not zotero_running and Path("/Applications/Zotero.app").exists():
+        print("[Zotero Local] Launching /Applications/Zotero.app...")
+        subprocess.run(["open", "-g", "-a", "/Applications/Zotero.app"], check=False)
+        for _ in range(15):
+            time.sleep(1)
+            try:
+                with urllib.request.urlopen(ping_url, timeout=2) as r:
+                    if r.status == 200:
+                        zotero_running = True
+                        break
+            except Exception:
+                pass
+
+    if not zotero_running:
+        print("[Zotero Local] Zotero Desktop is not running on port 23119.")
+        return {"synced": 0, "pdfs": 0}
+
+    articles = json.loads(ARTICLES_JSON.read_text(encoding="utf-8"))
+    existing_pmids = get_local_zotero_existing_pmids()
+    print(f"[Zotero Local] Connected to Mac mini Zotero.app ({len(existing_pmids)} PMIDs already present)")
+
+    synced_count = 0
+    pdf_count = 0
+    for idx, art in enumerate(articles):
+        pmid = str(art.get("pmid", ""))
+        if pmid in existing_pmids:
+            continue
+
+        session_id = f"biblioosteo-{int(time.time())}-{idx}"
+        item_id = f"item-{pmid}"
+        creators = []
+        for a in art.get("authors_list", []):
+            parts = a.rsplit(" ", 1)
+            if len(parts) == 2:
+                creators.append({"creatorType": "author", "lastName": parts[0], "firstName": parts[1]})
+            else:
+                creators.append({"creatorType": "author", "lastName": a, "firstName": ""})
+
+        tags = [{"tag": t} for t in art.get("tags", [])]
+        tags.append({"tag": "BiblioOstéo Cochin"})
+        tags.append({"tag": art.get("category_short", "Ostéo-Articulaire")})
+
+        combined_abstract = (
+            f"🇫🇷 RÉSUMÉ CLINIQUE (COCHIN) :\n{art.get('summary_fr_short', '')}\n\n"
+            f"🎯 LIEN AGENDA INTERVENTIONNEL :\n{art.get('cochin_link', '')}\n\n"
+            f"🇬🇧 ORIGINAL ABSTRACT :\n{art.get('abstract_en', '')}"
+        )
+
+        payload = {
+            "sessionID": session_id,
+            "uri": f"{github_pages_url}/",
+            "items": [{
+                "id": item_id,
+                "itemType": "journalArticle",
+                "title": art["title"],
+                "creators": creators,
+                "publicationTitle": art.get("journal", ""),
+                "date": art.get("pub_date_fr", str(art.get("year", ""))),
+                "volume": str(art.get("volume", "")),
+                "issue": str(art.get("issue", "")),
+                "pages": str(art.get("pages", "")),
+                "DOI": art.get("doi", ""),
+                "url": art.get("pubmed_url", f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"),
+                "abstractNote": combined_abstract,
+                "extra": f"PMID: {pmid}\nImpact Factor: {art.get('impact_factor', '')}",
+                "tags": tags,
+                "notes": [{
+                    "note": format_child_note_html(art, github_pages_url)
+                }]
+            }]
+        }
+
+        try:
+            req = urllib.request.Request(
+                "http://127.0.0.1:23119/connector/saveItems",
+                data=json.dumps(payload).encode("utf-8"),
+                headers={
+                    "Content-Type": "application/json",
+                    "X-Zotero-Connector-API-Version": "3",
+                },
+                method="POST",
+            )
+            with urllib.request.urlopen(req, timeout=15) as _:
+                synced_count += 1
+
+            # Attach main PDF binary directly into ~/Zotero/storage
+            rel_pdf = art.get("pdf_file", f"pdfs/PMID_{pmid}.pdf")
+            pdf_path = BASE_DIR / rel_pdf
+            if pdf_path.exists():
+                pdf_bytes = pdf_path.read_bytes()
+                att_meta = {
+                    "sessionID": session_id,
+                    "parentItemID": item_id,
+                    "title": f"PDF Intégral — PMID {pmid} ({art.get('journal_short', '')} {art.get('year', '')}).pdf",
+                    "url": f"{github_pages_url}/{rel_pdf}",
+                }
+                req_att = urllib.request.Request(
+                    f"http://127.0.0.1:23119/connector/saveAttachment?sessionID={session_id}",
+                    data=pdf_bytes,
+                    headers={
+                        "Content-Type": "application/pdf",
+                        "X-Zotero-Connector-API-Version": "3",
+                        "X-Metadata": json.dumps(att_meta),
+                    },
+                    method="POST",
+                )
+                with urllib.request.urlopen(req_att, timeout=30) as _:
+                    pdf_count += 1
+
+            # Also attach the French Clinical Synthesis PDF if distinct from the publisher PDF
+            rel_synth = art.get("synth_pdf_file", f"pdfs/SYNTHESE_PMID_{pmid}.pdf")
+            synth_path = BASE_DIR / rel_synth
+            if art.get("pdf_source") == "publisher_oa_pdf" and synth_path.exists():
+                synth_bytes = synth_path.read_bytes()
+                synth_meta = {
+                    "sessionID": session_id,
+                    "parentItemID": item_id,
+                    "title": f"Fiche Synthèse FR — PMID {pmid}.pdf",
+                    "url": f"{github_pages_url}/{rel_synth}",
+                }
+                req_s = urllib.request.Request(
+                    f"http://127.0.0.1:23119/connector/saveAttachment?sessionID={session_id}",
+                    data=synth_bytes,
+                    headers={
+                        "Content-Type": "application/pdf",
+                        "X-Zotero-Connector-API-Version": "3",
+                        "X-Metadata": json.dumps(synth_meta),
+                    },
+                    method="POST",
+                )
+                with urllib.request.urlopen(req_s, timeout=20) as _:
+                    pass
+
+            print(f"  + [Zotero Local] Imported PMID {pmid} + Note FR + PDF ({art.get('journal_short')} {art.get('pub_date_fr')})")
+        except Exception as e:
+            print(f"  ! [Zotero Local] Error on PMID {pmid}: {e}")
+
+    print(f"[Zotero Local] Done: {synced_count} new articles imported, {pdf_count} PDFs stored in ~/Zotero/storage.")
+    return {"synced": synced_count, "pdfs": pdf_count}
+
+
 if __name__ == "__main__":
     if ARTICLES_JSON.exists():
         arts = json.loads(ARTICLES_JSON.read_text(encoding="utf-8"))
         generate_static_exports(arts)
+    # Always sync to local Zotero Desktop on the Mac mini if installed
+    sync_to_local_zotero_desktop()
     api_key = os.environ.get("ZOTERO_API_KEY", "").strip()
     if not api_key and len(sys.argv) > 1:
         api_key = sys.argv[1].strip()
     if api_key:
         sync_to_zotero(api_key)
-    else:
-        print("[Zotero] Static exports updated. Set ZOTERO_API_KEY to push directly to Zotero Web API.")
