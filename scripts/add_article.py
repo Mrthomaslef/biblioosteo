@@ -17,7 +17,13 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-from build_biblio_database import CATEGORIES, extract_jats_sections, generate_article_pdf
+from build_biblio_database import (
+    CATEGORIES,
+    extract_jats_sections,
+    extract_pub_month_and_date,
+    generate_article_pdf,
+    get_journal_info_and_if,
+)
 from zotero_sync import generate_static_exports, sync_to_zotero
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -101,6 +107,8 @@ def add_from_query_or_pmid(query_str: str):
     journal_info = r.get("journalInfo", {})
     journal = journal_info.get("journal", {}).get("title", "")
     year = str(r.get("pubYear", "2025"))
+    month_num, month_fr, pub_date_fr = extract_pub_month_and_date(r, year)
+    impact_factor, journal_short = get_journal_info_and_if(journal)
     doi = str(r.get("doi", ""))
     pmcid = str(r.get("pmcid", ""))
     abstract_clean = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", r.get("abstractText", ""))).strip()
@@ -127,7 +135,12 @@ def add_from_query_or_pmid(query_str: str):
         "authors_list": authors_list,
         "authors_short": authors_short,
         "journal": journal,
+        "journal_short": journal_short,
+        "impact_factor": impact_factor,
         "year": int(year) if year.isdigit() else 2025,
+        "month_num": month_num,
+        "month_fr": month_fr,
+        "pub_date_fr": pub_date_fr,
         "volume": str(journal_info.get("volume", "")),
         "issue": str(journal_info.get("issue", "")),
         "pages": str(r.get("pageInfo", "")),

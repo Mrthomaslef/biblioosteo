@@ -302,11 +302,26 @@
     }
 
     .card-journal {
-      font-size: 0.8rem;
+      font-size: 0.81rem;
       color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.4rem;
     }
     .card-journal strong {
-      color: var(--text-secondary);
+      color: var(--text-main);
+    }
+
+    .badge-if {
+      font-size: 0.71rem;
+      font-weight: 700;
+      padding: 0.12rem 0.45rem;
+      border-radius: 5px;
+      background: var(--bg-chip);
+      color: var(--accent-text);
+      border: 1px solid var(--border);
+      white-space: nowrap;
     }
 
     .card-summary {
@@ -741,18 +756,23 @@
       listEl.innerHTML = filtered.map(a => {
         const kpList = (a.key_points_fr || []).map(k => `<li>${esc(k)}</li>`).join('');
         const shortCat = SHORT_PILL_LABELS[a.category_id] || a.category_short;
+        const pubDate = a.pub_date_fr || a.year;
+        const jName = a.journal_short || a.journal;
+        const ifBadge = a.impact_factor ? `<span class="badge-if">IF ${esc(a.impact_factor)}</span>` : '';
 
         return `
           <article class="card">
             <div class="card-meta">
               <span class="badge-cat">${esc(shortCat)} • ${esc(a.modality)}</span>
-              <span class="meta-year">${a.year} • PMID ${a.pmid}</span>
+              <span class="meta-year">📅 ${esc(pubDate)} • PMID ${a.pmid}</span>
             </div>
 
             <h2 class="card-title">${esc(a.title_fr)}</h2>
 
             <div class="card-journal">
-              <strong>${esc(a.journal)}</strong> — ${esc(a.authors_short)}
+              <strong>${esc(jName)}</strong>
+              ${ifBadge}
+              <span>• ${esc(a.authors_short)}</span>
             </div>
 
             <p class="card-summary">${esc(a.summary_fr_short)}</p>

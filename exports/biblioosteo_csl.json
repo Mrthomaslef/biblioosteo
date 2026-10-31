@@ -114,33 +114,41 @@
     "abstract": "[SYNTHÈSE FR] Revue récente (*Current Oncology Reports*, 2026) précisant la place de la radiologie interventionnelle (cryoablation, micro-ondes, HIFU, embolisation transartérielle) dans l'algorithme moderne des tumeurs desmoïdes aux côtés de la surveillance active et des nouvelles thérapies ciblées (nirogacestat, sorafénib).\n\n[ABSTRACT EN] Purpose of review To provide a comprehensive review of percutaneous image-guided techniques in the management of desmoid tumors including evolving thermal and non-thermal ablation options, as well as trans-arterial catheter options. Beyond each treatment modality, we aim to highlight considerations related to patient selection, technical components, and the growing interplay between percutaneous therapies and emerging systemic therapies. Recent findings Percutaneous ablation, particularly cryoablation, has emerged as a safe and effective treatment for extra-abdominal desmoid tumors, with prospective data demonstrating durable disease control and significant improvements in pain and functional status. A meta-analysis of 694 desmoid tumors treated with thermal ablation reported pooled local control of 88%, symptom relief in 90% of patients, and major complication rates below 5%. Transarterial doxorubicin-eluting embolization has shown promise in both adult and pediatric settings, while bland particle and radioembolic approaches remain under investigation. Irreversible electroporation is emerging as a non-thermal alternative near critical structures. The National Comprehensive Cancer Network (NCCN) Soft Tissue Sarcoma Guidelines now formally incorporate cryoablation along with embolization into the treatment algorithm for progressive, morbid, or symptomatic extra-abdominal desmoid tumors, marking a significant milestone in the recognition of percutaneous techniques as standard-of-care options. Percutaneous image-guided techniques now offer local tumor control with rates similar to surgical resection and a favorable safety profile. Some of these percutaneous techniques are endorsed alongside systemic therapy and radiation as primary options for progressive or symptomatic extra-abdominal desmoid tumors per various guidelines. An important consideration involves the level of data, comprised predominantly of retrospective data, without direct comparative date. The ongoing prospective CRYODESMO-02 trial will help define optimal sequencing and strengthen the evidence base underpinning guideline recommendations."
   },
   {
-    "id": "pmid-41838307",
+    "id": "pmid-42602563",
     "type": "article-journal",
-    "title": "Photon-counting CT-guided bone biopsy with real-time bone marrow edema mapping",
-    "container-title": "European radiology experimental",
-    "volume": "10",
-    "issue": "1",
-    "page": "28",
-    "DOI": "10.1186/s41747-026-00690-6",
-    "PMID": "41838307",
-    "PMCID": "PMC12992892",
-    "URL": "https://pubmed.ncbi.nlm.nih.gov/41838307/",
+    "title": "Genicular nerves: ultrasound anatomy, scanning techniques, and clinical implications",
+    "container-title": "Journal of ultrasonography",
+    "volume": "26",
+    "issue": "105",
+    "page": "20260019",
+    "DOI": "10.15557/jou.2026.0019",
+    "PMID": "42602563",
+    "PMCID": "PMC13474172",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42602563/",
     "author": [
       {
-        "family": "Alvarez de Sierra Garcia",
+        "family": "Spalkit",
+        "given": "S"
+      },
+      {
+        "family": "Chapala",
+        "given": "S"
+      },
+      {
+        "family": "Shirodkar",
+        "given": "K"
+      },
+      {
+        "family": "Shah",
+        "given": "A"
+      },
+      {
+        "family": "Shah",
         "given": "B"
       },
       {
-        "family": "Urtasun-Iriarte",
-        "given": "C"
-      },
-      {
-        "family": "Nieto",
-        "given": "P"
-      },
-      {
-        "family": "Alonso Burgos",
-        "given": "A"
+        "family": "Botchu",
+        "given": "R"
       }
     ],
     "issued": {
@@ -150,7 +158,7 @@
         ]
       ]
     },
-    "abstract": "[SYNTHÈSE FR] Article de *European Radiology Experimental* (2026) montrant l'apport de l'imagerie spectrale / comptage photonique et de la corrélation IRM-TDM lors des biopsies osseuses sous scanner pour cibler les zones d'infiltration médullaire active (lymphome osseux, métastases médullaires) même en l'absence d'ostéolyse corticale franche.\n\n[ABSTRACT EN] Objective Computed tomography-guided biopsies are needed to diagnose bone lesions, but can sometimes be challenging. We evaluated the feasibility and usefulness of photon-counting computed tomography (PCCT)-guided bone biopsies, focusing on real-time bone marrow oedema (BME) mapping to optimise diagnostic yield. Materials and methods This retrospective single-centre study included procedures performed from September 2024 to May 2025 using a first-generation dual-source PCCT scanner with Quantum HD mode. Ten consecutive patients underwent PCCT-guided bone biopsy with real-time BME reconstructions. The reference standard was established using histopathology or microbiological confirmation when available; clinical and ≥ 3-month radiologic follow-up for nondiagnostic or discordant results. Statistical analysis included descriptive statistics, independent unpaired t-tests, and correlation analysis (SPSS v22.0, RStudio). Results Ten patients, five women and five men, aged 60.5 ± 13.5 years (mean ± standard deviation), were included in the final analysis. The overall diagnostic yield was 70% (7/10), with a diagnostic accuracy of 87.5% (7/8) for cases with a definitive reference standard. Final diagnoses comprised tumour bone metastases (n = 7, 70%), bone osteomyelitis (n = 1, 10%), and bone marrow deposition disease (n = 2, 20%). Mean radiation dose (dose-length product) was 644.5 ± 112.1 mGy·cm. Monoenergetic 70-keV imaging showed significant differences between mean HU values of lytic (42.6) and sclerotic lesions (476.2) (p = 0.009), with a strong negative correlation between lesion morphology (sclerotic versus lytic) and monoenergetic 70-keV attenuation values (r = -0.84; p = 0.002). Conclusion PCCT-guided bone biopsy with real-time BME mapping proved feasible and showed encouraging diagnostic performance in this small exploratory cohort. Larger validation studies are needed. Relevance statement By combining monoenergetic images and BME mapping, PCCT-guided bone biopsy improves lesion visualisation, operator confidence, procedural efficiency, and overall safety for diagnostic tissue sampling and active disease targeting. Key points Accurate targeting of active disease within complex bone lesions during CT-guided biopsy remains challenging sometimes. PCCT-guided biopsy with real-time BME mapping can enhance lesion targeting and procedural efficiency. PCCT-guided biopsy may improve safety, diagnostic accuracy, and operator confidence."
+    "abstract": "[SYNTHÈSE FR] Article de référence (2026) détaillant l'anatomie échographique haute résolution des nerfs géniculés (supéro-latéral SLGN, supéro-médial SMGN, inféro-médial IMGN, nerf récurrent fibulaire et nerf du vaste intermédiaire). Précise les repères vasculaires et périostés permettant un bloc test diagnostique ultra-sélectif avant radiofréquence.\n\n[ABSTRACT EN] The genicular nerves are sensory nerves that innervate the knee joint, playing a crucial role in pain transmission. Because of their small size, they are frequently underappreciated and overlooked during routine ultrasound examinations. With the advent of high-resolution ultrasound, these nerves can be visualized directly, facilitating targeted interventions. A detailed understanding of genicular nerve anatomy, ultrasound landmarks, and characteristic imaging appearances has significant clinical implications for managing knee pain. Given the high prevalence of chronic knee pain due to osteoarthritis and post-operative conditions, ultrasound-guided genicular nerve blocks and radiofrequency ablation are increasingly utilized. Traditionally, genicular nerve procedures, targeting three nerves (the superomedial, superolateral, and inferomedial genicular nerves), were performed under fluoroscopic guidance. However, ultrasound offers distinct advantages, including real-time visualization of soft tissues, the absence of radiation exposure, and precise targeting of anatomical locations using revised landmarks and Doppler signal. These advancements have enabled more comprehensive targeting of five nerves: the superomedial genicular nerve, superolateral genicular nerve, inferomedial genicular nerve, recurrent peroneal genicular nerve, and the infrapatellar branch of the saphenous nerve. Although ablation of the recurrent peroneal genicular nerve carries a risk of injury to the common peroneal nerve, potentially resulting in foot drop, precise localization through ultrasound-guidance may help mitigate this complication. This article provides a comprehensive review of genicular nerve anatomy, ultrasound techniques, and interventional approaches, emphasizing the clinical relevance of ultrasound-guided procedures for managing knee pain and diagnosing nerve pathologies."
   },
   {
     "id": "pmid-41204964",
@@ -216,41 +224,33 @@
     "abstract": "[SYNTHÈSE FR] Étude multicentrique publiée dans *European Radiology* (2026) analysant les causes de biopsies osseuses non diagnostiques sous scanner et définissant les critères techniques permettant d'atteindre un rendement supérieur à 90 % (calibre du trocart, nombre de carottes, ciblage de la composante tissulaire non nécrotique).\n\n[ABSTRACT EN] Objective This study aimed to determine the diagnostic yield of CT-guided bone biopsies in pediatric patients, the outcome of non-diagnostic CT biopsy results, and to establish factors associated with non-diagnostic biopsy results. Materials and methods This is a retrospective study of consecutive pediatric patients ≤ 21 years who underwent CT-guided bone biopsies in three tertiary referral hospitals from December 2011 to March 2022. Clinical information, pre-biopsy CT and MRI images, procedural details, pathological results, and follow-up were assessed. Fisher's exact test was used to compare categorical variables. Mann-Whitney U-test and unpaired t-test were used to compare non-parametric and parametric variables, respectively. Statistical significance was set a p Results A total of 138 patients (mean age 13.9 ± 4.5 years; 95 (60%) male patients) with 157 CT-guided bone biopsies were studied, which yielded 38.2% (60/157) non-diagnostic, 23.6% (37/157) benign, and 38.2% (60/157) malignant results. Most non-diagnostic lesions (88.3% [53/60]) were subsequently determined to be benign. Factors associated with non-diagnostic biopsy results were cystic lesions (p = 0.003) incidental lesions (p = 0.03), fewer (p = 0.02) and shorter (p = 0.01) tissue cores, non-aggressive radiological features, including narrow zone of transition (p Conclusion About one-third of CT-guided bone biopsies in pediatric patients yielded non-diagnostic results, though most were ultimately confirmed to be benign. In children and adolescents with suspected primary bone tumors, CT-guided bone biopsy with non-diagnostic histopathological results strongly favors benignity in lesions with non-aggressive imaging features and should align management towards a more conservative approach. Key points Question Limited data exist on the prevalence and outcome of non-diagnostic CT-guided bone biopsy in pediatric patients to guide clinical management. Findings About one-third of CT-guided bone biopsies in pediatric patients were non-diagnostic, though most were ultimately benign. Lesions with non-aggressive features were associated with non-diagnostic results. Clinical relevance In the setting of multidisciplinary care for patients with suspected primary bone tumors, non-diagnostic CT-guided bone biopsy-particularly in lesions with non-aggressive imaging features-strongly favors benignity, which should steer management towards a more conservative approach."
   },
   {
-    "id": "pmid-42602563",
+    "id": "pmid-41838307",
     "type": "article-journal",
-    "title": "Genicular nerves: ultrasound anatomy, scanning techniques, and clinical implications",
-    "container-title": "Journal of ultrasonography",
-    "volume": "26",
-    "issue": "105",
-    "page": "20260019",
-    "DOI": "10.15557/jou.2026.0019",
-    "PMID": "42602563",
-    "PMCID": "PMC13474172",
-    "URL": "https://pubmed.ncbi.nlm.nih.gov/42602563/",
+    "title": "Photon-counting CT-guided bone biopsy with real-time bone marrow edema mapping",
+    "container-title": "European radiology experimental",
+    "volume": "10",
+    "issue": "1",
+    "page": "28",
+    "DOI": "10.1186/s41747-026-00690-6",
+    "PMID": "41838307",
+    "PMCID": "PMC12992892",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/41838307/",
     "author": [
       {
-        "family": "Spalkit",
-        "given": "S"
-      },
-      {
-        "family": "Chapala",
-        "given": "S"
-      },
-      {
-        "family": "Shirodkar",
-        "given": "K"
-      },
-      {
-        "family": "Shah",
-        "given": "A"
-      },
-      {
-        "family": "Shah",
+        "family": "Alvarez de Sierra Garcia",
         "given": "B"
       },
       {
-        "family": "Botchu",
-        "given": "R"
+        "family": "Urtasun-Iriarte",
+        "given": "C"
+      },
+      {
+        "family": "Nieto",
+        "given": "P"
+      },
+      {
+        "family": "Alonso Burgos",
+        "given": "A"
       }
     ],
     "issued": {
@@ -260,54 +260,7 @@
         ]
       ]
     },
-    "abstract": "[SYNTHÈSE FR] Article de référence (2026) détaillant l'anatomie échographique haute résolution des nerfs géniculés (supéro-latéral SLGN, supéro-médial SMGN, inféro-médial IMGN, nerf récurrent fibulaire et nerf du vaste intermédiaire). Précise les repères vasculaires et périostés permettant un bloc test diagnostique ultra-sélectif avant radiofréquence.\n\n[ABSTRACT EN] The genicular nerves are sensory nerves that innervate the knee joint, playing a crucial role in pain transmission. Because of their small size, they are frequently underappreciated and overlooked during routine ultrasound examinations. With the advent of high-resolution ultrasound, these nerves can be visualized directly, facilitating targeted interventions. A detailed understanding of genicular nerve anatomy, ultrasound landmarks, and characteristic imaging appearances has significant clinical implications for managing knee pain. Given the high prevalence of chronic knee pain due to osteoarthritis and post-operative conditions, ultrasound-guided genicular nerve blocks and radiofrequency ablation are increasingly utilized. Traditionally, genicular nerve procedures, targeting three nerves (the superomedial, superolateral, and inferomedial genicular nerves), were performed under fluoroscopic guidance. However, ultrasound offers distinct advantages, including real-time visualization of soft tissues, the absence of radiation exposure, and precise targeting of anatomical locations using revised landmarks and Doppler signal. These advancements have enabled more comprehensive targeting of five nerves: the superomedial genicular nerve, superolateral genicular nerve, inferomedial genicular nerve, recurrent peroneal genicular nerve, and the infrapatellar branch of the saphenous nerve. Although ablation of the recurrent peroneal genicular nerve carries a risk of injury to the common peroneal nerve, potentially resulting in foot drop, precise localization through ultrasound-guidance may help mitigate this complication. This article provides a comprehensive review of genicular nerve anatomy, ultrasound techniques, and interventional approaches, emphasizing the clinical relevance of ultrasound-guided procedures for managing knee pain and diagnosing nerve pathologies."
-  },
-  {
-    "id": "pmid-38544877",
-    "type": "article-journal",
-    "title": "Cementoplasty to cryoablation: review and current status",
-    "container-title": "BJR open",
-    "volume": "6",
-    "issue": "1",
-    "page": "tzae007",
-    "DOI": "10.1093/bjro/tzae007",
-    "PMID": "38544877",
-    "PMCID": "PMC10965423",
-    "URL": "https://pubmed.ncbi.nlm.nih.gov/38544877/",
-    "author": [
-      {
-        "family": "Tan",
-        "given": "JR"
-      },
-      {
-        "family": "Yan",
-        "given": "YY"
-      },
-      {
-        "family": "Sheikh",
-        "given": "A"
-      },
-      {
-        "family": "Ouellette",
-        "given": "H"
-      },
-      {
-        "family": "Mallinson",
-        "given": "P"
-      },
-      {
-        "family": "Munk",
-        "given": "PL"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2024
-        ]
-      ]
-    },
-    "abstract": "[SYNTHÈSE FR] Revue générale (*BJR Open*, 2024) détaillant l'évolution des gestes percutanés osseux : critères de sélection entre cimentoplastie seule, ostéosynthèse par vis canulées et association ablation thermique + consolidation selon la classification de Mirels et le score SINS.\n\n[ABSTRACT EN] Recent advances in percutaneous image-guided techniques have empowered interventional radiologists with diverse treatment options for the management of musculoskeletal lesions. Of note, there is growing utility for cementoplasty procedures, with indications ranging from stabilization of bone metastases to treatment of painful vertebral compression fractures. Likewise, cryoablation has emerged as a viable adjunct in the treatment of both primary and secondary bone and soft tissue neoplasms. These treatment options have been progressively incorporated into the multidisciplinary approach to holistic care of patients, alongside conventional radiotherapy, systemic therapy, surgery, and analgesia. This review article serves to outline the indications, technical considerations, latest developments, and evidence for the burgeoning role of cementoplasty and cryoablation in the musculoskeletal system, with an emphasis on pain palliation and tumour control."
+    "abstract": "[SYNTHÈSE FR] Article de *European Radiology Experimental* (2026) montrant l'apport de l'imagerie spectrale / comptage photonique et de la corrélation IRM-TDM lors des biopsies osseuses sous scanner pour cibler les zones d'infiltration médullaire active (lymphome osseux, métastases médullaires) même en l'absence d'ostéolyse corticale franche.\n\n[ABSTRACT EN] Objective Computed tomography-guided biopsies are needed to diagnose bone lesions, but can sometimes be challenging. We evaluated the feasibility and usefulness of photon-counting computed tomography (PCCT)-guided bone biopsies, focusing on real-time bone marrow oedema (BME) mapping to optimise diagnostic yield. Materials and methods This retrospective single-centre study included procedures performed from September 2024 to May 2025 using a first-generation dual-source PCCT scanner with Quantum HD mode. Ten consecutive patients underwent PCCT-guided bone biopsy with real-time BME reconstructions. The reference standard was established using histopathology or microbiological confirmation when available; clinical and ≥ 3-month radiologic follow-up for nondiagnostic or discordant results. Statistical analysis included descriptive statistics, independent unpaired t-tests, and correlation analysis (SPSS v22.0, RStudio). Results Ten patients, five women and five men, aged 60.5 ± 13.5 years (mean ± standard deviation), were included in the final analysis. The overall diagnostic yield was 70% (7/10), with a diagnostic accuracy of 87.5% (7/8) for cases with a definitive reference standard. Final diagnoses comprised tumour bone metastases (n = 7, 70%), bone osteomyelitis (n = 1, 10%), and bone marrow deposition disease (n = 2, 20%). Mean radiation dose (dose-length product) was 644.5 ± 112.1 mGy·cm. Monoenergetic 70-keV imaging showed significant differences between mean HU values of lytic (42.6) and sclerotic lesions (476.2) (p = 0.009), with a strong negative correlation between lesion morphology (sclerotic versus lytic) and monoenergetic 70-keV attenuation values (r = -0.84; p = 0.002). Conclusion PCCT-guided bone biopsy with real-time BME mapping proved feasible and showed encouraging diagnostic performance in this small exploratory cohort. Larger validation studies are needed. Relevance statement By combining monoenergetic images and BME mapping, PCCT-guided bone biopsy improves lesion visualisation, operator confidence, procedural efficiency, and overall safety for diagnostic tissue sampling and active disease targeting. Key points Accurate targeting of active disease within complex bone lesions during CT-guided biopsy remains challenging sometimes. PCCT-guided biopsy with real-time BME mapping can enhance lesion targeting and procedural efficiency. PCCT-guided biopsy may improve safety, diagnostic accuracy, and operator confidence."
   },
   {
     "id": "pmid-39556172",
@@ -359,6 +312,61 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Revue didactique (*Insights into Imaging*, 2024) détaillant la sélection des patients, la balistique des cryosondes, la synergie thermique et la prévention des complications lors de la cryoablation des tumeurs bénignes et malignes des parties molles (desmoïdes, endométriomes pariétaux, métastases musculaires et sous-cutanées).\n\n[ABSTRACT EN] Background Percutaneous cryoablation (PCA), having shown effectiveness in treating liver, lung, prostate, breast, and kidney tumors, is now gaining attention for the treatment of soft tissue tumors. PCA functions by freezing tissue, which induces ice crystal formation and cell death without damaging collagen structures. Technical considerations include the selection and handling of cryoprobes and cryogenic agents, procedural duration, and choice of image guidance for precision. This review aims to synthesize the mechanisms, applications, and technical aspects of PCA in the treatment of soft tissue tumors. Methods Adhering to PRISMA 2020 guidelines, a review was conducted of studies published prior to March 2024 that investigated PCA of soft tissue tumors. The review focused on technical and procedural aspects of cryoablation, cryobiological principles, cellular and tissue responses to extreme cold, intra- and post-procedure physiological mechanisms during and post-procedure, and main clinical applications. Results PCA is efficient in treating soft tissue tumors, including desmoid tumors, vascular malformations, and abdominal wall endometriosis. Several cryobiological mechanisms are involved, notably ice crystal formation, cellular dehydration, osmotic effects, and the inflammatory response, all of which contribute to its efficacy. Key technical aspects include the choice of cryoprobes, cryogenic agents (argon gas or liquid nitrogen), and the duration and control of freezing/thawing cycles. PCA also frequently outperformed traditional treatments like surgery and radiotherapy in terms of pain reduction, tumor size reduction, and patient outcomes. Moreover, its nerve sideration properties make it effective under local anesthesia. Conclusion Demonstrating substantial pain reduction, tumor size decrease, and high technical success rates, PCA offers a promising and minimally invasive alternative for soft tissue tumor treatment. Critical relevance statement Percutaneous cryoablation provides a minimally invasive, precise alternative for soft tissue tumor management, advancing clinical radiology by offering effective treatment with reduced patient risk and enhanced outcomes through image-guided procedures. Key points Percutaneous cryoablation (PCA) offers a promising, minimally invasive alternative for managing soft tissue tumors. PCA employs image-guided techniques to accurately target and treat tumors, ensuring high precision and control. PCA preserves structures like collagen, reduces pain, decreases tumor size, and generally enhances patient outcomes."
+  },
+  {
+    "id": "pmid-38438685",
+    "type": "article-journal",
+    "title": "Safety and Efficacy of Percutaneous Morton Neuroma Cryoneurolysis Under Ultrasound Guidance",
+    "container-title": "Cardiovascular and interventional radiology",
+    "volume": "47",
+    "issue": "6",
+    "page": "795-800",
+    "DOI": "10.1007/s00270-024-03669-1",
+    "PMID": "38438685",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/38438685/",
+    "author": [
+      {
+        "family": "Moulin",
+        "given": "B"
+      },
+      {
+        "family": "Angelopoulos",
+        "given": "G"
+      },
+      {
+        "family": "Sarrazin",
+        "given": "JL"
+      },
+      {
+        "family": "Romano",
+        "given": "S"
+      },
+      {
+        "family": "Vignaux",
+        "given": "O"
+      },
+      {
+        "family": "Guenoun",
+        "given": "T"
+      },
+      {
+        "family": "Di Primio",
+        "given": "M"
+      },
+      {
+        "family": "Hakime",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de *CardioVascular and Interventional Radiology (CVIR)* (2024) évaluant la cryoneurolyse percutanée du névrome de Morton réfractaire au traitement conservateur. Réalisée en ambulatoire sous anesthésie locale, la cryoablation induit une dégénérescence wallérienne réversible (axonotmésis) sans formation de névrome d'amputation, avec un succès clinique supérieur à 80 %.\n\n[ABSTRACT EN] Purpose To assess the technical success, safety and early efficacy of Morton neuroma (MN) cryoneurolysis. Materials and methods Retrospective review of 54 consecutive patients with MN treated with cryoneurolysis after failure of conservative treatment, from September 2022 to June 2023. Outcomes measurements included technical success (defined a successful ultrasound-guided placement of the cryoprobe), procedural safety according to Cirse classification and change in 6 months post-procedure by pain numeric rating scale (pNRS). Results A total of 59 MN were treated during 55 procedures. Mean procedure duration was 47 min, all patients were discharged 2 h after the intervention. Technical success was 98.1%. No Cirse grade 3, 4 or 5 complication was reported. Three grade 2 complication occurred, including two chilblain-type lesions and one bone insufficiency fracture. At 6 months post-procedure, pNRS score was significantly decreased (2.7 ± 2.2 vs 7.1 ± 1.1) (p Conclusion Cryoneurolysis seems to be safe for the treatment of Morton neuroma. Six-month pain relief is promising and needs to be confirmed at long term."
   },
   {
     "id": "pmid-38732352",
@@ -416,49 +424,41 @@
     "abstract": "[SYNTHÈSE FR] Étude technique détaillant la mise en œuvre de l'électrochimiothérapie (ECT) pour les métastases osseuses à haut risque neurologique ou mécanique. Grâce à son mécanisme non thermique, l'ECT permet de traiter des lésions au contact direct d'éléments nerveux ou articulaires là où la radiofréquence et la cryoablation seules exposeraient à des complications.\n\n[ABSTRACT EN] Metastases are complications of primary tumors due to prolonged cancer survival and have become an important issue for oncological patients and the most frequent cause of death and disability. Bone metastases occur at a later stage of cancer disease, and the spine is the most frequent site. To date, the aim of the treatment of metastases remains to be the control of disease and provide a satisfactory quality of life. The decision making of treatment is influenced by several factors such as the status of the primary disease, the number of metastases, site involvement, and the performance status of the patients. For this reason, the treatment of metastases is challenging and undergoes constant development. Therefore, alternative techniques with respect to surgery, which is the first option but not always practicable, and radiochemotherapy are attractive. Lately, electrochemotherapy has emerged as an innovative method for treating various primary and metastatic solid tumors, showing promising outcomes in terms of inducing tumor tissue necrosis and alleviating symptoms. This technique uses electric pulses to increase the uptake of chemotherapy by tumor cells. Despite the initial enthusiasm and good results in the treatment of bone tumors, relatively few papers have described its use in spine metastases. Therefore, we conducted a systemic review of this intriguing topic while also reporting our experience in the use of electrochemotherapy for the treatment of spine metastases."
   },
   {
-    "id": "pmid-38438685",
+    "id": "pmid-38544877",
     "type": "article-journal",
-    "title": "Safety and Efficacy of Percutaneous Morton Neuroma Cryoneurolysis Under Ultrasound Guidance",
-    "container-title": "Cardiovascular and interventional radiology",
-    "volume": "47",
-    "issue": "6",
-    "page": "795-800",
-    "DOI": "10.1007/s00270-024-03669-1",
-    "PMID": "38438685",
-    "PMCID": "",
-    "URL": "https://pubmed.ncbi.nlm.nih.gov/38438685/",
+    "title": "Cementoplasty to cryoablation: review and current status",
+    "container-title": "BJR open",
+    "volume": "6",
+    "issue": "1",
+    "page": "tzae007",
+    "DOI": "10.1093/bjro/tzae007",
+    "PMID": "38544877",
+    "PMCID": "PMC10965423",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/38544877/",
     "author": [
       {
-        "family": "Moulin",
-        "given": "B"
+        "family": "Tan",
+        "given": "JR"
       },
       {
-        "family": "Angelopoulos",
-        "given": "G"
+        "family": "Yan",
+        "given": "YY"
       },
       {
-        "family": "Sarrazin",
-        "given": "JL"
-      },
-      {
-        "family": "Romano",
-        "given": "S"
-      },
-      {
-        "family": "Vignaux",
-        "given": "O"
-      },
-      {
-        "family": "Guenoun",
-        "given": "T"
-      },
-      {
-        "family": "Di Primio",
-        "given": "M"
-      },
-      {
-        "family": "Hakime",
+        "family": "Sheikh",
         "given": "A"
+      },
+      {
+        "family": "Ouellette",
+        "given": "H"
+      },
+      {
+        "family": "Mallinson",
+        "given": "P"
+      },
+      {
+        "family": "Munk",
+        "given": "PL"
       }
     ],
     "issued": {
@@ -468,7 +468,7 @@
         ]
       ]
     },
-    "abstract": "[SYNTHÈSE FR] Étude de *CardioVascular and Interventional Radiology (CVIR)* (2024) évaluant la cryoneurolyse percutanée du névrome de Morton réfractaire au traitement conservateur. Réalisée en ambulatoire sous anesthésie locale, la cryoablation induit une dégénérescence wallérienne réversible (axonotmésis) sans formation de névrome d'amputation, avec un succès clinique supérieur à 80 %.\n\n[ABSTRACT EN] Purpose To assess the technical success, safety and early efficacy of Morton neuroma (MN) cryoneurolysis. Materials and methods Retrospective review of 54 consecutive patients with MN treated with cryoneurolysis after failure of conservative treatment, from September 2022 to June 2023. Outcomes measurements included technical success (defined a successful ultrasound-guided placement of the cryoprobe), procedural safety according to Cirse classification and change in 6 months post-procedure by pain numeric rating scale (pNRS). Results A total of 59 MN were treated during 55 procedures. Mean procedure duration was 47 min, all patients were discharged 2 h after the intervention. Technical success was 98.1%. No Cirse grade 3, 4 or 5 complication was reported. Three grade 2 complication occurred, including two chilblain-type lesions and one bone insufficiency fracture. At 6 months post-procedure, pNRS score was significantly decreased (2.7 ± 2.2 vs 7.1 ± 1.1) (p Conclusion Cryoneurolysis seems to be safe for the treatment of Morton neuroma. Six-month pain relief is promising and needs to be confirmed at long term."
+    "abstract": "[SYNTHÈSE FR] Revue générale (*BJR Open*, 2024) détaillant l'évolution des gestes percutanés osseux : critères de sélection entre cimentoplastie seule, ostéosynthèse par vis canulées et association ablation thermique + consolidation selon la classification de Mirels et le score SINS.\n\n[ABSTRACT EN] Recent advances in percutaneous image-guided techniques have empowered interventional radiologists with diverse treatment options for the management of musculoskeletal lesions. Of note, there is growing utility for cementoplasty procedures, with indications ranging from stabilization of bone metastases to treatment of painful vertebral compression fractures. Likewise, cryoablation has emerged as a viable adjunct in the treatment of both primary and secondary bone and soft tissue neoplasms. These treatment options have been progressively incorporated into the multidisciplinary approach to holistic care of patients, alongside conventional radiotherapy, systemic therapy, surgery, and analgesia. This review article serves to outline the indications, technical considerations, latest developments, and evidence for the burgeoning role of cementoplasty and cryoablation in the musculoskeletal system, with an emphasis on pain palliation and tumour control."
   },
   {
     "id": "pmid-37834793",
@@ -726,6 +726,53 @@
     "abstract": "[SYNTHÈSE FR] Revue comparant les techniques mini-invasives de traitement du kyste osseux essentiel (KOE / unicameral bone cyst) et du kyste osseux anévrismal : alcoolisation percutanée à l'éthanol, injection de corticoïdes, décompression et adjonction d'un substitut osseux ou d'une cimentoplastie dans les kystes volumineux à risque fracturaire.\n\n[ABSTRACT EN] This review of the literature aims to compare the etiology, the pathogenesis, the clinical diagnostics and the relevant treatment options of two different types of cystic bone lesions: the solitary bone cyst (SBC) and the aneurysmal bone cyst (ABC). Whereas the clinical symptoms and the radiographic appearance can be similar, the diagnostic pathway and the treatment options are clearly different. The solitary bone cyst (SBC) represents a tumor-like bone lesion, occurring most frequently in the humerus and femur in children and adolescents. Pain caused by intercurrent pathological fractures is often the first symptom, and up to 87% of the cysts are associated with pathological fractures. In the majority of cases SBCs can be treated conservatively, especially in the upper extremity. However, if a fracture is completely dislocated, joint affecting, unstable or open, surgical treatment is necessary. Pain under weight bearing or regaining the ability to mobilize after fracture timely can necessitate surgical treatment in SBCs affecting the lower extremity. Spontaneous resolution can be seen in rare cases. The aneurysmal bone cyst (ABC) is a benign, locally aggressive tumor that occurs in childhood and early adulthood. It usually affects the metaphysis of long bones but can also occur in the spine or the pelvis. ABC can be primary but also secondary to other bone pathologies. The diagnosis has to be confirmed by biopsy and histopathological examinations. With cytogenetic studies and the detection of specific translocations of the ubiquitin-specific protease (USP) 6 gene primary ABCs can be differentiated from secondary ABCs and other bone lesions. Among various modalities of treatment i.e. en bloc resection, intralesional curettage with adjuvants, embolization or the systemic application of denosumab, intralesional sclerotherapy using polidocanol is an effective and minimally invasive treatment of primary ABCs."
   },
   {
+    "id": "pmid-34497298",
+    "type": "article-journal",
+    "title": "Diagnostic accuracy of ultrasound-guided core needle biopsy versus incisional biopsy in soft tissue sarcoma: an institutional experience",
+    "container-title": "Scientific reports",
+    "volume": "11",
+    "issue": "1",
+    "page": "17832",
+    "DOI": "10.1038/s41598-021-96953-w",
+    "PMID": "34497298",
+    "PMCID": "PMC8426501",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/34497298/",
+    "author": [
+      {
+        "family": "Cernakova",
+        "given": "M"
+      },
+      {
+        "family": "Hobusch",
+        "given": "GM"
+      },
+      {
+        "family": "Amann",
+        "given": "G"
+      },
+      {
+        "family": "Funovics",
+        "given": "PT"
+      },
+      {
+        "family": "Windhager",
+        "given": "R"
+      },
+      {
+        "family": "Panotopoulos",
+        "given": "J"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude démontrant que la microbiopsie percutanée au trocart automatique (14G–16G) sous guidage échographique atteint une précision diagnostique de 95 à 97 % pour différencier lésion bénigne/maligne et grader les sarcomes des tissus mous, tout en réduisant drastiquement les complications par rapport à la biopsie chirurgicale incisionnelle.\n\n[ABSTRACT EN] Core needle biopsy (CNB) is gaining in importance due to its advantages in the matter of patient morbidity, time and cost. Nevertheless, controversies still exist regarding the biopsy technique of choice for the accurate diagnosis of soft tissue sarcoma (STS). This retrospective cohort study compared the diagnostic performance between ultrasound-guided CNB and incisional biopsy (IB), both performed by orthopedic surgeons. The aims of the study were to answer the following questions: (1) Is ultrasound-guided CNB a highly reliable modality for diagnosing STSs? (2) Is CNB equally useful to IB for identifying histologic subtype? (3) Had patients who underwent CNB a reduced risk of complications? One-hundred and fifty-three patients who underwent resection of soft tissue sarcoma were classified into two groups according to biopsy technique prior to surgery; CNB group (n = 95) and IB group (n = 58). The final surgical specimens were in 40 patients liposarcoma (myxoid, pleomorphic and dedifferentiated), 39 undifferentiated pleomorphic sarcoma (UPS), 33 myxofibrosarcoma, 10 synovial sarcoma, 10 leiomyosarcoma and in the remaining 21 patients different soft tissue sarcoma entities. Sarcoma location of 71 patients was in the thigh, 19 in the lower leg, 22 in the upper arm and shoulder area; 10 in the knee and gluteal region, 9 in the thoracic region, the residual 12 in other body areas. Malignancy was correctly diagnosed in 87% (83 of 95) for the CNB group and 93% (54/58) for the IB group. Correct identification rate of histologic subtype was 80% (76 of 95) in the CNB group and 83% (48 of 58) in the IB group. There were no significant differences in the correct diagnosis rates of malignancy and subtype between the two techniques. No complications were seen in the CNB group, whereas 2 patients in whom IB was performed developed pulmonary embolism and 1 patient surgical site infection. Ultrasound-guided CNB is highly accurate and not inferior to IB in diagnosing the dignity of lesions and histologic subtype in patients with suspected STSs."
+  },
+  {
     "id": "pmid-33290994",
     "type": "article-journal",
     "title": "CRYODESMO-O1: A prospective, open phase II study of cryoablation in desmoid tumour patients progressing after medical treatment",
@@ -807,53 +854,6 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Essai prospectif multicentrique français de phase II (Kurtz, Buy, Deschamps et al.) évaluant la cryoablation percutanée chez 50 patients porteurs de tumeurs desmoïdes extra-abdominales progressives après traitement médical. À 12 mois, 85,6 % des patients n'ont aucune progression tumorale, avec une réduction marquée des douleurs et une amélioration fonctionnelle significative.\n\n[ABSTRACT EN] Background Desmoid tumours (DTs) are rare tumours originating from musculoaponeurotic structures. Although benign, they may be locally aggressive, leading to pain and disability. European Society for Medical Oncology (ESMO) guidelines recommend frontline watchful waiting and medical treatment in progressing tumours. Cryoablation is an interventional radiology technique that is suitable for DT patients (pts) on the basis of repeated cycles of freezing, leading to cell death. Methods CRYODESMO-01 (ClinicalTrials.gov Identifier: NCT02476305) is a prospective, open-label, non-randomised, non-comparative, multicenter study assessing cryoablation in non-abdominopelvic progressing DT. Inclusion criteria were: pts ≥18 y.o., confirmed DT accessible to cryoablation (≥90% destruction), measurable lesion conforming to modified response evaluation criteria in solid tumours (mRECIST), progressive disease after ≥2 lines of medical therapy or with functional symptoms/pain, adequate biological parameters, informed consent, and affiliation to a medical insurance scheme. The primary end-point was the non-progression rate at 12 months; secondary end-points included safety, quality of life (QoL), assessment of pain and functional status. Findings 50 pts were enrolled (78% female) from four French centres and all were treated. The mean age was 41 y.o. (19-73). The median number of prior treatments was 2.00 [1-4] including non-steroidal anti-inflammatory drugs (NSAIDs), hormone therapy, chemotherapy, and anti-angiogenics. Tumour location included limbs (36%), trunk (60%), and cervical area (4%). The median tumour largest diameter was 89 mm. The rate of non-progressing disease at +12 months was 86% [confidence level (CI) 95% 73-94%]. Median PFS was not reached at a median follow-up of 31 months. Grade 1 and 2 toxicity occurred in 32.8% and 44.5% of patients, grade 3-4 in 22% and no Grade 5 toxicity was observed. Cryoablation significantly improved functional status and pain scores. Interpretation Cryoablation demonstrated feasibility in progressive DT pts. The study met is primary end-point with 86% of non-progressive disease at +12 months, with reduced pain, better functional status, and encouraging long-term disease control."
-  },
-  {
-    "id": "pmid-34497298",
-    "type": "article-journal",
-    "title": "Diagnostic accuracy of ultrasound-guided core needle biopsy versus incisional biopsy in soft tissue sarcoma: an institutional experience",
-    "container-title": "Scientific reports",
-    "volume": "11",
-    "issue": "1",
-    "page": "17832",
-    "DOI": "10.1038/s41598-021-96953-w",
-    "PMID": "34497298",
-    "PMCID": "PMC8426501",
-    "URL": "https://pubmed.ncbi.nlm.nih.gov/34497298/",
-    "author": [
-      {
-        "family": "Cernakova",
-        "given": "M"
-      },
-      {
-        "family": "Hobusch",
-        "given": "GM"
-      },
-      {
-        "family": "Amann",
-        "given": "G"
-      },
-      {
-        "family": "Funovics",
-        "given": "PT"
-      },
-      {
-        "family": "Windhager",
-        "given": "R"
-      },
-      {
-        "family": "Panotopoulos",
-        "given": "J"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2021
-        ]
-      ]
-    },
-    "abstract": "[SYNTHÈSE FR] Étude démontrant que la microbiopsie percutanée au trocart automatique (14G–16G) sous guidage échographique atteint une précision diagnostique de 95 à 97 % pour différencier lésion bénigne/maligne et grader les sarcomes des tissus mous, tout en réduisant drastiquement les complications par rapport à la biopsie chirurgicale incisionnelle.\n\n[ABSTRACT EN] Core needle biopsy (CNB) is gaining in importance due to its advantages in the matter of patient morbidity, time and cost. Nevertheless, controversies still exist regarding the biopsy technique of choice for the accurate diagnosis of soft tissue sarcoma (STS). This retrospective cohort study compared the diagnostic performance between ultrasound-guided CNB and incisional biopsy (IB), both performed by orthopedic surgeons. The aims of the study were to answer the following questions: (1) Is ultrasound-guided CNB a highly reliable modality for diagnosing STSs? (2) Is CNB equally useful to IB for identifying histologic subtype? (3) Had patients who underwent CNB a reduced risk of complications? One-hundred and fifty-three patients who underwent resection of soft tissue sarcoma were classified into two groups according to biopsy technique prior to surgery; CNB group (n = 95) and IB group (n = 58). The final surgical specimens were in 40 patients liposarcoma (myxoid, pleomorphic and dedifferentiated), 39 undifferentiated pleomorphic sarcoma (UPS), 33 myxofibrosarcoma, 10 synovial sarcoma, 10 leiomyosarcoma and in the remaining 21 patients different soft tissue sarcoma entities. Sarcoma location of 71 patients was in the thigh, 19 in the lower leg, 22 in the upper arm and shoulder area; 10 in the knee and gluteal region, 9 in the thoracic region, the residual 12 in other body areas. Malignancy was correctly diagnosed in 87% (83 of 95) for the CNB group and 93% (54/58) for the IB group. Correct identification rate of histologic subtype was 80% (76 of 95) in the CNB group and 83% (48 of 58) in the IB group. There were no significant differences in the correct diagnosis rates of malignancy and subtype between the two techniques. No complications were seen in the CNB group, whereas 2 patients in whom IB was performed developed pulmonary embolism and 1 patient surgical site infection. Ultrasound-guided CNB is highly accurate and not inferior to IB in diagnosing the dignity of lesions and histologic subtype in patients with suspected STSs."
   },
   {
     "id": "pmid-31601938",

@@ -55,27 +55,28 @@ KW  - 2026
 ER  - 
 
 TY  - JOUR
-TI  - Photon-counting CT-guided bone biopsy with real-time bone marrow edema mapping
-AU  - Alvarez de Sierra Garcia B
-AU  - Urtasun-Iriarte C
-AU  - Nieto P
-AU  - Alonso Burgos A
-JO  - European radiology experimental
+TI  - Genicular nerves: ultrasound anatomy, scanning techniques, and clinical implications
+AU  - Spalkit S
+AU  - Chapala S
+AU  - Shirodkar K
+AU  - Shah A
+AU  - Shah B
+AU  - Botchu R
+JO  - Journal of ultrasonography
 PY  - 2026
-VL  - 10
-IS  - 1
-SP  - 28
-DO  - 10.1186/s41747-026-00690-6
-AB  - [RÉSUMÉ CLINique COCHIN - FR] Article de *European Radiology Experimental* (2026) montrant l'apport de l'imagerie spectrale / comptage photonique et de la corrélation IRM-TDM lors des biopsies osseuses sous scanner pour cibler les zones d'infiltration médullaire active (lymphome osseux, métastases médullaires) même en l'absence d'ostéolyse corticale franche. | Points clés : Dans les suspicions de récidive de lymphome osseux, cibler la zone d'hypersignal diffusion / rehaussement IRM et éviter l'écrasement mécanique des carottes. ; Pour les biopsies synoviales sous scanner (genou, suspicion de chondromatose synoviale ou SVN), utiliser un système coaxial 14G ciblant directement le nodule synovial du récessus. ; Pour les masses pré-sacrées / sacrées (ex: suspicion de myélolipome ou chordome), l'abord trans-sacré ou para-sacré postérieur sous TDM évite toute effraction rectale ou plexique. ; Protocole anticoagulants (Eliquis) pour biopsie osseuse profonde : arrêt J-3 et reprise > 6h post-procédure en l'absence de saignement. | Pratique Cochin : Illustre le ciblage TDM de haute précision pour les biopsies osseuses (suspicion de récidive de lymphome B au genou, biopsie sacrée/pré-sacrée) et synoviales en HDJ Radio B. || [ABSTRACT ORIGINAL - EN] Objective Computed tomography-guided biopsies are needed to diagnose bone lesions, but can sometimes be challenging. We evaluated the feasibility and usefulness of photon-counting computed tomography (PCCT)-guided bone biopsies, focusing on real-time bone marrow oedema (BME) mapping to optimise diagnostic yield. Materials and methods This retrospective single-centre study included procedures performed from September 2024 to May 2025 using a first-generation dual-source PCCT scanner with Quantum HD mode. Ten consecutive patients underwent PCCT-guided bone biopsy with real-time BME reconstructions. The reference standard was established using histopathology or microbiological confirmation when available; clinical and ≥ 3-month radiologic follow-up for nondiagnostic or discordant results. Statistical analysis included descriptive statistics, independent unpaired t-tests, and correlation analysis (SPSS v22.0, RStudio). Results Ten patients, five women and five men, aged 60.5 ± 13.5 years (mean ± standard deviation), were included in the final analysis. The overall diagnostic yield was 70% (7/10), with a diagnostic accuracy of 87.5% (7/8) for cases with a definitive reference standard. Final diagnoses comprised tumour bone metastases (n = 7, 70%), bone osteomyelitis (n = 1, 10%), and bone marrow deposition disease (n = 2, 20%). Mean radiation dose (dose-length product) was 644.5 ± 112.1 mGy·cm. Monoenergetic 70-keV imaging showed significant differences between mean HU values of lytic (42.6) and sclerotic lesions (476.2) (p = 0.009), with a strong negative correlation between lesion morphology (sclerotic versus lytic) and monoenergetic 70-keV attenuation values (r = -0.84; p = 0.002). Conclusion PCCT-guided bone biopsy with real-time BME mapping proved feasible and showed encouraging diagnostic performance in this small exploratory cohort. Larger validation studies are needed. Relevance statement By combining monoenergetic images and BME mapping, PCCT-guided bone biopsy improves lesion visualisation, operator confidence, procedural efficiency, and overall safety for diagnostic tissue sampling and active disease targeting. Key points Accurate targeting of active disease within complex bone lesions during CT-guided biopsy remains challenging sometimes. PCCT-guided biopsy with real-time BME mapping can enhance lesion targeting and procedural efficiency. PCCT-guided biopsy may improve safety, diagnostic accuracy, and operator confidence.
-N1  - PMID: 41838307 | PMCID: PMC12992892 | Catégorie: Biopsies Ostéo-Articulaires, Synoviales & Sarcomes
-L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_41838307.pdf
-UR  - https://pubmed.ncbi.nlm.nih.gov/41838307/
-KW  - Biopsie osseuse
-KW  - Scanner
-KW  - Lymphome osseux
-KW  - Sacrum
-KW  - Biopsie synoviale
-KW  - Eliquis
+VL  - 26
+IS  - 105
+SP  - 20260019
+DO  - 10.15557/jou.2026.0019
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Article de référence (2026) détaillant l'anatomie échographique haute résolution des nerfs géniculés (supéro-latéral SLGN, supéro-médial SMGN, inféro-médial IMGN, nerf récurrent fibulaire et nerf du vaste intermédiaire). Précise les repères vasculaires et périostés permettant un bloc test diagnostique ultra-sélectif avant radiofréquence. | Points clés : Le bloc test anesthésique sous échographie avec faible volume (0,5–1 mL par nerf) est le meilleur prédicteur d'efficacité de la radiofréquence. ; Le Doppler couleur/micro-flux permet de visualiser les artères géniculées accompagnant les rameaux nerveux au contact du périoste. ; Ne jamais cibler le nerf géniculé inféro-latéral (ILGN) en raison du risque de lésion motrice du nerf fibulaire commun (steppage). ; L'extension du protocole à 4 ou 5 cibles (incluant le nerf supra-patellaire / vaste médial et intermédiaire) améliore le taux de répondeurs. | Pratique Cochin : Guide anatomique et échographique exact pour les tests anesthésiques du genou sous échographie (Pavillon Ollier) avant radiofréquence / neurolyse des nerfs géniculés. || [ABSTRACT ORIGINAL - EN] The genicular nerves are sensory nerves that innervate the knee joint, playing a crucial role in pain transmission. Because of their small size, they are frequently underappreciated and overlooked during routine ultrasound examinations. With the advent of high-resolution ultrasound, these nerves can be visualized directly, facilitating targeted interventions. A detailed understanding of genicular nerve anatomy, ultrasound landmarks, and characteristic imaging appearances has significant clinical implications for managing knee pain. Given the high prevalence of chronic knee pain due to osteoarthritis and post-operative conditions, ultrasound-guided genicular nerve blocks and radiofrequency ablation are increasingly utilized. Traditionally, genicular nerve procedures, targeting three nerves (the superomedial, superolateral, and inferomedial genicular nerves), were performed under fluoroscopic guidance. However, ultrasound offers distinct advantages, including real-time visualization of soft tissues, the absence of radiation exposure, and precise targeting of anatomical locations using revised landmarks and Doppler signal. These advancements have enabled more comprehensive targeting of five nerves: the superomedial genicular nerve, superolateral genicular nerve, inferomedial genicular nerve, recurrent peroneal genicular nerve, and the infrapatellar branch of the saphenous nerve. Although ablation of the recurrent peroneal genicular nerve carries a risk of injury to the common peroneal nerve, potentially resulting in foot drop, precise localization through ultrasound-guidance may help mitigate this complication. This article provides a comprehensive review of genicular nerve anatomy, ultrasound techniques, and interventional approaches, emphasizing the clinical relevance of ultrasound-guided procedures for managing knee pain and diagnosing nerve pathologies.
+N1  - PMID: 42602563 | PMCID: PMC13474172 | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42602563.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42602563/
+KW  - Nerfs géniculés
+KW  - Échographie
+KW  - Bloc test anesthésique
+KW  - Radiofréquence
+KW  - Gonarthrose
 ER  - 
 
 TY  - JOUR
@@ -108,54 +109,27 @@ KW  - Scanner
 ER  - 
 
 TY  - JOUR
-TI  - Genicular nerves: ultrasound anatomy, scanning techniques, and clinical implications
-AU  - Spalkit S
-AU  - Chapala S
-AU  - Shirodkar K
-AU  - Shah A
-AU  - Shah B
-AU  - Botchu R
-JO  - Journal of ultrasonography
+TI  - Photon-counting CT-guided bone biopsy with real-time bone marrow edema mapping
+AU  - Alvarez de Sierra Garcia B
+AU  - Urtasun-Iriarte C
+AU  - Nieto P
+AU  - Alonso Burgos A
+JO  - European radiology experimental
 PY  - 2026
-VL  - 26
-IS  - 105
-SP  - 20260019
-DO  - 10.15557/jou.2026.0019
-AB  - [RÉSUMÉ CLINique COCHIN - FR] Article de référence (2026) détaillant l'anatomie échographique haute résolution des nerfs géniculés (supéro-latéral SLGN, supéro-médial SMGN, inféro-médial IMGN, nerf récurrent fibulaire et nerf du vaste intermédiaire). Précise les repères vasculaires et périostés permettant un bloc test diagnostique ultra-sélectif avant radiofréquence. | Points clés : Le bloc test anesthésique sous échographie avec faible volume (0,5–1 mL par nerf) est le meilleur prédicteur d'efficacité de la radiofréquence. ; Le Doppler couleur/micro-flux permet de visualiser les artères géniculées accompagnant les rameaux nerveux au contact du périoste. ; Ne jamais cibler le nerf géniculé inféro-latéral (ILGN) en raison du risque de lésion motrice du nerf fibulaire commun (steppage). ; L'extension du protocole à 4 ou 5 cibles (incluant le nerf supra-patellaire / vaste médial et intermédiaire) améliore le taux de répondeurs. | Pratique Cochin : Guide anatomique et échographique exact pour les tests anesthésiques du genou sous échographie (Pavillon Ollier) avant radiofréquence / neurolyse des nerfs géniculés. || [ABSTRACT ORIGINAL - EN] The genicular nerves are sensory nerves that innervate the knee joint, playing a crucial role in pain transmission. Because of their small size, they are frequently underappreciated and overlooked during routine ultrasound examinations. With the advent of high-resolution ultrasound, these nerves can be visualized directly, facilitating targeted interventions. A detailed understanding of genicular nerve anatomy, ultrasound landmarks, and characteristic imaging appearances has significant clinical implications for managing knee pain. Given the high prevalence of chronic knee pain due to osteoarthritis and post-operative conditions, ultrasound-guided genicular nerve blocks and radiofrequency ablation are increasingly utilized. Traditionally, genicular nerve procedures, targeting three nerves (the superomedial, superolateral, and inferomedial genicular nerves), were performed under fluoroscopic guidance. However, ultrasound offers distinct advantages, including real-time visualization of soft tissues, the absence of radiation exposure, and precise targeting of anatomical locations using revised landmarks and Doppler signal. These advancements have enabled more comprehensive targeting of five nerves: the superomedial genicular nerve, superolateral genicular nerve, inferomedial genicular nerve, recurrent peroneal genicular nerve, and the infrapatellar branch of the saphenous nerve. Although ablation of the recurrent peroneal genicular nerve carries a risk of injury to the common peroneal nerve, potentially resulting in foot drop, precise localization through ultrasound-guidance may help mitigate this complication. This article provides a comprehensive review of genicular nerve anatomy, ultrasound techniques, and interventional approaches, emphasizing the clinical relevance of ultrasound-guided procedures for managing knee pain and diagnosing nerve pathologies.
-N1  - PMID: 42602563 | PMCID: PMC13474172 | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux
-L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42602563.pdf
-UR  - https://pubmed.ncbi.nlm.nih.gov/42602563/
-KW  - Nerfs géniculés
-KW  - Échographie
-KW  - Bloc test anesthésique
-KW  - Radiofréquence
-KW  - Gonarthrose
-ER  - 
-
-TY  - JOUR
-TI  - Cementoplasty to cryoablation: review and current status
-AU  - Tan JR
-AU  - Yan YY
-AU  - Sheikh A
-AU  - Ouellette H
-AU  - Mallinson P
-AU  - Munk PL
-JO  - BJR open
-PY  - 2024
-VL  - 6
+VL  - 10
 IS  - 1
-SP  - tzae007
-DO  - 10.1093/bjro/tzae007
-AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue générale (*BJR Open*, 2024) détaillant l'évolution des gestes percutanés osseux : critères de sélection entre cimentoplastie seule, ostéosynthèse par vis canulées et association ablation thermique + consolidation selon la classification de Mirels et le score SINS. | Points clés : Le ciment PMMA résiste parfaitement à la compression (corps vertébral, toit du cotyle) mais nécessite des vis canulées en zone de cisaillement (anneau pelvien, col fémoral). ; Toujours attendre la fonte du glaçon après cryoablation avant d'injecter le ciment pour éviter une polymérisation retardée ou des fuites. ; La cryoablation préalable réduit la pression intra-tumorale et diminue le risque de fuite veineuse ou épidurale de ciment. ; L'évaluation multidisciplinaire (radiologue interventionnel, orthopédiste, oncologue, anesthésiste) optimise le calendrier vis-à-vis de la radiothérapie. | Pratique Cochin : Synthétise la stratégie multimodale appliquée à Cochin : associer destruction tumorale (cryoablation/RF) et consolidation mécanique (cimentoplastie / vissage) en une seule séance. || [ABSTRACT ORIGINAL - EN] Recent advances in percutaneous image-guided techniques have empowered interventional radiologists with diverse treatment options for the management of musculoskeletal lesions. Of note, there is growing utility for cementoplasty procedures, with indications ranging from stabilization of bone metastases to treatment of painful vertebral compression fractures. Likewise, cryoablation has emerged as a viable adjunct in the treatment of both primary and secondary bone and soft tissue neoplasms. These treatment options have been progressively incorporated into the multidisciplinary approach to holistic care of patients, alongside conventional radiotherapy, systemic therapy, surgery, and analgesia. This review article serves to outline the indications, technical considerations, latest developments, and evidence for the burgeoning role of cementoplasty and cryoablation in the musculoskeletal system, with an emphasis on pain palliation and tumour control.
-N1  - PMID: 38544877 | PMCID: PMC10965423 | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
-L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_38544877.pdf
-UR  - https://pubmed.ncbi.nlm.nih.gov/38544877/
-KW  - Cimentoplastie
-KW  - Cryoablation
-KW  - Ostéosynthèse
-KW  - PMMA
-KW  - Biomécanique
-KW  - BJR Open
+SP  - 28
+DO  - 10.1186/s41747-026-00690-6
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Article de *European Radiology Experimental* (2026) montrant l'apport de l'imagerie spectrale / comptage photonique et de la corrélation IRM-TDM lors des biopsies osseuses sous scanner pour cibler les zones d'infiltration médullaire active (lymphome osseux, métastases médullaires) même en l'absence d'ostéolyse corticale franche. | Points clés : Dans les suspicions de récidive de lymphome osseux, cibler la zone d'hypersignal diffusion / rehaussement IRM et éviter l'écrasement mécanique des carottes. ; Pour les biopsies synoviales sous scanner (genou, suspicion de chondromatose synoviale ou SVN), utiliser un système coaxial 14G ciblant directement le nodule synovial du récessus. ; Pour les masses pré-sacrées / sacrées (ex: suspicion de myélolipome ou chordome), l'abord trans-sacré ou para-sacré postérieur sous TDM évite toute effraction rectale ou plexique. ; Protocole anticoagulants (Eliquis) pour biopsie osseuse profonde : arrêt J-3 et reprise > 6h post-procédure en l'absence de saignement. | Pratique Cochin : Illustre le ciblage TDM de haute précision pour les biopsies osseuses (suspicion de récidive de lymphome B au genou, biopsie sacrée/pré-sacrée) et synoviales en HDJ Radio B. || [ABSTRACT ORIGINAL - EN] Objective Computed tomography-guided biopsies are needed to diagnose bone lesions, but can sometimes be challenging. We evaluated the feasibility and usefulness of photon-counting computed tomography (PCCT)-guided bone biopsies, focusing on real-time bone marrow oedema (BME) mapping to optimise diagnostic yield. Materials and methods This retrospective single-centre study included procedures performed from September 2024 to May 2025 using a first-generation dual-source PCCT scanner with Quantum HD mode. Ten consecutive patients underwent PCCT-guided bone biopsy with real-time BME reconstructions. The reference standard was established using histopathology or microbiological confirmation when available; clinical and ≥ 3-month radiologic follow-up for nondiagnostic or discordant results. Statistical analysis included descriptive statistics, independent unpaired t-tests, and correlation analysis (SPSS v22.0, RStudio). Results Ten patients, five women and five men, aged 60.5 ± 13.5 years (mean ± standard deviation), were included in the final analysis. The overall diagnostic yield was 70% (7/10), with a diagnostic accuracy of 87.5% (7/8) for cases with a definitive reference standard. Final diagnoses comprised tumour bone metastases (n = 7, 70%), bone osteomyelitis (n = 1, 10%), and bone marrow deposition disease (n = 2, 20%). Mean radiation dose (dose-length product) was 644.5 ± 112.1 mGy·cm. Monoenergetic 70-keV imaging showed significant differences between mean HU values of lytic (42.6) and sclerotic lesions (476.2) (p = 0.009), with a strong negative correlation between lesion morphology (sclerotic versus lytic) and monoenergetic 70-keV attenuation values (r = -0.84; p = 0.002). Conclusion PCCT-guided bone biopsy with real-time BME mapping proved feasible and showed encouraging diagnostic performance in this small exploratory cohort. Larger validation studies are needed. Relevance statement By combining monoenergetic images and BME mapping, PCCT-guided bone biopsy improves lesion visualisation, operator confidence, procedural efficiency, and overall safety for diagnostic tissue sampling and active disease targeting. Key points Accurate targeting of active disease within complex bone lesions during CT-guided biopsy remains challenging sometimes. PCCT-guided biopsy with real-time BME mapping can enhance lesion targeting and procedural efficiency. PCCT-guided biopsy may improve safety, diagnostic accuracy, and operator confidence.
+N1  - PMID: 41838307 | PMCID: PMC12992892 | Catégorie: Biopsies Ostéo-Articulaires, Synoviales & Sarcomes
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_41838307.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/41838307/
+KW  - Biopsie osseuse
+KW  - Scanner
+KW  - Lymphome osseux
+KW  - Sacrum
+KW  - Biopsie synoviale
+KW  - Eliquis
 ER  - 
 
 TY  - JOUR
@@ -183,6 +157,34 @@ KW  - Nodule paravertébral
 KW  - Trapèze
 KW  - Hydrodissection
 KW  - Insights into Imaging
+ER  - 
+
+TY  - JOUR
+TI  - Safety and Efficacy of Percutaneous Morton Neuroma Cryoneurolysis Under Ultrasound Guidance
+AU  - Moulin B
+AU  - Angelopoulos G
+AU  - Sarrazin JL
+AU  - Romano S
+AU  - Vignaux O
+AU  - Guenoun T
+AU  - Di Primio M
+AU  - Hakime A
+JO  - Cardiovascular and interventional radiology
+PY  - 2024
+VL  - 47
+IS  - 6
+SP  - 795-800
+DO  - 10.1007/s00270-024-03669-1
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de *CardioVascular and Interventional Radiology (CVIR)* (2024) évaluant la cryoneurolyse percutanée du névrome de Morton réfractaire au traitement conservateur. Réalisée en ambulatoire sous anesthésie locale, la cryoablation induit une dégénérescence wallérienne réversible (axonotmésis) sans formation de névrome d'amputation, avec un succès clinique supérieur à 80 %. | Points clés : Réalisable en ambulatoire strict sous anesthésie locale (AL) avec reprise immédiate de l'appui à la sortie du scanner. ; Contrairement à la chirurgie ou à l'alcoolisation, la cryoneurolyse respecte la gaine conjonctive nerveuse (axonotmésis de type II de Sunderland) et ne crée jamais de névrome d'amputation. ; Taux de satisfaction et de réduction significative des douleurs > 80–85 % à 6 et 12 mois. ; Protection cutanée essentielle dans l'espace inter-métatarsien étroit : contrôle de l'extension du glaçon au scanner/écho et hydrodissection sous-cutanée dorsale si nécessaire. | Pratique Cochin : Référence centrale pour les cryothérapies de névrome de Morton (3e espace inter-métatarsien) réalisées sous anesthésie locale au scanner à Cochin par le Dr Thomas Lefèvre. || [ABSTRACT ORIGINAL - EN] Purpose To assess the technical success, safety and early efficacy of Morton neuroma (MN) cryoneurolysis. Materials and methods Retrospective review of 54 consecutive patients with MN treated with cryoneurolysis after failure of conservative treatment, from September 2022 to June 2023. Outcomes measurements included technical success (defined a successful ultrasound-guided placement of the cryoprobe), procedural safety according to Cirse classification and change in 6 months post-procedure by pain numeric rating scale (pNRS). Results A total of 59 MN were treated during 55 procedures. Mean procedure duration was 47 min, all patients were discharged 2 h after the intervention. Technical success was 98.1%. No Cirse grade 3, 4 or 5 complication was reported. Three grade 2 complication occurred, including two chilblain-type lesions and one bone insufficiency fracture. At 6 months post-procedure, pNRS score was significantly decreased (2.7 ± 2.2 vs 7.1 ± 1.1) (p Conclusion Cryoneurolysis seems to be safe for the treatment of Morton neuroma. Six-month pain relief is promising and needs to be confirmed at long term.
+N1  - PMID: 38438685 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_38438685.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/38438685/
+KW  - Névrome de Morton
+KW  - Cryoneurolyse
+KW  - Cryoablation
+KW  - Anesthésie locale
+KW  - Avant-pied
+KW  - CVIR 2024
 ER  - 
 
 TY  - JOUR
@@ -214,31 +216,29 @@ KW  - Scanner
 ER  - 
 
 TY  - JOUR
-TI  - Safety and Efficacy of Percutaneous Morton Neuroma Cryoneurolysis Under Ultrasound Guidance
-AU  - Moulin B
-AU  - Angelopoulos G
-AU  - Sarrazin JL
-AU  - Romano S
-AU  - Vignaux O
-AU  - Guenoun T
-AU  - Di Primio M
-AU  - Hakime A
-JO  - Cardiovascular and interventional radiology
+TI  - Cementoplasty to cryoablation: review and current status
+AU  - Tan JR
+AU  - Yan YY
+AU  - Sheikh A
+AU  - Ouellette H
+AU  - Mallinson P
+AU  - Munk PL
+JO  - BJR open
 PY  - 2024
-VL  - 47
-IS  - 6
-SP  - 795-800
-DO  - 10.1007/s00270-024-03669-1
-AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de *CardioVascular and Interventional Radiology (CVIR)* (2024) évaluant la cryoneurolyse percutanée du névrome de Morton réfractaire au traitement conservateur. Réalisée en ambulatoire sous anesthésie locale, la cryoablation induit une dégénérescence wallérienne réversible (axonotmésis) sans formation de névrome d'amputation, avec un succès clinique supérieur à 80 %. | Points clés : Réalisable en ambulatoire strict sous anesthésie locale (AL) avec reprise immédiate de l'appui à la sortie du scanner. ; Contrairement à la chirurgie ou à l'alcoolisation, la cryoneurolyse respecte la gaine conjonctive nerveuse (axonotmésis de type II de Sunderland) et ne crée jamais de névrome d'amputation. ; Taux de satisfaction et de réduction significative des douleurs > 80–85 % à 6 et 12 mois. ; Protection cutanée essentielle dans l'espace inter-métatarsien étroit : contrôle de l'extension du glaçon au scanner/écho et hydrodissection sous-cutanée dorsale si nécessaire. | Pratique Cochin : Référence centrale pour les cryothérapies de névrome de Morton (3e espace inter-métatarsien) réalisées sous anesthésie locale au scanner à Cochin par le Dr Thomas Lefèvre. || [ABSTRACT ORIGINAL - EN] Purpose To assess the technical success, safety and early efficacy of Morton neuroma (MN) cryoneurolysis. Materials and methods Retrospective review of 54 consecutive patients with MN treated with cryoneurolysis after failure of conservative treatment, from September 2022 to June 2023. Outcomes measurements included technical success (defined a successful ultrasound-guided placement of the cryoprobe), procedural safety according to Cirse classification and change in 6 months post-procedure by pain numeric rating scale (pNRS). Results A total of 59 MN were treated during 55 procedures. Mean procedure duration was 47 min, all patients were discharged 2 h after the intervention. Technical success was 98.1%. No Cirse grade 3, 4 or 5 complication was reported. Three grade 2 complication occurred, including two chilblain-type lesions and one bone insufficiency fracture. At 6 months post-procedure, pNRS score was significantly decreased (2.7 ± 2.2 vs 7.1 ± 1.1) (p Conclusion Cryoneurolysis seems to be safe for the treatment of Morton neuroma. Six-month pain relief is promising and needs to be confirmed at long term.
-N1  - PMID: 38438685 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux
-L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_38438685.pdf
-UR  - https://pubmed.ncbi.nlm.nih.gov/38438685/
-KW  - Névrome de Morton
-KW  - Cryoneurolyse
+VL  - 6
+IS  - 1
+SP  - tzae007
+DO  - 10.1093/bjro/tzae007
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue générale (*BJR Open*, 2024) détaillant l'évolution des gestes percutanés osseux : critères de sélection entre cimentoplastie seule, ostéosynthèse par vis canulées et association ablation thermique + consolidation selon la classification de Mirels et le score SINS. | Points clés : Le ciment PMMA résiste parfaitement à la compression (corps vertébral, toit du cotyle) mais nécessite des vis canulées en zone de cisaillement (anneau pelvien, col fémoral). ; Toujours attendre la fonte du glaçon après cryoablation avant d'injecter le ciment pour éviter une polymérisation retardée ou des fuites. ; La cryoablation préalable réduit la pression intra-tumorale et diminue le risque de fuite veineuse ou épidurale de ciment. ; L'évaluation multidisciplinaire (radiologue interventionnel, orthopédiste, oncologue, anesthésiste) optimise le calendrier vis-à-vis de la radiothérapie. | Pratique Cochin : Synthétise la stratégie multimodale appliquée à Cochin : associer destruction tumorale (cryoablation/RF) et consolidation mécanique (cimentoplastie / vissage) en une seule séance. || [ABSTRACT ORIGINAL - EN] Recent advances in percutaneous image-guided techniques have empowered interventional radiologists with diverse treatment options for the management of musculoskeletal lesions. Of note, there is growing utility for cementoplasty procedures, with indications ranging from stabilization of bone metastases to treatment of painful vertebral compression fractures. Likewise, cryoablation has emerged as a viable adjunct in the treatment of both primary and secondary bone and soft tissue neoplasms. These treatment options have been progressively incorporated into the multidisciplinary approach to holistic care of patients, alongside conventional radiotherapy, systemic therapy, surgery, and analgesia. This review article serves to outline the indications, technical considerations, latest developments, and evidence for the burgeoning role of cementoplasty and cryoablation in the musculoskeletal system, with an emphasis on pain palliation and tumour control.
+N1  - PMID: 38544877 | PMCID: PMC10965423 | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_38544877.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/38544877/
+KW  - Cimentoplastie
 KW  - Cryoablation
-KW  - Anesthésie locale
-KW  - Avant-pied
-KW  - CVIR 2024
+KW  - Ostéosynthèse
+KW  - PMMA
+KW  - Biomécanique
+KW  - BJR Open
 ER  - 
 
 TY  - JOUR
@@ -376,6 +376,32 @@ KW  - Kystographie
 ER  - 
 
 TY  - JOUR
+TI  - Diagnostic accuracy of ultrasound-guided core needle biopsy versus incisional biopsy in soft tissue sarcoma: an institutional experience
+AU  - Cernakova M
+AU  - Hobusch GM
+AU  - Amann G
+AU  - Funovics PT
+AU  - Windhager R
+AU  - Panotopoulos J
+JO  - Scientific reports
+PY  - 2021
+VL  - 11
+IS  - 1
+SP  - 17832
+DO  - 10.1038/s41598-021-96953-w
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude démontrant que la microbiopsie percutanée au trocart automatique (14G–16G) sous guidage échographique atteint une précision diagnostique de 95 à 97 % pour différencier lésion bénigne/maligne et grader les sarcomes des tissus mous, tout en réduisant drastiquement les complications par rapport à la biopsie chirurgicale incisionnelle. | Points clés : Règle d'or carcinologique : ne jamais traverser un compartiment anatomique sain ni franchir le fascia profond lors de la biopsie d'une lésion superficielle sus-aponévrotique. ; Le trajet de ponction doit toujours être situé sur la future ligne d'incision chirurgicale définie avec les chirurgiens (Pr Anract / Pr Biau / Dr Dumaine). ; Précision diagnostique > 95 % pour la malignité et > 88 % pour le sous-type histologique et le grade FNCLCC. ; En cas d'antécédent oncologique (ex: mélanome), les prélèvements multiples permettent l'immunohistochimie et le profilage moléculaire complet. | Pratique Cochin : Correspond exactement aux biopsies de masses des parties molles (cuisse, bras apposée sur le fascia sans traverser le fascia) demandées par l'orthopédie Cochin (Pr Anract, Pr Biau, Dr Dumaine). || [ABSTRACT ORIGINAL - EN] Core needle biopsy (CNB) is gaining in importance due to its advantages in the matter of patient morbidity, time and cost. Nevertheless, controversies still exist regarding the biopsy technique of choice for the accurate diagnosis of soft tissue sarcoma (STS). This retrospective cohort study compared the diagnostic performance between ultrasound-guided CNB and incisional biopsy (IB), both performed by orthopedic surgeons. The aims of the study were to answer the following questions: (1) Is ultrasound-guided CNB a highly reliable modality for diagnosing STSs? (2) Is CNB equally useful to IB for identifying histologic subtype? (3) Had patients who underwent CNB a reduced risk of complications? One-hundred and fifty-three patients who underwent resection of soft tissue sarcoma were classified into two groups according to biopsy technique prior to surgery; CNB group (n = 95) and IB group (n = 58). The final surgical specimens were in 40 patients liposarcoma (myxoid, pleomorphic and dedifferentiated), 39 undifferentiated pleomorphic sarcoma (UPS), 33 myxofibrosarcoma, 10 synovial sarcoma, 10 leiomyosarcoma and in the remaining 21 patients different soft tissue sarcoma entities. Sarcoma location of 71 patients was in the thigh, 19 in the lower leg, 22 in the upper arm and shoulder area; 10 in the knee and gluteal region, 9 in the thoracic region, the residual 12 in other body areas. Malignancy was correctly diagnosed in 87% (83 of 95) for the CNB group and 93% (54/58) for the IB group. Correct identification rate of histologic subtype was 80% (76 of 95) in the CNB group and 83% (48 of 58) in the IB group. There were no significant differences in the correct diagnosis rates of malignancy and subtype between the two techniques. No complications were seen in the CNB group, whereas 2 patients in whom IB was performed developed pulmonary embolism and 1 patient surgical site infection. Ultrasound-guided CNB is highly accurate and not inferior to IB in diagnosing the dignity of lesions and histologic subtype in patients with suspected STSs.
+N1  - PMID: 34497298 | PMCID: PMC8426501 | Catégorie: Biopsies Ostéo-Articulaires, Synoviales & Sarcomes
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_34497298.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/34497298/
+KW  - Biopsie écho-guidée
+KW  - Sarcome
+KW  - Parties molles
+KW  - Fascia
+KW  - Compartiment
+KW  - NetSarc Cochin
+ER  - 
+
+TY  - JOUR
 TI  - CRYODESMO-O1: A prospective, open phase II study of cryoablation in desmoid tumour patients progressing after medical treatment
 AU  - Kurtz JE
 AU  - Buy X
@@ -407,32 +433,6 @@ KW  - Cryoablation
 KW  - Plexus brachial
 KW  - Parties molles
 KW  - mRECIST
-ER  - 
-
-TY  - JOUR
-TI  - Diagnostic accuracy of ultrasound-guided core needle biopsy versus incisional biopsy in soft tissue sarcoma: an institutional experience
-AU  - Cernakova M
-AU  - Hobusch GM
-AU  - Amann G
-AU  - Funovics PT
-AU  - Windhager R
-AU  - Panotopoulos J
-JO  - Scientific reports
-PY  - 2021
-VL  - 11
-IS  - 1
-SP  - 17832
-DO  - 10.1038/s41598-021-96953-w
-AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude démontrant que la microbiopsie percutanée au trocart automatique (14G–16G) sous guidage échographique atteint une précision diagnostique de 95 à 97 % pour différencier lésion bénigne/maligne et grader les sarcomes des tissus mous, tout en réduisant drastiquement les complications par rapport à la biopsie chirurgicale incisionnelle. | Points clés : Règle d'or carcinologique : ne jamais traverser un compartiment anatomique sain ni franchir le fascia profond lors de la biopsie d'une lésion superficielle sus-aponévrotique. ; Le trajet de ponction doit toujours être situé sur la future ligne d'incision chirurgicale définie avec les chirurgiens (Pr Anract / Pr Biau / Dr Dumaine). ; Précision diagnostique > 95 % pour la malignité et > 88 % pour le sous-type histologique et le grade FNCLCC. ; En cas d'antécédent oncologique (ex: mélanome), les prélèvements multiples permettent l'immunohistochimie et le profilage moléculaire complet. | Pratique Cochin : Correspond exactement aux biopsies de masses des parties molles (cuisse, bras apposée sur le fascia sans traverser le fascia) demandées par l'orthopédie Cochin (Pr Anract, Pr Biau, Dr Dumaine). || [ABSTRACT ORIGINAL - EN] Core needle biopsy (CNB) is gaining in importance due to its advantages in the matter of patient morbidity, time and cost. Nevertheless, controversies still exist regarding the biopsy technique of choice for the accurate diagnosis of soft tissue sarcoma (STS). This retrospective cohort study compared the diagnostic performance between ultrasound-guided CNB and incisional biopsy (IB), both performed by orthopedic surgeons. The aims of the study were to answer the following questions: (1) Is ultrasound-guided CNB a highly reliable modality for diagnosing STSs? (2) Is CNB equally useful to IB for identifying histologic subtype? (3) Had patients who underwent CNB a reduced risk of complications? One-hundred and fifty-three patients who underwent resection of soft tissue sarcoma were classified into two groups according to biopsy technique prior to surgery; CNB group (n = 95) and IB group (n = 58). The final surgical specimens were in 40 patients liposarcoma (myxoid, pleomorphic and dedifferentiated), 39 undifferentiated pleomorphic sarcoma (UPS), 33 myxofibrosarcoma, 10 synovial sarcoma, 10 leiomyosarcoma and in the remaining 21 patients different soft tissue sarcoma entities. Sarcoma location of 71 patients was in the thigh, 19 in the lower leg, 22 in the upper arm and shoulder area; 10 in the knee and gluteal region, 9 in the thoracic region, the residual 12 in other body areas. Malignancy was correctly diagnosed in 87% (83 of 95) for the CNB group and 93% (54/58) for the IB group. Correct identification rate of histologic subtype was 80% (76 of 95) in the CNB group and 83% (48 of 58) in the IB group. There were no significant differences in the correct diagnosis rates of malignancy and subtype between the two techniques. No complications were seen in the CNB group, whereas 2 patients in whom IB was performed developed pulmonary embolism and 1 patient surgical site infection. Ultrasound-guided CNB is highly accurate and not inferior to IB in diagnosing the dignity of lesions and histologic subtype in patients with suspected STSs.
-N1  - PMID: 34497298 | PMCID: PMC8426501 | Catégorie: Biopsies Ostéo-Articulaires, Synoviales & Sarcomes
-L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_34497298.pdf
-UR  - https://pubmed.ncbi.nlm.nih.gov/34497298/
-KW  - Biopsie écho-guidée
-KW  - Sarcome
-KW  - Parties molles
-KW  - Fascia
-KW  - Compartiment
-KW  - NetSarc Cochin
 ER  - 
 
 TY  - JOUR

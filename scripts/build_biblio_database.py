@@ -660,9 +660,10 @@ def generate_article_pdf(art: dict, pdf_path: Path, jats_sections: list = None):
 
     meta_str = (
         f"<b>Auteurs :</b> {html.escape(art.get('authors_short', ''))} &nbsp;|&nbsp; "
-        f"<b>Revue :</b> <i>{html.escape(art.get('journal', ''))}</i> ({art.get('year', '')}) &nbsp;|&nbsp; "
+        f"<b>Revue :</b> <i>{html.escape(art.get('journal', ''))}</i> "
+        f"(<b>IF : {html.escape(str(art.get('impact_factor', 'N/A')))}</b>) &nbsp;|&nbsp; "
+        f"<b>Date :</b> {html.escape(art.get('pub_date_fr', str(art.get('year', ''))))} &nbsp;|&nbsp; "
         f"<b>PMID :</b> {art.get('pmid', '')} &nbsp;|&nbsp; "
-        f"<b>DOI :</b> {html.escape(art.get('doi', 'N/A'))} &nbsp;|&nbsp; "
         f"<b>Modalité :</b> {html.escape(art.get('modality', ''))}"
     )
     story.append(Paragraph(meta_str, style_meta))
@@ -700,6 +701,77 @@ def generate_article_pdf(art: dict, pdf_path: Path, jats_sections: list = None):
     doc.build(story)
 
 
+MONTHS_FR = {
+    1: "Janv.",
+    2: "Févr.",
+    3: "Mars",
+    4: "Avr.",
+    5: "Mai",
+    6: "Juin",
+    7: "Juil.",
+    8: "Août",
+    9: "Sept.",
+    10: "Oct.",
+    11: "Nov.",
+    12: "Déc.",
+}
+
+JOURNAL_IMPACT_FACTORS = {
+    "radiology": (12.1, "Radiology"),
+    "radiographics": (5.2, "RadioGraphics"),
+    "european journal of cancer": (7.6, "Eur J Cancer"),
+    "european radiology experimental": (3.7, "Eur Radiol Exp"),
+    "european radiology": (4.7, "Eur Radiol"),
+    "insights into imaging": (4.1, "Insights Imaging"),
+    "skeletal radiology": (1.9, "Skeletal Radiol"),
+    "cardiovascular and interventional radiology": (2.8, "CVIR"),
+    "journal of vascular and interventional radiology": (2.6, "JVIR"),
+    "diagnostic and interventional imaging": (3.9, "Diagn Interv Imaging"),
+    "current oncology reports": (4.7, "Curr Oncol Rep"),
+    "current oncology": (2.8, "Curr Oncol"),
+    "clinical orthopaedics and related research": (4.2, "Clin Orthop Relat Res"),
+    "scientific reports": (3.8, "Sci Rep"),
+    "journal of bone oncology": (3.4, "J Bone Oncol"),
+    "diagnostics": (3.0, "Diagnostics"),
+    "journal of clinical medicine": (3.0, "J Clin Med"),
+    "pain medicine": (2.9, "Pain Med"),
+    "pediatric radiology": (2.1, "Pediatr Radiol"),
+    "european journal of orthopaedic surgery": (1.5, "Eur J Orthop Surg Traumatol"),
+    "journal of ultrasonography": (1.6, "J Ultrason"),
+    "bjr open": (1.3, "BJR Open"),
+}
+
+
+def get_journal_info_and_if(journal_title: str) -> tuple:
+    j_low = (journal_title or "").lower()
+    # Sort keys by length descending so "european radiology experimental" matches before "european radiology"
+    for key in sorted(JOURNAL_IMPACT_FACTORS.keys(), key=len, reverse=True):
+        if key in j_low:
+            return JOURNAL_IMPACT_FACTORS[key]
+    return (2.5, journal_title)
+
+
+def extract_pub_month_and_date(r: dict, year_str: str) -> tuple:
+    ji = r.get("journalInfo", {})
+    m_num = ji.get("monthOfPublication")
+    try:
+        m_num = int(m_num)
+    except (TypeError, ValueError):
+        m_num = 0
+
+    if not (1 <= m_num <= 12):
+        fpd = r.get("firstPublicationDate") or r.get("electronicPublicationDate") or ""
+        parts = str(fpd).split("-")
+        if len(parts) >= 2 and parts[1].isdigit():
+            m_cand = int(parts[1])
+            if 1 <= m_cand <= 12:
+                m_num = m_cand
+
+    month_fr = MONTHS_FR.get(m_num, "")
+    pub_date_fr = f"{month_fr} {year_str}".strip() if month_fr else str(year_str)
+    return m_num if m_num else 1, month_fr, pub_date_fr
+
+
 def main():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     PDFS_DIR.mkdir(parents=True, exist_ok=True)
@@ -725,6 +797,9 @@ def main():
         journal_info = r.get("journalInfo", {})
         journal = journal_info.get("journal", {}).get("title", "")
         year = str(r.get("pubYear", "2024"))
+        month_num, month_fr, pub_date_fr = extract_pub_month_and_date(r, year)
+        impact_factor, journal_short = get_journal_info_and_if(journal)
+
         volume = str(journal_info.get("volume", ""))
         issue = str(journal_info.get("issue", ""))
         pages = str(r.get("pageInfo", ""))
@@ -763,7 +838,12 @@ def main():
             "authors_list": authors_list,
             "authors_short": authors_short,
             "journal": journal,
+            "journal_short": journal_short,
+            "impact_factor": impact_factor,
             "year": int(year) if year.isdigit() else 2024,
+            "month_num": month_num,
+            "month_fr": month_fr,
+            "pub_date_fr": pub_date_fr,
             "volume": volume,
             "issue": issue,
             "pages": pages,
@@ -846,8 +926,8 @@ def main():
         art_obj["pdf_size_kb"] = round(pdf_path.stat().st_size / 1024)
         articles.append(art_obj)
 
-    # Sort articles by year descending, then category
-    articles.sort(key=lambda x: (-x["year"], x["category_id"]))
+    # Sort articles by year and month descending, then category
+    articles.sort(key=lambda x: (-x["year"], -x.get("month_num", 1), x["category_id"]))
 
     (DATA_DIR / "articles.json").write_text(
         json.dumps(articles, indent=2, ensure_ascii=False), encoding="utf-8"
