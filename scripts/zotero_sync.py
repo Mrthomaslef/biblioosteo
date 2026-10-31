@@ -660,10 +660,11 @@ if __name__ == "__main__":
     if ARTICLES_JSON.exists():
         arts = json.loads(ARTICLES_JSON.read_text(encoding="utf-8"))
         generate_static_exports(arts)
-    # Always sync to local Zotero Desktop on the Mac mini if installed
+    # Always sync to local Zotero Desktop on the Mac mini if installed (auto-syncs to Zotero Cloud / MacBook Air)
     sync_to_local_zotero_desktop()
     api_key = os.environ.get("ZOTERO_API_KEY", "").strip()
     if not api_key and len(sys.argv) > 1:
         api_key = sys.argv[1].strip()
     if api_key:
         sync_to_zotero(api_key)
+
