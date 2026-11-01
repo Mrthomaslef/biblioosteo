@@ -209,14 +209,20 @@ def format_child_note_html(art: dict, github_pages_url: str) -> str:
     protocol_fr = html.escape(art.get("protocol_fr", ""))
     cochin_link = html.escape(art.get("cochin_link", ""))
     abstract_en = html.escape(art.get("abstract_en", ""))
-    pdf_url = f"{github_pages_url}/{art.get('pdf_file', '')}"
+    rel_pdf = art.get("pdf_file")
+    ext_url = html.escape(art.get("article_url") or art.get("doi_url") or f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/")
+    if rel_pdf:
+        pdf_url = f"{github_pages_url}/{rel_pdf}"
+        access_html = f"<strong>PDF original :</strong> <a href='{pdf_url}'>Ouvrir le PDF intégral</a> | <strong>Lien :</strong> <a href='{ext_url}'>DOI / Éditeur</a>"
+    else:
+        access_html = f"<strong>Accès article :</strong> <a href='{ext_url}'>Lien direct éditeur / DOI</a>"
 
     return (
         f"<h2>🇫🇷 Fiche de Synthèse BiblioOstéo — {title_fr}</h2>"
         f"<p><strong>Titre original :</strong> {title}</p>"
         f"<p><strong>Catégorie :</strong> {html.escape(art.get('category_label', ''))} | "
         f"<strong>PMID :</strong> <a href='https://pubmed.ncbi.nlm.nih.gov/{pmid}/'>{pmid}</a> | "
-        f"<strong>PDF :</strong> <a href='{pdf_url}'>Ouvrir le PDF complet</a></p>"
+        f"{access_html}</p>"
         f"<h3>🎯 Pertinence Agenda Interventionnel (Hôpital Cochin - Radio B)</h3>"
         f"<p>{cochin_link}</p>"
         f"<h3>📋 Résumé Clinique Structuré</h3>"
@@ -233,12 +239,12 @@ def format_child_note_html(art: dict, github_pages_url: str) -> str:
 
 def upload_pdf_attachment(user_id: int, api_key: str, parent_key: str, pdf_path: Path, github_pages_url: str, rel_pdf: str):
     """
-    Create a PDF attachment on the parent Zotero item.
+    Create a PDF attachment on the parent Zotero item ONLY when a real publisher/OA PDF exists.
     Attempts native Zotero cloud file storage upload first; if storage quota is full or restricted,
-    automatically attaches a linked_url PDF pointing to the GitHub Pages hosted PDF.
+    automatically attaches a linked_url PDF pointing to the GitHub Pages hosted real PDF.
     """
-    if not pdf_path.exists():
-        return False, "missing_local_pdf"
+    if not rel_pdf or not pdf_path or not pdf_path.exists():
+        return False, "no_local_pdf_link_only"
 
     # 1. Try creating an imported_file attachment item
     filename = pdf_path.name
@@ -249,7 +255,7 @@ def upload_pdf_attachment(user_id: int, api_key: str, parent_key: str, pdf_path:
         "title": f"PDF - {filename}",
         "contentType": "application/pdf",
         "filename": filename,
-        "tags": [{"tag": "PDF Complet"}, {"tag": "BiblioOstéo"}]
+        "tags": [{"tag": "PDF Original"}, {"tag": "BiblioOstéo"}]
     }]
     try:
         _, _, res = zotero_request(
@@ -314,18 +320,18 @@ def upload_pdf_attachment(user_id: int, api_key: str, parent_key: str, pdf_path:
                 },
             )
             return True, "uploaded_binary"
-    except Exception as e:
-        # Fallback: attach linked_url PDF pointing to the hosted PDF on GitHub Pages
+    except Exception:
+        # Fallback: attach linked_url PDF pointing to the hosted real PDF on GitHub Pages
         pass
 
     linked_template = [{
         "itemType": "attachment",
         "parentItem": parent_key,
         "linkMode": "linked_url",
-        "title": f"PDF Intégral (BiblioOstéo) — {filename}",
+        "title": f"PDF Original (BiblioOstéo) — {filename}",
         "contentType": "application/pdf",
         "url": f"{github_pages_url}/{rel_pdf}",
-        "tags": [{"tag": "PDF Complet"}, {"tag": "BiblioOstéo"}]
+        "tags": [{"tag": "PDF Original"}, {"tag": "BiblioOstéo"}]
     }]
     try:
         zotero_request(
@@ -383,6 +389,7 @@ def sync_to_zotero(api_key: str, github_pages_url: str = "https://mrthomaslef.gi
         if art.get("pmcid"):
             extra_lines.append(f"PMCID: {art['pmcid']}")
 
+        target_url = art.get("article_url") or art.get("doi_url") or f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
         item_payload = [{
             "itemType": "journalArticle",
             "title": art["title"],
@@ -393,7 +400,7 @@ def sync_to_zotero(api_key: str, github_pages_url: str = "https://mrthomaslef.gi
             "issue": str(art.get("issue", "")),
             "pages": str(art.get("pages", "")),
             "DOI": art.get("doi", ""),
-            "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
+            "url": target_url,
             "abstractNote": combined_abstract,
             "extra": "\n".join(extra_lines),
             "collections": [collection_key],
@@ -433,12 +440,15 @@ def sync_to_zotero(api_key: str, github_pages_url: str = "https://mrthomaslef.gi
         except Exception as e:
             print(f"  ! Note warning for PMID {pmid}: {e}")
 
-        # Upload or attach PDF
-        rel_pdf = art.get("pdf_file", f"pdfs/PMID_{pmid}.pdf")
-        pdf_path = BASE_DIR / rel_pdf
-        ok, mode = upload_pdf_attachment(user_id, api_key, item_key, pdf_path, github_pages_url, rel_pdf)
-        if ok:
-            pdf_count += 1
+        # Upload or attach PDF ONLY if a real publisher/OA PDF is available
+        rel_pdf = art.get("pdf_file")
+        if rel_pdf:
+            pdf_path = BASE_DIR / rel_pdf
+            ok, mode = upload_pdf_attachment(user_id, api_key, item_key, pdf_path, github_pages_url, rel_pdf)
+            if ok:
+                pdf_count += 1
+        else:
+            mode = "external_link_only"
         print(f"  + Synced PMID {pmid} -> Zotero key={item_key} (PDF: {mode})")
         time.sleep(0.25)
 
@@ -453,7 +463,7 @@ def sync_to_zotero(api_key: str, github_pages_url: str = "https://mrthomaslef.gi
         "pdfs_attached": pdf_count,
     }
     ZOTERO_STATE_FILE.write_text(json.dumps(state, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"[Zotero] Sync complete: {synced_count} new items added, {pdf_count} PDFs attached.")
+    print(f"[Zotero] Sync complete: {synced_count} new items added, {pdf_count} real PDFs attached.")
     return state
 
 
@@ -501,8 +511,8 @@ def get_local_zotero_existing_pmids() -> set:
 
 def sync_to_local_zotero_desktop(github_pages_url: str = "https://mrthomaslef.github.io/biblioosteo") -> dict:
     """
-    Push all articles + French clinical notes + full PDF files directly into the local Zotero.app
-    running on the Mac mini via its local Connector Server (http://127.0.0.1:23119).
+    Push all articles + French clinical notes + genuine publisher PDF files (when available)
+    directly into the local Zotero.app running on the Mac mini via its local Connector Server (http://127.0.0.1:23119).
     Automatically launches /Applications/Zotero.app if it is not running yet.
     """
     import subprocess
@@ -563,6 +573,7 @@ def sync_to_local_zotero_desktop(github_pages_url: str = "https://mrthomaslef.gi
             f"🇬🇧 ORIGINAL ABSTRACT :\n{art.get('abstract_en', '')}"
         )
 
+        target_url = art.get("article_url") or art.get("doi_url") or art.get("pubmed_url", f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/")
         payload = {
             "sessionID": session_id,
             "uri": f"{github_pages_url}/",
@@ -577,7 +588,7 @@ def sync_to_local_zotero_desktop(github_pages_url: str = "https://mrthomaslef.gi
                 "issue": str(art.get("issue", "")),
                 "pages": str(art.get("pages", "")),
                 "DOI": art.get("doi", ""),
-                "url": art.get("pubmed_url", f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"),
+                "url": target_url,
                 "abstractNote": combined_abstract,
                 "extra": f"PMID: {pmid}\nImpact Factor: {art.get('impact_factor', '')}",
                 "tags": tags,
@@ -600,59 +611,36 @@ def sync_to_local_zotero_desktop(github_pages_url: str = "https://mrthomaslef.gi
             with urllib.request.urlopen(req, timeout=15) as _:
                 synced_count += 1
 
-            # Attach main PDF binary directly into ~/Zotero/storage
-            rel_pdf = art.get("pdf_file", f"pdfs/PMID_{pmid}.pdf")
-            pdf_path = BASE_DIR / rel_pdf
-            if pdf_path.exists():
-                pdf_bytes = pdf_path.read_bytes()
-                att_meta = {
-                    "sessionID": session_id,
-                    "parentItemID": item_id,
-                    "title": f"PDF Intégral — PMID {pmid} ({art.get('journal_short', '')} {art.get('year', '')}).pdf",
-                    "url": f"{github_pages_url}/{rel_pdf}",
-                }
-                req_att = urllib.request.Request(
-                    f"http://127.0.0.1:23119/connector/saveAttachment?sessionID={session_id}",
-                    data=pdf_bytes,
-                    headers={
-                        "Content-Type": "application/pdf",
-                        "X-Zotero-Connector-API-Version": "3",
-                        "X-Metadata": json.dumps(att_meta),
-                    },
-                    method="POST",
-                )
-                with urllib.request.urlopen(req_att, timeout=30) as _:
-                    pdf_count += 1
+            # Attach real PDF binary ONLY if available locally
+            rel_pdf = art.get("pdf_file")
+            if rel_pdf:
+                pdf_path = BASE_DIR / rel_pdf
+                if pdf_path.exists():
+                    pdf_bytes = pdf_path.read_bytes()
+                    att_meta = {
+                        "sessionID": session_id,
+                        "parentItemID": item_id,
+                        "title": f"PDF Original — PMID {pmid} ({art.get('journal_short', '')} {art.get('year', '')}).pdf",
+                        "url": f"{github_pages_url}/{rel_pdf}",
+                    }
+                    req_att = urllib.request.Request(
+                        f"http://127.0.0.1:23119/connector/saveAttachment?sessionID={session_id}",
+                        data=pdf_bytes,
+                        headers={
+                            "Content-Type": "application/pdf",
+                            "X-Zotero-Connector-API-Version": "3",
+                            "X-Metadata": json.dumps(att_meta),
+                        },
+                        method="POST",
+                    )
+                    with urllib.request.urlopen(req_att, timeout=30) as _:
+                        pdf_count += 1
 
-            # Also attach the French Clinical Synthesis PDF if distinct from the publisher PDF
-            rel_synth = art.get("synth_pdf_file", f"pdfs/SYNTHESE_PMID_{pmid}.pdf")
-            synth_path = BASE_DIR / rel_synth
-            if art.get("pdf_source") == "publisher_oa_pdf" and synth_path.exists():
-                synth_bytes = synth_path.read_bytes()
-                synth_meta = {
-                    "sessionID": session_id,
-                    "parentItemID": item_id,
-                    "title": f"Fiche Synthèse FR — PMID {pmid}.pdf",
-                    "url": f"{github_pages_url}/{rel_synth}",
-                }
-                req_s = urllib.request.Request(
-                    f"http://127.0.0.1:23119/connector/saveAttachment?sessionID={session_id}",
-                    data=synth_bytes,
-                    headers={
-                        "Content-Type": "application/pdf",
-                        "X-Zotero-Connector-API-Version": "3",
-                        "X-Metadata": json.dumps(synth_meta),
-                    },
-                    method="POST",
-                )
-                with urllib.request.urlopen(req_s, timeout=20) as _:
-                    pass
-
-            print(f"  + [Zotero Local] Imported PMID {pmid} + Note FR + PDF ({art.get('journal_short')} {art.get('pub_date_fr')})")
+            print(f"  + [Zotero Local] Imported PMID {pmid} + Note FR ({'Real PDF' if rel_pdf else 'Link only'})")
         except Exception as e:
             print(f"  ! [Zotero Local] Error on PMID {pmid}: {e}")
 
-    print(f"[Zotero Local] Done: {synced_count} new articles imported, {pdf_count} PDFs stored in ~/Zotero/storage.")
+    print(f"[Zotero Local] Done: {synced_count} new articles imported, {pdf_count} real PDFs stored in ~/Zotero/storage.")
     return {"synced": synced_count, "pdfs": pdf_count}
 
 

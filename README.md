@@ -34,15 +34,15 @@ Portail de veille bibliographique, de résumés cliniques structurés en frança
 
 ## 📚 Stockage des PDF & Intégration Zotero
 
-- **PDFs stockés dans [`pdfs/`](pdfs/) :**
-  - `pdfs/PMID_<pmid>.pdf` : PDF éditeur Open-Access intégral (lorsque disponible en accès libre) ou fiche complète multi-pages générée automatiquement.
-  - `pdfs/SYNTHESE_PMID_<pmid>.pdf` : Fiche de synthèse clinique en français + protocole + points clés + abstract original.
+- **PDFs originaux dans [`pdfs/`](pdfs/) :**
+  - `pdfs/PMID_<pmid>.pdf` : **Uniquement les vrais PDF éditeur / Open-Access intégraux** (aucun PDF synthétique n'est généré).
+  - Si le PDF intégral n'est pas en accès libre direct, l'application et Zotero fournissent directement le **lien officiel de l'article** (`DOI` / `PMC` / `PubMed`).
 - **Synchronisation Zotero directe (API Web Zotero v3) :**
   - Depuis l'interface web (bouton **📚 Synchroniser Zotero**) ou en ligne de commande :
     ```bash
     ZOTERO_API_KEY="votre_cle_zotero" python3 scripts/zotero_sync.py
     ```
-  - Crée automatiquement la collection **`BiblioOstéo — RI & Ostéo-Articulaire (Cochin)`**, ajoute les entrées complètes (`journalArticle`), attache la fiche de résumé en français en note enfant, l'abstract original et le fichier/lien PDF.
+  - Crée automatiquement la collection **`BiblioOstéo — RI & Ostéo-Articulaire (Cochin)`**, ajoute les entrées complètes (`journalArticle`), attache la fiche de résumé en français en note enfant, l'abstract original et le vrai PDF (s'il est disponible) ou le lien direct vers l'article.
 - **Exports Zotero 1-clic dans [`exports/`](exports/) :**
   - [`exports/biblioosteo_zotero.ris`](exports/biblioosteo_zotero.ris) (format RIS avec résumé FR + abstract EN + lien PDF)
   - [`exports/biblioosteo_zotero.bib`](exports/biblioosteo_zotero.bib) (format BibTeX)

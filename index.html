@@ -700,7 +700,8 @@
       cyst_sclerotherapy: '💧 Kystes (KOA/KOE)',
       pain_cryoneurolysis: '🦶 Morton & Nerfs',
       msk_biopsy: '🎯 Biopsies',
-      msk_imaging: '🧲 Imagerie IRM/TDM'
+      msk_imaging: '🧲 Imagerie IRM/TDM',
+      percutaneous_ablation_general: '⚡ Ablation Percutanée'
     };
 
     async function fetchLatestData(showFeedback = false) {
@@ -940,14 +941,20 @@
             </div>
 
             <div class="card-actions">
-              <a class="btn-action btn-action-primary" href="${a.pdf_file}" target="_blank" rel="noopener">
-                📄 Ouvrir PDF
-              </a>
+              ${a.pdf_file ? `
+                <a class="btn-action btn-action-primary" href="${a.pdf_file}" target="_blank" rel="noopener">
+                  📄 Ouvrir PDF
+                </a>
+              ` : `
+                <a class="btn-action" href="${a.article_url || a.doi_url || a.pubmed_url}" target="_blank" rel="noopener">
+                  🔗 Lien article
+                </a>
+              `}
               <button class="btn-action" onclick="sendOneToZotero('${a.pmid}')">
                 📚 + Zotero
               </button>
               <a class="btn-action" style="flex: 0 0 auto;" href="${a.pubmed_url}" target="_blank" rel="noopener" title="PubMed">
-                🔗
+                PubMed ↗
               </a>
             </div>
           </article>
@@ -1016,7 +1023,7 @@
         publicationTitle: a.journal || '',
         date: String(a.year || ''),
         DOI: a.doi || '',
-        url: a.pubmed_url,
+        url: a.article_url || a.doi_url || a.pubmed_url,
         abstractNote: `[RÉSUMÉ FR] ${a.summary_fr_short}\n\n[COCHIN] ${a.cochin_link}\n\n[ABSTRACT EN] ${a.abstract_en}`,
         extra: `PMID: ${a.pmid}`,
         collections: [colKey],
@@ -1034,7 +1041,7 @@
       });
       const data = await res.json();
       const parentKey = data.successful && data.successful['0'] ? data.successful['0'].key : null;
-      if (parentKey) {
+      if (parentKey && a.pdf_file) {
         await fetch(`https://api.zotero.org/users/${userId}/items`, {
           method: 'POST',
           headers: {
@@ -1046,7 +1053,7 @@
             itemType: 'attachment',
             parentItem: parentKey,
             linkMode: 'linked_url',
-            title: `PDF — PMID ${a.pmid}`,
+            title: `PDF Original — PMID ${a.pmid}`,
             contentType: 'application/pdf',
             url: `${baseUrl}/${a.pdf_file}`
           }])

@@ -55,12 +55,13 @@
       "Facteurs prédictifs",
       "Récidive"
     ],
-    "pdf_file": "pdfs/PMID_41867110.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_41867110.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41867110/",
     "doi_url": "https://doi.org/10.1080/02656736.2026.2642925",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1080/02656736.2026.2642925"
   },
   {
     "id": "pmid-42489686",
@@ -115,11 +116,12 @@
       "HDJ Radio B"
     ],
     "pdf_file": "pdfs/PMID_42489686.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_42489686.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42489686/",
     "doi_url": "https://doi.org/10.1007/s00256-026-05304-1",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 960
+    "pdf_size_kb": 960,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13574894/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13574894/"
   },
   {
     "id": "pmid-42931896",
@@ -176,12 +178,13 @@
       "Radiofréquence",
       "Skeletal Radiology 2026"
     ],
-    "pdf_file": "pdfs/PMID_42931896.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_42931896.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42931896/",
     "doi_url": "https://doi.org/10.1007/s00256-026-05410-0",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 5
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1007/s00256-026-05410-0"
   },
   {
     "id": "pmid-42471112",
@@ -235,12 +238,13 @@
       "Ostéosynthèse percutanée",
       "JVIR 2026"
     ],
-    "pdf_file": "pdfs/PMID_42471112.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_42471112.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42471112/",
     "doi_url": "https://doi.org/10.1016/j.jvir.2026.108969",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1016/j.jvir.2026.108969"
   },
   {
     "id": "pmid-42955498",
@@ -292,12 +296,13 @@
       "Thermoprotection",
       "Recommandations 2026"
     ],
-    "pdf_file": "pdfs/PMID_42955498.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_42955498.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955498/",
     "doi_url": "https://doi.org/10.1007/s11864-026-01422-z",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1007/s11864-026-01422-z"
   },
   {
     "id": "pmid-42618654",
@@ -360,11 +365,12 @@
       "Gangi"
     ],
     "pdf_file": "pdfs/PMID_42618654.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_42618654.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42618654/",
     "doi_url": "https://doi.org/10.1007/s00270-026-04550-z",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 921
+    "pdf_size_kb": 921,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642440/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642440/"
   },
   {
     "id": "pmid-42803442",
@@ -417,12 +423,13 @@
       "Échographie",
       "Pain Medicine 2026"
     ],
-    "pdf_file": "pdfs/PMID_42803442.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_42803442.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42803442/",
     "doi_url": "https://doi.org/10.1093/pm/pnag130",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1093/pm/pnag130"
   },
   {
     "id": "pmid-42173356",
@@ -478,12 +485,13 @@
       "Métastases pelviennes",
       "JVIR 2026"
     ],
-    "pdf_file": "pdfs/PMID_42173356.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_42173356.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42173356/",
     "doi_url": "https://doi.org/10.1016/j.jvir.2026.108858",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1016/j.jvir.2026.108858"
   },
   {
     "id": "pmid-42439173",
@@ -536,12 +544,13 @@
       "Clavicule",
       "Métastases osseuses"
     ],
-    "pdf_file": "pdfs/PMID_42439173.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_42439173.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42439173/",
     "doi_url": "https://doi.org/10.1177/02841851261464161",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1177/02841851261464161"
   },
   {
     "id": "pmid-42631901",
@@ -598,11 +607,12 @@
       "2026"
     ],
     "pdf_file": "pdfs/PMID_42631901.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_42631901.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42631901/",
     "doi_url": "https://doi.org/10.1007/s11912-026-01821-3",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 1376
+    "pdf_size_kb": 1376,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13499884/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13499884/"
   },
   {
     "id": "pmid-42363976",
@@ -658,13 +668,14 @@
       "Rendement diagnostique"
     ],
     "pdf_file": "pdfs/PMID_42363976.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_42363976.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42363976/",
     "doi_url": "https://doi.org/10.1007/s00586-026-10142-9",
     "pdf_source": "publisher_oa_pdf",
     "pdf_size_kb": 1253,
     "synthese_pdf_url": "pdfs/SYNTHESE_PMID_42363976.pdf",
-    "pdf_is_original": true
+    "pdf_is_original": true,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1007/s00586-026-10142-9"
   },
   {
     "id": "pmid-42602563",
@@ -717,11 +728,12 @@
       "Gonarthrose"
     ],
     "pdf_file": "pdfs/PMID_42602563.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_42602563.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42602563/",
     "doi_url": "https://doi.org/10.15557/jou.2026.0019",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 4482
+    "pdf_size_kb": 4482,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13474172/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13474172/"
   },
   {
     "id": "pmid-41204964",
@@ -778,11 +790,12 @@
       "Scanner"
     ],
     "pdf_file": "pdfs/PMID_41204964.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_41204964.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41204964/",
     "doi_url": "https://doi.org/10.1007/s00330-025-12128-5",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 4228
+    "pdf_size_kb": 4228,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13035685/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13035685/"
   },
   {
     "id": "pmid-41063397",
@@ -833,12 +846,13 @@
       "Cryoneurolyse",
       "Méta-analyse ECR sham"
     ],
-    "pdf_file": "pdfs/PMID_41063397.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_41063397.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41063397/",
     "doi_url": "https://doi.org/10.1093/pm/pnaf140",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1093/pm/pnaf140"
   },
   {
     "id": "pmid-41838307",
@@ -890,11 +904,12 @@
       "Eliquis"
     ],
     "pdf_file": "pdfs/PMID_41838307.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_41838307.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41838307/",
     "doi_url": "https://doi.org/10.1186/s41747-026-00690-6",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 2501
+    "pdf_size_kb": 2501,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12992892/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12992892/"
   },
   {
     "id": "pmid-41720112",
@@ -947,12 +962,13 @@
       "Ablation percutanée",
       "Zotero"
     ],
-    "pdf_file": "pdfs/PMID_41720112.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_41720112.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41720112/",
     "doi_url": "https://doi.org/10.1055/a-2744-8457",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 5
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1055/a-2744-8457"
   },
   {
     "id": "pmid-39556172",
@@ -1007,11 +1023,12 @@
       "Insights into Imaging"
     ],
     "pdf_file": "pdfs/PMID_39556172.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_39556172.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39556172/",
     "doi_url": "https://doi.org/10.1186/s13244-024-01822-5",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 2258
+    "pdf_size_kb": 2258,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11573955/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11573955/"
   },
   {
     "id": "pmid-39576446",
@@ -1066,13 +1083,14 @@
       "Zotero"
     ],
     "pdf_file": "pdfs/PMID_39576446.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_39576446.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39576446/",
     "doi_url": "https://doi.org/10.1186/s13244-024-01823-4",
     "pdf_source": "publisher_oa_pdf",
     "pdf_size_kb": 707,
     "synthese_pdf_url": "pdfs/SYNTHESE_PMID_39576446.pdf",
-    "pdf_is_original": true
+    "pdf_is_original": true,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11584811/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11584811/"
   },
   {
     "id": "pmid-38438685",
@@ -1127,12 +1145,13 @@
       "Avant-pied",
       "CVIR 2024"
     ],
-    "pdf_file": "pdfs/PMID_38438685.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_38438685.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38438685/",
     "doi_url": "https://doi.org/10.1007/s00270-024-03669-1",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1007/s00270-024-03669-1"
   },
   {
     "id": "pmid-38732352",
@@ -1187,12 +1206,13 @@
       "Métastases",
       "Scanner"
     ],
-    "pdf_file": "pdfs/PMID_38732352.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_38732352.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38732352/",
     "doi_url": "https://doi.org/10.3390/diagnostics14090936",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 20
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11083160/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11083160/"
   },
   {
     "id": "pmid-38544877",
@@ -1245,12 +1265,13 @@
       "Biomécanique",
       "BJR Open"
     ],
-    "pdf_file": "pdfs/PMID_38544877.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_38544877.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38544877/",
     "doi_url": "https://doi.org/10.1093/bjro/tzae007",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 20
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10965423/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10965423/"
   },
   {
     "id": "pmid-37742284",
@@ -1300,12 +1321,13 @@
       "Consolidation",
       "Zotero"
     ],
-    "pdf_file": "pdfs/PMID_37742284.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_37742284.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37742284/",
     "doi_url": "https://doi.org/10.1111/1754-9485.13587",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 4
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1111/1754-9485.13587"
   },
   {
     "id": "pmid-37834793",
@@ -1361,12 +1383,13 @@
       "Pied",
       "IGEA"
     ],
-    "pdf_file": "pdfs/PMID_37834793.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_37834793.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37834793/",
     "doi_url": "https://doi.org/10.3390/jcm12196150",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 17
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10573742/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10573742/"
   },
   {
     "id": "pmid-37504355",
@@ -1422,12 +1445,13 @@
       "Cancer du rein",
       "Debulking"
     ],
-    "pdf_file": "pdfs/PMID_37504355.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_37504355.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37504355/",
     "doi_url": "https://doi.org/10.3390/curroncol30070495",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 26
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10377811/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10377811/"
   },
   {
     "id": "pmid-37030078",
@@ -1487,11 +1511,12 @@
       "Zotero"
     ],
     "pdf_file": "pdfs/PMID_37030078.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_37030078.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37030078/",
     "doi_url": "https://doi.org/10.1016/j.ejca.2023.03.012",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "publisher_oa_pdf",
+    "pdf_size_kb": 484,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1016/j.ejca.2023.03.012"
   },
   {
     "id": "pmid-35941207",
@@ -1544,11 +1569,12 @@
       "Humérus"
     ],
     "pdf_file": "pdfs/PMID_35941207.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_35941207.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35941207/",
     "doi_url": "https://doi.org/10.1007/s00247-022-05396-6",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 2022
+    "pdf_size_kb": 2022,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9360065/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9360065/"
   },
   {
     "id": "pmid-35348870",
@@ -1602,13 +1628,14 @@
       "Zotero"
     ],
     "pdf_file": "pdfs/PMID_35348870.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_35348870.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35348870/",
     "doi_url": "https://doi.org/10.1007/s00270-022-03126-x",
     "pdf_source": "publisher_oa_pdf",
     "pdf_size_kb": 333,
     "synthese_pdf_url": "pdfs/SYNTHESE_PMID_35348870.pdf",
-    "pdf_is_original": true
+    "pdf_is_original": true,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9018647/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9018647/"
   },
   {
     "id": "pmid-34812672",
@@ -1662,12 +1689,13 @@
       "Ablation percutanée",
       "Zotero"
     ],
-    "pdf_file": "pdfs/PMID_34812672.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_34812672.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34812672/",
     "doi_url": "https://doi.org/10.1148/radiol.2021211100",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1148/radiol.2021211100"
   },
   {
     "id": "pmid-33839926",
@@ -1721,11 +1749,12 @@
       "Talus"
     ],
     "pdf_file": "pdfs/PMID_33839926.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_33839926.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33839926/",
     "doi_url": "https://doi.org/10.1007/s00590-021-02946-w",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 1195
+    "pdf_size_kb": 1195,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8578134/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8578134/"
   },
   {
     "id": "pmid-34367902",
@@ -1778,12 +1807,13 @@
       "Cimentoplastie",
       "Kystographie"
     ],
-    "pdf_file": "pdfs/PMID_34367902.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_34367902.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34367902/",
     "doi_url": "https://doi.org/10.1016/j.jbo.2021.100384",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 15
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8326748/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8326748/"
   },
   {
     "id": "pmid-34497298",
@@ -1837,11 +1867,12 @@
       "NetSarc Cochin"
     ],
     "pdf_file": "pdfs/PMID_34497298.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_34497298.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34497298/",
     "doi_url": "https://doi.org/10.1038/s41598-021-96953-w",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 790
+    "pdf_size_kb": 790,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8426501/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8426501/"
   },
   {
     "id": "pmid-33290994",
@@ -1904,11 +1935,12 @@
       "mRECIST"
     ],
     "pdf_file": "pdfs/PMID_33290994.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_33290994.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33290994/",
     "doi_url": "https://doi.org/10.1016/j.ejca.2020.10.035",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 7
+    "pdf_source": "publisher_oa_pdf",
+    "pdf_size_kb": 480,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1016/j.ejca.2020.10.035"
   },
   {
     "id": "pmid-31601938",
@@ -1975,11 +2007,12 @@
       "Suivi thérapeutique"
     ],
     "pdf_file": "pdfs/PMID_31601938.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_31601938.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31601938/",
     "doi_url": "https://doi.org/10.1038/s41598-019-51211-y",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 1302
+    "pdf_size_kb": 1302,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6786996/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6786996/"
   },
   {
     "id": "pmid-28431129",
@@ -2038,12 +2071,13 @@
       "Post-zona",
       "Post-amputation"
     ],
-    "pdf_file": "pdfs/PMID_28431129.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_28431129.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/28431129/",
     "doi_url": "https://doi.org/10.1093/pm/pnx069",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1093/pm/pnx069"
   },
   {
     "id": "pmid-26318372",
@@ -2097,12 +2131,13 @@
       "Deschamps",
       "European Radiology"
     ],
-    "pdf_file": "pdfs/PMID_26318372.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_26318372.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/26318372/",
     "doi_url": "https://doi.org/10.1007/s00330-015-3971-1",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1007/s00330-015-3971-1"
   },
   {
     "id": "pmid-24859596",
@@ -2160,12 +2195,13 @@
       "Eur Radiol",
       "Zotero"
     ],
-    "pdf_file": "pdfs/PMID_24859596.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_24859596.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/24859596/",
     "doi_url": "https://doi.org/10.1007/s00330-014-3202-1",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1007/s00330-014-3202-1"
   },
   {
     "id": "pmid-24838839",
@@ -2216,11 +2252,12 @@
       "Hydrodissection"
     ],
     "pdf_file": "pdfs/PMID_24838839.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_24838839.pdf",
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/24838839/",
     "doi_url": "https://doi.org/10.1007/s13244-014-0332-6",
     "pdf_source": "publisher_oa_pdf",
-    "pdf_size_kb": 1404
+    "pdf_size_kb": 1404,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4035489/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4035489/"
   },
   {
     "id": "pmid-20848245",
@@ -2273,12 +2310,13 @@
       "Eliquis",
       "Scanner"
     ],
-    "pdf_file": "pdfs/PMID_20848245.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_20848245.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/20848245/",
     "doi_url": "https://doi.org/10.1007/s11999-010-1550-y",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3032872/",
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3032872/"
   },
   {
     "id": "pmid-19304917",
@@ -2328,12 +2366,13 @@
       "Lame sous-chondrale",
       "Radiology"
     ],
-    "pdf_file": "pdfs/PMID_19304917.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_19304917.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/19304917/",
     "doi_url": "https://doi.org/10.1148/radiol.2512080500",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1148/radiol.2512080500"
   },
   {
     "id": "pmid-18635627",
@@ -2388,12 +2427,13 @@
       "Myélolipome",
       "RadioGraphics"
     ],
-    "pdf_file": "pdfs/PMID_18635627.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_18635627.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/18635627/",
     "doi_url": "https://doi.org/10.1148/rg.284075156",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1148/rg.284075156"
   },
   {
     "id": "pmid-12773675",
@@ -2445,11 +2485,12 @@
       "Suivi post-ablation",
       "Radiology"
     ],
-    "pdf_file": "pdfs/PMID_12773675.pdf",
-    "synth_pdf_file": "pdfs/SYNTHESE_PMID_12773675.pdf",
+    "pdf_file": null,
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/12773675/",
     "doi_url": "https://doi.org/10.1148/radiol.2273020111",
-    "pdf_source": "full_synthesis_pdf",
-    "pdf_size_kb": 6
+    "pdf_source": "external_link",
+    "pdf_size_kb": null,
+    "pmc_url": "",
+    "article_url": "https://doi.org/10.1148/radiol.2273020111"
   }
 ]

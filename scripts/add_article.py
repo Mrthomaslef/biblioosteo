@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Add a new PubMed / Europe PMC article to BiblioOstéo by PMID or search query,
-download its Open-Access PDF (or generate its clinical synthesis PDF),
+download its genuine Open-Access PDF if available (never generates synthetic PDFs;
+falls back to direct DOI / PubMed / PMC links),
 update exports (.ris, .bib, .json) and data/embedded_data.js, and optionally push to Zotero.
 
 Usage:
@@ -19,10 +20,10 @@ from pathlib import Path
 
 from build_biblio_database import (
     CATEGORIES,
-    extract_jats_sections,
     extract_pub_month_and_date,
-    generate_article_pdf,
     get_journal_info_and_if,
+    is_real_pdf,
+    try_download_real_pdf,
 )
 from zotero_sync import generate_static_exports, sync_to_zotero
 
@@ -126,7 +127,13 @@ def add_from_query_or_pmid(query_str: str):
     cat_id, modality, interv = infer_category_and_modality(title, abstract_clean)
     cat = CATEGORIES[cat_id]
     rel_pdf = f"pdfs/PMID_{pmid}.pdf"
-    rel_synth_pdf = f"pdfs/SYNTHESE_PMID_{pmid}.pdf"
+    pdf_path = BASE_DIR / rel_pdf
+    has_real_pdf = is_real_pdf(pdf_path) or try_download_real_pdf(pmid, doi, pdf_path)
+
+    pubmed_url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
+    doi_url = f"https://doi.org/{doi}" if doi else pubmed_url
+    pmc_url = f"https://pmc.ncbi.nlm.nih.gov/articles/{pmcid}/" if pmcid else ""
+    article_url = pmc_url or doi_url or pubmed_url
 
     new_art = {
         "id": f"pmid-{pmid}",
@@ -153,43 +160,30 @@ def add_from_query_or_pmid(query_str: str):
         "category_color": cat["color"],
         "modality": modality,
         "intervention_type": interv,
-        "cochin_link": f"Sélectionné via la veille PublioOstéo dans le pôle « {cat['short_label']} » (Service de Radiologie B — Hôpital Cochin).",
+        "cochin_link": f"Sélectionné via la veille BiblioOstéo dans le pôle « {cat['short_label']} » (Service de Radiologie B — Hôpital Cochin).",
         "summary_fr_short": f"Article publié dans {journal} ({year}) par {authors_short} portant sur : {title}.",
         "summary_fr_detailed": abstract_clean[:900] + ("..." if len(abstract_clean) > 900 else ""),
-        "protocol_fr": f"Modalité principale : {modality} • Type d'acte : {interv}. Voir l'abstract et le PDF complet pour les paramètres détaillés.",
+        "protocol_fr": f"Modalité principale : {modality} • Type d'acte : {interv}. Voir l'abstract et l'article original pour les paramètres détaillés.",
         "key_points_fr": [
             f"Publication de référence ({journal}, {year}) indexée sous PMID {pmid}.",
             f"Thématique Cochin : {cat['label']}.",
         ],
         "abstract_en": abstract_clean,
         "tags": [cat["short_label"], modality, interv],
-        "pdf_file": rel_pdf,
-        "synth_pdf_file": rel_synth_pdf,
-        "pubmed_url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
-        "doi_url": f"https://doi.org/{doi}" if doi else f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
-        "pdf_source": "full_synthesis_pdf",
+        "pdf_file": rel_pdf if has_real_pdf else None,
+        "pdf_source": "publisher_oa_pdf" if has_real_pdf else "external_link",
+        "pdf_size_kb": round(pdf_path.stat().st_size / 1024) if has_real_pdf else None,
+        "pubmed_url": pubmed_url,
+        "doi_url": doi_url,
+        "pmc_url": pmc_url,
+        "article_url": article_url,
     }
-
-    jats_sections = []
-    if pmcid:
-        try:
-            xurl = f"https://www.ebi.ac.uk/europepmc/webservices/rest/{pmcid}/fullTextXML"
-            with urllib.request.urlopen(xurl, timeout=10) as xr:
-                xb = xr.read()
-                if b"<article" in xb:
-                    jats_sections = extract_jats_sections(xb)
-        except Exception:
-            pass
-
-    generate_article_pdf(new_art, BASE_DIR / rel_synth_pdf, jats_sections=jats_sections)
-    (BASE_DIR / rel_pdf).write_bytes((BASE_DIR / rel_synth_pdf).read_bytes())
-    new_art["pdf_size_kb"] = round((BASE_DIR / rel_pdf).stat().st_size / 1024)
 
     articles.insert(0, new_art)
     (DATA_DIR / "articles.json").write_text(json.dumps(articles, indent=2, ensure_ascii=False), encoding="utf-8")
     update_embedded_js()
     generate_static_exports(articles)
-    print(f"[Add Article] Added PMID {pmid}: {title}")
+    print(f"[Add Article] Added PMID {pmid}: {title} (real PDF: {has_real_pdf})")
 
     api_key = os.environ.get("ZOTERO_API_KEY", "").strip()
     if api_key:

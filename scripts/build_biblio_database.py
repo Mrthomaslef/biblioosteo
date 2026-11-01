@@ -1,25 +1,18 @@
 #!/usr/bin/env python3
 """
-Builds the BiblioOstéo dataset (data/articles.json), downloads Open-Access Publisher PDFs,
-generates full-text/clinical synthesis PDFs for articles without direct publisher PDF links,
+Builds the BiblioOstéo dataset (data/articles.json), downloads genuine Open-Access Publisher PDFs
+when available (never generates synthetic PDFs; falls back to direct publisher/DOI/PubMed links),
 and generates Zotero export files (.ris, .bib, .json).
 """
 
-import html
 import json
 import os
 import re
+import subprocess
 import time
 import urllib.parse
 import urllib.request
-import xml.etree.ElementTree as ET
 from pathlib import Path
-
-from reportlab.lib import colors
-from reportlab.lib.pagesizes import A4
-from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
-from reportlab.lib.units import mm
-from reportlab.platypus import HRFlowable, Paragraph, SimpleDocTemplate, Spacer
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
@@ -835,171 +828,95 @@ CURATED_DATA = {
 }
 
 
-def strip_xml_tags(elem) -> str:
-    return "".join(elem.itertext()).strip()
-
-
-def extract_jats_sections(xml_bytes: bytes) -> list:
-    """Extract clean readable sections from Europe PMC JATS fullTextXML."""
-    sections = []
+def is_real_pdf(pdf_path: Path) -> bool:
+    """Return True only if pdf_path exists and is a genuine publisher/author PDF (never ReportLab-generated)."""
+    if not pdf_path.exists():
+        return False
     try:
-        root = ET.fromstring(xml_bytes)
-        body = root.find(".//body")
-        if body is None:
-            return sections
-        for sec in body.findall("./sec"):
-            title_el = sec.find("title")
-            sec_title = strip_xml_tags(title_el) if title_el is not None else "Section"
-            paras = []
-            for p in sec.findall(".//p"):
-                txt = strip_xml_tags(p)
-                if len(txt) > 30:
-                    paras.append(txt)
-            if paras:
-                sections.append((sec_title, paras[:8]))
+        b = pdf_path.read_bytes()
+        return len(b) > 50_000 and b.startswith(b"%PDF") and b"ReportLab" not in b
+    except Exception:
+        return False
+
+
+def try_download_real_pdf(pmid: str, doi: str, pdf_path: Path) -> bool:
+    """
+    Attempt to download the genuine publisher or open-access repository PDF (Springer, Nature,
+    Unpaywall, OpenAlex, HAL). Never generates a synthetic PDF.
+    """
+    if is_real_pdf(pdf_path):
+        return True
+    if pdf_path.exists():
+        pdf_path.unlink()
+
+    if not doi:
+        return False
+
+    candidates = []
+    if doi.startswith("10.1007/") or doi.startswith("10.1186/"):
+        candidates.append(f"https://link.springer.com/content/pdf/{doi}.pdf")
+    if doi.startswith("10.1038/"):
+        suffix = doi.split("/", 1)[1]
+        candidates.append(f"https://www.nature.com/articles/{suffix}.pdf")
+
+    # Query Unpaywall
+    try:
+        uw_url = f"https://api.unpaywall.org/v2/{doi}?email=thomas.lefevre@aphp.fr"
+        req = urllib.request.Request(uw_url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=8) as uwr:
+            uwd = json.loads(uwr.read().decode())
+            best = uwd.get("best_oa_location") or {}
+            if best.get("url_for_pdf"):
+                candidates.append(best["url_for_pdf"])
+            for loc in uwd.get("oa_locations", []):
+                u = loc.get("url_for_pdf")
+                if u and u not in candidates:
+                    candidates.append(u)
     except Exception:
         pass
-    return sections[:8]
 
+    # Query OpenAlex as backup for institutional/HAL OA links
+    try:
+        oa_url = f"https://api.openalex.org/works/https://doi.org/{doi}"
+        req = urllib.request.Request(oa_url, headers={"User-Agent": "BiblioOsteo/1.0 (mailto:thomas.lefevre@aphp.fr)"})
+        with urllib.request.urlopen(req, timeout=8) as oar:
+            oad = json.loads(oar.read().decode())
+            for loc in oad.get("locations", []):
+                u = loc.get("pdf_url")
+                if u and u not in candidates:
+                    candidates.append(u)
+    except Exception:
+        pass
 
-def generate_article_pdf(art: dict, pdf_path: Path, jats_sections: list = None):
-    """Generate a multi-page professional clinical + original abstract/full-text PDF using ReportLab."""
-    doc = SimpleDocTemplate(
-        str(pdf_path),
-        pagesize=A4,
-        leftMargin=18 * mm,
-        rightMargin=18 * mm,
-        topMargin=18 * mm,
-        bottomMargin=18 * mm,
-        title=art["title"],
-        author=", ".join(art.get("authors_list", [])[:5]),
-    )
-    styles = getSampleStyleSheet()
-    style_badge = ParagraphStyle(
-        "Badge",
-        parent=styles["Normal"],
-        fontName="Helvetica-Bold",
-        fontSize=9,
-        textColor=colors.HexColor("#0284c7"),
-        spaceAfter=4,
-    )
-    style_title_fr = ParagraphStyle(
-        "TitleFR",
-        parent=styles["Heading1"],
-        fontName="Helvetica-Bold",
-        fontSize=15,
-        leading=19,
-        textColor=colors.HexColor("#0f172a"),
-        spaceAfter=6,
-    )
-    style_title_en = ParagraphStyle(
-        "TitleEN",
-        parent=styles["Normal"],
-        fontName="Helvetica-Oblique",
-        fontSize=10.5,
-        leading=14,
-        textColor=colors.HexColor("#334155"),
-        spaceAfter=6,
-    )
-    style_meta = ParagraphStyle(
-        "Meta",
-        parent=styles["Normal"],
-        fontName="Helvetica",
-        fontSize=9,
-        leading=13,
-        textColor=colors.HexColor("#475569"),
-        spaceAfter=10,
-    )
-    style_h2 = ParagraphStyle(
-        "SecH2",
-        parent=styles["Heading2"],
-        fontName="Helvetica-Bold",
-        fontSize=11.5,
-        leading=15,
-        textColor=colors.HexColor("#0f172a"),
-        spaceBefore=10,
-        spaceAfter=5,
-    )
-    style_body = ParagraphStyle(
-        "Body",
-        parent=styles["Normal"],
-        fontName="Helvetica",
-        fontSize=9.8,
-        leading=14.2,
-        textColor=colors.HexColor("#1e293b"),
-        spaceAfter=6,
-    )
-    style_box = ParagraphStyle(
-        "Box",
-        parent=styles["Normal"],
-        fontName="Helvetica",
-        fontSize=9.5,
-        leading=13.8,
-        textColor=colors.HexColor("#0f172a"),
-        backColor=colors.HexColor("#f0f9ff"),
-        borderColor=colors.HexColor("#bae6fd"),
-        borderWidth=0.8,
-        borderPadding=8,
-        spaceAfter=8,
-    )
-    style_bullet = ParagraphStyle(
-        "BulletItem",
-        parent=style_body,
-        leftIndent=12,
-        spaceAfter=4,
-    )
-
-    story = []
-    story.append(
-        Paragraph(
-            f"BIBLIOOSTÉO — HÔPITAL COCHIN (RADIOLOGIE B) • {html.escape(art['category_label'].upper())}",
-            style_badge,
-        )
-    )
-    story.append(Paragraph(html.escape(art["title_fr"]), style_title_fr))
-    story.append(Paragraph(f"Titre original : {html.escape(art['title'])}", style_title_en))
-
-    meta_str = (
-        f"<b>Auteurs :</b> {html.escape(art.get('authors_short', ''))} &nbsp;|&nbsp; "
-        f"<b>Revue :</b> <i>{html.escape(art.get('journal', ''))}</i> "
-        f"(<b>IF : {html.escape(str(art.get('impact_factor', 'N/A')))}</b>) &nbsp;|&nbsp; "
-        f"<b>Date :</b> {html.escape(art.get('pub_date_fr', str(art.get('year', ''))))} &nbsp;|&nbsp; "
-        f"<b>PMID :</b> {art.get('pmid', '')} &nbsp;|&nbsp; "
-        f"<b>Modalité :</b> {html.escape(art.get('modality', ''))}"
-    )
-    story.append(Paragraph(meta_str, style_meta))
-    story.append(HRFlowable(width="100%", thickness=1, color=colors.HexColor("#cbd5e1"), spaceAfter=10))
-
-    story.append(Paragraph("1. Pertinence Clinique & Lien avec l'Agenda Interventionnel (Cochin)", style_h2))
-    story.append(Paragraph(html.escape(art["cochin_link"]), style_box))
-
-    story.append(Paragraph("2. Synthèse Clinique en Français", style_h2))
-    story.append(Paragraph(f"<b>Résumé exécutif :</b> {html.escape(art['summary_fr_short'])}", style_body))
-    story.append(Paragraph(f"<b>Analyse détaillée :</b> {html.escape(art['summary_fr_detailed'])}", style_body))
-
-    story.append(Paragraph("3. Protocole Technique & Paramètres Opératoires", style_h2))
-    story.append(Paragraph(html.escape(art["protocol_fr"]), style_box))
-
-    story.append(Paragraph("4. Points Clés à Retenir pour la Pratique", style_h2))
-    for kp in art.get("key_points_fr", []):
-        story.append(Paragraph(f"• {html.escape(kp)}", style_bullet))
-
-    story.append(Spacer(1, 6))
-    story.append(HRFlowable(width="100%", thickness=0.8, color=colors.HexColor("#cbd5e1"), spaceAfter=8))
-    story.append(Paragraph("5. Original PubMed Abstract (Texte Intégral de l'Abstract)", style_h2))
-    clean_abs = re.sub(r"<[^>]+>", " ", art.get("abstract_en", ""))
-    story.append(Paragraph(html.escape(clean_abs), style_body))
-
-    if jats_sections:
-        story.append(Spacer(1, 8))
-        story.append(HRFlowable(width="100%", thickness=0.8, color=colors.HexColor("#cbd5e1"), spaceAfter=8))
-        story.append(Paragraph("6. Full-Text Sections (Europe PMC Open Access JATS XML)", style_h2))
-        for sec_title, paras in jats_sections:
-            story.append(Paragraph(f"<b>{html.escape(sec_title)}</b>", style_body))
-            for p_txt in paras:
-                story.append(Paragraph(html.escape(p_txt), style_body))
-
-    doc.build(story)
+    tmp_path = Path(f"/tmp/biblio_dl_{pmid}.pdf")
+    for c in candidates:
+        try:
+            if tmp_path.exists():
+                tmp_path.unlink()
+            subprocess.run(
+                [
+                    "curl",
+                    "-sL",
+                    "--max-time",
+                    "15",
+                    "-A",
+                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+                    c,
+                    "-o",
+                    str(tmp_path),
+                ],
+                check=False,
+            )
+            if is_real_pdf(tmp_path):
+                pdf_path.write_bytes(tmp_path.read_bytes())
+                tmp_path.unlink()
+                print(f"[PDF] Downloaded real PDF for PMID {pmid} ({pdf_path.stat().st_size // 1024} KB)")
+                return True
+        except Exception:
+            pass
+    if tmp_path.exists():
+        tmp_path.unlink()
+    return False
 
 
 MONTHS_FR = {
@@ -1084,6 +1001,11 @@ def main():
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     PDFS_DIR.mkdir(parents=True, exist_ok=True)
 
+    # Remove any legacy synthetic PDFs (SYNTHESE_* or ReportLab-generated files)
+    for p in PDFS_DIR.glob("*.pdf"):
+        if p.name.startswith("SYNTHESE_") or not is_real_pdf(p):
+            p.unlink()
+
     pmids = list(CURATED_DATA.keys())
     query = " OR ".join([f"EXT_ID:{p}" for p in pmids])
     url = "https://www.ebi.ac.uk/europepmc/webservices/rest/search?" + urllib.parse.urlencode({
@@ -1133,8 +1055,13 @@ def main():
         cat = CATEGORIES[cdata["category_id"]]
         rel_pdf = f"pdfs/PMID_{pmid}.pdf"
         pdf_path = BASE_DIR / rel_pdf
-        rel_synth_pdf = f"pdfs/SYNTHESE_PMID_{pmid}.pdf"
-        synth_pdf_path = BASE_DIR / rel_synth_pdf
+
+        has_real_pdf = is_real_pdf(pdf_path) or try_download_real_pdf(pmid, doi, pdf_path)
+
+        pubmed_url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
+        doi_url = f"https://doi.org/{doi}" if doi else pubmed_url
+        pmc_url = f"https://pmc.ncbi.nlm.nih.gov/articles/{pmcid}/" if pmcid else ""
+        article_url = pmc_url or doi_url or pubmed_url
 
         art_obj = {
             "id": f"pmid-{pmid}",
@@ -1168,70 +1095,14 @@ def main():
             "key_points_fr": cdata["key_points_fr"],
             "abstract_en": abstract_clean,
             "tags": cdata["tags"],
-            "pdf_file": rel_pdf,
-            "synth_pdf_file": rel_synth_pdf,
-            "pubmed_url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
-            "doi_url": f"https://doi.org/{doi}" if doi else f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
+            "pdf_file": rel_pdf if has_real_pdf else None,
+            "pdf_source": "publisher_oa_pdf" if has_real_pdf else "external_link",
+            "pdf_size_kb": round(pdf_path.stat().st_size / 1024) if has_real_pdf else None,
+            "pubmed_url": pubmed_url,
+            "doi_url": doi_url,
+            "pmc_url": pmc_url,
+            "article_url": article_url,
         }
-
-        # 1. Try downloading direct publisher PDF if not already downloaded
-        downloaded_publisher_pdf = False
-        if pdf_path.exists() and pdf_path.stat().st_size > 120_000:
-            downloaded_publisher_pdf = True
-        else:
-            candidates = []
-            if doi.startswith("10.1007/") or doi.startswith("10.1186/"):
-                candidates.append(f"https://link.springer.com/content/pdf/{doi}.pdf")
-            if doi.startswith("10.1038/"):
-                suffix = doi.split("/")[1]
-                candidates.append(f"https://www.nature.com/articles/{suffix}.pdf")
-            try:
-                uw_url = f"https://api.unpaywall.org/v2/{doi}?email=thomas.lefevre@aphp.fr"
-                with urllib.request.urlopen(uw_url, timeout=8) as uwr:
-                    uwd = json.loads(uwr.read().decode())
-                    best = uwd.get("best_oa_location") or {}
-                    if best.get("url_for_pdf"):
-                        candidates.append(best["url_for_pdf"])
-            except Exception:
-                pass
-
-            for c in candidates:
-                try:
-                    req_pdf = urllib.request.Request(c, headers={"User-Agent": "Mozilla/5.0"})
-                    with urllib.request.urlopen(req_pdf, timeout=15) as pr:
-                        b = pr.read()
-                        if b.startswith(b"%PDF") and len(b) > 50_000:
-                            pdf_path.write_bytes(b)
-                            downloaded_publisher_pdf = True
-                            print(f"[PDF] Downloaded publisher PDF for PMID {pmid} ({len(b)//1024} KB)")
-                            break
-                except Exception:
-                    pass
-
-        # 2. Fetch Europe PMC JATS XML if available
-        jats_sections = []
-        if pmcid:
-            try:
-                xurl = f"https://www.ebi.ac.uk/europepmc/webservices/rest/{pmcid}/fullTextXML"
-                with urllib.request.urlopen(xurl, timeout=10) as xr:
-                    xb = xr.read()
-                    if b"<article" in xb:
-                        jats_sections = extract_jats_sections(xb)
-            except Exception:
-                pass
-
-        # 3. Always generate the French Clinical Synthesis + Original Abstract PDF
-        generate_article_pdf(art_obj, synth_pdf_path, jats_sections=jats_sections)
-
-        # 4. If publisher PDF wasn't directly downloadable, use the complete generated PDF as the primary PDF too
-        if not downloaded_publisher_pdf:
-            pdf_path.write_bytes(synth_pdf_path.read_bytes())
-            art_obj["pdf_source"] = "full_synthesis_pdf"
-            print(f"[PDF] Generated full synthesis + abstract PDF for PMID {pmid} ({pdf_path.stat().st_size//1024} KB)")
-        else:
-            art_obj["pdf_source"] = "publisher_oa_pdf"
-
-        art_obj["pdf_size_kb"] = round(pdf_path.stat().st_size / 1024)
         articles.append(art_obj)
 
     # Sort articles by year and month descending, then category
@@ -1243,7 +1114,8 @@ def main():
     (DATA_DIR / "categories.json").write_text(
         json.dumps(list(CATEGORIES.values()), indent=2, ensure_ascii=False), encoding="utf-8"
     )
-    print(f"[Database] Saved {len(articles)} articles to {DATA_DIR / 'articles.json'}")
+    real_pdf_count = sum(1 for a in articles if a.get("pdf_file"))
+    print(f"[Database] Saved {len(articles)} articles ({real_pdf_count} with real PDFs, {len(articles) - real_pdf_count} with external links) to {DATA_DIR / 'articles.json'}")
 
     # Generate static Zotero exports (.ris, .bib, .json)
     from zotero_sync import generate_static_exports
