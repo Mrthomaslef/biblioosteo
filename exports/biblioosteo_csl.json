@@ -1,5 +1,76 @@
 [
   {
+    "id": "pmid-41867110",
+    "type": "article-journal",
+    "title": "Imaging-derived risk score predicts pain recurrence in osteoid osteoma patients undergoing radiofrequency ablation",
+    "container-title": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group",
+    "volume": "43",
+    "issue": "1",
+    "page": "2642925",
+    "DOI": "10.1080/02656736.2026.2642925",
+    "PMID": "41867110",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/41867110/",
+    "author": [
+      {
+        "family": "Pöhler",
+        "given": "GH"
+      },
+      {
+        "family": "Patzelt",
+        "given": "P"
+      },
+      {
+        "family": "Schneider",
+        "given": "K"
+      },
+      {
+        "family": "Deventer",
+        "given": "N"
+      },
+      {
+        "family": "Hülskamp",
+        "given": "M"
+      },
+      {
+        "family": "Gosheger",
+        "given": "G"
+      },
+      {
+        "family": "Schindler",
+        "given": "P"
+      },
+      {
+        "family": "Köhler",
+        "given": "M"
+      },
+      {
+        "family": "Raschke",
+        "given": "M"
+      },
+      {
+        "family": "Heindel",
+        "given": "W"
+      },
+      {
+        "family": "Al-Itaibi",
+        "given": "R"
+      },
+      {
+        "family": "Masthoff",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude rétrospective sur 122 patients (*Int J Hyperthermia*, mars 2026) démontrant que les paramètres quantitatifs de l'IRM dynamique injectée 3T (DCE-MRI) pré-opératoire et la topographie extracorticale du nidus prédisent le risque de récidive douloureuse après radiofréquence d'ostéome ostéoïde.\n\n[ABSTRACT EN] Background Pain recurrence following regular radiofrequency ablation (RFA) in osteoid osteoma (OO) remains incompletely understood, yet impacts quality of life. Purpose To detect predictive imaging parameters in OO with symptomatic recurrence. Material and methods This retrospective, monocentric study included 122 OO patients [median age 19 (16; 27) years, male 78%] January 2010 to May 2024, which underwent T1-weighted dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) (3T) before CT-guided RFA. Pain recurrence was defined as visual analogue scale increase >4/10 occurring >2 weeks post-intervention (22 (18%) patients). Nidus was categorized intra-/extracortical. DCE-MRI relative/maximum (relative) enhancement (M(R)E) (%), time to peak (TTP) (s), wash-in/out rate (s -1 ), brevity of enhancement (s) were compared by Wilcoxon rank-sum test. Hazard ratios (HR), multivariate cox proportional hazard regression, receiver operating characteristics and Bayesian were performed. Results Extracortical nidus occurred more frequently in patients with recurrence (14%) compared to intracortical nidus (5%, p p = 0.038], higher TTP [47.1 (34.5-59.5) vs 32.3 (24.7-46.7); p = 0.002], lower wash-in rate [38.9 (0-107.5) vs. 83.7(30.5-159.7); p = 0.028]. ME [HR 0.2 (95% CI: 0.06, 0.04); p p = 0.042], TTP [HR 6 (1.4, 25.4); p = 0.016], wash-in rate [HR 0.1(0.02, 0.8); p = 0.03] were predictors of recurrence. Extracortical nidus [HR 6.5 (2.1, 19.7); p 40 s, MRE Conclusion Imaging-based risk stratification enables personalized treatment approaches for osteoid osteoma patients, who may benefit from alternative ablation protocols such as extended ablation time, higher temperatures."
+  },
+  {
     "id": "pmid-42489686",
     "type": "article-journal",
     "title": "CT-guided radiofrequency ablation of a tibial osteoid osteoma in pregnancy",
@@ -112,6 +183,104 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Publication d'octobre 2026 (*Skeletal Radiology*) illustrant le traitement curatif par radiofréquence sous scanner d'un ostéome ostéoïde intra-articulaire de la fosse acétabulaire après échec d'une résection arthroscopique, avec disparition complète de la synovite réactionnelle et des douleurs.\n\n[ABSTRACT EN] Acetabular osteoid osteoma is uncommon, and treatment can be difficult when the lesion is intraarticular or associated with osteoarthritis. We report a 17-year-old male with an intraarticular acetabular osteoid osteoma. The lesion was located in the medial portion of the acetabular fossa and was associated with synovitis, joint effusion, joint space narrowing, and osteophyte formation. Arthroscopy was initially selected for lesion resection and joint assessment. However, the medial location limited instrument access, preventing complete resection. The residual lesion was subsequently treated with CT-guided radiofrequency ablation (RFA) using a posterior osseous trajectory and intraarticular cooling with chilled 5% dextrose solution. At 4 weeks, hip pain had completely resolved, and MRI showed resolution of perilesional bone marrow edema. Pain relief persisted through 12 months without analgesic use. A literature review summarizes previous treatment approaches for acetabular osteoid osteoma. This case illustrates that treatment planning should account for lesion location, joint condition, and technical feasibility. CT-guided RFA may be useful when a safe percutaneous trajectory to the lesion can be planned."
+  },
+  {
+    "id": "pmid-42471112",
+    "type": "article-journal",
+    "title": "Variability of S1 and S2 Intrasacral Corridor Height in Cone-Beam Computed Tomography-Guided Percutaneous Pelvic Screw Fixation: A Retrospective Study of 115 Patients",
+    "container-title": "Journal of vascular and interventional radiology : JVIR",
+    "volume": "37",
+    "issue": "10",
+    "page": "108969",
+    "DOI": "10.1016/j.jvir.2026.108969",
+    "PMID": "42471112",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42471112/",
+    "author": [
+      {
+        "family": "Perez",
+        "given": "H"
+      },
+      {
+        "family": "Chalamet",
+        "given": "B"
+      },
+      {
+        "family": "Grange",
+        "given": "S"
+      },
+      {
+        "family": "Viste",
+        "given": "A"
+      },
+      {
+        "family": "David",
+        "given": "JS"
+      },
+      {
+        "family": "Pialat",
+        "given": "JB"
+      },
+      {
+        "family": "Stacoffe",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude rétrospective monocentrique (*JVIR*, juil. 2026, 115 patients, 169 vis) analysant la variabilité anatomique de la hauteur des corridors intrasacrés S1 et S2 lors du vissage pelvien percutané guidé par Cone-Beam CT (CBCT).\n\n[ABSTRACT EN] Purpose To test the hypothesis that S1 and S2 intrasacral corridor height shows substantial interindividual variability but is not associated with operative time or radiation exposure in patients undergoing cone-beam computed tomography (CT)-guided percutaneous pelvic osteosynthesis. Materials and methods This retrospective single-center study included 115 consecutive patients treated between March 2023 and November 2025 with cone-beam CT-guided percutaneous pelvic screw fixation for traumatic or fragility fractures. Patients who received at least 1 screw in an S1 and/or S2 intrasacral corridor were included. Corridor height was measured on follow-up CT using standardized multiplanar true outlet reconstructions. The primary end point was to explore the variability of corridor height. Secondary end points were to assess operative time, radiation exposure, and adverse events. Results A total of 169 screws were inserted in 115 patients (median age, 67 years). Median intrasacral corridor height was 23 mm (interquartile range, 21-26 mm), with a minimum of 10 mm and a maximum of 32 mm. Median operative time was 47 minutes, and median dose-area product was 78.8 Gy·cm 2 . No significant correlation was observed between corridor height and operative time (Spearman ρ = 0.043; P = .65) or radiation exposure (Spearman ρ = -.057; P = .55). One adverse event (0.6%) was reported, not associated with smaller corridor height. Conclusions S1 and S2 intrasacral corridors exhibit substantial anatomical variability. In this cohort of cone-beam CT-guided percutaneous pelvic osteosyntheses, corridor height did not influence operative time or radiation exposure. One adverse event was observed. These findings suggest that 3-dimensional cone-beam CT planning may facilitate safe and efficient screw placement despite sacral anatomical variations."
+  },
+  {
+    "id": "pmid-42955498",
+    "type": "article-journal",
+    "title": "Image-Guided Ablative Options for Desmoid Fibromatosis: Contemporary Evidence and Guideline Integration",
+    "container-title": "Current treatment options in oncology",
+    "volume": "27",
+    "issue": "1",
+    "page": "51",
+    "DOI": "10.1007/s11864-026-01422-z",
+    "PMID": "42955498",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42955498/",
+    "author": [
+      {
+        "family": "Adamo",
+        "given": "DA"
+      },
+      {
+        "family": "Schmitz",
+        "given": "JJ"
+      },
+      {
+        "family": "Welch",
+        "given": "TL"
+      },
+      {
+        "family": "Atwell",
+        "given": "TD"
+      },
+      {
+        "family": "Siontis",
+        "given": "BL"
+      },
+      {
+        "family": "Welch",
+        "given": "BT"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Mise au point de référence (*Curr Treat Options Oncol*, oct. 2026) détaillant l'intégration de la cryoablation percutanée dans l'algorithme multidisciplinaire des tumeurs desmoïdes symptomatiques ou progressives, incluant les stratégies d'ablation subtotale délibérée à proximité des nerfs critiques.\n\n[ABSTRACT EN] Opinion statement Most patients with a newly diagnosed desmoid tumor should begin with multidisciplinary evaluation and active surveillance rather than immediate intervention, provided that symptoms are limited and further growth is unlikely to create irreversible morbidity. Treatment should be initiated when pain, functional limitation, sustained progression, or threatened critical structures make continued observation unacceptable. Percutaneous cryoablation is generally favored because the ice ball can be monitored directly, treatment can be personalized/tailored with the synergistic benefit of multiple probes, and the procedure can be repeated or staged when a complete margin would be unsafe. Complete ablation should be targeted when the entire tumor can be covered without jeopardizing skin, nerves, bowel, or other vulnerable structures; deliberate subtotal ablation is appropriate when the principal goal is pain relief or functional improvement and a safe circumferential margin is not achievable. Hydrodissection, skin warming, neural protection, and conservative treatment near critical anatomy are essential. Magnetic resonance-guided focused ultrasound is an attractive incisionless alternative for tumors with a favorable acoustic window. Microwave or radiofrequency ablation should be reserved for carefully selected lesions and experienced operators; electrochemotherapy and chemical ablation remain investigational with some promising early evidence. Embolization can be useful for hypervascular tumors that are poorly suited to direct percutaneous treatment. Local and systemic therapy should not be viewed as mutually exclusive: systemic treatment is often preferable for diffuse, intra-abdominal, or anatomically hazardous disease, while ablation can address a dominant symptomatic focus, residual viable tumor, or focal progression. Further study into the benefits and sequencing of combining local therapy with systemic or targeted options will be helpful in the multi-disciplinary evaluation of this complex patient cohort."
   },
   {
     "id": "pmid-42618654",
@@ -315,6 +484,53 @@
     "abstract": "[SYNTHÈSE FR] Étude française (*JVIR*, mai 2026 — Grange, Pelage, Gorelik et al.) démontrant la faisabilité, la sécurité et le bénéfice fonctionnel majeur d'un geste combiné associant en une seule séance cryoablation tumorale, vissage percutané et cimentoplastie pour les métastases pelviennes.\n\n[ABSTRACT EN] Purpose To evaluate the safety, feasibility, and early clinical outcomes of combined percutaneous cryoablation, screw fixation, and cementoplasty for painful pelvic bone metastases. Materials and methods In this monocentric retrospective study, patients with painful pelvic bone metastases underwent percutaneous image-guided cryoablation followed by screw fixation and cementoplasty under computed tomography (CT) guidance. Technical success was defined as completion of all planned procedural steps without deviation. Clinical endpoints included adverse events, mobilization, discharge timing, pain, analgesic use, and quality of life. Imaging follow-up assessed screw stability, infection, local tumor behavior, and progression to joint replacement when applicable. Results Seventeen patients were included. Technical success was achieved in all procedures. Cryoablation required a mean of 2.7 probes (SD ± 1.3), and 1.2 screws (SD ± 0.4) were implanted per procedure. Complete planned soft tissue ablation was achieved in 11 patients (64.7%), including complete combined bone and soft tissue ablation in 5 (29.4%); partial ablation/debulking was intentionally planned in the remaining 6 (35.3%). No periprocedural or early adverse events occurred. Thirteen patients (76.5%) were able to stand within 24 hours, and all within 4 days. Eight patients (47.1%) were discharged on postoperative Day 1, and 13 (76.5%) within 2 days. No patient required joint replacement during available follow-up. Median overall survival was approximately 150 days. Conclusions A combination of percutaneous cryoablation, screw fixation, and cementoplasty is feasible and safe and provides rapid early clinical benefit in selected patients with pelvic metastases. Larger comparative studies are required to confirm effectiveness and long-term joint-related outcomes."
   },
   {
+    "id": "pmid-42439173",
+    "type": "article-journal",
+    "title": "Cementoplasty of extraspinal thoracic bones: feasibility, safety, and pain outcomes in a case series",
+    "container-title": "Acta radiologica (Stockholm, Sweden : 1987)",
+    "volume": "67",
+    "issue": "8",
+    "page": "713-720",
+    "DOI": "10.1177/02841851261464161",
+    "PMID": "42439173",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42439173/",
+    "author": [
+      {
+        "family": "Péchiné",
+        "given": "C"
+      },
+      {
+        "family": "Shotar",
+        "given": "E"
+      },
+      {
+        "family": "Cormier",
+        "given": "É"
+      },
+      {
+        "family": "Chiras",
+        "given": "J"
+      },
+      {
+        "family": "Clarençon",
+        "given": "F"
+      },
+      {
+        "family": "Premat",
+        "given": "K"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Série clinique rétrospective (*Acta Radiol*, juil. 2026, 43 patients, 59 os thoraciques traités) démontrant une efficacité antalgique de 88 % et une stabilisation fracturaire de 87 % après cimentoplastie percutanée du sternum, des côtes, de la clavicule et de la scapula.\n\n[ABSTRACT EN] BackgroundCementoplasty is widely used for spinal and weight-bearing extraspinal lesions, but its application in extraspinal thoracic bones (sternum, ribs, clavicles, and scapulae) remains poorly documented.PurposeTo evaluate the feasibility, safety and pain outcomes of cementoplasty for extraspinal thoracic bone lesions.Material and MethodsAll consecutive patients who underwent cementoplasty of an extraspinal thoracic bone between March 2012 and December 2024 were retrospectively included. The following data were systematically assessed: degree of lesion filling, fracture stabilization, cement leakage, adverse events, and pain outcome at 3 months postoperatively, assessed from follow-up consultations using a four-level semi-quantitative scale (worsening pain, stable pain, pain improvement, or complete pain resolution).ResultsA total of 59 extraspinal thoracic bones were treated by cementoplasty during 51 procedures among 43 consecutive patients (27 women [63%] and 16 men [37%]; median age = 60 years). Most lesions were metastases or multiple myeloma lesions. Among patients with available follow-up, pain improvement or complete pain resolution was observed in 29/33 (88%) patients. Cement filling of more than 60% of the lesion volume was achieved in 40/45 (89%) focal lesions. Fracture stabilization was successful in 20/23 (87%) cases. Major cement leakage occurred in 5/56 (9%) treated bones with available postoperative imaging and was asymptomatic in all cases. One infectious complication was recorded.ConclusionCementoplasty of extraspinal thoracic bone lesions appears technically feasible and may represent a valuable palliative option for pain relief with an acceptable safety profile."
+  },
+  {
     "id": "pmid-42631901",
     "type": "article-journal",
     "title": "Percutaneous Management of Desmoid Tumors",
@@ -376,6 +592,65 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Revue récente (*Current Oncology Reports*, 2026) précisant la place de la radiologie interventionnelle (cryoablation, micro-ondes, HIFU, embolisation transartérielle) dans l'algorithme moderne des tumeurs desmoïdes aux côtés de la surveillance active et des nouvelles thérapies ciblées (nirogacestat, sorafénib).\n\n[ABSTRACT EN] Purpose of review To provide a comprehensive review of percutaneous image-guided techniques in the management of desmoid tumors including evolving thermal and non-thermal ablation options, as well as trans-arterial catheter options. Beyond each treatment modality, we aim to highlight considerations related to patient selection, technical components, and the growing interplay between percutaneous therapies and emerging systemic therapies. Recent findings Percutaneous ablation, particularly cryoablation, has emerged as a safe and effective treatment for extra-abdominal desmoid tumors, with prospective data demonstrating durable disease control and significant improvements in pain and functional status. A meta-analysis of 694 desmoid tumors treated with thermal ablation reported pooled local control of 88%, symptom relief in 90% of patients, and major complication rates below 5%. Transarterial doxorubicin-eluting embolization has shown promise in both adult and pediatric settings, while bland particle and radioembolic approaches remain under investigation. Irreversible electroporation is emerging as a non-thermal alternative near critical structures. The National Comprehensive Cancer Network (NCCN) Soft Tissue Sarcoma Guidelines now formally incorporate cryoablation along with embolization into the treatment algorithm for progressive, morbid, or symptomatic extra-abdominal desmoid tumors, marking a significant milestone in the recognition of percutaneous techniques as standard-of-care options. Percutaneous image-guided techniques now offer local tumor control with rates similar to surgical resection and a favorable safety profile. Some of these percutaneous techniques are endorsed alongside systemic therapy and radiation as primary options for progressive or symptomatic extra-abdominal desmoid tumors per various guidelines. An important consideration involves the level of data, comprised predominantly of retrospective data, without direct comparative date. The ongoing prospective CRYODESMO-02 trial will help define optimal sequencing and strengthen the evidence base underpinning guideline recommendations."
+  },
+  {
+    "id": "pmid-42363976",
+    "type": "article-journal",
+    "title": "Modified percutaneous vertebral body-intervertebral disc biopsy combined with genetic testing for the diagnosis of early-stage pyogenic spondylodiscitis: a retrospective cohort study",
+    "container-title": "European spine journal : official publication of the European Spine Society, the European Spinal Deformity Society, and the European Section of the Cervical Spine Research Society",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "DOI": "10.1007/s00586-026-10142-9",
+    "PMID": "42363976",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42363976/",
+    "author": [
+      {
+        "family": "Ji",
+        "given": "Y"
+      },
+      {
+        "family": "Yu",
+        "given": "Y"
+      },
+      {
+        "family": "Gao",
+        "given": "T"
+      },
+      {
+        "family": "Xu",
+        "given": "Z"
+      },
+      {
+        "family": "Ma",
+        "given": "Z"
+      },
+      {
+        "family": "Yang",
+        "given": "H"
+      },
+      {
+        "family": "Lu",
+        "given": "H"
+      },
+      {
+        "family": "Chen",
+        "given": "B"
+      },
+      {
+        "family": "Pan",
+        "given": "X"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de cohorte rétrospective (*Eur Spine J*, juin 2026, 66 patients) démontrant qu'une technique de biopsie percutanée combinant prélèvement du plateau vertébral sous-chondral et du disque intervertébral par voie transpédiculaire modifiée, associée au séquençage génétique 16S rRNA, porte le rendement microbiologique de 51,6 % à 85,7 %.\n\n[ABSTRACT EN] Objective This study aims to assess the diagnostic efficacy of a novel integrated approach that combines a modified percutaneous disc biopsy technique with 16 S rRNA gene sequencing to enhance pathogen identification in patients with early suspected pyogenic spondylodiscitis (PS). Methods A retrospective cohort study was conducted, enrolling 66 patients who underwent percutaneous biopsy based on clinical and MRI findings indicative of early PS between January 2021 and January 2024. Patients were categorized into two groups: Group A (n = 31), which received traditional transpedicular biopsy coupled with 16 S rRNA gene sequencing, and Group B (n = 35), which received the modified transpedicular-vertebral-discal biopsy combined with genetic testing. A composite follow-up, including clinical symptoms, imaging, and laboratory findings at ≥ 6 months, served as the gold standard. Pathogen detection rates, complication rates, and pathogen profiles were compared between the groups. Results Baseline characteristics were comparable between the groups. The pathogen detection rate in Group B (85.7%, 30/35) was significantly higher than that in Group A (51.6%, 16/31), with a statistically significant difference (P Conclusion The modified percutaneous biopsy technique combined with 16 S rRNA gene sequencing significantly improves pathogen detection in early pyogenic spondylodiscitis without increasing the risk of complications. This integrated approach demonstrates substantial diagnostic value and shows promise as a first-line minimally invasive diagnostic method."
   },
   {
     "id": "pmid-42602563",
@@ -486,6 +761,49 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude multicentrique publiée dans *European Radiology* (2026) analysant les causes de biopsies osseuses non diagnostiques sous scanner et définissant les critères techniques permettant d'atteindre un rendement supérieur à 90 % (calibre du trocart, nombre de carottes, ciblage de la composante tissulaire non nécrotique).\n\n[ABSTRACT EN] Objective This study aimed to determine the diagnostic yield of CT-guided bone biopsies in pediatric patients, the outcome of non-diagnostic CT biopsy results, and to establish factors associated with non-diagnostic biopsy results. Materials and methods This is a retrospective study of consecutive pediatric patients ≤ 21 years who underwent CT-guided bone biopsies in three tertiary referral hospitals from December 2011 to March 2022. Clinical information, pre-biopsy CT and MRI images, procedural details, pathological results, and follow-up were assessed. Fisher's exact test was used to compare categorical variables. Mann-Whitney U-test and unpaired t-test were used to compare non-parametric and parametric variables, respectively. Statistical significance was set a p Results A total of 138 patients (mean age 13.9 ± 4.5 years; 95 (60%) male patients) with 157 CT-guided bone biopsies were studied, which yielded 38.2% (60/157) non-diagnostic, 23.6% (37/157) benign, and 38.2% (60/157) malignant results. Most non-diagnostic lesions (88.3% [53/60]) were subsequently determined to be benign. Factors associated with non-diagnostic biopsy results were cystic lesions (p = 0.003) incidental lesions (p = 0.03), fewer (p = 0.02) and shorter (p = 0.01) tissue cores, non-aggressive radiological features, including narrow zone of transition (p Conclusion About one-third of CT-guided bone biopsies in pediatric patients yielded non-diagnostic results, though most were ultimately confirmed to be benign. In children and adolescents with suspected primary bone tumors, CT-guided bone biopsy with non-diagnostic histopathological results strongly favors benignity in lesions with non-aggressive imaging features and should align management towards a more conservative approach. Key points Question Limited data exist on the prevalence and outcome of non-diagnostic CT-guided bone biopsy in pediatric patients to guide clinical management. Findings About one-third of CT-guided bone biopsies in pediatric patients were non-diagnostic, though most were ultimately benign. Lesions with non-aggressive features were associated with non-diagnostic results. Clinical relevance In the setting of multidisciplinary care for patients with suspected primary bone tumors, non-diagnostic CT-guided bone biopsy-particularly in lesions with non-aggressive imaging features-strongly favors benignity, which should steer management towards a more conservative approach."
+  },
+  {
+    "id": "pmid-41063397",
+    "type": "article-journal",
+    "title": "Efficacy and safety of genicular nerve ablation techniques for knee osteoarthritis: a systematic review and meta-analysis of sham-controlled randomized trials",
+    "container-title": "Pain medicine (Malden, Mass.)",
+    "volume": "27",
+    "issue": "4",
+    "page": "449-461",
+    "DOI": "10.1093/pm/pnaf140",
+    "PMID": "41063397",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/41063397/",
+    "author": [
+      {
+        "family": "Barreto",
+        "given": "RB"
+      },
+      {
+        "family": "Barreto",
+        "given": "AJ"
+      },
+      {
+        "family": "do Nascimento",
+        "given": "ALM"
+      },
+      {
+        "family": "Carvalho",
+        "given": "DMB"
+      },
+      {
+        "family": "Queiroz",
+        "given": "B"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Méta-analyse d'essais randomisés contrôlés contre procédure fictive (*Pain Medicine*, avr. 2026, 8 ECR, 627 patients) confirmant l'efficacité antalgique à 12 semaines et fonctionnelle (WOMAC) à 24 semaines de la neurolyse des nerfs géniculés (radiofréquence et cryoneurolyse) dans la gonarthrose réfractaire.\n\n[ABSTRACT EN] Objective To evaluate the efficacy and safety of genicular neurolysis techniques, including radiofrequency ablation (RFA) and cryoneurolysis, versus sham procedures in adults with knee osteoarthritis (OA) ineligible for arthroplasty. Methods This systematic review and meta-analysis included randomized controlled trials (RCTs) comparing cooled, monopolar, or bipolar RFA, or cryoneurolysis, to sham treatment in adults with symptomatic knee OA. Studies with pulsed RFA, active comparators, or lacking pain or function outcomes were excluded. PubMed, Embase, and Cochrane CENTRAL were searched from inception to April 15, 2025, without language restriction. Risk of bias was assessed using the Cochrane RoB 2 tool. Random-effects meta-analysis calculated mean differences (MD) with 95% confidence intervals (CI). Heterogeneity was quantified with I2, and certainty of evidence was rated using GRADE. Trial Sequential Analysis (TSA) assessed conclusiveness. Results Eight RCTs (n = 627) met eligibility criteria. Compared with sham, ablative techniques significantly reduced pain at 12 weeks (MD -1.65; 95% CI, -2.57 to -0.74; I2 = 83%) and improved WOMAC function scores (MD -11.37; 95% CI, -18.83 to -3.91; I2 = 91%). Subgroup analysis favored conventional monopolar RFA over other modalities. TSA confirmed conclusive benefits for pain at 12 weeks and function at 24 weeks. No serious adverse events were reported. Limitations include high heterogeneity, variable protocols, and limited long-term data. Conclusions Genicular neurolysis, particularly conventional monopolar RFA, provides clinically meaningful pain and functional improvement in knee OA with a favorable safety profile. Standardization of techniques and further trials are needed to confirm long-term outcomes. Registration PROSPERO CRD420251044248."
   },
   {
     "id": "pmid-41838307",

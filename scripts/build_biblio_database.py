@@ -729,6 +729,108 @@ CURATED_DATA = {
             "Indication d'embolisation transartérielle préalable pour les volumineuses métastases hypervasculaires afin de réduire le saignement et l'effet 'heat-sink'."
         ],
         "tags": ["Standards CIRSE", "Ablation thermique", "Tumeurs osseuses", "Thermoprotection", "CVIR 2022", "Zotero"]
+    },
+    "42471112": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Variabilité de hauteur des corridors intrasacrés S1 et S2 lors du vissage pelvien percutané guidé par CBCT (115 patients)",
+        "modality": "Cone-Beam CT (CBCT) / Scanner TDM",
+        "intervention_type": "Vissage Percutané Sacro-Iliaque S1/S2",
+        "cochin_link": "Directement lié aux vissages percutanés du bassin (fractures de fragilité ou post-radiothérapie) programmés en HDJ Radio B à Cochin.",
+        "summary_fr_short": "Étude rétrospective monocentrique (*JVIR*, juil. 2026, 115 patients, 169 vis) analysant la variabilité anatomique de la hauteur des corridors intrasacrés S1 et S2 lors du vissage pelvien percutané guidé par Cone-Beam CT (CBCT).",
+        "summary_fr_detailed": "Sur 115 patients consécutifs (âge médian 67 ans) traités par ostéosynthèse pelvienne percutanée guidée par CBCT pour fractures traumatiques ou par insuffisance osseuse, la hauteur médiane du corridor intrasacré mesurée en reconstruction 'true outlet' était de 23 mm (IQR 21–26 mm, extrêmes 10 à 32 mm). Malgré cette variabilité anatomique majeure, aucune corrélation significative n'a été retrouvée avec le temps opératoire (médiane 47 min, p = 0,65) ni avec l'exposition radique (DAP médian 78,8 Gy·cm², p = 0,55), avec un taux d'événement indésirable très faible (0,6 %). La planification 3D CBCT permet de sécuriser le vissage trans-sacré même dans les corridors étroits (< 12 mm).",
+        "protocol_fr": "Planification 3D sur CBCT ou TDM en reconstructions multiplanaires vraies (Inlet, Outlet vrai, profil sacré strict) • Mesure pré-opératoire de la hauteur des corridors S1 et S2 • Guidage 3D fluoroscopique/CBCT avec contrôle du couloir osseux au-dessus du foramen S1 et en avant du canal sacré.",
+        "key_points_fr": [
+            "Forte variabilité interindividuelle de la hauteur des corridors intrasacrés S1/S2 (10 à 32 mm, médiane 23 mm).",
+            "Temps opératoire médian rapide (47 minutes) et dose d'irradiation maîtrisée (DAP 78,8 Gy·cm²) grâce au guidage 3D.",
+            "L'étroitesse du couloir sacré n'allonge ni la durée du geste ni la dose radique lorsque la planification 3D multiplanaires est standardisée.",
+            "Sécurité élevée (0,6 % de complication) validant le vissage percutané S1/S2 en routine interventionnelle."
+        ],
+        "tags": ["Vissage bassin", "Corridors S1 S2", "CBCT", "Fracture sacrum", "Ostéosynthèse percutanée", "JVIR 2026"]
+    },
+    "41867110": {
+        "category_id": "ablation_benign",
+        "title_fr": "Score de risque IRM dynamique (DCE-MRI 3T) prédictif de récidive douloureuse après radiofréquence d'ostéome ostéoïde",
+        "modality": "IRM Dynamique 3T (DCE-MRI) + Scanner TDM",
+        "intervention_type": "Ablation par Radiofréquence (RFA)",
+        "cochin_link": "Correspond exactement au couple « IRM dynamique protocole ostéome ostéoïde » + « Thermocoagulation par radiofréquence sous TDM » pratiqué à Cochin.",
+        "summary_fr_short": "Étude rétrospective sur 122 patients (*Int J Hyperthermia*, mars 2026) démontrant que les paramètres quantitatifs de l'IRM dynamique injectée 3T (DCE-MRI) pré-opératoire et la topographie extracorticale du nidus prédisent le risque de récidive douloureuse après radiofréquence d'ostéome ostéoïde.",
+        "summary_fr_detailed": "Sur 122 patients (âge médian 19 ans) ayant bénéficié d'une IRM dynamique 3T (DCE-MRI) avant thermoablation par radiofréquence guidée par scanner, une récidive douloureuse (EVA > 4/10 après > 2 semaines) a été observée chez 22 patients (18 %). Les facteurs prédictifs indépendants de récidive étaient une localisation extracorticale/périostée du nidus (HR 6,5 ; p < 0,001), un temps jusqu'au pic (TTP) allongé > 40 s (HR 6,0 ; p = 0,016), un rehaussement relatif maximal (MRE) < 300 % (HR 0,3 ; p = 0,042) et une pente de wash-in réduite (HR 0,1 ; p = 0,03). Dans le sous-groupe des nidus extracorticaux présentant un TTP > 40 s et un MRE < 300 %, la probabilité de récidive atteignait ≥ 55 %, justifiant d'adapter le protocole d'ablation.",
+        "protocol_fr": "IRM pré-thérapeutique 3T avec séquence dynamique T1 injectée (DCE-MRI : mesure du Time-To-Peak [TTP], Maximum Relative Enhancement [MRE] et Wash-in rate) + TDM en coupes fines • Si nidus extracortical avec TTP > 40 s et MRE < 300 % : allonger le temps de radiofréquence ou réaliser deux positions d'électrode chevauchantes.",
+        "key_points_fr": [
+            "La localisation extracorticale du nidus multiplie par 6,5 le risque de récidive douloureuse après RF standard (p < 0,001).",
+            "Un rehaussement lent et moins intense en DCE-MRI 3T (TTP > 40 s et MRE < 300 %) reflète un nidus moins vascularisé ou scléreux plus résistant à la conduction thermique.",
+            "En présence d'un nidus extracortical avec TTP > 40 s et MRE < 300 %, le risque de récidive dépasse 55 %.",
+            "Permet de personnaliser le geste à Cochin dès l'IRM dynamique pré-RF (durée d'ablation prolongée, température accrue ou cryoablation)."
+        ],
+        "tags": ["Ostéome ostéoïde", "IRM dynamique DCE-MRI", "Radiofréquence", "Facteurs prédictifs", "Récidive"]
+    },
+    "42955498": {
+        "category_id": "desmoid_soft_tissue",
+        "title_fr": "Options d'ablation guidée par l'image pour les fibromatoses desmoïdes : preuves contemporaines et intégration aux recommandations",
+        "modality": "Scanner TDM / IRM / Échographie",
+        "intervention_type": "Cryoablation / HIFU / Ablation Thermique",
+        "cochin_link": "En lien direct avec les cryoablations de tumeurs desmoïdes (creux sus-claviculaire, paroi thoracique, paravertébral) et le suivi IRM en Radio B.",
+        "summary_fr_short": "Mise au point de référence (*Curr Treat Options Oncol*, oct. 2026) détaillant l'intégration de la cryoablation percutanée dans l'algorithme multidisciplinaire des tumeurs desmoïdes symptomatiques ou progressives, incluant les stratégies d'ablation subtotale délibérée à proximité des nerfs critiques.",
+        "summary_fr_detailed": "Après surveillance active initiale, le traitement ablatif est indiqué en cas de douleur réfractaire, gêne fonctionnelle, progression soutenue ou menace sur les structures nobles. La cryoablation percutanée est la modalité de référence grâce à la visualisation directe de la boule de glace, la synergie multi-sondes pour sculpter la zone d'ablation et la possibilité de traitements séquentiels. L'article formalise le concept d'ablation subtotale délibérée ('deliberate subtotal ablation') lorsque l'objectif principal est l'antalgie et que l'obtention d'une marge circonférentielle complète menacerait un plexus nerveux, la peau ou le tube digestif. L'association séquentielle ou combinée aux traitements systémiques (inhibiteurs de gamma-sécrétase, TKIs) pour traiter un foyer dominant symptomatique est également détaillée.",
+        "protocol_fr": "Discussion en RCP Sarcomes/Desmoïdes • Planification IRM T2/DWI/T1 injecté • Cryoablation multi-sondes sous TDM/IRM avec hydrodissection, réchauffement cutané actif et neuromonitoring • Visée complète (A0) si marges sûres, ou debulking subtotal délibéré au contact des troncs nerveux.",
+        "key_points_fr": [
+            "La cryoablation percutanée est la modalité ablative de choix dans les tumeurs desmoïdes grâce au contrôle visuel de la boule de glace.",
+            "Validation du concept d'ablation subtotale délibérée à visée antalgique/fonctionnelle lorsque la tumeur jouxte un plexus nerveux majeur.",
+            "Complémentarité entre thérapie systémique et cryoablation focale sur un contingent résiduel douloureux ou progressif ('oligoprogression').",
+            "Rôle essentiel de l'hydrodissection, du réchauffement cutané et de la protection nerveuse active."
+        ],
+        "tags": ["Tumeur desmoïde", "Cryoablation", "Ablation subtotale", "Thermoprotection", "Recommandations 2026"]
+    },
+    "42439173": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Cimentoplastie des os thoraciques extra-rachidiens (sternum, côtes, clavicule, scapula) : faisabilité, sécurité et résultats antalgiques",
+        "modality": "Scanner TDM / Fluoroscopie",
+        "intervention_type": "Cimentoplastie Thoracique Extra-Rachidienne",
+        "cochin_link": "Correspond aux cimentoplasties et traitements combinés (cryoablation + cimentoplastie) des lésions osseuses thoraciques et ceinture scapulaire à Cochin.",
+        "summary_fr_short": "Série clinique rétrospective (*Acta Radiol*, juil. 2026, 43 patients, 59 os thoraciques traités) démontrant une efficacité antalgique de 88 % et une stabilisation fracturaire de 87 % après cimentoplastie percutanée du sternum, des côtes, de la clavicule et de la scapula.",
+        "summary_fr_detailed": "Cette étude a évalué 59 lésions osseuses thoraciques extra-rachidiennes (métastases et myélome multiple principalement) traitées au cours de 51 procédures chez 43 patients (âge médian 60 ans). Un remplissage en ciment PMMA supérieur à 60 % du volume lésionnel a été obtenu dans 89 % des lésions focales, permettant une stabilisation fracturaire efficace dans 87 % des cas (20/23). À 3 mois, 88 % des patients évaluables (29/33) présentaient une amélioration nette ou une disparition complète des douleurs. Les fuites majeures de ciment (9 %, 5/56) sont restées strictement asymptomatiques, avec un seul événement infectieux local.",
+        "protocol_fr": "Guidage TDM (ou CBCT) sous anesthésie locale renforcée ou générale • Abord tangentiel sécurisé (attention à la plèvre, au péricarde et aux vaisseaux sous-claviers) • Injection fractionnée de ciment PMMA haute viscosité visant un remplissage ≥ 60 % de la lésion ostéolytique.",
+        "key_points_fr": [
+            "Taux de succès antalgique élevé (88 % d'amélioration ou résolution complète des douleurs à 3 mois).",
+            "Excellente consolidation mécanique des fractures pathologiques du sternum, des côtes, de la clavicule et de la scapula (87 %).",
+            "Remplissage lésionnel > 60 % obtenu dans 89 % des cas sous guidage scanner.",
+            "Fuites de ciment peu fréquentes (9 %) et toutes asymptomatiques grâce au contrôle tomodensitométrique."
+        ],
+        "tags": ["Cimentoplastie", "Sternum", "Côtes", "Scapula", "Clavicule", "Métastases osseuses"]
+    },
+    "42363976": {
+        "category_id": "msk_biopsy",
+        "title_fr": "Biopsie percutanée disco-vertébrale modifiée couplée au séquençage ARN 16S pour le diagnostic précoce des spondylodiscites à pyogènes",
+        "modality": "Scanner TDM / Fluoroscopie",
+        "intervention_type": "Biopsie Disco-Vertébrale Transpédiculaire",
+        "cochin_link": "Directement applicable aux biopsies disco-vertébrales sous scanner réalisées en urgence ou en programmé à Cochin pour suspicion de spondylodiscite.",
+        "summary_fr_short": "Étude de cohorte rétrospective (*Eur Spine J*, juin 2026, 66 patients) démontrant qu'une technique de biopsie percutanée combinant prélèvement du plateau vertébral sous-chondral et du disque intervertébral par voie transpédiculaire modifiée, associée au séquençage génétique 16S rRNA, porte le rendement microbiologique de 51,6 % à 85,7 %.",
+        "summary_fr_detailed": "Dans les spondylodiscites à pyogènes débutantes, la biopsie discale ou trans-pédiculaire standard souffre d'un taux élevé de faux négatifs. Cette étude a comparé 31 patients ayant eu une biopsie transpédiculaire classique + PCR 16S (Groupe A) à 35 patients ayant bénéficié d'une biopsie transpédiculaire modifiée prélevant simultanément l'os sous-chondral vertébral inflammatoire et le disque intervertébral + séquençage génétique (Groupe B). Le taux d'identification du pathogène (dominé par Staphylococcus aureus) a bondi de 51,6 % (16/31) à 85,7 % (30/35, p < 0,01), sans aucune complication grave dans les deux groupes.",
+        "protocol_fr": "Guidage TDM/fluoroscopique par abord transpédiculaire oblique descendant • Prélèvement combiné : carottes osseuses du plateau vertébral sous-chondral œdématié (en IRM STIR/T1 Gado) + tissu discal adjacent • Envoi systématique en bactériologie standard prolongée, anatomopathologie et biologie moléculaire (PCR ARN 16S / NGS).",
+        "key_points_fr": [
+            "Augmentation majeure de la rentabilité microbiologique : 85,7 % contre 51,6 % avec la biopsie transpédiculaire classique (p < 0,01).",
+            "Intérêt majeur de cibler simultanément l'os sous-chondral du plateau vertébral (riche en germes au stade précoce) et le disque.",
+            "Synergie diagnostique avec le séquençage ARN 16S, particulièrement utile en cas d'antibiothérapie préalable ou de germe lent.",
+            "Aucune complication grave rapportée sur les 66 procédures."
+        ],
+        "tags": ["Biopsie disco-vertébrale", "Spondylodiscite", "ARN 16S", "Voie transpédiculaire", "Rendement diagnostique"]
+    },
+    "41063397": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Efficacité et sécurité des techniques d'ablation des nerfs géniculés dans la gonarthrose : revue systématique et méta-analyse des essais randomisés contrôlés versus sham",
+        "modality": "Échographie + Fluoroscopie / TDM",
+        "intervention_type": "Radiofréquence & Cryoneurolyse des Nerfs Géniculés",
+        "cochin_link": "Correspond directement aux séances de test anesthésique sous écho + radiofréquence/cryoneurolyse des nerfs géniculés pour gonarthrose à Cochin.",
+        "summary_fr_short": "Méta-analyse d'essais randomisés contrôlés contre procédure fictive (*Pain Medicine*, avr. 2026, 8 ECR, 627 patients) confirmant l'efficacité antalgique à 12 semaines et fonctionnelle (WOMAC) à 24 semaines de la neurolyse des nerfs géniculés (radiofréquence et cryoneurolyse) dans la gonarthrose réfractaire.",
+        "summary_fr_detailed": "Cette revue systématique avec analyse séquentielle des essais (TSA) a inclus exclusivement les essais randomisés contrôlés contre procédure sham (8 ECR, n = 627 patients) évaluant la radiofréquence (monopolaire conventionnelle, refroidie ou bipolaire) et la cryoneurolyse des nerfs géniculés chez des adultes souffrant de gonarthrose symptomatique inéligibles à la prothèse. Par rapport au groupe sham, les techniques ablatives réduisent significativement la douleur à 12 semaines (différence moyenne MD -1,65 ; IC 95 % [-2,57 ; -0,74]) et améliorent le score fonctionnel WOMAC (MD -11,37 ; IC 95 % [-18,83 ; -3,91]). L'analyse séquentielle (TSA) confirme le caractère concluant du bénéfice antalgique à 3 mois et fonctionnel à 6 mois, sans aucun événement indésirable grave rapporté.",
+        "protocol_fr": "Repérage combiné échographique et fluoroscopique/TDM des artères et nerfs géniculés supéro-médial (SMGN), supéro-latéral (SLGN) et inféro-médial (IMGN) • Test de stimulation sensitive/motrice • Thermocoagulation par radiofréquence conventionnelle (80 °C, 90 s) ou refroidie, ou cryoneurolyse percutanée.",
+        "key_points_fr": [
+            "Haut niveau de preuve (méta-analyse de 8 essais randomisés contrôlés contre sham, 627 patients) validé par Trial Sequential Analysis (TSA).",
+            "Réduction significative de l'EVA douloureuse à 12 semaines (MD -1,65 point) et amélioration fonctionnelle WOMAC durable jusqu'à 24 semaines (MD -11,37 points).",
+            "Excellent profil de sécurité : aucun événement indésirable grave rapporté sur les 627 patients.",
+            "La radiofréquence monopolaire conventionnelle affiche le rapport efficacité/coût le plus robuste en analyse de sous-groupe."
+        ],
+        "tags": ["Nerfs géniculés", "Gonarthrose", "Radiofréquence", "Cryoneurolyse", "Méta-analyse ECR sham"]
     }
 }
 
@@ -922,6 +1024,7 @@ JOURNAL_IMPACT_FACTORS = {
     "european radiology experimental": (3.7, "Eur Radiol Exp"),
     "european radiology": (4.7, "Eur Radiol"),
     "insights into imaging": (4.1, "Insights Imaging"),
+    "current treatment options in oncology": (4.1, "Curr Treat Options Oncol"),
     "skeletal radiology": (1.9, "Skeletal Radiol"),
     "cardiovascular and interventional radiology": (2.8, "CVIR"),
     "journal of vascular and interventional radiology": (2.6, "JVIR"),
@@ -931,12 +1034,16 @@ JOURNAL_IMPACT_FACTORS = {
     "clinical orthopaedics and related research": (4.2, "Clin Orthop Relat Res"),
     "scientific reports": (3.8, "Sci Rep"),
     "journal of bone oncology": (3.4, "J Bone Oncol"),
+    "international journal of hyperthermia": (3.1, "Int J Hyperthermia"),
     "diagnostics": (3.0, "Diagnostics"),
     "journal of clinical medicine": (3.0, "J Clin Med"),
     "pain medicine": (2.9, "Pain Med"),
+    "journal of orthopaedic surgery and research": (2.8, "J Orthop Surg Res"),
+    "european spine journal": (2.6, "Eur Spine J"),
     "pediatric radiology": (2.1, "Pediatr Radiol"),
     "seminars in musculoskeletal radiology": (1.8, "Semin Musculoskelet Radiol"),
     "journal of medical imaging and radiation oncology": (1.8, "J Med Imaging Radiat Oncol"),
+    "acta radiologica": (1.5, "Acta Radiol"),
     "european journal of orthopaedic surgery": (1.5, "Eur J Orthop Surg Traumatol"),
     "journal of ultrasonography": (1.6, "J Ultrason"),
     "bjr open": (1.3, "BJR Open"),
