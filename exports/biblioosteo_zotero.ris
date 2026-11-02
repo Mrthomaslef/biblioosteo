@@ -191,6 +191,42 @@ KW  - Pain Medicine 2026
 ER  - 
 
 TY  - JOUR
+TI  - Robotic-Assisted Computed Tomography-Guided Percutaneous Bone Procedures: A Prospective Multicenter Pilot Study
+AU  - Bonnet B
+AU  - Stacoffe N
+AU  - Dassa M
+AU  - Tselikas L
+AU  - Beunon P
+AU  - Tutton S
+AU  - Pialat JB
+AU  - Milot L
+AU  - Thiery L
+AU  - Mastier C
+AU  - Daidj N
+AU  - Boulade W
+AU  - de Baère T
+AU  - Deschamps F
+AU  - Piana G
+JO  - Cardiovascular and interventional radiology
+PY  - 2026
+VL  - 49
+IS  - 9
+SP  - 1875-1885
+DO  - 10.1007/s00270-026-04545-w
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude prospective multicentrique pilote (*CVIR*, juil. 2026, 34 patients, 90 insertions d'aiguilles) démontrant une faisabilité de 98,9 % et une précision balistique de 2,0 ± 1,4 mm pour les procédures osseuses percutanées du rachis et du bassin assistées par le robot Epione®. | Points clés : Taux de succès technique de 98,9 % (89/90 trocarts) sans conversion manuelle sur des cibles rachidiennes et pelviennes. ; Précision millimétrique (déviation latérale moyenne à la pointe : 2,0 ± 1,4 mm ; déviation angulaire : 3,1°). ; Aucune complication imputable au guidage robotique sur les 90 ponctions osseuses. ; Sécurise les abords obliques complexes ou multi-aiguilles en oncologie interventionnelle ostéo-articulaire. | Pratique Cochin : Directement lié aux gestes complexes de consolidation et d'ablation osseuse rachidienne et pelvienne sous guidage TDM avancé réalisés à Cochin. || [ABSTRACT ORIGINAL - EN] Purpose To prospectively evaluate the feasibility, safety, and targeting accuracy of robotic-assisted CT-guided percutaneous bone procedures. Materials and methods This prospective multicenter pilot study included adult patients undergoing CT-guided percutaneous bone consolidation or tumor ablation between September 2024 and January 2025 at three academic institutions. All procedures were planned and performed using the Epione® robotic platform. Targets included the thoracic and lumbar spine and the pelvis. The primary endpoint was feasibility of robotic-assisted needle insertion, defined as successful needle placement without conversion to manual technique. Secondary endpoints included safety, targeting accuracy, procedural time, and radiation dose. Targeting accuracy was measured as lateral tip deviation and angular deviation between planned and final needle positions. Results Thirty-four patients underwent 90 needle insertions, including 66 in the spine (73.3%) and 24 in the pelvis (26.7%). Indications were bone consolidation in 87/90 insertions (97%) and tumor ablation in 3/90 (3%). Robotic insertion was feasible in 89/90 insertions (98.9%). Seven adverse events occurred in 6 patients (17.6%), including four serious events, none related to the device or procedure. Mean lateral tip deviation was 2.0 ± 1.4 mm, and mean angular deviation was 3.1° ± 2.7°. Mean dose-length product was 3224 ± 2215 mGy.cm. Mean total procedure time was 03 h 09 min ± 50 min. Conclusions Robotic-assisted CT-guided bone procedures showed high feasibility and satisfactory targeting accuracy, with no device- or procedure-related adverse events. These findings support further evaluation in larger comparative studies. Clinical trial registration NCT06376682.
+N1  - PMID: 42527616 | PMCID: PMC13597657 | Catégorie: Ablation Percutanée Tumorale : Standards, Endométriome & Oncologie
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42527616.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42527616/
+KW  - Robotique interventionnelle
+KW  - Epione
+KW  - Consolidation osseuse
+KW  - Ablation tumorale
+KW  - Rachis
+KW  - Bassin
+KW  - CVIR 2026
+ER  - 
+
+TY  - JOUR
 TI  - Combination of Percutaneous Cryoablation, Screw Fixation, and Cementoplasty for Painful Pelvic Bone Metastases: A Supportive Care Approach Improving Pain, Mobility, and Quality of Life
 AU  - Grange S
 AU  - Grange R
@@ -241,6 +277,35 @@ KW  - Côtes
 KW  - Scapula
 KW  - Clavicule
 KW  - Métastases osseuses
+ER  - 
+
+TY  - JOUR
+TI  - Avoiding pitfalls in percutaneous acetabular column screw placement using combined fluoroscopic check-point views: a technical note and case series
+AU  - Godinho M
+AU  - Serra M
+AU  - Solano AJ
+AU  - Nardi M
+AU  - Krieg BA
+AU  - Tucker NJ
+AU  - Hellwinkel JE
+AU  - Schlauch A
+AU  - Schaffer NE
+AU  - Mauffrey C
+JO  - European journal of orthopaedic surgery & traumatology : orthopedie traumatologie
+PY  - 2026
+VL  - 36
+IS  - 1
+SP  - 353
+DO  - 10.1007/s00590-026-04935-3
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Note technique et série clinique (*Eur J Orthop Surg Traumatol*, août 2026) décrivant trois incidences fluoroscopiques spécifiques — dont la vue combinée 'Obturator Oblique Hyper-Outlet' (COOHO) — pour démasquer les effractions corticales 'in-out-in' lors du vissage percutané des colonnes acétabulaires. | Points clés : Les vues fluoroscopiques classiques peuvent donner une fausse impression de trajet intra-osseux dans les couloirs acétabulaires étroits. ; L'incidence COOHO (Combined Obturator Oblique Hyper-Outlet) profile tangentiellement la gouttière ilio-psoas et le récessus pectiné pour sécuriser la vis de colonne antérieure. ; Le couple Outlet + Profil strict (True Lateral) sécurise la colonne postérieure en regard de la petite échancrure sciatique et de la lame quadrilatère. ; Repères fluoroscopiques rapides directement intégrables au bloc interventionnel (arceau 3D / TDM). | Pratique Cochin : Directement applicable aux vissages percutanés du bassin et du cotyle (colonnes antérieure et postérieure, montage tripode) pratiqués à Cochin. || [ABSTRACT ORIGINAL - EN] Standard fluoroscopic views may not detect cortical breaches during percutaneous acetabular column screw placement, creating an illusion of safe intraosseous positioning. The purpose of this study was to illustrate use of simple fluoroscopic checkpoint projections-the combined obturator oblique hyper-outlet (COOHO) view for anterior column (AC) screws and two known additional views, outlet and true lateral (TL), for posterior column (PC) screws-as a method to demonstrate extraosseous screw trajectories that might be missed by standard tangential column fluoroscopic views. Six clinical cases are presented as examples of standard orthogonal fluoroscopic views failing to detect extraosseous screw placement. The cases are supplemented by a synthetic pelvic model demonstration to define radiographic landmarks and common screw malposition. Guidewires were advanced in the pelvic model columns, either intraosseous or extraosseous, and their paths were evaluated with standard fluoroscopic views compared to COOHO and outlet and TL views. For the AC, COOHO tangentially profiles the pectineus recess and iliopsoas gutter to unmask in-out-in paths. For the PC, iliac and obturator oblique views may miss medial or posterior breach near the lesser sciatic notch and quadrilateral plate. The outlet and TL views show the vertical extent of the ilioischial line to detect medial or posterior breech and length-orientation errors. The COOHO, outlet and TL views additional projections that improve tangential visualization of high-risk cortices and detection of extraosseous trajectories.
+N1  - PMID: 42663695 | PMCID:  | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
+UR  - https://pubmed.ncbi.nlm.nih.gov/42663695/
+KW  - Vissage cotyle
+KW  - Colonne antérieure
+KW  - Colonne postérieure
+KW  - Incidence COOHO
+KW  - Fluoroscopie
+KW  - Bassin
 ER  - 
 
 TY  - JOUR
@@ -375,6 +440,57 @@ KW  - Méta-analyse ECR sham
 ER  - 
 
 TY  - JOUR
+TI  - Evaluation of CT-Guided Pudendal Nerve Cryoneurolysis for the Treatment of Refractory Pelvic Pain
+AU  - Young S
+AU  - Gunkan A
+AU  - Struycken L
+AU  - Placek S
+AU  - Abramyan A
+AU  - De Martini IV
+AU  - Hannallah J
+AU  - Woodhead G
+AU  - Goldberg D
+JO  - The American journal of hospice & palliative care
+PY  - 2026
+SP  - 10499091261442199
+DO  - 10.1177/10499091261442199
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude clinique rétrospective (*Am J Hosp Palliat Care*, avr. 2026, 30 patients) démontrant une réduction hautement significative de l'EVA douloureuse (jusqu'à 6 mois, p < 0,001) et de la consommation d'opioïdes après cryoneurolyse TDM du nerf pudendal, sans aucune complication. | Points clés : Soulagement antalgique rapide dès J7 et durable jusqu'à 6 mois (p < 0,001) chez 30 patients atteints de douleurs pelviennes réfractaires. ; Épargne morphinique significative à 1 semaine et 1 mois post-procédure (p = 0,032). ; Efficacité identique dans les douleurs pelviennes oncologiques (envahissement sacré/pelvien) et les névralgies pudendales non malignes. ; Sécurité remarquable sous guidage scanner (aucun événement indésirable rapporté). | Pratique Cochin : Complète l'arsenal de cryoneurolyse percutanée sous scanner (Morton, nerfs intercostaux, douleurs pelviennes et périnéales oncologiques) réalisé à Cochin. || [ABSTRACT ORIGINAL - EN] BackgroundPelvic pain caused by malignant and non-malignant etiologies can be treated by cryoneurolysis of the pudendal nerve(s). The purpose of this report is to assess the efficacy and safety of CT-guided pudendal nerve cryoneurolysis. Additionally, treatment outcomes were compared between malignant and non-malignant pelvic pain etiologies.MethodsPatients who underwent CT-guided pudendal nerve cryoneurolysis for intractable pelvic pain were retrospectively reviewed. Pre-procedural and post-procedural pain scores, supplemental analgesic use, and complications were assessed.ResultsA total of 30 patients underwent CT-guided pudendal nerve cryoneurolysis. Pre-treatment Visual Analog Scale (VAS) pain scores were significantly improved at 1 week (3.9 ± 2.1, P P P P P = 0.04) and 1 month (17.5 (range:0-216), P = 0.032) post-treatment. Both malignant and non-malignant cohorts demonstrated significant improvement of VAS score at all time points; however, there was no significant difference in numeric improvement or percentage improvement in VAS score between the 2 cohorts. No adverse events were observed.ConclusionCT-guided pudendal nerve cryoneurolysis is an effective and safe treatment modality in patients with refractory pelvic pain from both malignant and non-malignant etiologies.
+N1  - PMID: 41999357 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux
+UR  - https://pubmed.ncbi.nlm.nih.gov/41999357/
+KW  - Cryoneurolyse
+KW  - Nerf pudendal
+KW  - Douleur pelvienne
+KW  - Soins palliatifs
+KW  - Guidage scanner
+ER  - 
+
+TY  - JOUR
+TI  - Radiation Dose, Outcomes, and Trends of CT-Guided Osteoid Osteoma Ablation in Pediatric Patients: An Analysis of the Registry of the German Society for Interventional Radiology and Minimally Invasive Therapy
+AU  - Wintergerst C
+AU  - Doppler M
+AU  - Wirtz S
+AU  - Stein T
+AU  - Schürmann T
+AU  - Vogt K
+AU  - Can E
+AU  - Nadjiri J
+AU  - Uller W
+JO  - Cardiovascular and interventional radiology
+PY  - 2026
+DO  - 10.1007/s00270-026-04412-8
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Analyse multicentrique du registre allemand DeGIR (*CVIR*, mars 2026, 166 patients ≤ 18 ans) établissant les valeurs de référence de dose d'irradiation (DLP médian 132 mGy·cm) et confirmant un succès technique de 99,4 % pour l'ablation TDM d'ostéome ostéoïde. | Points clés : Établit les premiers repères dosimétriques multicentriques (benchmarks DLP Q1–Q3) pour l'ablation TDM d'ostéome ostéoïde. ; DLP médian très contenu : 124 mGy·cm sur les membres et 222 mGy·cm sur le squelette axial. ; Succès technique de 99,4 % et taux de complication très bas (1,81 %), confirmant la RFA comme gold standard (71 % des procédures). ; Référentiel directement utilisable pour l'audit dosimétrique et l'optimisation ALARA au scanner interventionnel. | Pratique Cochin : Fournit les niveaux de référence diagnostiques et interventionnels (DLP) pour les thermoablations d'ostéomes ostéoïdes chez l'adolescent et le jeune adulte à Cochin. || [ABSTRACT ORIGINAL - EN] Purpose This study evaluated radiation dose parameters, clinical outcomes, and national trends in conventional CT-guided pediatric osteoid osteoma ablation. Materials and methods We retrospectively analyzed data from the German Society for Interventional Radiology and Minimally Invasive Therapy (DeGIR) registry (2019-2024). Patients ≤ 18 years with available Dose Length Product were included. Radiation dose, clinical outcome, and ablation modality were assessed. Benchmarks were defined using percentiles stratified by age and anatomical location. Results A total of 166 pediatric patients (mean age 13.45 years; 59 female) were included. The median Dose Length Product was 132.00 (Q1: 53, Q3: 314) mGycm, 222.00 (Q1: 64.50, Q3: 485) mGycm for axial skeleton, and 124.00 (Q1: 51, Q3: 297) mGycm for extremity ablations. Technical success was 99.4% (partial technical success 0.60%), early clinical success was 58.43% (39.76% not assessable, 1.81% no improvement), and the complication rate was 1.81%. After additional age stratification and exclusion of very small groups (n Conclusion This multicenter analysis provides proposed pediatric benchmarks for radiation exposure during conventional CT-guided osteoid osteoma ablation, which demonstrated excellent safety and technical success, supporting its role as standard therapy.
+N1  - PMID: 41876692 | PMCID:  | Catégorie: Ablation Thermique des Tumeurs Osseuses Bénignes
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_41876692.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/41876692/
+KW  - Ostéome ostéoïde
+KW  - Radioprotection
+KW  - DLP
+KW  - Radiofréquence
+KW  - Registre DeGIR
+KW  - CVIR 2026
+ER  - 
+
+TY  - JOUR
 TI  - Photon-counting CT-guided bone biopsy with real-time bone marrow edema mapping
 AU  - Alvarez de Sierra Garcia B
 AU  - Urtasun-Iriarte C
@@ -421,6 +537,35 @@ KW  - Parties molles
 KW  - État de l'art 2026
 KW  - Ablation percutanée
 KW  - Zotero
+ER  - 
+
+TY  - JOUR
+TI  - Electrochemotherapy of spinal metastasis using transpedicular approach: a preclinical safety animal study
+AU  - Deschamps F
+AU  - Gautreau E
+AU  - Tselikas L
+AU  - Bonnet B
+AU  - Beunon P
+AU  - Feddal A
+AU  - de Baere T
+AU  - Gaudin A
+AU  - Mir LM
+JO  - European radiology experimental
+PY  - 2025
+VL  - 9
+IS  - 1
+SP  - 84
+DO  - 10.1186/s41747-025-00607-9
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de sécurité préclinique (*Eur Radiol Exp*, sept. 2025, 12 sujets, 36 niveaux thoraco-lombaires T11–L1) démontrant que l'électrochimiothérapie vertébrale par voie transpédiculaire ne provoque aucune lésion histologique médullaire ni déficit neurologique permanent. | Points clés : Démonstration histologique de l'innocuité médullaire de l'ECT vertébrale par voie transpédiculaire (aucune apoptose ni ischémie médullaire). ; Observation importante pour le radiologue interventionnel : les Potentiels Évoqués Moteurs (PEM) peuvent chuter transitoirement après l'impulsion électrique mais récupèrent intégralement en moins de 30 minutes. ; Aucun déficit moteur ni trouble vésico-sphinctérien observé au cours du suivi. ; Confirme la sécurité du positionnement transpédiculaire des électrodes pour traiter les métastases rachidiennes complexes. | Pratique Cochin : Directement lié aux séances d'électrochimiothérapie (Bléomycine IV) des métastases rachidiennes et épidurales réalisées au scanner Achard -1 à Cochin. || [ABSTRACT ORIGINAL - EN] Background Electrochemotherapy (ECT) of vertebral metastasis is a new treatment option for metastasis that is not accessible to thermal ablation or radiotherapy. A numerical feasibility study has investigated the transpedicular approach for electrode insertion. We conducted a preclinical study to assess its safety. Methods Histologic examination of the spinal cord was performed in 12 consecutive pigs treated with ECT at three consecutive levels (T11, T12, and L1) to evaluate any cellular or vascular damage. Pigs of group A (n = 6) had an intraoperative neuromonitoring immediately for 1 h after ECT and then were euthanized. Pain and clinical symptoms were daily evaluated for group B (n = 3) and group C (n = 3) until day-3 and day-30, respectively. Results At gross pathology, no apoptosis, no vascular/thrombosis or hemorrhagic focus was observed in any pig. Motor-evoked potential responses of the lower limbs were transiently lost in response in 5 of the 6 pigs, but complete recovery always occurred within 30 min. Clinical examination (groups B and C) revealed no symptoms during the follow-up. Pigs were all able to walk normally, without weakness or paralysis of the lower extremities. No urinary/fecal retention or incontinence was observed, nor any sign of pain. Conclusion Our results confirm that the insertion of electrodes through the pedicles is safe for the ECT of vertebral metastases. Further studies are needed to evaluate the safety profile of ECT of vertebral metastases invading the cortical and epidural fat, which represents a privileged pathway for the electric field between the electrodes. Relevance statement Electrochemotherapy of vertebral metastases should be performed using a transpedicular approach for the insertion of electrodes, without definitive sequelae at the spinal cord level. Key points Electrochemotherapy is a new treatment for vertebral metastases not accessible to radiotherapy, but it could result in spinal cord injury related to electrical trauma. In a swine model, the transpedicular approach has demonstrated no definitive sequelae at intraoperative neuromonitoring and during clinical follow-up. Electrochemotherapy should be performed using a transpedicular approach to avoid spinal cord damage.
+N1  - PMID: 40906057 | PMCID: PMC12411335 | Catégorie: Électrochimiothérapie (ECT) & Métastases Osseuses
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_40906057.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/40906057/
+KW  - Électrochimiothérapie
+KW  - Métastases vertébrales
+KW  - Voie transpédiculaire
+KW  - Neuromonitoring
+KW  - Sécurité médullaire
+KW  - Eur Radiol Exp
 ER  - 
 
 TY  - JOUR

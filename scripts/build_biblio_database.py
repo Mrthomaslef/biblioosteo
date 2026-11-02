@@ -824,6 +824,91 @@ CURATED_DATA = {
             "La radiofréquence monopolaire conventionnelle affiche le rapport efficacité/coût le plus robuste en analyse de sous-groupe."
         ],
         "tags": ["Nerfs géniculés", "Gonarthrose", "Radiofréquence", "Cryoneurolyse", "Méta-analyse ECR sham"]
+    },
+    "42527616": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "Procédures osseuses percutanées guidées par scanner avec assistance robotique (Epione®) : étude pilote multicentrique prospective",
+        "modality": "Scanner TDM + Navigation Robotique (Epione®)",
+        "intervention_type": "Consolidation & Ablation Osseuse Robot-Assistée",
+        "cochin_link": "Directement lié aux gestes complexes de consolidation et d'ablation osseuse rachidienne et pelvienne sous guidage TDM avancé réalisés à Cochin.",
+        "summary_fr_short": "Étude prospective multicentrique pilote (*CVIR*, juil. 2026, 34 patients, 90 insertions d'aiguilles) démontrant une faisabilité de 98,9 % et une précision balistique de 2,0 ± 1,4 mm pour les procédures osseuses percutanées du rachis et du bassin assistées par le robot Epione®.",
+        "summary_fr_detailed": "Cette étude prospective menée dans trois centres hospitalo-universitaires a évalué l'insertion robot-assistée sous scanner de trocarts osseux chez 34 patients (90 trajectoires : 66 au rachis thoraco-lombaire [73,3 %] et 24 au bassin [26,7 %], pour consolidation [97 %] ou thermoablation tumorale [3 %]). Le placement robotique a réussi sans conversion manuelle dans 89/90 insertions (98,9 %). L'écart latéral moyen à la pointe de l'aiguille était de 2,0 ± 1,4 mm et la déviation angulaire de 3,1° ± 2,7°, sans aucun événement indésirable lié au dispositif ni à la procédure.",
+        "protocol_fr": "Acquisition TDM de planification • Définition sur console 3D du point d'entrée cutané et de la cible intra-osseuse (pédicule vertébral ou couloir pelvien) • Positionnement automatique du bras robotique Epione® • Insertion du trocart osseux sous apnée contrôlée et contrôle TDM de vérification.",
+        "key_points_fr": [
+            "Taux de succès technique de 98,9 % (89/90 trocarts) sans conversion manuelle sur des cibles rachidiennes et pelviennes.",
+            "Précision millimétrique (déviation latérale moyenne à la pointe : 2,0 ± 1,4 mm ; déviation angulaire : 3,1°).",
+            "Aucune complication imputable au guidage robotique sur les 90 ponctions osseuses.",
+            "Sécurise les abords obliques complexes ou multi-aiguilles en oncologie interventionnelle ostéo-articulaire."
+        ],
+        "tags": ["Robotique interventionnelle", "Epione", "Consolidation osseuse", "Ablation tumorale", "Rachis", "Bassin", "CVIR 2026"]
+    },
+    "41876692": {
+        "category_id": "ablation_benign",
+        "title_fr": "Dose d'irradiation, résultats cliniques et tendances de l'ablation d'ostéome ostéoïde pédiatrique guidée par scanner : analyse du registre DeGIR (166 patients)",
+        "modality": "Scanner TDM (Protocole Basse Dose Pédiatrique)",
+        "intervention_type": "Radiofréquence (RFA) / Micro-ondes (MWA) / Cryoablation",
+        "cochin_link": "Fournit les niveaux de référence diagnostiques et interventionnels (DLP) pour les thermoablations d'ostéomes ostéoïdes chez l'adolescent et le jeune adulte à Cochin.",
+        "summary_fr_short": "Analyse multicentrique du registre allemand DeGIR (*CVIR*, mars 2026, 166 patients ≤ 18 ans) établissant les valeurs de référence de dose d'irradiation (DLP médian 132 mGy·cm) et confirmant un succès technique de 99,4 % pour l'ablation TDM d'ostéome ostéoïde.",
+        "summary_fr_detailed": "Sur 166 patients pédiatriques (âge moyen 13,5 ans) traités par ablation percutanée sous scanner entre 2019 et 2024, la radiofréquence représentait 71,1 % des gestes, les micro-ondes 26,5 % et la cryoablation 1,8 %. Le Produit Dose-Longueur (DLP) médian global était de 132 mGy·cm (IQR 53–314), avec une médiane de 124 mGy·cm (IQR 51–297) pour le squelette appendiculaire et de 222 mGy·cm (IQR 64,5–485) pour le squelette axial. Le taux de succès technique atteignait 99,4 % avec un taux de complications mineures de seulement 1,81 %.",
+        "protocol_fr": "Hélice de repérage ultra-basse dose centrée sur le nidus (collimation réduite, bas kilovoltage 80–100 kVp, itération dédiée) • Guidage séquentiel ('step-and-shoot') limité à quelques coupes millimétriques • Objectif dosimétrique : DLP < 150 mGy·cm sur les membres et < 250 mGy·cm sur le rachis/bassin.",
+        "key_points_fr": [
+            "Établit les premiers repères dosimétriques multicentriques (benchmarks DLP Q1–Q3) pour l'ablation TDM d'ostéome ostéoïde.",
+            "DLP médian très contenu : 124 mGy·cm sur les membres et 222 mGy·cm sur le squelette axial.",
+            "Succès technique de 99,4 % et taux de complication très bas (1,81 %), confirmant la RFA comme gold standard (71 % des procédures).",
+            "Référentiel directement utilisable pour l'audit dosimétrique et l'optimisation ALARA au scanner interventionnel."
+        ],
+        "tags": ["Ostéome ostéoïde", "Radioprotection", "DLP", "Radiofréquence", "Registre DeGIR", "CVIR 2026"]
+    },
+    "40906057": {
+        "category_id": "ect_mets",
+        "title_fr": "Électrochimiothérapie (ECT) des métastases vertébrales par voie transpédiculaire : étude préclinique de sécurité médullaire sous neuromonitoring",
+        "modality": "Scanner TDM + Fluoroscopie + Neuromonitoring (PEM/PES)",
+        "intervention_type": "Électrochimiothérapie (ECT) Vertébrale Transpédiculaire",
+        "cochin_link": "Directement lié aux séances d'électrochimiothérapie (Bléomycine IV) des métastases rachidiennes et épidurales réalisées au scanner Achard -1 à Cochin.",
+        "summary_fr_short": "Étude de sécurité préclinique (*Eur Radiol Exp*, sept. 2025, 12 sujets, 36 niveaux thoraco-lombaires T11–L1) démontrant que l'électrochimiothérapie vertébrale par voie transpédiculaire ne provoque aucune lésion histologique médullaire ni déficit neurologique permanent.",
+        "summary_fr_detailed": "L'électrochimiothérapie (ECT) est une alternative majeure pour les métastases vertébrales radiorésistantes ou proches du cordon médullaire, mais le champ électrique pulsé pourrait théoriquement léser la moelle épinière. Dans cette étude évaluant l'ECT sur 3 niveaux consécutifs (T11, T12, L1) par abord transpédiculaire bilatéral avec neuromonitoring per-opératoire, une sidération transitoire des potentiels évoqués moteurs (PEM) des membres inférieurs a été observée chez 5/6 sujets mais avec récupération complète systématique en moins de 30 minutes. L'examen clinique à J3 et J30 était strictement normal (marche normale, absence de trouble sphinctérien) et l'analyse histopathologique médullaire n'a révélé ni apoptose neuronale, ni thrombose vasculaire, ni foyer hémorragique.",
+        "protocol_fr": "Insertion d'électrodes-aiguilles par voie transpédiculaire bilatérale sous guidage TDM • Perfusion IV de Bléomycine • Délivrance des impulsions d'électroporation synchronisées à l'ECG sous surveillance continue des Potentiels Évoqués Moteurs (PEM) • Savoir qu'une chute immédiate des PEM récupère habituellement en < 30 min sans lésion anatomique médullaire.",
+        "key_points_fr": [
+            "Démonstration histologique de l'innocuité médullaire de l'ECT vertébrale par voie transpédiculaire (aucune apoptose ni ischémie médullaire).",
+            "Observation importante pour le radiologue interventionnel : les Potentiels Évoqués Moteurs (PEM) peuvent chuter transitoirement après l'impulsion électrique mais récupèrent intégralement en moins de 30 minutes.",
+            "Aucun déficit moteur ni trouble vésico-sphinctérien observé au cours du suivi.",
+            "Confirme la sécurité du positionnement transpédiculaire des électrodes pour traiter les métastases rachidiennes complexes."
+        ],
+        "tags": ["Électrochimiothérapie", "Métastases vertébrales", "Voie transpédiculaire", "Neuromonitoring", "Sécurité médullaire", "Eur Radiol Exp"]
+    },
+    "42663695": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Éviter les pièges du vissage percutané des colonnes acétabulaires grâce aux incidences fluoroscopiques de contrôle combinées (COOHO, Outlet et Profil strict)",
+        "modality": "Fluoroscopie / Cone-Beam CT / Scanner TDM",
+        "intervention_type": "Vissage Percutané des Colonnes Antérieure et Postérieure du Cotyle",
+        "cochin_link": "Directement applicable aux vissages percutanés du bassin et du cotyle (colonnes antérieure et postérieure, montage tripode) pratiqués à Cochin.",
+        "summary_fr_short": "Note technique et série clinique (*Eur J Orthop Surg Traumatol*, août 2026) décrivant trois incidences fluoroscopiques spécifiques — dont la vue combinée 'Obturator Oblique Hyper-Outlet' (COOHO) — pour démasquer les effractions corticales 'in-out-in' lors du vissage percutané des colonnes acétabulaires.",
+        "summary_fr_detailed": "Les incidences fluoroscopiques orthogonales standard (alarme/iliaque et obturatrice) peuvent masquer une brèche corticale extra-osseuse ('in-out-in') lors du vissage rétrograde ou antérograde des colonnes du cotyle. Cet article valide sur modèle pelvien et série clinique l'utilisation de l'incidence COOHO (Combined Obturator Oblique Hyper-Outlet) pour la colonne antérieure : elle profile tangentiellement le récessus pectiné et la gouttière ilio-psoas, détectant immédiatement toute sortie corticale antéro-supérieure. Pour la colonne postérieure, l'ajout systématique des vues Outlet et Profil strict (True Lateral) permet de visualiser l'étendue verticale de la ligne ilio-ischiatique et de prévenir toute effraction médiale dans la lame quadrilatère ou postérieure dans la petite échancrure sciatique.",
+        "protocol_fr": "Colonne antérieure (AC) : contrôler systématiquement la broche-guide en incidence COOHO (obturatrice + hyper-outlet) pour éliminer un trajet 'in-out-in' dans la gouttière du psoas • Colonne postérieure (PC) : compléter les vues iliaque/obturatrice par un Outlet et un Profil sacré strict (True Lateral) pour sécuriser la lame quadrilatère et l'échancrure sciatique.",
+        "key_points_fr": [
+            "Les vues fluoroscopiques classiques peuvent donner une fausse impression de trajet intra-osseux dans les couloirs acétabulaires étroits.",
+            "L'incidence COOHO (Combined Obturator Oblique Hyper-Outlet) profile tangentiellement la gouttière ilio-psoas et le récessus pectiné pour sécuriser la vis de colonne antérieure.",
+            "Le couple Outlet + Profil strict (True Lateral) sécurise la colonne postérieure en regard de la petite échancrure sciatique et de la lame quadrilatère.",
+            "Repères fluoroscopiques rapides directement intégrables au bloc interventionnel (arceau 3D / TDM)."
+        ],
+        "tags": ["Vissage cotyle", "Colonne antérieure", "Colonne postérieure", "Incidence COOHO", "Fluoroscopie", "Bassin"]
+    },
+    "41999357": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Évaluation de la cryoneurolyse du nerf pudendal guidée par scanner dans le traitement des douleurs pelviennes réfractaires (oncologiques et non oncologiques)",
+        "modality": "Scanner TDM",
+        "intervention_type": "Cryoneurolyse Percutanée du Nerf Pudendal",
+        "cochin_link": "Complète l'arsenal de cryoneurolyse percutanée sous scanner (Morton, nerfs intercostaux, douleurs pelviennes et périnéales oncologiques) réalisé à Cochin.",
+        "summary_fr_short": "Étude clinique rétrospective (*Am J Hosp Palliat Care*, avr. 2026, 30 patients) démontrant une réduction hautement significative de l'EVA douloureuse (jusqu'à 6 mois, p < 0,001) et de la consommation d'opioïdes après cryoneurolyse TDM du nerf pudendal, sans aucune complication.",
+        "summary_fr_detailed": "Sur 30 patients consécutifs souffrant de névralgie pudendale ou de douleur pelvienne réfractaire d'origine tumorale ou bénigne, la cryoneurolyse guidée par scanner du nerf pudendal (au niveau de l'épine sciatique / canal d'Alcock) a permis une amélioration significative du score EVA à 1 semaine (3,9 ± 2,1, p < 0,001), 1 mois (4,6 ± 2,3, p < 0,001), 3 mois (3,9 ± 2,2, p < 0,001) et 6 mois (p < 0,001). La consommation quotidienne d'équivalents morphiniques (ME) a significativement diminué dès la 1re semaine et à 1 mois (de 30 mg à 17,5 mg, p = 0,032). L'efficacité antalgique était comparable entre les cohortes oncologique et non oncologique, avec 0 % d'effet indésirable.",
+        "protocol_fr": "Patient en procubitus au scanner • Repérage TDM du ligament sacro-épineux, du ligament sacro-tubéral et du canal d'Alcock (épine ischiatique) • Positionnement d'une cryosonde fine au contact du tronc du nerf pudendal • Double cycle de congélation (2 × 2 min avec décongélation intermédiaire) sous anesthésie locale.",
+        "key_points_fr": [
+            "Soulagement antalgique rapide dès J7 et durable jusqu'à 6 mois (p < 0,001) chez 30 patients atteints de douleurs pelviennes réfractaires.",
+            "Épargne morphinique significative à 1 semaine et 1 mois post-procédure (p = 0,032).",
+            "Efficacité identique dans les douleurs pelviennes oncologiques (envahissement sacré/pelvien) et les névralgies pudendales non malignes.",
+            "Sécurité remarquable sous guidage scanner (aucun événement indésirable rapporté)."
+        ],
+        "tags": ["Cryoneurolyse", "Nerf pudendal", "Douleur pelvienne", "Soins palliatifs", "Guidage scanner"]
     }
 }
 
@@ -899,8 +984,10 @@ def try_download_real_pdf(pmid: str, doi: str, pdf_path: Path) -> bool:
                     "-sL",
                     "--max-time",
                     "15",
-                    "-A",
-                    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+                    "-c",
+                    f"/tmp/biblio_cookies_{pmid}.txt",
+                    "-b",
+                    f"/tmp/biblio_cookies_{pmid}.txt",
                     c,
                     "-o",
                     str(tmp_path),
@@ -958,6 +1045,7 @@ JOURNAL_IMPACT_FACTORS = {
     "journal of orthopaedic surgery and research": (2.8, "J Orthop Surg Res"),
     "european spine journal": (2.6, "Eur Spine J"),
     "pediatric radiology": (2.1, "Pediatr Radiol"),
+    "american journal of hospice & palliative care": (1.9, "Am J Hosp Palliat Care"),
     "seminars in musculoskeletal radiology": (1.8, "Semin Musculoskelet Radiol"),
     "journal of medical imaging and radiation oncology": (1.8, "J Med Imaging Radiat Oncol"),
     "acta radiologica": (1.5, "Acta Radiol"),
