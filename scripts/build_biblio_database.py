@@ -1153,25 +1153,44 @@ def get_journal_info_and_if(journal_title: str) -> tuple:
     return (2.5, journal_title)
 
 
-def extract_pub_month_and_date(r: dict, year_str: str) -> tuple:
+def extract_pub_month_and_date(r: dict, fallback_year_str: str) -> tuple:
+    """
+    Extract (year_int, month_int, month_fr, pub_date_fr) prioritizing actual online/first publication date
+    (firstPublicationDate / electronicPublicationDate) over the print volume/issue month (journalInfo.monthOfPublication),
+    which Publishers often set to a future end-of-year issue (e.g., Dec 2026 for an article published in March 2026).
+    """
     ji = r.get("journalInfo", {})
-    m_num = ji.get("monthOfPublication")
-    try:
-        m_num = int(m_num)
-    except (TypeError, ValueError):
-        m_num = 0
+    y_num = 0
+    m_num = 0
 
+    # 1. Prioritize actual publication date (firstPublicationDate / electronicPublicationDate)
+    fpd = r.get("firstPublicationDate") or r.get("electronicPublicationDate") or ""
+    parts = str(fpd).split("-")
+    if len(parts) >= 2 and parts[0].isdigit() and parts[1].isdigit():
+        y_cand = int(parts[0])
+        m_cand = int(parts[1])
+        if 1990 <= y_cand <= 2030 and 1 <= m_cand <= 12:
+            y_num = y_cand
+            m_num = m_cand
+
+    # 2. Fallback to journalInfo year/month if firstPublicationDate is missing
     if not (1 <= m_num <= 12):
-        fpd = r.get("firstPublicationDate") or r.get("electronicPublicationDate") or ""
-        parts = str(fpd).split("-")
-        if len(parts) >= 2 and parts[1].isdigit():
-            m_cand = int(parts[1])
+        try:
+            m_cand = int(ji.get("monthOfPublication") or 0)
             if 1 <= m_cand <= 12:
                 m_num = m_cand
+        except (TypeError, ValueError):
+            pass
+
+    if not y_num:
+        try:
+            y_num = int(ji.get("yearOfPublication") or fallback_year_str or 2024)
+        except (TypeError, ValueError):
+            y_num = 2024
 
     month_fr = MONTHS_FR.get(m_num, "")
-    pub_date_fr = f"{month_fr} {year_str}".strip() if month_fr else str(year_str)
-    return m_num if m_num else 1, month_fr, pub_date_fr
+    pub_date_fr = f"{month_fr} {y_num}".strip() if month_fr else str(y_num)
+    return y_num, (m_num if m_num else 1), month_fr, pub_date_fr
 
 
 def main():
@@ -1203,8 +1222,8 @@ def main():
         title = r.get("title", "").rstrip(".")
         journal_info = r.get("journalInfo", {})
         journal = journal_info.get("journal", {}).get("title", "")
-        year = str(r.get("pubYear", "2024"))
-        month_num, month_fr, pub_date_fr = extract_pub_month_and_date(r, year)
+        raw_year = str(r.get("pubYear", "2024"))
+        year_int, month_num, month_fr, pub_date_fr = extract_pub_month_and_date(r, raw_year)
         impact_factor, journal_short = get_journal_info_and_if(journal)
 
         volume = str(journal_info.get("volume", ""))
@@ -1252,7 +1271,7 @@ def main():
             "journal": journal,
             "journal_short": journal_short,
             "impact_factor": impact_factor,
-            "year": int(year) if year.isdigit() else 2024,
+            "year": year_int,
             "month_num": month_num,
             "month_fr": month_fr,
             "pub_date_fr": pub_date_fr,
