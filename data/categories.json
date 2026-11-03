@@ -59,14 +59,14 @@
   },
   {
     "id": "pain_cryoneurolysis",
-    "label": "Douleur & Neurolyse : Morton, Géniculés, Intercostaux",
+    "label": "Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal",
     "short_label": "Cryoneurolyse & RF Nerveuse",
     "icon": "activity",
     "color": "#ec4899",
     "agenda_examples": [
       "Cryothérapie sous AL au scanner de névrome de Morton (3e espace)",
       "Test anesthésique sous écho + Radiofréquence des nerfs géniculés (gonarthrose)",
-      "Cryoneurolyse du nerf intercostal (douleurs post-zona) & douleurs post-amputation"
+      "Cryoneurolyse percutanée du nerf clunéal et du nerf intercostal sous scanner"
     ]
   },
   {

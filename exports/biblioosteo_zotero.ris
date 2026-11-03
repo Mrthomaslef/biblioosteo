@@ -29,6 +29,29 @@ KW  - Récidive
 ER  - 
 
 TY  - JOUR
+TI  - Complications of vertebral augmentation in metastatic spinal fractures: a systematic review of multiple study designs
+AU  - Correia MC
+AU  - Vieira AM
+AU  - Duarte F
+AU  - Rodrigues Pinho A
+AU  - Serdoura F
+AU  - Leite MJ
+JO  - Journal of bone oncology
+PY  - 2026
+VL  - 61
+SP  - 100802
+DO  - 10.1016/j.jbo.2026.100802
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue systématique d'envergure (*Journal of Bone Oncology*, sept. 2026, 76 études, 3 234 patients, ≥ 5 737 vertèbres traitées) quantifiant précisément le taux de complications symptomatiques (3,41 %) et de fuites de ciment (20,7 %, majoritairement asymptomatiques) lors de la cimentoplastie des métastases rachidiennes. | Points clés : Plus vaste synthèse publiée à ce jour en oncologie rachidienne : 3 234 patients et plus de 5 737 vertèbres métastatiques cimentées. ; Taux de complications symptomatiques très contenu (3,41 %), confirmant la haute sécurité du geste palliatif. ; Faible incidence d'embolie pulmonaire de ciment (1,08 %) et de fracture adjacente précoce (0,79 %). ; Le contrôle par scanner détecte 2,4 fois plus de micro-fuites asymptomatiques que la radioscopie standard (28,6 % vs 11,9 %). | Pratique Cochin : Référentiel majeur de sécurité pour les cimentoplasties vertébrales (cervicales, thoraciques et lombaires) post-radiothérapie ou combinées aux ablations à Cochin. || [ABSTRACT ORIGINAL - EN] Background Vertebral augmentation techniques, including vertebroplasty and kyphoplasty, are widely used to relieve pain and restore spinal stability in patients with metastatic vertebral lesions. Despite their widespread use, the full spectrum and clinical significance of procedure-related complications remain incompletely characterised. This systematic review aims to summarise and characterise all reported complications associated with vertebral augmentation for metastatic thoracolumbar disease. Methods A comprehensive search of PubMed/MEDLINE, Scopus, and Web of Science databases was performed. Studies reporting complications associated with vertebral augmentation procedures for metastatic thoracolumbar spinal fractures were included. Randomised controlled trials, observational studies, case series, and case reports were eligible. Due to substantial heterogeneity across studies, a descriptive synthesis was performed. Results A total of 76 studies were included, comprising 3234 patients and at least 5737 vertebral levels treated. The overall weighted complication rate was 25.5%, while the weighted rate of symptomatic complications was 3.41%. Cement leakage was the most frequently reported complication, with a weighted mean incidence of 20.7%, although the majority were asymptomatic. Other complications included postprocedural pain (1.77%), pulmonary cement embolism (1.08%), and adjacent level fractures (0.79%). Studies using CT imaging reported significantly higher cement leakage rates (28.6% vs 11.9%, p = 0.004). Case reports described rare but potentially severe complications, including needle-tract tumour seeding, tumour extrusion, and cement migration to cardiac structures. Conclusions This review presents a comprehensive and detailed description of all complications of vertebral augmentation for treatment of metastatic spine disease and reinforce its safety. Differences in imaging protocols and reporting standards contribute to variability in reported complication rates. Further prospective studies with standardised complication reporting are needed.
+N1  - PMID: 42780331 | PMCID: PMC13597178 | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
+UR  - https://pubmed.ncbi.nlm.nih.gov/42780331/
+KW  - Cimentoplastie vertébrale
+KW  - Métastases rachidiennes
+KW  - Sécurité
+KW  - Fuite de ciment
+KW  - J Bone Oncol 2026
+ER  - 
+
+TY  - JOUR
 TI  - CT-guided radiofrequency ablation of a tibial osteoid osteoma in pregnancy
 AU  - Diala PC
 AU  - Pluym I
@@ -181,7 +204,7 @@ PY  - 2026
 SP  - pnag130
 DO  - 10.1093/pm/pnag130
 AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude anatomique et histologique (*Pain Medicine*, septembre 2026 — Fonkoué et al.) cartographiant la densité des terminaisons nociceptives des nerfs géniculés dans la capsule du genou natif et prothétique afin d'affiner le positionnement des aiguilles de bloc et de radiofréquence. | Points clés : Forte corrélation anatomique entre les pédicules artériels géniculés (visibles en Doppler) et la densité des terminaisons nerveuses nociceptives. ; Applicable aussi bien à la gonarthrose sur genou natif qu'aux douleurs chroniques persistantes après chirurgie ou geste articulaire du genou. ; Confirme l'intérêt d'un ciblage précis contre le périoste fémoral et tibial pour capter les rameaux articulaires avant leur arborisation capsulaire. | Pratique Cochin : Précise les zones cibles capsulaires optimales pour les tests anesthésiques du genou sous échographie (Pavillon Ollier) et les radiofréquences des nerfs géniculés. || [ABSTRACT ORIGINAL - EN] Background Chronic knee pain, often due to osteoarthritis (OA), is frequently treated with genicular nerve blocks, radiofrequency ablation (RFA) or genicular artery embolization (GAE). However, the intracapsular distribution of nerve endings and vascular networks key pain parameters remains poorly defined in native and prosthetic knees. Questions/purposes We compared the distribution of intracapsular nerve endings and vascular density in native versus prosthetic knee capsules across five genicular nerve targets in relation to knee pain. Methods Ten native and ten prosthetic cadaveric knees were analyzed. Capsular samples (20 × 5 mm) were harvested from regions innervated by the superior medial, superior lateral, and inferior genicular nerves, the recurrent fibular nerve, and the infrapatellar branch of the saphenous nerve. Nerve endings and vascular densities were quantified after histologic and immunohistochemical analysis comparatively. Results Native knees had higher free nerve ending (FNE) density (p Conclusion Dense FNE populations in native knees support genicular nerve-targeted interventions for OA pain. The increased vascularity and mechanoreceptor innervation identified in prosthetic knees suggest that inflammatory, angiogenic, and sensory mechanisms may contribute to persistent post-surgical pain. Whether interventions targeting these pathways, such as radiofrequency ablation or genicular artery embolization, provide better clinical benefit together remains to be established.
-N1  - PMID: 42803442 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux
+N1  - PMID: 42803442 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
 UR  - https://pubmed.ncbi.nlm.nih.gov/42803442/
 KW  - Nerfs géniculés
 KW  - Radiofréquence
@@ -338,6 +361,25 @@ KW  - 2026
 ER  - 
 
 TY  - JOUR
+TI  - Feasibility, safety, and short-term efficacy of ultrasound-guided radiofrequency ablation for abdominal wall endometriosis: preliminary results from a single center
+AU  - Phan NH
+AU  - Le NT
+AU  - Nguyen TK
+AU  - Nguyen TB
+JO  - Abdominal radiology (New York)
+PY  - 2026
+DO  - 10.1007/s00261-026-05766-w
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude clinique monocentrique (*Abdominal Radiology*, août 2026, 19 patientes, 29 lésions) évaluant l'ablation par radiofréquence sous échographie (technique 'moving-shot') des endométriomes de la paroi abdominale : chute de l'EVA de 7,37 à 1,72 et réduction volumétrique de 77,5 % dès 3 mois. | Points clés : Réduction spectaculaire de la douleur cyclique pariétale : EVA moyenne passant de 7,37/10 à 1,72/10 dès 3 mois (p < 0,01). ; Réduction volumétrique moyenne de 77,5 % à 3 mois (de 5,65 mL à 1,27 mL, p < 0,01). ; Excellente tolérance en ambulatoire sous anesthésie locale + analgésie IV (aucune complication majeure SIR). ; Confirme la place de la thermoablation percutanée (cryoablation ou RFA moving-shot) en première intention face à la chirurgie pariétale délabrante. | Pratique Cochin : Complète directement votre thématique d'ablation percutanée des nodules d'endométriose pariétale abdominale (cicatrice de césarienne) à Cochin. || [ABSTRACT ORIGINAL - EN] Purpose To evaluate the feasibility, safety, and short-term outcomes of ultrasound-guided radiofrequency ablation (RFA) for abdominal wall endometriosis (AWE). Materials and methods This retrospective single-center study included 19 patients with AWE (mean age, 35.5 ± 5.0 years) with 29 lesions who underwent ultrasound-guided RFA between December 2023 and January 2026. AWE was diagnosed based on clinical symptoms and imaging findings on ultrasonography and magnetic resonance imaging; biopsy was performed in atypical cases. RFA was performed using an 18-gauge electrode with the moving-shot technique under local anesthesia combined with intravenous analgesia. Complications were classified according to the SIR classification. Short-term technical efficacy was assessed at 3 months based on clinical symptoms and changes in lesion size on imaging. Results All patients presented with abdominal pain, including 14 patients (73.7%) with cyclic pain. The mean preprocedural VAS score was 7.37 ± 1.42. A palpable mass was present in 17 patients (89.5%), and two patients (10.5%) had a history of prior surgery for AWE. The mean maximum lesion diameter decreased from 25.1 ± 17.47 mm before treatment to 13.4 ± 10.6 mm at 3 months (p Conclusion Ultrasound-guided RFA is a feasible and safe treatment option for AWE, providing short-term reductions in pain severity and lesion size.
+N1  - PMID: 42667387 | PMCID:  | Catégorie: Ablation Percutanée Tumorale : Standards, Endométriome & Oncologie
+UR  - https://pubmed.ncbi.nlm.nih.gov/42667387/
+KW  - Endométriose pariétale
+KW  - Radiofréquence
+KW  - Moving-shot
+KW  - Échographie interventionnelle
+KW  - Abdominal Radiology 2026
+ER  - 
+
+TY  - JOUR
 TI  - Modified percutaneous vertebral body-intervertebral disc biopsy combined with genetic testing for the diagnosis of early-stage pyogenic spondylodiscitis: a retrospective cohort study
 AU  - Ji Y
 AU  - Yu Y
@@ -377,7 +419,7 @@ IS  - 105
 SP  - 20260019
 DO  - 10.15557/jou.2026.0019
 AB  - [RÉSUMÉ CLINique COCHIN - FR] Article de référence (2026) détaillant l'anatomie échographique haute résolution des nerfs géniculés (supéro-latéral SLGN, supéro-médial SMGN, inféro-médial IMGN, nerf récurrent fibulaire et nerf du vaste intermédiaire). Précise les repères vasculaires et périostés permettant un bloc test diagnostique ultra-sélectif avant radiofréquence. | Points clés : Le bloc test anesthésique sous échographie avec faible volume (0,5–1 mL par nerf) est le meilleur prédicteur d'efficacité de la radiofréquence. ; Le Doppler couleur/micro-flux permet de visualiser les artères géniculées accompagnant les rameaux nerveux au contact du périoste. ; Ne jamais cibler le nerf géniculé inféro-latéral (ILGN) en raison du risque de lésion motrice du nerf fibulaire commun (steppage). ; L'extension du protocole à 4 ou 5 cibles (incluant le nerf supra-patellaire / vaste médial et intermédiaire) améliore le taux de répondeurs. | Pratique Cochin : Guide anatomique et échographique exact pour les tests anesthésiques du genou sous échographie (Pavillon Ollier) avant radiofréquence / neurolyse des nerfs géniculés. || [ABSTRACT ORIGINAL - EN] The genicular nerves are sensory nerves that innervate the knee joint, playing a crucial role in pain transmission. Because of their small size, they are frequently underappreciated and overlooked during routine ultrasound examinations. With the advent of high-resolution ultrasound, these nerves can be visualized directly, facilitating targeted interventions. A detailed understanding of genicular nerve anatomy, ultrasound landmarks, and characteristic imaging appearances has significant clinical implications for managing knee pain. Given the high prevalence of chronic knee pain due to osteoarthritis and post-operative conditions, ultrasound-guided genicular nerve blocks and radiofrequency ablation are increasingly utilized. Traditionally, genicular nerve procedures, targeting three nerves (the superomedial, superolateral, and inferomedial genicular nerves), were performed under fluoroscopic guidance. However, ultrasound offers distinct advantages, including real-time visualization of soft tissues, the absence of radiation exposure, and precise targeting of anatomical locations using revised landmarks and Doppler signal. These advancements have enabled more comprehensive targeting of five nerves: the superomedial genicular nerve, superolateral genicular nerve, inferomedial genicular nerve, recurrent peroneal genicular nerve, and the infrapatellar branch of the saphenous nerve. Although ablation of the recurrent peroneal genicular nerve carries a risk of injury to the common peroneal nerve, potentially resulting in foot drop, precise localization through ultrasound-guidance may help mitigate this complication. This article provides a comprehensive review of genicular nerve anatomy, ultrasound techniques, and interventional approaches, emphasizing the clinical relevance of ultrasound-guided procedures for managing knee pain and diagnosing nerve pathologies.
-N1  - PMID: 42602563 | PMCID: PMC13474172 | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux
+N1  - PMID: 42602563 | PMCID: PMC13474172 | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
 L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42602563.pdf
 UR  - https://pubmed.ncbi.nlm.nih.gov/42602563/
 KW  - Nerfs géniculés
@@ -430,7 +472,7 @@ IS  - 4
 SP  - 449-461
 DO  - 10.1093/pm/pnaf140
 AB  - [RÉSUMÉ CLINique COCHIN - FR] Méta-analyse d'essais randomisés contrôlés contre procédure fictive (*Pain Medicine*, avr. 2026, 8 ECR, 627 patients) confirmant l'efficacité antalgique à 12 semaines et fonctionnelle (WOMAC) à 24 semaines de la neurolyse des nerfs géniculés (radiofréquence et cryoneurolyse) dans la gonarthrose réfractaire. | Points clés : Haut niveau de preuve (méta-analyse de 8 essais randomisés contrôlés contre sham, 627 patients) validé par Trial Sequential Analysis (TSA). ; Réduction significative de l'EVA douloureuse à 12 semaines (MD -1,65 point) et amélioration fonctionnelle WOMAC durable jusqu'à 24 semaines (MD -11,37 points). ; Excellent profil de sécurité : aucun événement indésirable grave rapporté sur les 627 patients. ; La radiofréquence monopolaire conventionnelle affiche le rapport efficacité/coût le plus robuste en analyse de sous-groupe. | Pratique Cochin : Correspond directement aux séances de test anesthésique sous écho + radiofréquence/cryoneurolyse des nerfs géniculés pour gonarthrose à Cochin. || [ABSTRACT ORIGINAL - EN] Objective To evaluate the efficacy and safety of genicular neurolysis techniques, including radiofrequency ablation (RFA) and cryoneurolysis, versus sham procedures in adults with knee osteoarthritis (OA) ineligible for arthroplasty. Methods This systematic review and meta-analysis included randomized controlled trials (RCTs) comparing cooled, monopolar, or bipolar RFA, or cryoneurolysis, to sham treatment in adults with symptomatic knee OA. Studies with pulsed RFA, active comparators, or lacking pain or function outcomes were excluded. PubMed, Embase, and Cochrane CENTRAL were searched from inception to April 15, 2025, without language restriction. Risk of bias was assessed using the Cochrane RoB 2 tool. Random-effects meta-analysis calculated mean differences (MD) with 95% confidence intervals (CI). Heterogeneity was quantified with I2, and certainty of evidence was rated using GRADE. Trial Sequential Analysis (TSA) assessed conclusiveness. Results Eight RCTs (n = 627) met eligibility criteria. Compared with sham, ablative techniques significantly reduced pain at 12 weeks (MD -1.65; 95% CI, -2.57 to -0.74; I2 = 83%) and improved WOMAC function scores (MD -11.37; 95% CI, -18.83 to -3.91; I2 = 91%). Subgroup analysis favored conventional monopolar RFA over other modalities. TSA confirmed conclusive benefits for pain at 12 weeks and function at 24 weeks. No serious adverse events were reported. Limitations include high heterogeneity, variable protocols, and limited long-term data. Conclusions Genicular neurolysis, particularly conventional monopolar RFA, provides clinically meaningful pain and functional improvement in knee OA with a favorable safety profile. Standardization of techniques and further trials are needed to confirm long-term outcomes. Registration PROSPERO CRD420251044248.
-N1  - PMID: 41063397 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux
+N1  - PMID: 41063397 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
 UR  - https://pubmed.ncbi.nlm.nih.gov/41063397/
 KW  - Nerfs géniculés
 KW  - Gonarthrose
@@ -455,13 +497,36 @@ PY  - 2026
 SP  - 10499091261442199
 DO  - 10.1177/10499091261442199
 AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude clinique rétrospective (*Am J Hosp Palliat Care*, avr. 2026, 30 patients) démontrant une réduction hautement significative de l'EVA douloureuse (jusqu'à 6 mois, p < 0,001) et de la consommation d'opioïdes après cryoneurolyse TDM du nerf pudendal, sans aucune complication. | Points clés : Soulagement antalgique rapide dès J7 et durable jusqu'à 6 mois (p < 0,001) chez 30 patients atteints de douleurs pelviennes réfractaires. ; Épargne morphinique significative à 1 semaine et 1 mois post-procédure (p = 0,032). ; Efficacité identique dans les douleurs pelviennes oncologiques (envahissement sacré/pelvien) et les névralgies pudendales non malignes. ; Sécurité remarquable sous guidage scanner (aucun événement indésirable rapporté). | Pratique Cochin : Complète l'arsenal de cryoneurolyse percutanée sous scanner (Morton, nerfs intercostaux, douleurs pelviennes et périnéales oncologiques) réalisé à Cochin. || [ABSTRACT ORIGINAL - EN] BackgroundPelvic pain caused by malignant and non-malignant etiologies can be treated by cryoneurolysis of the pudendal nerve(s). The purpose of this report is to assess the efficacy and safety of CT-guided pudendal nerve cryoneurolysis. Additionally, treatment outcomes were compared between malignant and non-malignant pelvic pain etiologies.MethodsPatients who underwent CT-guided pudendal nerve cryoneurolysis for intractable pelvic pain were retrospectively reviewed. Pre-procedural and post-procedural pain scores, supplemental analgesic use, and complications were assessed.ResultsA total of 30 patients underwent CT-guided pudendal nerve cryoneurolysis. Pre-treatment Visual Analog Scale (VAS) pain scores were significantly improved at 1 week (3.9 ± 2.1, P P P P P = 0.04) and 1 month (17.5 (range:0-216), P = 0.032) post-treatment. Both malignant and non-malignant cohorts demonstrated significant improvement of VAS score at all time points; however, there was no significant difference in numeric improvement or percentage improvement in VAS score between the 2 cohorts. No adverse events were observed.ConclusionCT-guided pudendal nerve cryoneurolysis is an effective and safe treatment modality in patients with refractory pelvic pain from both malignant and non-malignant etiologies.
-N1  - PMID: 41999357 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux
+N1  - PMID: 41999357 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
 UR  - https://pubmed.ncbi.nlm.nih.gov/41999357/
 KW  - Cryoneurolyse
 KW  - Nerf pudendal
 KW  - Douleur pelvienne
 KW  - Soins palliatifs
 KW  - Guidage scanner
+ER  - 
+
+TY  - JOUR
+TI  - Treatment outcomes for cluneal neuropathy: a systematic review and meta-analysis
+AU  - Catalano K
+AU  - Andereggen L
+AU  - Schubert GA
+AU  - Bruder M
+AU  - Jost JN
+JO  - Brain & spine
+PY  - 2026
+VL  - 6
+SP  - 106062
+DO  - 10.1016/j.bas.2026.106062
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue systématique et méta-analyse (*Brain & Spine*, avr. 2026, 26 bras thérapeutiques, 628 patients) démontrant un taux global de répondeurs (réduction douloureuse ≥ 50 %) de 78,3 % à ≥ 3 mois et de 82,9 % à ≥ 6 mois après traitement ciblé des névralgies clunéales supérieure et moyenne. | Points clés : Taux global de répondeurs élevé dans les névralgies clunéales : 78,3 % à ≥ 3 mois et 82,9 % à ≥ 6 mois (628 patients). ; L'ablation percutanée (RFA / neurolyse thermique) obtient 75,1 % de succès durable après bloc diagnostique positif. ; Cible anatomique précise : franchissement de la crête iliaque postéro-supérieure (6–8 cm de la ligne médiane) pour le nerf clunéal supérieur. ; Justifie pleinement l'intégration du bloc test et de la cryoneurolyse du nerf clunéal dans les lombalgies/fessalgies réfractaires à Cochin. | Pratique Cochin : Directement lié aux nouvelles procédures de « cryoneurolyse percutanée du nerf clunéal » inscrites dans l'Agenda Interventionnel de Cochin. || [ABSTRACT ORIGINAL - EN] Background Cluneal nerve entrapment is an increasingly recognized but often overlooked cause of chronic low back pain. Various treatment strategies have been described, including surgical decompression, injection therapy, radiofrequency ablation (RFA), and peripheral nerve stimulation (PNS). However, pooled evidence on treatment outcomes remains limited. Objective This systematic review and meta-analysis aimed to evaluate pooled responder rates following different treatment modalities for cluneal nerve-related pain. Methods A systematic review and meta-analysis was performed of studies reporting dichotomous responder outcomes after treatment of superior or middle cluneal nerve entrapment. Responder status was defined as ≥50% pain reduction or study-defined clinical improvement. Random-effects meta-analysis of proportions with logit transformation was used to pool responder rates. The primary analysis included treatment arms with follow-up of ≥3 months, and a predefined sensitivity analysis was restricted to studies with follow-up of ≥6 months. Subgroup analyses were performed by treatment modality and by surgical versus non-surgical treatment strategy. Results A total of 26 treatment arms including 628 patients were analyzed. The pooled responder rate was 78.3% (95% CI 72.9-82.9) at ≥3 months and 82.9% (95% CI 75.3-88.6) at ≥6 months. Stratified by treatment modality, pooled responder rates were 93.1% (95% CI 84.9-97.0) for surgical decompression, 72.4% (95% CI 65.9-78.1) for injection therapy, 75.1% (95% CI 62.1-84.7) for radiofrequency ablation, and 80.1% (95% CI 58.5-92.0) for peripheral nerve stimulation. Conclusion Targeted treatment of cluneal nerve entrapment was associated with high pooled responder rates at both ≥3 and ≥ 6 months of follow-up. Surgical decompression was associated with the highest pooled responder proportion; however, differences between treatment modalities should be interpreted cautiously given the predominantly observational, non-comparative nature of the available evidence, heterogeneity in diagnostic criteria and outcome definitions, and the potential for confounding by indication. Prospective comparative studies using standardized diagnostic and outcome measures are needed.
+N1  - PMID: 42182575 | PMCID: PMC13195346 | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
+UR  - https://pubmed.ncbi.nlm.nih.gov/42182575/
+KW  - Nerf clunéal
+KW  - Cryoneurolyse
+KW  - Radiofréquence
+KW  - Lombalgie
+KW  - Fessalgie
+KW  - Méta-analyse 2026
 ER  - 
 
 TY  - JOUR
@@ -537,6 +602,69 @@ KW  - Parties molles
 KW  - État de l'art 2026
 KW  - Ablation percutanée
 KW  - Zotero
+ER  - 
+
+TY  - JOUR
+TI  - Imaging Evaluation of Bone Tumors in the Cervical Spine: A Comprehensive Review
+AU  - Sun M
+AU  - Meng X
+AU  - Wu M
+AU  - Wang Z
+JO  - International journal of general medicine
+PY  - 2025
+VL  - 18
+SP  - 7785-7798
+DO  - 10.2147/ijgm.s564210
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue clinique et iconographique complète (*Int J Gen Med*, déc. 2025) détaillant la sémiologie IRM et TDM des tumeurs osseuses bénignes (ostéome ostéoïde, ostéoblastome, KOA) et malignes (métastases, chordome, myélome) du rachis cervical ainsi que les repères anatomiques critiques avant geste percutané. | Points clés : Cartographie indispensable des rapports avec l'artère vertébrale (segment V2) et le foramen intervertébral avant toute RF d'ostéome ostéoïde cervical (ex. C6). ; Topographie préférentielle sur l'arc postérieur pour l'ostéome ostéoïde, l'ostéoblastome et le KOA, contre le corps vertébral pour les métastases et le chordome. ; Complémentarité systématique du scanner en coupes fines (matrice minérale, corticale) et de l'IRM (extension épidurale, œdème réactionnel). ; Guide le choix sécurisé de la voie d'abord cervicale (antéro-latérale vs postéro-latérale) au scanner interventionnel. | Pratique Cochin : En lien direct avec les gestes cervicaux récemment programmés dans l'Agenda Cochin (« RF d'ostéome ostéoïde de C6 » et « cimentoplastie cervicale sous AG »). || [ABSTRACT ORIGINAL - EN] The cervical spine, a critical junction between the head and torso, is a rare but significant site for both primary and metastatic tumors. While primary tumors of the cervical spine are uncommon, certain types, such as chordomas and giant cell tumors, are particularly notable for their potential to affect this region. Metastatic lesions, although more frequent, present unique diagnostic and therapeutic challenges due to the complex anatomy of the cervical spine. Imaging is indispensable for the evaluation of cervical spine tumors, serving as the foundation for diagnosis, treatment planning, and monitoring therapeutic outcomes. Radiography, CT and MRI are the primary modalities used to assess tumor morphology, extent and relationship to surrounding structures. However, imaging alone may not always yield a definitive diagnosis, as some tumors lack distinctive features. Nevertheless, a combination of clinical presentation, epidemiological factors, and imaging findings often enables radiologists and clinicians to narrow the differential diagnosis and guide further management. Precise imaging interpretation is essential to prevent devastating clinical consequences resulting from diagnostic error, such as irreversible neurological damage, avoidable death, and significant long-term disability. This review provides a comprehensive overview of tumors that can involve the cervical spine, emphasizing their clinical and imaging characteristics. By highlighting key diagnostic features and discussing the latest advancements in imaging technology, aims to enable physicians in radiology, pathology, and clinical departments to gain a more comprehensive understanding of the imaging, pathological, and clinical characteristics of cervical spine tumors, thereby reducing misdiagnosis rates and alleviating the burden on patients.
+N1  - PMID: 41473339 | PMCID: PMC12746746 | Catégorie: Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Geste
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_41473339.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/41473339/
+KW  - Rachis cervical
+KW  - Ostéome ostéoïde cervical
+KW  - Métastases cervicales
+KW  - IRM
+KW  - Scanner TDM
+KW  - Artère vertébrale
+ER  - 
+
+TY  - JOUR
+TI  - Long-term outcome following vertebroplasty or bone cementoplasty in multiple myeloma patients
+AU  - Soliman S
+AU  - Garderet L
+AU  - Premat K
+AU  - Allard J
+AU  - Drir M
+AU  - Elhorany M
+AU  - Hamad N
+AU  - Lesaunier A
+AU  - Talbi A
+AU  - Roos-Weil D
+AU  - Baron M
+AU  - Boussen I
+AU  - Grenier A
+AU  - Gauthier N
+AU  - Morel V
+AU  - Ouzegdouh M
+AU  - Choquet S
+AU  - Bonaccorsi R
+AU  - Chiaroni PM
+AU  - Clarencon F
+AU  - Shotar E
+JO  - Neuroradiology
+PY  - 2025
+VL  - 67
+IS  - 10
+SP  - 2963-2975
+DO  - 10.1007/s00234-025-03738-3
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective avec suivi imagerie ≥ 5 ans (*Neuroradiology*, sept. 2025, 142 sites cimentés) démontrant la pérennité mécanique remarquable de la cimentoplastie dans le myélome multiple (1,4 % de refracture locale) et identifiant la fuite discale comme facteur majeur de fracture vertébrale adjacente (31 % vs 8,8 %). | Points clés : Stabilité mécanique exceptionnelle à plus de 5 ans : seulement 1,4 % de récidive fracturaire sur les 142 os cimentés. ; Règle technique essentielle : la fuite de ciment intradiscale fait passer le risque de fracture de la vertèbre adjacente de 8,8 % à 31 % (p = 0,022). ; Aucune complication grave liée à la procédure sur 129 vertèbres et 11 bassins cimentés. ; Ouvre la discussion d'une cimentoplastie préventive des niveaux adjacents à haut risque dans le myélome. | Pratique Cochin : Directement lié aux cimentoplasties rachidiennes et du bassin chez les patients suivis au long cours pour myélome multiple à Cochin. || [ABSTRACT ORIGINAL - EN] Objective Evaluating long-term outcomes following cementoplasty in patients with multiple myeloma (MM). Methods This is a single-center, retrospective study on all cementoplasties performed between January 2012 and December 2017. Patients with MM with a control MRI or CT scan beyond 5 years after the procedure were included. Images were reviewed blinded to the patients' clinical status. Results During the inclusion period, 2085 patients underwent cementoplasty, including 154 patients with MM. Forty-seven patients (33 men (70%); median age 62.2 years [IQR 53.8;69.6]) were included. The patients underwent 74 procedures (142 cemented sites: 129 vertebrae, 11 pelvic girdle cementoplasties, and 2 other sites; 101 (71%) demineralized fractures and 41 (29%) osteolytic lacunae). No serious procedure-related adverse effects were observed. Only 2 (1.4%) recurrent fractures of the cemented bone were observed. At-risk adjacent vertebrae were defined as non-cemented vertebrae, adjacent to a cemented vertebra: 15/109 (14%) fractures of at-risk adjacent vertebrae were documented during follow-up (15/99 [15%] after excluding cervical at-risk vertebrae). Intervertebral disc cement leakage was significantly associated with the occurrence of vertebral fracture at the adjacent level (31% vs. 8.8%, p = 0.022). Fourteen patients (30%) developed a new vertebral fracture that was remote from the cemented site. These were more frequent in patients with higher bone marrow plasmacytosis (median 23% vs. 13%, p = 0.014), relapsed multiple myeloma (86% vs. 55%, p = 0.042) and bone demineralization fractures (93% vs. 48%, p Conclusion Bone cementoplasty for MM is a durable treatment. At-risk adjacent vertebra fracture is a frequent event, prompting a discussion on prophylactic adjacent-level cementoplasty.
+N1  - PMID: 40911195 | PMCID:  | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
+UR  - https://pubmed.ncbi.nlm.nih.gov/40911195/
+KW  - Myélome multiple
+KW  - Cimentoplastie
+KW  - Vertébroplastie
+KW  - Fuite discale
+KW  - Fracture adjacente
+KW  - Neuroradiology
 ER  - 
 
 TY  - JOUR
@@ -639,7 +767,7 @@ IS  - 6
 SP  - 795-800
 DO  - 10.1007/s00270-024-03669-1
 AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de *CardioVascular and Interventional Radiology (CVIR)* (2024) évaluant la cryoneurolyse percutanée du névrome de Morton réfractaire au traitement conservateur. Réalisée en ambulatoire sous anesthésie locale, la cryoablation induit une dégénérescence wallérienne réversible (axonotmésis) sans formation de névrome d'amputation, avec un succès clinique supérieur à 80 %. | Points clés : Réalisable en ambulatoire strict sous anesthésie locale (AL) avec reprise immédiate de l'appui à la sortie du scanner. ; Contrairement à la chirurgie ou à l'alcoolisation, la cryoneurolyse respecte la gaine conjonctive nerveuse (axonotmésis de type II de Sunderland) et ne crée jamais de névrome d'amputation. ; Taux de satisfaction et de réduction significative des douleurs > 80–85 % à 6 et 12 mois. ; Protection cutanée essentielle dans l'espace inter-métatarsien étroit : contrôle de l'extension du glaçon au scanner/écho et hydrodissection sous-cutanée dorsale si nécessaire. | Pratique Cochin : Référence centrale pour les cryothérapies de névrome de Morton (3e espace inter-métatarsien) réalisées sous anesthésie locale au scanner à Cochin par le Dr Thomas Lefèvre. || [ABSTRACT ORIGINAL - EN] Purpose To assess the technical success, safety and early efficacy of Morton neuroma (MN) cryoneurolysis. Materials and methods Retrospective review of 54 consecutive patients with MN treated with cryoneurolysis after failure of conservative treatment, from September 2022 to June 2023. Outcomes measurements included technical success (defined a successful ultrasound-guided placement of the cryoprobe), procedural safety according to Cirse classification and change in 6 months post-procedure by pain numeric rating scale (pNRS). Results A total of 59 MN were treated during 55 procedures. Mean procedure duration was 47 min, all patients were discharged 2 h after the intervention. Technical success was 98.1%. No Cirse grade 3, 4 or 5 complication was reported. Three grade 2 complication occurred, including two chilblain-type lesions and one bone insufficiency fracture. At 6 months post-procedure, pNRS score was significantly decreased (2.7 ± 2.2 vs 7.1 ± 1.1) (p Conclusion Cryoneurolysis seems to be safe for the treatment of Morton neuroma. Six-month pain relief is promising and needs to be confirmed at long term.
-N1  - PMID: 38438685 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux
+N1  - PMID: 38438685 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
 UR  - https://pubmed.ncbi.nlm.nih.gov/38438685/
 KW  - Névrome de Morton
 KW  - Cryoneurolyse
@@ -1057,7 +1185,7 @@ IS  - 9
 SP  - 1631-1641
 DO  - 10.1093/pm/pnx069
 AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de référence sur la dénervation thermique par radiofréquence des nerfs géniculés et la neurolyse percutanée des douleurs neuropathiques chroniques. Montre une réduction significative de la douleur (≥ 50 % chez 74 % des patients), une amélioration du score fonctionnel WOMAC et une diminution durable de la consommation d'antalgiques. | Points clés : Plus de 70 % des patients sélectionnés par un bloc test positif maintiennent une réduction de douleur ≥ 50 % à 6–12 mois. ; Toujours réaliser un test de stimulation motrice (2 Hz jusqu'à 1–2 V) avant thermocoagulation RF pour exclure toute proximité de fibres motrices. ; Pour la cryoneurolyse intercostale (douleur post-zona ou oncologique), le guidage TDM au bord inférieur costal évite tout risque de pneumothorax. ; Dans les douleurs neuropathiques post-amputation trans-tibiale, la cryoneurolyse ciblée du névrome terminal ou du tronc nerveux d'amont soulage les décharges électriques et douleurs fantômes. | Pratique Cochin : Couvre à la fois les radiofréquences des nerfs géniculés après bloc test positif et les cryoneurolyses du nerf intercostal (post-zona) ou des névromes post-amputation suivis à Cochin. || [ABSTRACT ORIGINAL - EN] Objective Determine outcomes of cooled radiofrequency ablation (C-RFA) of the genicular nerves for treatment of chronic knee pain due to osteoarthritis (OA). Design Cross-sectional survey. Setting Academic pain medicine center. Subjects Consecutive patients with knee OA and 50% or greater pain relief following genicular nerve blocks who underwent genicular nerve C-RFA. Methods Survey administration six or more months after C-RFA. Pain numeric rating scale (NRS), Medication Quantification Scale III (MQSIII), Patient Global Impression of Change (PGIC), and total knee arthroplasty (TKA) data were collected. Logistic regression was used to identify factors that predicted treatment success. Results Thirty-three patients (52 discrete knees) met inclusion criteria. Thirty-five percent (95% confidence interval [CI] = 22-48) of procedures resulted in the combined outcome of 50% or greater reduction in NRS score, reduction of 3.4 or more points in MQSIII score, and PGIC score consistent with "very much improved/improved." Nineteen percent (95% CI = 10-33) of procedures resulted in complete pain relief. Greater duration of pain and greater than 80% pain relief from diagnostic blocks were identified as predictors of treatment success. The accuracy of the model was 0.88 (95% CI = 0.78-0.97, P Conclusions Genicular C-RFA demonstrated a success rate of 35% based on a robust combination of outcome measures, and 19% of procedures resulted in complete relief of pain at a minimum of six months of follow-up. Report of 80% or greater relief from diagnostic blocks and duration of pain of less than five years are associated with high accuracy in predicting treatment success. Further prospective study is needed to optimize the patient selection protocol and success rate of this procedure.
-N1  - PMID: 28431129 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux
+N1  - PMID: 28431129 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
 UR  - https://pubmed.ncbi.nlm.nih.gov/28431129/
 KW  - Radiofréquence
 KW  - Nerfs géniculés

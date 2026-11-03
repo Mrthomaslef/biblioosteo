@@ -71,6 +71,53 @@
     "abstract": "[SYNTHÈSE FR] Étude rétrospective sur 122 patients (*Int J Hyperthermia*, mars 2026) démontrant que les paramètres quantitatifs de l'IRM dynamique injectée 3T (DCE-MRI) pré-opératoire et la topographie extracorticale du nidus prédisent le risque de récidive douloureuse après radiofréquence d'ostéome ostéoïde.\n\n[ABSTRACT EN] Background Pain recurrence following regular radiofrequency ablation (RFA) in osteoid osteoma (OO) remains incompletely understood, yet impacts quality of life. Purpose To detect predictive imaging parameters in OO with symptomatic recurrence. Material and methods This retrospective, monocentric study included 122 OO patients [median age 19 (16; 27) years, male 78%] January 2010 to May 2024, which underwent T1-weighted dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) (3T) before CT-guided RFA. Pain recurrence was defined as visual analogue scale increase >4/10 occurring >2 weeks post-intervention (22 (18%) patients). Nidus was categorized intra-/extracortical. DCE-MRI relative/maximum (relative) enhancement (M(R)E) (%), time to peak (TTP) (s), wash-in/out rate (s -1 ), brevity of enhancement (s) were compared by Wilcoxon rank-sum test. Hazard ratios (HR), multivariate cox proportional hazard regression, receiver operating characteristics and Bayesian were performed. Results Extracortical nidus occurred more frequently in patients with recurrence (14%) compared to intracortical nidus (5%, p p = 0.038], higher TTP [47.1 (34.5-59.5) vs 32.3 (24.7-46.7); p = 0.002], lower wash-in rate [38.9 (0-107.5) vs. 83.7(30.5-159.7); p = 0.028]. ME [HR 0.2 (95% CI: 0.06, 0.04); p p = 0.042], TTP [HR 6 (1.4, 25.4); p = 0.016], wash-in rate [HR 0.1(0.02, 0.8); p = 0.03] were predictors of recurrence. Extracortical nidus [HR 6.5 (2.1, 19.7); p 40 s, MRE Conclusion Imaging-based risk stratification enables personalized treatment approaches for osteoid osteoma patients, who may benefit from alternative ablation protocols such as extended ablation time, higher temperatures."
   },
   {
+    "id": "pmid-42780331",
+    "type": "article-journal",
+    "title": "Complications of vertebral augmentation in metastatic spinal fractures: a systematic review of multiple study designs",
+    "container-title": "Journal of bone oncology",
+    "volume": "61",
+    "issue": "",
+    "page": "100802",
+    "DOI": "10.1016/j.jbo.2026.100802",
+    "PMID": "42780331",
+    "PMCID": "PMC13597178",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42780331/",
+    "author": [
+      {
+        "family": "Correia",
+        "given": "MC"
+      },
+      {
+        "family": "Vieira",
+        "given": "AM"
+      },
+      {
+        "family": "Duarte",
+        "given": "F"
+      },
+      {
+        "family": "Rodrigues Pinho",
+        "given": "A"
+      },
+      {
+        "family": "Serdoura",
+        "given": "F"
+      },
+      {
+        "family": "Leite",
+        "given": "MJ"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue systématique d'envergure (*Journal of Bone Oncology*, sept. 2026, 76 études, 3 234 patients, ≥ 5 737 vertèbres traitées) quantifiant précisément le taux de complications symptomatiques (3,41 %) et de fuites de ciment (20,7 %, majoritairement asymptomatiques) lors de la cimentoplastie des métastases rachidiennes.\n\n[ABSTRACT EN] Background Vertebral augmentation techniques, including vertebroplasty and kyphoplasty, are widely used to relieve pain and restore spinal stability in patients with metastatic vertebral lesions. Despite their widespread use, the full spectrum and clinical significance of procedure-related complications remain incompletely characterised. This systematic review aims to summarise and characterise all reported complications associated with vertebral augmentation for metastatic thoracolumbar disease. Methods A comprehensive search of PubMed/MEDLINE, Scopus, and Web of Science databases was performed. Studies reporting complications associated with vertebral augmentation procedures for metastatic thoracolumbar spinal fractures were included. Randomised controlled trials, observational studies, case series, and case reports were eligible. Due to substantial heterogeneity across studies, a descriptive synthesis was performed. Results A total of 76 studies were included, comprising 3234 patients and at least 5737 vertebral levels treated. The overall weighted complication rate was 25.5%, while the weighted rate of symptomatic complications was 3.41%. Cement leakage was the most frequently reported complication, with a weighted mean incidence of 20.7%, although the majority were asymptomatic. Other complications included postprocedural pain (1.77%), pulmonary cement embolism (1.08%), and adjacent level fractures (0.79%). Studies using CT imaging reported significantly higher cement leakage rates (28.6% vs 11.9%, p = 0.004). Case reports described rare but potentially severe complications, including needle-tract tumour seeding, tumour extrusion, and cement migration to cardiac structures. Conclusions This review presents a comprehensive and detailed description of all complications of vertebral augmentation for treatment of metastatic spine disease and reinforce its safety. Differences in imaging protocols and reporting standards contribute to variability in reported complication rates. Further prospective studies with standardised complication reporting are needed."
+  },
+  {
     "id": "pmid-42489686",
     "type": "article-journal",
     "title": "CT-guided radiofrequency ablation of a tibial osteoid osteoma in pregnancy",
@@ -740,6 +787,45 @@
     "abstract": "[SYNTHÈSE FR] Revue récente (*Current Oncology Reports*, 2026) précisant la place de la radiologie interventionnelle (cryoablation, micro-ondes, HIFU, embolisation transartérielle) dans l'algorithme moderne des tumeurs desmoïdes aux côtés de la surveillance active et des nouvelles thérapies ciblées (nirogacestat, sorafénib).\n\n[ABSTRACT EN] Purpose of review To provide a comprehensive review of percutaneous image-guided techniques in the management of desmoid tumors including evolving thermal and non-thermal ablation options, as well as trans-arterial catheter options. Beyond each treatment modality, we aim to highlight considerations related to patient selection, technical components, and the growing interplay between percutaneous therapies and emerging systemic therapies. Recent findings Percutaneous ablation, particularly cryoablation, has emerged as a safe and effective treatment for extra-abdominal desmoid tumors, with prospective data demonstrating durable disease control and significant improvements in pain and functional status. A meta-analysis of 694 desmoid tumors treated with thermal ablation reported pooled local control of 88%, symptom relief in 90% of patients, and major complication rates below 5%. Transarterial doxorubicin-eluting embolization has shown promise in both adult and pediatric settings, while bland particle and radioembolic approaches remain under investigation. Irreversible electroporation is emerging as a non-thermal alternative near critical structures. The National Comprehensive Cancer Network (NCCN) Soft Tissue Sarcoma Guidelines now formally incorporate cryoablation along with embolization into the treatment algorithm for progressive, morbid, or symptomatic extra-abdominal desmoid tumors, marking a significant milestone in the recognition of percutaneous techniques as standard-of-care options. Percutaneous image-guided techniques now offer local tumor control with rates similar to surgical resection and a favorable safety profile. Some of these percutaneous techniques are endorsed alongside systemic therapy and radiation as primary options for progressive or symptomatic extra-abdominal desmoid tumors per various guidelines. An important consideration involves the level of data, comprised predominantly of retrospective data, without direct comparative date. The ongoing prospective CRYODESMO-02 trial will help define optimal sequencing and strengthen the evidence base underpinning guideline recommendations."
   },
   {
+    "id": "pmid-42667387",
+    "type": "article-journal",
+    "title": "Feasibility, safety, and short-term efficacy of ultrasound-guided radiofrequency ablation for abdominal wall endometriosis: preliminary results from a single center",
+    "container-title": "Abdominal radiology (New York)",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "DOI": "10.1007/s00261-026-05766-w",
+    "PMID": "42667387",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42667387/",
+    "author": [
+      {
+        "family": "Phan",
+        "given": "NH"
+      },
+      {
+        "family": "Le",
+        "given": "NT"
+      },
+      {
+        "family": "Nguyen",
+        "given": "TK"
+      },
+      {
+        "family": "Nguyen",
+        "given": "TB"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude clinique monocentrique (*Abdominal Radiology*, août 2026, 19 patientes, 29 lésions) évaluant l'ablation par radiofréquence sous échographie (technique 'moving-shot') des endométriomes de la paroi abdominale : chute de l'EVA de 7,37 à 1,72 et réduction volumétrique de 77,5 % dès 3 mois.\n\n[ABSTRACT EN] Purpose To evaluate the feasibility, safety, and short-term outcomes of ultrasound-guided radiofrequency ablation (RFA) for abdominal wall endometriosis (AWE). Materials and methods This retrospective single-center study included 19 patients with AWE (mean age, 35.5 ± 5.0 years) with 29 lesions who underwent ultrasound-guided RFA between December 2023 and January 2026. AWE was diagnosed based on clinical symptoms and imaging findings on ultrasonography and magnetic resonance imaging; biopsy was performed in atypical cases. RFA was performed using an 18-gauge electrode with the moving-shot technique under local anesthesia combined with intravenous analgesia. Complications were classified according to the SIR classification. Short-term technical efficacy was assessed at 3 months based on clinical symptoms and changes in lesion size on imaging. Results All patients presented with abdominal pain, including 14 patients (73.7%) with cyclic pain. The mean preprocedural VAS score was 7.37 ± 1.42. A palpable mass was present in 17 patients (89.5%), and two patients (10.5%) had a history of prior surgery for AWE. The mean maximum lesion diameter decreased from 25.1 ± 17.47 mm before treatment to 13.4 ± 10.6 mm at 3 months (p Conclusion Ultrasound-guided RFA is a feasible and safe treatment option for AWE, providing short-term reductions in pain severity and lesion size."
+  },
+  {
     "id": "pmid-42363976",
     "type": "article-journal",
     "title": "Modified percutaneous vertebral body-intervertebral disc biopsy combined with genetic testing for the diagnosis of early-stage pyogenic spondylodiscitis: a retrospective cohort study",
@@ -1011,6 +1097,49 @@
     "abstract": "[SYNTHÈSE FR] Étude clinique rétrospective (*Am J Hosp Palliat Care*, avr. 2026, 30 patients) démontrant une réduction hautement significative de l'EVA douloureuse (jusqu'à 6 mois, p < 0,001) et de la consommation d'opioïdes après cryoneurolyse TDM du nerf pudendal, sans aucune complication.\n\n[ABSTRACT EN] BackgroundPelvic pain caused by malignant and non-malignant etiologies can be treated by cryoneurolysis of the pudendal nerve(s). The purpose of this report is to assess the efficacy and safety of CT-guided pudendal nerve cryoneurolysis. Additionally, treatment outcomes were compared between malignant and non-malignant pelvic pain etiologies.MethodsPatients who underwent CT-guided pudendal nerve cryoneurolysis for intractable pelvic pain were retrospectively reviewed. Pre-procedural and post-procedural pain scores, supplemental analgesic use, and complications were assessed.ResultsA total of 30 patients underwent CT-guided pudendal nerve cryoneurolysis. Pre-treatment Visual Analog Scale (VAS) pain scores were significantly improved at 1 week (3.9 ± 2.1, P P P P P = 0.04) and 1 month (17.5 (range:0-216), P = 0.032) post-treatment. Both malignant and non-malignant cohorts demonstrated significant improvement of VAS score at all time points; however, there was no significant difference in numeric improvement or percentage improvement in VAS score between the 2 cohorts. No adverse events were observed.ConclusionCT-guided pudendal nerve cryoneurolysis is an effective and safe treatment modality in patients with refractory pelvic pain from both malignant and non-malignant etiologies."
   },
   {
+    "id": "pmid-42182575",
+    "type": "article-journal",
+    "title": "Treatment outcomes for cluneal neuropathy: a systematic review and meta-analysis",
+    "container-title": "Brain & spine",
+    "volume": "6",
+    "issue": "",
+    "page": "106062",
+    "DOI": "10.1016/j.bas.2026.106062",
+    "PMID": "42182575",
+    "PMCID": "PMC13195346",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42182575/",
+    "author": [
+      {
+        "family": "Catalano",
+        "given": "K"
+      },
+      {
+        "family": "Andereggen",
+        "given": "L"
+      },
+      {
+        "family": "Schubert",
+        "given": "GA"
+      },
+      {
+        "family": "Bruder",
+        "given": "M"
+      },
+      {
+        "family": "Jost",
+        "given": "JN"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue systématique et méta-analyse (*Brain & Spine*, avr. 2026, 26 bras thérapeutiques, 628 patients) démontrant un taux global de répondeurs (réduction douloureuse ≥ 50 %) de 78,3 % à ≥ 3 mois et de 82,9 % à ≥ 6 mois après traitement ciblé des névralgies clunéales supérieure et moyenne.\n\n[ABSTRACT EN] Background Cluneal nerve entrapment is an increasingly recognized but often overlooked cause of chronic low back pain. Various treatment strategies have been described, including surgical decompression, injection therapy, radiofrequency ablation (RFA), and peripheral nerve stimulation (PNS). However, pooled evidence on treatment outcomes remains limited. Objective This systematic review and meta-analysis aimed to evaluate pooled responder rates following different treatment modalities for cluneal nerve-related pain. Methods A systematic review and meta-analysis was performed of studies reporting dichotomous responder outcomes after treatment of superior or middle cluneal nerve entrapment. Responder status was defined as ≥50% pain reduction or study-defined clinical improvement. Random-effects meta-analysis of proportions with logit transformation was used to pool responder rates. The primary analysis included treatment arms with follow-up of ≥3 months, and a predefined sensitivity analysis was restricted to studies with follow-up of ≥6 months. Subgroup analyses were performed by treatment modality and by surgical versus non-surgical treatment strategy. Results A total of 26 treatment arms including 628 patients were analyzed. The pooled responder rate was 78.3% (95% CI 72.9-82.9) at ≥3 months and 82.9% (95% CI 75.3-88.6) at ≥6 months. Stratified by treatment modality, pooled responder rates were 93.1% (95% CI 84.9-97.0) for surgical decompression, 72.4% (95% CI 65.9-78.1) for injection therapy, 75.1% (95% CI 62.1-84.7) for radiofrequency ablation, and 80.1% (95% CI 58.5-92.0) for peripheral nerve stimulation. Conclusion Targeted treatment of cluneal nerve entrapment was associated with high pooled responder rates at both ≥3 and ≥ 6 months of follow-up. Surgical decompression was associated with the highest pooled responder proportion; however, differences between treatment modalities should be interpreted cautiously given the predominantly observational, non-comparative nature of the available evidence, heterogeneity in diagnostic criteria and outcome definitions, and the potential for confounding by indication. Prospective comparative studies using standardized diagnostic and outcome measures are needed."
+  },
+  {
     "id": "pmid-41876692",
     "type": "article-journal",
     "title": "Radiation Dose, Outcomes, and Trends of CT-Guided Osteoid Osteoma Ablation in Pediatric Patients: An Analysis of the Registry of the German Society for Interventional Radiology and Minimally Invasive Therapy",
@@ -1154,6 +1283,152 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Revue d'état de l'art (*Semin Musculoskelet Radiol*, févr. 2026) détaillant les indications établies (ostéome ostéoïde, palliation antalgique et contrôle oligométastatique osseux) et émergentes (chondroblastome, tumeurs desmoïdes, anomalies vasculaires, endométriose pariétale, récidives locales de sarcomes) de la cryoablation percutanée.\n\n[ABSTRACT EN] Image-guided percutaneous cryoablation plays an increasingly important role in managing bone and soft tissue tumors. Well-established indications include the treatment of osteoid osteoma, palliation of painful skeletal metastases, and local control of oligometastatic disease. Emerging indications are now a variety of painful benign bone tumors beyond osteoid osteoma, symptomatic soft tissue lesions (such as desmoid fibromatosis, vascular anomalies, abdominal wall endometriosis), as well as local recurrences of bone and soft tissue sarcoma. This state-of-the-art review describes the percutaneous cryoablation technique including current strategies to prevent complications. We also discuss the expanding range of clinical indications, as well as future directions of this promising technology in the musculoskeletal system."
+  },
+  {
+    "id": "pmid-41473339",
+    "type": "article-journal",
+    "title": "Imaging Evaluation of Bone Tumors in the Cervical Spine: A Comprehensive Review",
+    "container-title": "International journal of general medicine",
+    "volume": "18",
+    "issue": "",
+    "page": "7785-7798",
+    "DOI": "10.2147/ijgm.s564210",
+    "PMID": "41473339",
+    "PMCID": "PMC12746746",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/41473339/",
+    "author": [
+      {
+        "family": "Sun",
+        "given": "M"
+      },
+      {
+        "family": "Meng",
+        "given": "X"
+      },
+      {
+        "family": "Wu",
+        "given": "M"
+      },
+      {
+        "family": "Wang",
+        "given": "Z"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue clinique et iconographique complète (*Int J Gen Med*, déc. 2025) détaillant la sémiologie IRM et TDM des tumeurs osseuses bénignes (ostéome ostéoïde, ostéoblastome, KOA) et malignes (métastases, chordome, myélome) du rachis cervical ainsi que les repères anatomiques critiques avant geste percutané.\n\n[ABSTRACT EN] The cervical spine, a critical junction between the head and torso, is a rare but significant site for both primary and metastatic tumors. While primary tumors of the cervical spine are uncommon, certain types, such as chordomas and giant cell tumors, are particularly notable for their potential to affect this region. Metastatic lesions, although more frequent, present unique diagnostic and therapeutic challenges due to the complex anatomy of the cervical spine. Imaging is indispensable for the evaluation of cervical spine tumors, serving as the foundation for diagnosis, treatment planning, and monitoring therapeutic outcomes. Radiography, CT and MRI are the primary modalities used to assess tumor morphology, extent and relationship to surrounding structures. However, imaging alone may not always yield a definitive diagnosis, as some tumors lack distinctive features. Nevertheless, a combination of clinical presentation, epidemiological factors, and imaging findings often enables radiologists and clinicians to narrow the differential diagnosis and guide further management. Precise imaging interpretation is essential to prevent devastating clinical consequences resulting from diagnostic error, such as irreversible neurological damage, avoidable death, and significant long-term disability. This review provides a comprehensive overview of tumors that can involve the cervical spine, emphasizing their clinical and imaging characteristics. By highlighting key diagnostic features and discussing the latest advancements in imaging technology, aims to enable physicians in radiology, pathology, and clinical departments to gain a more comprehensive understanding of the imaging, pathological, and clinical characteristics of cervical spine tumors, thereby reducing misdiagnosis rates and alleviating the burden on patients."
+  },
+  {
+    "id": "pmid-40911195",
+    "type": "article-journal",
+    "title": "Long-term outcome following vertebroplasty or bone cementoplasty in multiple myeloma patients",
+    "container-title": "Neuroradiology",
+    "volume": "67",
+    "issue": "10",
+    "page": "2963-2975",
+    "DOI": "10.1007/s00234-025-03738-3",
+    "PMID": "40911195",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/40911195/",
+    "author": [
+      {
+        "family": "Soliman",
+        "given": "S"
+      },
+      {
+        "family": "Garderet",
+        "given": "L"
+      },
+      {
+        "family": "Premat",
+        "given": "K"
+      },
+      {
+        "family": "Allard",
+        "given": "J"
+      },
+      {
+        "family": "Drir",
+        "given": "M"
+      },
+      {
+        "family": "Elhorany",
+        "given": "M"
+      },
+      {
+        "family": "Hamad",
+        "given": "N"
+      },
+      {
+        "family": "Lesaunier",
+        "given": "A"
+      },
+      {
+        "family": "Talbi",
+        "given": "A"
+      },
+      {
+        "family": "Roos-Weil",
+        "given": "D"
+      },
+      {
+        "family": "Baron",
+        "given": "M"
+      },
+      {
+        "family": "Boussen",
+        "given": "I"
+      },
+      {
+        "family": "Grenier",
+        "given": "A"
+      },
+      {
+        "family": "Gauthier",
+        "given": "N"
+      },
+      {
+        "family": "Morel",
+        "given": "V"
+      },
+      {
+        "family": "Ouzegdouh",
+        "given": "M"
+      },
+      {
+        "family": "Choquet",
+        "given": "S"
+      },
+      {
+        "family": "Bonaccorsi",
+        "given": "R"
+      },
+      {
+        "family": "Chiaroni",
+        "given": "PM"
+      },
+      {
+        "family": "Clarencon",
+        "given": "F"
+      },
+      {
+        "family": "Shotar",
+        "given": "E"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude rétrospective avec suivi imagerie ≥ 5 ans (*Neuroradiology*, sept. 2025, 142 sites cimentés) démontrant la pérennité mécanique remarquable de la cimentoplastie dans le myélome multiple (1,4 % de refracture locale) et identifiant la fuite discale comme facteur majeur de fracture vertébrale adjacente (31 % vs 8,8 %).\n\n[ABSTRACT EN] Objective Evaluating long-term outcomes following cementoplasty in patients with multiple myeloma (MM). Methods This is a single-center, retrospective study on all cementoplasties performed between January 2012 and December 2017. Patients with MM with a control MRI or CT scan beyond 5 years after the procedure were included. Images were reviewed blinded to the patients' clinical status. Results During the inclusion period, 2085 patients underwent cementoplasty, including 154 patients with MM. Forty-seven patients (33 men (70%); median age 62.2 years [IQR 53.8;69.6]) were included. The patients underwent 74 procedures (142 cemented sites: 129 vertebrae, 11 pelvic girdle cementoplasties, and 2 other sites; 101 (71%) demineralized fractures and 41 (29%) osteolytic lacunae). No serious procedure-related adverse effects were observed. Only 2 (1.4%) recurrent fractures of the cemented bone were observed. At-risk adjacent vertebrae were defined as non-cemented vertebrae, adjacent to a cemented vertebra: 15/109 (14%) fractures of at-risk adjacent vertebrae were documented during follow-up (15/99 [15%] after excluding cervical at-risk vertebrae). Intervertebral disc cement leakage was significantly associated with the occurrence of vertebral fracture at the adjacent level (31% vs. 8.8%, p = 0.022). Fourteen patients (30%) developed a new vertebral fracture that was remote from the cemented site. These were more frequent in patients with higher bone marrow plasmacytosis (median 23% vs. 13%, p = 0.014), relapsed multiple myeloma (86% vs. 55%, p = 0.042) and bone demineralization fractures (93% vs. 48%, p Conclusion Bone cementoplasty for MM is a durable treatment. At-risk adjacent vertebra fracture is a frequent event, prompting a discussion on prophylactic adjacent-level cementoplasty."
   },
   {
     "id": "pmid-40906057",

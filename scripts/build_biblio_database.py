@@ -79,14 +79,14 @@ CATEGORIES = {
     },
     "pain_cryoneurolysis": {
         "id": "pain_cryoneurolysis",
-        "label": "Douleur & Neurolyse : Morton, Géniculés, Intercostaux",
+        "label": "Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal",
         "short_label": "Cryoneurolyse & RF Nerveuse",
         "icon": "activity",
         "color": "#ec4899",
         "agenda_examples": [
             "Cryothérapie sous AL au scanner de névrome de Morton (3e espace)",
             "Test anesthésique sous écho + Radiofréquence des nerfs géniculés (gonarthrose)",
-            "Cryoneurolyse du nerf intercostal (douleurs post-zona) & douleurs post-amputation"
+            "Cryoneurolyse percutanée du nerf clunéal et du nerf intercostal sous scanner"
         ]
     },
     "msk_biopsy": {
@@ -909,6 +909,91 @@ CURATED_DATA = {
             "Sécurité remarquable sous guidage scanner (aucun événement indésirable rapporté)."
         ],
         "tags": ["Cryoneurolyse", "Nerf pudendal", "Douleur pelvienne", "Soins palliatifs", "Guidage scanner"]
+    },
+    "42182575": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Résultats thérapeutiques dans les neuropathies clunéales (nerfs clunéaux supérieur et moyen) : revue systématique et méta-analyse (628 patients)",
+        "modality": "Scanner TDM / Échographie / Fluoroscopie",
+        "intervention_type": "Neurolyse (Radiofréquence / Cryoneurolyse) & Infiltration du Nerf Clunéal",
+        "cochin_link": "Directement lié aux nouvelles procédures de « cryoneurolyse percutanée du nerf clunéal » inscrites dans l'Agenda Interventionnel de Cochin.",
+        "summary_fr_short": "Revue systématique et méta-analyse (*Brain & Spine*, avr. 2026, 26 bras thérapeutiques, 628 patients) démontrant un taux global de répondeurs (réduction douloureuse ≥ 50 %) de 78,3 % à ≥ 3 mois et de 82,9 % à ≥ 6 mois après traitement ciblé des névralgies clunéales supérieure et moyenne.",
+        "summary_fr_detailed": "L'entrapment des nerfs clunéaux supérieur (franchissant la crête iliaque à travers l'orifice ostéo-aponévrotique thoraco-lombaire, 6 à 8 cm de la ligne médiane) ou moyen (en regard du ligament sacro-iliaque postérieur long) est une cause fréquente mais sous-diagnostiquée de lombalgie basse et de fessalgie pseudo-radiculaire. Sur 628 patients inclus, le taux poolé de succès clinique (baisse de l'EVA ≥ 50 %) atteint 75,1 % (IC 95 % : 62,1–84,7 %) pour l'ablation percutanée par radiofréquence/neurolyse, 72,4 % (IC 95 % : 65,9–78,1 %) pour les infiltrations ciblées, 80,1 % pour la neurostimulation périphérique et 93,1 % pour la décompression chirurgicale.",
+        "protocol_fr": "Repérage TDM ou échographique de la crête iliaque postérieure à 6–8 cm de la ligne médiane (incisure clunéale / tunnel ostéo-fibreux du fascia thoraco-lombaire pour le nerf clunéal supérieur ; gouttière sacro-iliaque postérieure entre EIPS et S3 pour le nerf clunéal moyen) • Bloc test anesthésique diagnostique préalable (> 50 % de soulagement) • Cryoneurolyse percutanée (2 cycles de congélation) ou radiofréquence sous AL.",
+        "key_points_fr": [
+            "Taux global de répondeurs élevé dans les névralgies clunéales : 78,3 % à ≥ 3 mois et 82,9 % à ≥ 6 mois (628 patients).",
+            "L'ablation percutanée (RFA / neurolyse thermique) obtient 75,1 % de succès durable après bloc diagnostique positif.",
+            "Cible anatomique précise : franchissement de la crête iliaque postéro-supérieure (6–8 cm de la ligne médiane) pour le nerf clunéal supérieur.",
+            "Justifie pleinement l'intégration du bloc test et de la cryoneurolyse du nerf clunéal dans les lombalgies/fessalgies réfractaires à Cochin."
+        ],
+        "tags": ["Nerf clunéal", "Cryoneurolyse", "Radiofréquence", "Lombalgie", "Fessalgie", "Méta-analyse 2026"]
+    },
+    "42667387": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "Faisabilité, sécurité et efficacité à court terme de la radiofréquence guidée par échographie pour l'endométriose pariétale abdominale",
+        "modality": "Échographie (technique 'Moving-Shot') + IRM",
+        "intervention_type": "Ablation par Radiofréquence (RFA) d'Endométriome Pariétal",
+        "cochin_link": "Complète directement votre thématique d'ablation percutanée des nodules d'endométriose pariétale abdominale (cicatrice de césarienne) à Cochin.",
+        "summary_fr_short": "Étude clinique monocentrique (*Abdominal Radiology*, août 2026, 19 patientes, 29 lésions) évaluant l'ablation par radiofréquence sous échographie (technique 'moving-shot') des endométriomes de la paroi abdominale : chute de l'EVA de 7,37 à 1,72 et réduction volumétrique de 77,5 % dès 3 mois.",
+        "summary_fr_detailed": "Sur 19 patientes (âge moyen 35,5 ans) présentant 29 nodules d'endométriose pariétale abdominale (douleur cyclique dans 73,7 % des cas, masse palpable dans 89,5 %), la thermoablation par radiofréquence a été réalisée sous guidage échographique avec une électrode 18G selon la technique 'moving-shot' sous anesthésie locale et sédation IV. À 3 mois, le diamètre maximal moyen a diminué de 25,1 ± 17,5 mm à 13,4 ± 10,6 mm (p < 0,01), le volume lésionnel moyen a chuté de 5,65 mL à 1,27 mL (-77,5 %, p < 0,01) et l'EVA douloureuse moyenne est passée de 7,37/10 à 1,72/10 (p < 0,01), sans aucune complication majeure (classification SIR).",
+        "protocol_fr": "Bilan IRM pelvi-pariétal pré-thérapeutique • Anesthésie locale tumescente / hydrodissection sous-cutanée et pré-aponévrotique sous échographie • Électrode de radiofréquence monopolaire 18G manipulée selon la technique 'moving-shot' pour couvrir l'ensemble du nodule fibreux d'endométriose • Alternative directe à la cryoablation en ambulatoire.",
+        "key_points_fr": [
+            "Réduction spectaculaire de la douleur cyclique pariétale : EVA moyenne passant de 7,37/10 à 1,72/10 dès 3 mois (p < 0,01).",
+            "Réduction volumétrique moyenne de 77,5 % à 3 mois (de 5,65 mL à 1,27 mL, p < 0,01).",
+            "Excellente tolérance en ambulatoire sous anesthésie locale + analgésie IV (aucune complication majeure SIR).",
+            "Confirme la place de la thermoablation percutanée (cryoablation ou RFA moving-shot) en première intention face à la chirurgie pariétale délabrante."
+        ],
+        "tags": ["Endométriose pariétale", "Radiofréquence", "Moving-shot", "Échographie interventionnelle", "Abdominal Radiology 2026"]
+    },
+    "42780331": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Complications de la cimentoplastie vertébrale dans les fractures rachidiennes métastatiques : revue systématique de 76 études (3 234 patients, 5 737 vertèbres)",
+        "modality": "Scanner TDM / Fluoroscopie",
+        "intervention_type": "Vertébroplastie & Kyphoplastie Oncologique",
+        "cochin_link": "Référentiel majeur de sécurité pour les cimentoplasties vertébrales (cervicales, thoraciques et lombaires) post-radiothérapie ou combinées aux ablations à Cochin.",
+        "summary_fr_short": "Revue systématique d'envergure (*Journal of Bone Oncology*, sept. 2026, 76 études, 3 234 patients, ≥ 5 737 vertèbres traitées) quantifiant précisément le taux de complications symptomatiques (3,41 %) et de fuites de ciment (20,7 %, majoritairement asymptomatiques) lors de la cimentoplastie des métastases rachidiennes.",
+        "summary_fr_detailed": "Sur 5 737 niveaux vertébraux métastatiques traités par vertébroplastie ou kyphoplastie, le taux pondéré d'événements indésirables globaux (incluant les fuites radiologiques asymptomatiques) est de 25,5 %, mais le taux de complications réellement symptomatiques n'est que de 3,41 %. L'incidence pondérée des fuites de ciment est de 20,7 % (détectées plus fréquemment sur le contrôle TDM post-opératoire que sur la fluoroscopie seule : 28,6 % vs 11,9 %, p = 0,004). Les complications cliniques comprennent les douleurs transitoires post-procédure (1,77 %), l'embolie pulmonaire de ciment (1,08 %) et les fractures des vertèbres adjacentes (0,79 %).",
+        "protocol_fr": "Analyse TDM pré-opératoire rigoureuse du mur postérieur et des veines basivertébrales/épidurales • Utilisation de ciment PMMA haute viscosité injecté lentement sous contrôle fluoroscopique/TDM continu • Arrêt immédiat de l'injection dès la moindre fuite veineuse pré-vertébrale ou épidurale.",
+        "key_points_fr": [
+            "Plus vaste synthèse publiée à ce jour en oncologie rachidienne : 3 234 patients et plus de 5 737 vertèbres métastatiques cimentées.",
+            "Taux de complications symptomatiques très contenu (3,41 %), confirmant la haute sécurité du geste palliatif.",
+            "Faible incidence d'embolie pulmonaire de ciment (1,08 %) et de fracture adjacente précoce (0,79 %).",
+            "Le contrôle par scanner détecte 2,4 fois plus de micro-fuites asymptomatiques que la radioscopie standard (28,6 % vs 11,9 %)."
+        ],
+        "tags": ["Cimentoplastie vertébrale", "Métastases rachidiennes", "Sécurité", "Fuite de ciment", "J Bone Oncol 2026"]
+    },
+    "40911195": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Résultats à très long terme (> 5 ans) après vertébroplastie ou cimentoplastie osseuse chez les patients atteints de myélome multiple",
+        "modality": "Scanner TDM / IRM de suivi à long terme",
+        "intervention_type": "Vertébroplastie & Cimentoplastie Pelvienne (Myélome)",
+        "cochin_link": "Directement lié aux cimentoplasties rachidiennes et du bassin chez les patients suivis au long cours pour myélome multiple à Cochin.",
+        "summary_fr_short": "Étude rétrospective avec suivi imagerie ≥ 5 ans (*Neuroradiology*, sept. 2025, 142 sites cimentés) démontrant la pérennité mécanique remarquable de la cimentoplastie dans le myélome multiple (1,4 % de refracture locale) et identifiant la fuite discale comme facteur majeur de fracture vertébrale adjacente (31 % vs 8,8 %).",
+        "summary_fr_detailed": "Sur 47 patients atteints de myélome multiple survivant à plus de 5 ans avec imagerie de contrôle (74 procédures, 142 sites cimentés : 129 vertèbres, 11 cimentoplasties pelviennes), seules 2 refractures de l'os cimenté (1,4 %) sont survenues, prouvant la durabilité biomécanique à long terme du PMMA. En revanche, 14 % des vertèbres adjacentes non cimentées ont présenté une fracture secondaire au cours du suivi : la présence d'une fuite de ciment dans le disque intervertébral multipliait par 3,5 ce risque (31 % vs 8,8 %, p = 0,022). Les fractures à distance étaient associées à une plasmocytose médullaire initiale élevée (23 % vs 13 %, p = 0,014).",
+        "protocol_fr": "Cimentoplastie vertébrale ou pelvienne guidée par TDM/fluoroscopie • Viser un remplissage spongieux trabéculaire homogène d'un plateau à l'autre tout en évitant strictement le franchissement du plateau vertébral et la fuite discale • Discuter une cimentoplastie prophylactique d'une vertèbre adjacente prise en sandwich ou en cas de fuite discale.",
+        "key_points_fr": [
+            "Stabilité mécanique exceptionnelle à plus de 5 ans : seulement 1,4 % de récidive fracturaire sur les 142 os cimentés.",
+            "Règle technique essentielle : la fuite de ciment intradiscale fait passer le risque de fracture de la vertèbre adjacente de 8,8 % à 31 % (p = 0,022).",
+            "Aucune complication grave liée à la procédure sur 129 vertèbres et 11 bassins cimentés.",
+            "Ouvre la discussion d'une cimentoplastie préventive des niveaux adjacents à haut risque dans le myélome."
+        ],
+        "tags": ["Myélome multiple", "Cimentoplastie", "Vertébroplastie", "Fuite discale", "Fracture adjacente", "Neuroradiology"]
+    },
+    "41473339": {
+        "category_id": "msk_imaging",
+        "title_fr": "Évaluation par imagerie (TDM et IRM) des tumeurs osseuses du rachis cervical : revue complète diagnostique et pré-thérapeutique",
+        "modality": "IRM + Scanner TDM / Angio-TDM",
+        "intervention_type": "Bilan Pré-Thérapeutique & Suivi du Rachis Cervical",
+        "cochin_link": "En lien direct avec les gestes cervicaux récemment programmés dans l'Agenda Cochin (« RF d'ostéome ostéoïde de C6 » et « cimentoplastie cervicale sous AG »).",
+        "summary_fr_short": "Revue clinique et iconographique complète (*Int J Gen Med*, déc. 2025) détaillant la sémiologie IRM et TDM des tumeurs osseuses bénignes (ostéome ostéoïde, ostéoblastome, KOA) et malignes (métastases, chordome, myélome) du rachis cervical ainsi que les repères anatomiques critiques avant geste percutané.",
+        "summary_fr_detailed": "Le rachis cervical présente des défis diagnostiques et interventionnels uniques en raison de l'étroitesse des pédicules, de la proximité immédiate des artères vertébrales dans les foramens transversaires (C1–C6), du cordon médullaire et des racines nerveuses. Cet article synthétise les critères de caractérisation TDM et IRM permettant de différencier les lésions bénignes de l'arc postérieur (ostéome ostéoïde, ostéoblastome, kyste osseux anévrismal) des lésions malignes prédominant sur le corps vertébral (métastases ostéolytiques, myélome, chordome), et précise le bilan pré-thérapeutique indispensable avant biopsie, thermoablation ou cimentoplastie cervicale.",
+        "protocol_fr": "Bilan pré-interventionnel cervical : TDM en coupes infra-millimétriques + Angio-TDM des troncs supra-aortiques (cartographie de l'artère vertébrale V2 dans le foramen transversaire par rapport au nidus ou au trajet de trocart) + IRM cervicale T1, STIR, Diffusion et T1 injecté • Abord antéro-latéral (entre axe jugulo-carotidien et axe aéro-digestif) pour le corps vertébral ou postéro-latéral pour l'arc postérieur.",
+        "key_points_fr": [
+            "Cartographie indispensable des rapports avec l'artère vertébrale (segment V2) et le foramen intervertébral avant toute RF d'ostéome ostéoïde cervical (ex. C6).",
+            "Topographie préférentielle sur l'arc postérieur pour l'ostéome ostéoïde, l'ostéoblastome et le KOA, contre le corps vertébral pour les métastases et le chordome.",
+            "Complémentarité systématique du scanner en coupes fines (matrice minérale, corticale) et de l'IRM (extension épidurale, œdème réactionnel).",
+            "Guide le choix sécurisé de la voie d'abord cervicale (antéro-latérale vs postéro-latérale) au scanner interventionnel."
+        ],
+        "tags": ["Rachis cervical", "Ostéome ostéoïde cervical", "Métastases cervicales", "IRM", "Scanner TDM", "Artère vertébrale"]
     }
 }
 
@@ -1043,8 +1128,12 @@ JOURNAL_IMPACT_FACTORS = {
     "journal of clinical medicine": (3.0, "J Clin Med"),
     "pain medicine": (2.9, "Pain Med"),
     "journal of orthopaedic surgery and research": (2.8, "J Orthop Surg Res"),
+    "abdominal radiology": (2.8, "Abdom Radiol"),
+    "neuroradiology": (2.8, "Neuroradiology"),
     "european spine journal": (2.6, "Eur Spine J"),
+    "international journal of general medicine": (2.1, "Int J Gen Med"),
     "pediatric radiology": (2.1, "Pediatr Radiol"),
+    "brain & spine": (1.9, "Brain Spine"),
     "american journal of hospice & palliative care": (1.9, "Am J Hosp Palliat Care"),
     "seminars in musculoskeletal radiology": (1.8, "Semin Musculoskelet Radiol"),
     "journal of medical imaging and radiation oncology": (1.8, "J Med Imaging Radiat Oncol"),
