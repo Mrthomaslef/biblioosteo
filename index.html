@@ -60,6 +60,10 @@
       -webkit-tap-highlight-color: transparent;
     }
 
+    html, body {
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
     body {
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       background-color: var(--bg-page);
@@ -1140,6 +1144,21 @@
     }
 
     window.addEventListener('DOMContentLoaded', init);
+
+    // Défilement horizontal fluide à la molette ou au trackpad sur les filtres de catégories
+    (function initDesktopWheelScroll() {
+      window.addEventListener("wheel", (e) => {
+        if (e.ctrlKey || e.metaKey) return;
+        const dy = e.deltaY || 0;
+        const dx = e.deltaX || 0;
+        if (!dy && !dx) return;
+        const horiz = e.target && e.target.closest ? e.target.closest("#categoryPills, .pills-scroll") : null;
+        if (horiz && horiz.scrollWidth > horiz.clientWidth && Math.abs(dy) > Math.abs(dx)) {
+          horiz.scrollLeft += dy;
+          e.preventDefault();
+        }
+      }, { passive: false });
+    })();
   </script>
 </body>
 </html>
