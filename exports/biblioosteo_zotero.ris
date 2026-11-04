@@ -286,6 +286,44 @@ KW  - Métastases osseuses
 ER  - 
 
 TY  - JOUR
+TI  - Radiologic response assessment in patients with desmoid-type fibromatosis treated with percutaneous cryoablation
+AU  - Vanzulli A
+AU  - Saggiante L
+AU  - Sciacqua LV
+AU  - Cascella T
+AU  - Spreafico C
+AU  - Greco G
+AU  - Lanocita R
+AU  - Rausa E
+AU  - Vitellaro M
+AU  - Tiné G
+AU  - Palassini E
+AU  - Miceli R
+AU  - Pasquali S
+AU  - Fiore M
+AU  - Casali PG
+AU  - Stacchiotti S
+AU  - Gronchi A
+AU  - Colombo C
+AU  - Morosi C
+JO  - European radiology experimental
+PY  - 2026
+VL  - 10
+IS  - 1
+SP  - 102
+DO  - 10.1186/s41747-026-00767-2
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective (*Eur Radiol Exp*, juil. 2026, 34 patients, 37 cryoablations) démontrant que les critères IRM adaptés à la viabilité tissulaire (M-RECIST) détectent 79,4 % de réponse objective (dont 44,1 % de réponse complète) contre seulement 28,6 % avec les critères dimensionnels RECIST 1.1. | Points clés : Taux de contrôle local (non-progression) de 91,2 % à 16 mois après cryoablation percutanée de tumeur desmoïde. ; Supériorité majeure du score M-RECIST (ORR 79,4 %, dont 44,1 % de réponse complète) sur RECIST 1.1 (ORR 28,6 %). ; Une cicatrice fibreuse post-cryoablation non rehaussée peut conserver la même taille globale tout en étant en rémission complète histologique et fonctionnelle. ; Standardise le compte-rendu IRM de suivi post-cryoablation des tumeurs desmoïdes en Radiologie B. | Pratique Cochin : Directement lié aux cryoablations de tumeurs desmoïdes (flanc gauche, creux sus-claviculaire, paravertébral) et à leurs IRM de contrôle à 6 semaines et 3 mois à Cochin. || [ABSTRACT ORIGINAL - EN] Objective Percutaneous cryoablation (PC) has been incorporated among first-line treatment options for desmoid-type fibromatosis (DF). Loco-regional therapies, including PC, induce tissue changes that may precede measurable tumor shrinkage, thereby limiting the reliability of purely dimensional response criteria. To address this limitation, we compared response evaluation criteria in solid tumors (RECIST) 1.1 and magnetic resonance imaging (MRI)-adapted (M-)RECIST in patients with DF treated with PC. Materials and methods We retrospectively identified all consecutive patients with progressing extra-abdominal DF treated with PC. Responses were assessed with RECIST 1.1 and M-RECIST, the latter relying on T2- and diffusion-weighted imaging, as well as unenhanced and contrast-enhanced T1-weighted imaging, to define residual viable tumor. Non-progression (NPR) and overall response rates (ORR) were defined as the percentage of patients without radiological progression and partial/complete responses, respectively. Results Thirty-four patients (females/males, 26/8) and 37 procedures were identified. RECIST 1.1 and M-RECIST were applicable in 35 and 34 procedures, respectively. At a median follow-up of 15.7 months (interquartile range [IQR] 19.5), RECIST 1.1. Responses were: 10/35 (28.6%) partial response (PR), 22/35 (62.9%) stable disease (SD), and 3/35 (8.6%) progressive disease (PD), with ORR 28.6% and NPR 91.4%. At a median follow-up of 16.0 months (IQR 20.5), M-RECIST responses were: 15/34 (44.1%) complete response (CR), 12/34 (35.3%) PR, 4/34 (11.8%) SD, and 3/34 (8.8%) PD, with ORR 79.4% and NPR 91.2%. Overall concordance was negligible. Conclusion M-RECIST yielded higher NPR/ORR than RECIST 1.1. These findings pave the way for studies addressing whether this shift in response categorization associates with improved outcomes prediction. Relevance statement This work provides supporting evidence for the implementation of residual viable disease assessment in evaluating DF responses to PC. Key points In patients with DF, responses to cryoablation can be characterized using purely dimensional and viability-based criteria. RECIST 1.1 and M-RECIST yielded complete agreement for PD. M-RECIST may refine response categorization below the progression threshold.
+N1  - PMID: 42384128 | PMCID: PMC13323459 | Catégorie: Cryoablation des Tumeurs Desmoïdes & Parties Molles
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42384128.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42384128/
+KW  - Tumeur desmoïde
+KW  - Cryoablation
+KW  - M-RECIST
+KW  - IRM de suivi
+KW  - Eur Radiol Exp 2026
+ER  - 
+
+TY  - JOUR
 TI  - Robotic-Assisted Computed Tomography-Guided Percutaneous Bone Procedures: A Prospective Multicenter Pilot Study
 AU  - Bonnet B
 AU  - Stacoffe N
@@ -397,6 +435,36 @@ KW  - Vissage du bassin
 KW  - Cimentoplastie
 KW  - Métastases pelviennes
 KW  - JVIR 2026
+ER  - 
+
+TY  - JOUR
+TI  - Clinical Course and Dedifferentiation of Atypical Lipomatous Tumors: A Retrospective Analysis of Surveillance and Surgical Management
+AU  - Hakkesteegt SN
+AU  - Shapiro J
+AU  - Wunder JS
+AU  - Tsoi KM
+AU  - Griffin AM
+AU  - White LM
+AU  - Gladdy RA
+AU  - Verhoef C
+AU  - Grunhagen DJ
+AU  - Ferguson PC
+JO  - Annals of surgical oncology
+PY  - 2026
+VL  - 33
+IS  - 8
+SP  - 7616-7624
+DO  - 10.1245/s10434-026-19751-6
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte (*Annals of Surgical Oncology*, mai 2026, 183 patients : 36 en surveillance active et 147 opérés) analysant le risque de dédifférenciation (8 % en surveillance, 20 % des récidives locales) et démontrant le caractère indispensable de la biopsie percutanée ciblée dès que l'IRM montre des signes atypiques. | Points clés : Toute masse lipomateuse profonde (> 5 cm, sous-fasciale, cuisse ou fesse) présentant des septas épais ou un nodule non graisseux en IRM impose une microbiopsie dirigée avec recherche d'amplification MDM2. ; Le ciblage biopsique doit impérativement porter sur la zone non graisseuse ou septale la plus vascularisée pour ne pas méconnaître un contingent dédifférencié. ; Risque de dédifférenciation de 8 % sous surveillance active (médiane 26 mois) et de 2 % au total après chirurgie initiale. ; Sécurise la décision en RCP Sarcome entre surveillance IRM active et exérèse chirurgicale. | Pratique Cochin : En lien direct avec les « biopsies percutanées de formation lipomateuse glutéale ou de masse de la cuisse sous échographie/scanner » réalisées à Cochin. || [ABSTRACT ORIGINAL - EN] Background Atypical lipomatous tumors (ALTs) can recur locally but do not metastasize. Surgical treatment risks morbidity, recurrence, and dedifferentiation. This study assessed the outcomes of initial surveillance or surgery for patients with ALT. Methods Patients with ALT diagnosed between 2005 and 2022 were retrospectively identified from surgical and radiologic databases. Adults with primary or locally recurrent (LR) ALT confirmed by imaging, histology, or both and managed with surveillance for 12 months or longer were included in the surveillance study cohort. The primary outcome was the development of dedifferentiation during surveillance. The secondary outcomes were tumor progression, imaging-histopathology concordance, motives for surgery, and surgical outcomes. A comparison cohort included patients who had ALT treated with upfront surgery. Results The 36 patients (median age, 63 years; IQR, 52-69 years) in this study underwent surveillance for a median of 26 months (IQR, 19-54 months). Most of the tumors were primary (81%) and located in the lower extremities (78%). Tumor progression (RECIST) occurred in 22 patients (61%). Three patients (8%) experienced dedifferentiation (2 with the diagnosis by imaging alone at baseline and 1 with an LR). No dedifferentiation occurred in the remaining 33 patients (92%). Magnetic resonance imaging suggested dedifferentiation in five cases, histologically confirmed in two cases. Among 147 patients initially treated surgically for ALT, 15 (10%) had LR, with 3 (20%) of these patients experiencing recurrence as dedifferentiated liposarcoma. No disease-related metastases or deaths occurred. Conclusion Initial surveillance for ALT appears feasible for selected patients. However, surgery remains the preferred treatment for many, and the short follow-up period and small cohort size limited definitive conclusions regarding long-term dedifferentiation risk. Histologic confirmation remains essential when MRI findings are atypical.
+N1  - PMID: 42129022 | PMCID: PMC13337598 | Catégorie: Biopsies Ostéo-Articulaires, Synoviales & Sarcomes
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42129022.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42129022/
+KW  - Tumeur lipomateuse atypique
+KW  - Liposarcome bien différencié
+KW  - MDM2
+KW  - Biopsie parties molles
+KW  - IRM
+KW  - Ann Surg Oncol 2026
 ER  - 
 
 TY  - JOUR
@@ -527,6 +595,32 @@ KW  - CVIR 2026
 ER  - 
 
 TY  - JOUR
+TI  - The best solution is the simplest: advances in surgical and minimally invasive management of aneurysmal and simple bone cysts
+AU  - Alaseem A
+AU  - Addar A
+AU  - Alanezi M
+AU  - Alshayhan F
+AU  - Albishi W
+AU  - Alshaygy I
+JO  - Journal of orthopaedic surgery and research
+PY  - 2026
+VL  - 21
+IS  - 1
+SP  - 232
+DO  - 10.1186/s13018-026-06792-6
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue de synthèse (*J Orthop Surg Res*, mars 2026) comparant l'efficacité, le taux de récidive et la sécurité des approches mini-invasives (sclérothérapie percutanée, embolisation artérielle sélective, ablation guidée par l'image) face au curetage chirurgical dans les KOA et KOE. | Points clés : La sclérothérapie percutanée est désormais établie comme traitement de première intention de nombreux KOA et KOE grâce à son faible taux de complications. ; Taux élevés de ré-ossification progressive et de contrôle douloureux sans les séquelles fonctionnelles du curetage ouvert. ; Rôle complémentaire de la cryoablation et de l'embolisation sélective pour les KOA volumineux, axiaux ou récidivants. ; Suivi TDM séquentiel à 3, 6 et 12 mois évaluant l'épaississement cortical et la trabéculation intrakystique (critères de Capanna). | Pratique Cochin : Directement lié aux séances d'« alcoolisation percutanée du kyste osseux anévrismal de l'humérus droit » et de « kyste essentiel de l'aile iliaque (+/- cimentoplastie) » programmées à Cochin. || [ABSTRACT ORIGINAL - EN] Aneurysmal bone cysts (ABCs) and simple bone cysts (SBCs) are benign osseous lesions predominantly affecting children and adolescents, typically presenting with pain, deformity, or pathologic fracture. Despite their frequency, optimal management remains debated. This review synthesizes current evidence on therapeutic strategies, efficacy, recurrence, and safety. For ABCs, intralesional curettage remains the standard surgical approach, though recurrence rates vary and are reduced with adjuvants such as high-speed burring, cryotherapy, or cementation. En bloc resection offers the lowest recurrence; however, it is restricted by procedural morbidity and poor functional outcomes. Minimally invasive modalities, including sclerotherapy, selective arterial embolization, endoscopic curettage, and image-guided ablation, consistently achieve high rates of healing, pain relief, and functional recovery, often with fewer complications. Management of SBCs ranges from observation to intervention in symptomatic or unstable lesions. Elastic stable intramedullary nailing (ESIN) provides both decompression and structural stability, with high healing rates. Overall, advances in minimally invasive and biologic therapies are reshaping treatment paradigms, yet standardized outcome measures and head-to-head comparative trials remain needed.
+N1  - PMID: 41857607 | PMCID: PMC13047836 | Catégorie: Alcoolisation & Sclérothérapie des Kystes Osseux
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_41857607.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/41857607/
+KW  - Kyste osseux anévrismal
+KW  - Kyste osseux essentiel
+KW  - Sclérothérapie
+KW  - Alcoolisation
+KW  - Humérus
+KW  - J Orthop Surg Res 2026
+ER  - 
+
+TY  - JOUR
 TI  - Photon-counting CT-guided bone biopsy with real-time bone marrow edema mapping
 AU  - Alvarez de Sierra Garcia B
 AU  - Urtasun-Iriarte C
@@ -576,6 +670,39 @@ KW  - Zotero
 ER  - 
 
 TY  - JOUR
+TI  - What's new on giant cell tumor of bone
+AU  - Tsukamoto S
+AU  - Errani C
+AU  - Balach T
+AU  - Zamora T
+AU  - Ortiz-Cruz E
+AU  - Rajasekaran RB
+AU  - Yau R
+AU  - Ji T
+AU  - Pérez-Muñoz I
+AU  - Linares F
+AU  - Angelini A
+AU  - Ruggieri P
+AU  - Benevenia J
+AU  - Mavrogenis AF
+JO  - SICOT-J
+PY  - 2026
+VL  - 12
+SP  - 2
+DO  - 10.1051/sicotj/2025063
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Mise au point (*SICOT-J*, janv. 2026) synthétisant les avancées thérapeutiques dans les tumeurs à cellules géantes de l'os (TCG / GCTB) des membres, mettant en avant l'efficacité de l'ablation thermique percutanée (radiofréquence et cryoablation) pour traiter les récidives locales de petite taille sans reprise chirurgicale lourde. | Points clés : Valide l'ablation thermique percutanée (cryoablation / RFA) comme alternative mini-invasive de choix pour les récidives locales focales de TCG après curetage. ; Permet d'éviter un second curetage chirurgical itératif ou une résection prothétique tout en préservant la fonction articulaire du genou. ; Intérêt de combiner la destruction thermique à un comblement cimenté (PMMA) lorsque la récidive fragilise la corticale ou l'os sous-chondral. ; Nécessité d'une surveillance IRM/TDM rapprochée de l'interface os-ciment après traitement initial d'une TCG. | Pratique Cochin : Correspond directement au nouveau geste de l'Agenda Interventionnel Cochin : « cryothérapie percutanée sur récidive de TCG du genou ». || [ABSTRACT ORIGINAL - EN] When treating extremities affected by giant cell tumor of bone (GCTB), curettage should be performed to preserve the joint as much as possible in order to obtain a good functional outcome. The local recurrence risk is high following curettage, but new techniques are being developed to reduce local recurrence. We present a review of the literature reporting favorable results of radiofrequency ablation alone in locally recurrent small GCTB. New filling materials are also being developed to prevent non-oncological complications such as arthrosis and fractures. Routine measurement of tartrate-resistant acid phosphatase 5b in serum may be helpful in detecting early instances of local recurrence. For unresectable or metastatic GCTB, there is an urgent need for a new drug that is as effective as denosumab, avoids side effects, and can be administered to pregnant women.
+N1  - PMID: 41568883 | PMCID: PMC12825416 | Catégorie: Ablation Thermique des Tumeurs Osseuses Bénignes
+UR  - https://pubmed.ncbi.nlm.nih.gov/41568883/
+KW  - Tumeur à cellules géantes
+KW  - TCG
+KW  - Récidive locale
+KW  - Genou
+KW  - Cryoablation
+KW  - Radiofréquence
+KW  - SICOT-J 2026
+ER  - 
+
+TY  - JOUR
 TI  - Imaging Evaluation of Bone Tumors in the Cervical Spine: A Comprehensive Review
 AU  - Sun M
 AU  - Meng X
@@ -596,6 +723,30 @@ KW  - Métastases cervicales
 KW  - IRM
 KW  - Scanner TDM
 KW  - Artère vertébrale
+ER  - 
+
+TY  - JOUR
+TI  - Post-cryoablation magnetic resonance imaging features of desmoid tumors: a pictorial essay
+AU  - Savarese LG
+AU  - Papalexis N
+AU  - Miceli M
+AU  - Carta M
+AU  - Facchini G
+JO  - Diagnostic and interventional radiology (Ankara, Turkey)
+PY  - 2025
+VL  - 32
+IS  - 5
+SP  - 709-714
+DO  - 10.4274/dir.2025.253499
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Atlas didactique (*Diagn Interv Radiol*, déc. 2025) illustrant l'évolution temporelle en IRM (de 6 à 30 mois) des tumeurs desmoïdes traitées par cryoablation percutanée afin d'éviter de confondre les remaniements post-thérapeutiques attendus avec une récidive. | Points clés : Une fine prise de contraste périphérique circonférentielle et régulière dans les 3 à 6 premiers mois correspond à une réaction granulomateuse cicatricielle normale. ; La nécrose centrale post-cryoablation présente souvent un hypersignal T1 spontané (remaniements hémorragiques) rendant indispensable la séquence de soustraction après gadolinium. ; Le passage progressif en hyposignal T2 franc et l'absence de rehaussement signent la réponse complète durable. ; La récidive vraie se traduit par un bourgeon nodulaire focal en hypersignal T2 et rehaussement intense, typiquement situé sur une marge ayant nécessité une hydrodissection protectrice. | Pratique Cochin : Outil pratique quotidien pour l'interprétation des IRM de contrôle post-cryoablation (distinction entre réaction inflammatoire périphérique normale et récidive locale) à Cochin. || [ABSTRACT ORIGINAL - EN] Desmoid tumors (DTs) are rare, locally aggressive soft tissue neoplasms with highly variable clinical behavior. Although benign, their infiltrative nature can lead to considerable morbidity. DTs present a major challenge due to their unpredictable behavior and potential for misdiagnosis. Recently, there has been a large shift in the treatment strategy for DTs, and the number of cases being followed up with imaging has increased. Cryoablation has emerged as a minimally invasive treatment option, yet post-procedural imaging features remain poorly characterized. This study illustrates the magnetic resonance imaging (MRI) evolution of DTs following percutaneous cryoablation, emphasizing key patterns across pre-treatment, intra-procedural, and follow-up studies. The available MRI follow-up ranged from 6 to 30 months. Through a pictorial approach, we aimed to provide radiologists with practical insights to avoid misinterpretation of expected post-treatment changes as recurrence and to improve clinical management.
+N1  - PMID: 41357250 | PMCID: PMC13530442 | Catégorie: Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Geste
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_41357250.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/41357250/
+KW  - IRM post-cryoablation
+KW  - Tumeur desmoïde
+KW  - Sémiologie IRM
+KW  - Soustraction T1
+KW  - Récidive vs cicatrice
 ER  - 
 
 TY  - JOUR

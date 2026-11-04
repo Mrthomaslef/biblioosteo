@@ -2,13 +2,13 @@
   {
     "id": "ablation_benign",
     "label": "Ablation Thermique des Tumeurs Osseuses Bénignes",
-    "short_label": "RF & Cryo (OO / Chondroblastome)",
+    "short_label": "RF & Cryo (OO / Chondroblastome / TCG)",
     "icon": "flame",
     "color": "#f97316",
     "agenda_examples": [
-      "RF ostéome ostéoïde coude, tibia proximal, hanche",
+      "RF ostéome ostéoïde coude, tibia proximal, hanche & C6",
       "RF / Cryothérapie ostéome ostéoïde de l'astragale (no-touch)",
-      "RF & Cryoablation de chondroblastome du genou (à distance lame sous-chondrale)"
+      "RF & Cryoablation de chondroblastome et récidive de TCG du genou"
     ]
   },
   {
@@ -18,7 +18,7 @@
     "icon": "snowflake",
     "color": "#06b6d4",
     "agenda_examples": [
-      "Cryothérapie tumeur desmoïde creux sus-claviculaire (proximité plexus brachial)",
+      "Cryothérapie tumeur desmoïde creux sus-claviculaire & flanc gauche",
       "Cryothérapie nodules paravertébraux et du trapèze"
     ]
   },
@@ -43,7 +43,7 @@
     "agenda_examples": [
       "Vissage percutané du bassin post-radiothérapie en HDJ Radio B",
       "Combinaison cryoablation de debulking + vissage du bassin",
-      "Cimentoplastie cervicale sous AG post-radiothérapie (gestion Eliquis + Plavix)"
+      "Cimentoplastie cervicale et thoraco-lombaire (T12, L4) sous AG / AL"
     ]
   },
   {
@@ -54,7 +54,7 @@
     "color": "#10b981",
     "agenda_examples": [
       "Alcoolisation (+/- cimentoplastie) de kyste osseux essentiel de l'aile iliaque",
-      "Suivi TDM à 1 an de kyste osseux anévrismal (KOA) de l'humérus traité par alcoolisation"
+      "Alcoolisation percutanée de kyste osseux anévrismal (KOA) de l'humérus droit"
     ]
   },
   {
@@ -64,7 +64,7 @@
     "icon": "activity",
     "color": "#ec4899",
     "agenda_examples": [
-      "Cryothérapie sous AL au scanner de névrome de Morton (3e espace)",
+      "Cryothérapie sous AL au scanner de névrome de Morton (2e et 3e espaces)",
       "Test anesthésique sous écho + Radiofréquence des nerfs géniculés (gonarthrose)",
       "Cryoneurolyse percutanée du nerf clunéal et du nerf intercostal sous scanner"
     ]
@@ -77,8 +77,8 @@
     "color": "#3b82f6",
     "agenda_examples": [
       "Biopsie synoviale du genou sous scanner (suspicion chondromatose / SVN)",
-      "Biopsie osseuse sous scanner (récidive lymphome B, masse pré-sacrée / sacrum)",
-      "Biopsie de masse des parties molles sous écho sans traverser le fascia (sarcome)"
+      "Biopsie osseuse sous scanner (crête iliaque, sacrum) & biopsie couplée à la cryoablation",
+      "Biopsie de masse des parties molles et tumeur lipomateuse profonde sous écho/TDM (MDM2)"
     ]
   },
   {

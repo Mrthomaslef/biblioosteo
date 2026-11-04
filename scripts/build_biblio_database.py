@@ -22,13 +22,13 @@ CATEGORIES = {
     "ablation_benign": {
         "id": "ablation_benign",
         "label": "Ablation Thermique des Tumeurs Osseuses Bénignes",
-        "short_label": "RF & Cryo (OO / Chondroblastome)",
+        "short_label": "RF & Cryo (OO / Chondroblastome / TCG)",
         "icon": "flame",
         "color": "#f97316",
         "agenda_examples": [
-            "RF ostéome ostéoïde coude, tibia proximal, hanche",
+            "RF ostéome ostéoïde coude, tibia proximal, hanche & C6",
             "RF / Cryothérapie ostéome ostéoïde de l'astragale (no-touch)",
-            "RF & Cryoablation de chondroblastome du genou (à distance lame sous-chondrale)"
+            "RF & Cryoablation de chondroblastome et récidive de TCG du genou"
         ]
     },
     "desmoid_soft_tissue": {
@@ -38,7 +38,7 @@ CATEGORIES = {
         "icon": "snowflake",
         "color": "#06b6d4",
         "agenda_examples": [
-            "Cryothérapie tumeur desmoïde creux sus-claviculaire (proximité plexus brachial)",
+            "Cryothérapie tumeur desmoïde creux sus-claviculaire & flanc gauche",
             "Cryothérapie nodules paravertébraux et du trapèze"
         ]
     },
@@ -63,7 +63,7 @@ CATEGORIES = {
         "agenda_examples": [
             "Vissage percutané du bassin post-radiothérapie en HDJ Radio B",
             "Combinaison cryoablation de debulking + vissage du bassin",
-            "Cimentoplastie cervicale sous AG post-radiothérapie (gestion Eliquis + Plavix)"
+            "Cimentoplastie cervicale et thoraco-lombaire (T12, L4) sous AG / AL"
         ]
     },
     "cyst_sclerotherapy": {
@@ -74,7 +74,7 @@ CATEGORIES = {
         "color": "#10b981",
         "agenda_examples": [
             "Alcoolisation (+/- cimentoplastie) de kyste osseux essentiel de l'aile iliaque",
-            "Suivi TDM à 1 an de kyste osseux anévrismal (KOA) de l'humérus traité par alcoolisation"
+            "Alcoolisation percutanée de kyste osseux anévrismal (KOA) de l'humérus droit"
         ]
     },
     "pain_cryoneurolysis": {
@@ -84,7 +84,7 @@ CATEGORIES = {
         "icon": "activity",
         "color": "#ec4899",
         "agenda_examples": [
-            "Cryothérapie sous AL au scanner de névrome de Morton (3e espace)",
+            "Cryothérapie sous AL au scanner de névrome de Morton (2e et 3e espaces)",
             "Test anesthésique sous écho + Radiofréquence des nerfs géniculés (gonarthrose)",
             "Cryoneurolyse percutanée du nerf clunéal et du nerf intercostal sous scanner"
         ]
@@ -97,8 +97,8 @@ CATEGORIES = {
         "color": "#3b82f6",
         "agenda_examples": [
             "Biopsie synoviale du genou sous scanner (suspicion chondromatose / SVN)",
-            "Biopsie osseuse sous scanner (récidive lymphome B, masse pré-sacrée / sacrum)",
-            "Biopsie de masse des parties molles sous écho sans traverser le fascia (sarcome)"
+            "Biopsie osseuse sous scanner (crête iliaque, sacrum) & biopsie couplée à la cryoablation",
+            "Biopsie de masse des parties molles et tumeur lipomateuse profonde sous écho/TDM (MDM2)"
         ]
     },
     "msk_imaging": {
@@ -994,6 +994,91 @@ CURATED_DATA = {
             "Guide le choix sécurisé de la voie d'abord cervicale (antéro-latérale vs postéro-latérale) au scanner interventionnel."
         ],
         "tags": ["Rachis cervical", "Ostéome ostéoïde cervical", "Métastases cervicales", "IRM", "Scanner TDM", "Artère vertébrale"]
+    },
+    "42384128": {
+        "category_id": "desmoid_soft_tissue",
+        "title_fr": "Évaluation de la réponse radiologique (M-RECIST vs RECIST 1.1) chez les patients atteints de fibromatose desmoïde traitée par cryoablation percutanée",
+        "modality": "IRM Multiparamétrique (T2, Diffusion, T1 Gado) + TDM",
+        "intervention_type": "Cryoablation Percutanée & Suivi IRM M-RECIST",
+        "cochin_link": "Directement lié aux cryoablations de tumeurs desmoïdes (flanc gauche, creux sus-claviculaire, paravertébral) et à leurs IRM de contrôle à 6 semaines et 3 mois à Cochin.",
+        "summary_fr_short": "Étude rétrospective (*Eur Radiol Exp*, juil. 2026, 34 patients, 37 cryoablations) démontrant que les critères IRM adaptés à la viabilité tissulaire (M-RECIST) détectent 79,4 % de réponse objective (dont 44,1 % de réponse complète) contre seulement 28,6 % avec les critères dimensionnels RECIST 1.1.",
+        "summary_fr_detailed": "La cryoablation percutanée induit une nécrose de coagulation et une hyalinisation collagénique qui précèdent de plusieurs mois la rétraction volumétrique, rendant le score RECIST 1.1 classique peu sensible. Sur 37 cryoablations de tumeurs desmoïdes extra-abdominales suivies en médiane 16 mois, le taux de non-progression est de 91,2 %. Alors que RECIST 1.1 classe 62,9 % des lésions en maladie stable (SD) et seulement 28,6 % en réponse partielle (ORR 28,6 %), l'évaluation M-RECIST (fondée sur le volume tumoral viable résiduel en pondération T2, diffusion et soustraction T1 injectée) identifie 44,1 % de réponses complètes (CR) et 35,3 % de réponses partielles (ORR 79,4 %).",
+        "protocol_fr": "IRM de réévaluation post-cryoablation (à 6 semaines, 3 mois, 6 mois et 12 mois) incluant séquences T2, Diffusion (ADC) et T1 Fat-Sat sans et avec injection de gadolinium (soustraction) • Appliquer systématiquement les critères M-RECIST (mesure du contingent viable rehaussé et en hypersignal T2) plutôt que le diamètre global RECIST 1.1.",
+        "key_points_fr": [
+            "Taux de contrôle local (non-progression) de 91,2 % à 16 mois après cryoablation percutanée de tumeur desmoïde.",
+            "Supériorité majeure du score M-RECIST (ORR 79,4 %, dont 44,1 % de réponse complète) sur RECIST 1.1 (ORR 28,6 %).",
+            "Une cicatrice fibreuse post-cryoablation non rehaussée peut conserver la même taille globale tout en étant en rémission complète histologique et fonctionnelle.",
+            "Standardise le compte-rendu IRM de suivi post-cryoablation des tumeurs desmoïdes en Radiologie B."
+        ],
+        "tags": ["Tumeur desmoïde", "Cryoablation", "M-RECIST", "IRM de suivi", "Eur Radiol Exp 2026"]
+    },
+    "41357250": {
+        "category_id": "msk_imaging",
+        "title_fr": "Sémiologie IRM post-cryoablation des tumeurs desmoïdes : atlas iconographique et pièges d'interprétation (6 à 30 mois de suivi)",
+        "modality": "IRM Multiparamétrique de Suivi Post-Cryoablation",
+        "intervention_type": "Suivi IRM Post-Cryoablation (Desmoïdes & Parties Molles)",
+        "cochin_link": "Outil pratique quotidien pour l'interprétation des IRM de contrôle post-cryoablation (distinction entre réaction inflammatoire périphérique normale et récidive locale) à Cochin.",
+        "summary_fr_short": "Atlas didactique (*Diagn Interv Radiol*, déc. 2025) illustrant l'évolution temporelle en IRM (de 6 à 30 mois) des tumeurs desmoïdes traitées par cryoablation percutanée afin d'éviter de confondre les remaniements post-thérapeutiques attendus avec une récidive.",
+        "summary_fr_detailed": "Cet article iconographique détaille les aspects IRM pré-thérapeutiques, per-procédure et post-cryoablation (suivi de 6 à 30 mois) des fibromatoses desmoïdes. Il décrit la couronne inflammatoire périphérique précoce (fine prise de contraste annulaire régulière de tissu de granulation entourant la nécrose centrale avasculaire en hyposignal T1/T2 ou hypersignal T1 hémorragique), l'involution progressive en hyposignal T2 franc fibreux mature, et les signes formels de récidive focale viable (nodule asymétrique en hypersignal T2 franc, restriction en diffusion et rehaussement précoce nodulaire sur la berge d'ablation, souvent au contact d'une structure neuro-vasculaire thermoprotégée).",
+        "protocol_fr": "Protocole IRM de suivi post-cryoablation : T1 sans injection (repérage de la nécrose hémorragique de coagulation), T2 Fat-Sat / STIR, Diffusion b800 avec cartographie ADC, et T1 Fat-Sat injecté avec soustraction dynamique • Comparaison systématique au contour initial de la boule de glace per-procédure.",
+        "key_points_fr": [
+            "Une fine prise de contraste périphérique circonférentielle et régulière dans les 3 à 6 premiers mois correspond à une réaction granulomateuse cicatricielle normale.",
+            "La nécrose centrale post-cryoablation présente souvent un hypersignal T1 spontané (remaniements hémorragiques) rendant indispensable la séquence de soustraction après gadolinium.",
+            "Le passage progressif en hyposignal T2 franc et l'absence de rehaussement signent la réponse complète durable.",
+            "La récidive vraie se traduit par un bourgeon nodulaire focal en hypersignal T2 et rehaussement intense, typiquement situé sur une marge ayant nécessité une hydrodissection protectrice."
+        ],
+        "tags": ["IRM post-cryoablation", "Tumeur desmoïde", "Sémiologie IRM", "Soustraction T1", "Récidive vs cicatrice"]
+    },
+    "41568883": {
+        "category_id": "ablation_benign",
+        "title_fr": "Nouveautés dans la prise en charge des tumeurs à cellules géantes de l'os (TCG) : place de la thermoablation percutanée des récidives locales",
+        "modality": "Scanner TDM + IRM",
+        "intervention_type": "Cryoablation & Radiofréquence sur Récidive de TCG",
+        "cochin_link": "Correspond directement au nouveau geste de l'Agenda Interventionnel Cochin : « cryothérapie percutanée sur récidive de TCG du genou ».",
+        "summary_fr_short": "Mise au point (*SICOT-J*, janv. 2026) synthétisant les avancées thérapeutiques dans les tumeurs à cellules géantes de l'os (TCG / GCTB) des membres, mettant en avant l'efficacité de l'ablation thermique percutanée (radiofréquence et cryoablation) pour traiter les récidives locales de petite taille sans reprise chirurgicale lourde.",
+        "summary_fr_detailed": "Alors que le curetage intra-lésionnel conservateur des tumeurs à cellules géantes de l'os (TCG) expose à un risque significatif de récidive locale épiphyso-métaphysaire (notamment autour du genou), cet article souligne les résultats favorables de la thermoablation percutanée guidée par scanner (radiofréquence ou cryoablation seule ou combinée à une cimentoplastie de comblement) pour éradiquer les récidives locales focales tout en préservant l'articulation native et le cartilage sous-chondral. L'article aborde également le suivi biologique par la phosphatase acide résistante au tartrate 5b (TRACP-5b) et les biomatériaux de comblement.",
+        "protocol_fr": "Dépistage précoce de la récidive locale de TCG sur le suivi TDM/IRM post-curetage • Ciblage TDM de la logette d'ostéolyse récidivante • Thermoablation percutanée (cryoablation ou radiofréquence) avec thermoprotection cartilagineuse (injection intra-articulaire de sérum/CO2 si < 5 mm de la lame sous-chondrale) +/- cimentoplastie PMMA de soutien sous-chondral.",
+        "key_points_fr": [
+            "Valide l'ablation thermique percutanée (cryoablation / RFA) comme alternative mini-invasive de choix pour les récidives locales focales de TCG après curetage.",
+            "Permet d'éviter un second curetage chirurgical itératif ou une résection prothétique tout en préservant la fonction articulaire du genou.",
+            "Intérêt de combiner la destruction thermique à un comblement cimenté (PMMA) lorsque la récidive fragilise la corticale ou l'os sous-chondral.",
+            "Nécessité d'une surveillance IRM/TDM rapprochée de l'interface os-ciment après traitement initial d'une TCG."
+        ],
+        "tags": ["Tumeur à cellules géantes", "TCG", "Récidive locale", "Genou", "Cryoablation", "Radiofréquence", "SICOT-J 2026"]
+    },
+    "41857607": {
+        "category_id": "cyst_sclerotherapy",
+        "title_fr": "Avancées dans la prise en charge mini-invasive et chirurgicale des kystes osseux anévrismaux (KOA) et des kystes osseux essentiels (KOE)",
+        "modality": "Scanner TDM / Fluoroscopie / Échographie",
+        "intervention_type": "Sclérothérapie Percutanée (Alcool / Polidocanol / Doxycycline) & Embolisation",
+        "cochin_link": "Directement lié aux séances d'« alcoolisation percutanée du kyste osseux anévrismal de l'humérus droit » et de « kyste essentiel de l'aile iliaque (+/- cimentoplastie) » programmées à Cochin.",
+        "summary_fr_short": "Revue de synthèse (*J Orthop Surg Res*, mars 2026) comparant l'efficacité, le taux de récidive et la sécurité des approches mini-invasives (sclérothérapie percutanée, embolisation artérielle sélective, ablation guidée par l'image) face au curetage chirurgical dans les KOA et KOE.",
+        "summary_fr_detailed": "Cette mise au point analyse l'évolution du paradigme thérapeutique des kystes osseux anévrismaux (KOA) et essentiels (KOE). Dans les KOA, les modalités mini-invasives — au premier rang desquelles la sclérothérapie percutanée répétée (éthanol absolu, polidocanol, mousse de doxycycline), l'embolisation artérielle sélective et la cryoablation/radiofréquence — obtiennent des taux élevés d'ossification corticale, de soulagement douloureux et de récupération fonctionnelle, avec une morbidité nettement inférieure au curetage chirurgical ou à la résection en bloc. Dans les KOE symptomatiques ou à risque fracturaire, l'injection percutanée sclérosante associée si besoin à une stabilisation ou un comblement permet une consolidation fiable.",
+        "protocol_fr": "Ponction-aspiration sous guidage TDM et contrôle fluoroscopique avec kystographie préalable (éliminer un drainage veineux rapide avant injection d'éthanol) • Sclérothérapie percutanée à l'alcool absolu (ou polidocanol/doxycycline) avec temps de contact contrôlé puis réaspiration/rinçage • Cimentoplastie ou embrochage associé si risque fracturaire mécanique élevé.",
+        "key_points_fr": [
+            "La sclérothérapie percutanée est désormais établie comme traitement de première intention de nombreux KOA et KOE grâce à son faible taux de complications.",
+            "Taux élevés de ré-ossification progressive et de contrôle douloureux sans les séquelles fonctionnelles du curetage ouvert.",
+            "Rôle complémentaire de la cryoablation et de l'embolisation sélective pour les KOA volumineux, axiaux ou récidivants.",
+            "Suivi TDM séquentiel à 3, 6 et 12 mois évaluant l'épaississement cortical et la trabéculation intrakystique (critères de Capanna)."
+        ],
+        "tags": ["Kyste osseux anévrismal", "Kyste osseux essentiel", "Sclérothérapie", "Alcoolisation", "Humérus", "J Orthop Surg Res 2026"]
+    },
+    "42129022": {
+        "category_id": "msk_biopsy",
+        "title_fr": "Évolution clinique, dédifférenciation et concordance IRM-histologie des tumeurs lipomateuses atypiques (ALT / liposarcomes bien différenciés)",
+        "modality": "IRM + Biopsie Percutanée Échoguidée / Scanoguidée (MDM2)",
+        "intervention_type": "Biopsie Percutanée de Masse Lipomateuse Profonde",
+        "cochin_link": "En lien direct avec les « biopsies percutanées de formation lipomateuse glutéale ou de masse de la cuisse sous échographie/scanner » réalisées à Cochin.",
+        "summary_fr_short": "Étude de cohorte (*Annals of Surgical Oncology*, mai 2026, 183 patients : 36 en surveillance active et 147 opérés) analysant le risque de dédifférenciation (8 % en surveillance, 20 % des récidives locales) et démontrant le caractère indispensable de la biopsie percutanée ciblée dès que l'IRM montre des signes atypiques.",
+        "summary_fr_detailed": "Les tumeurs lipomateuses atypiques (ALT / liposarcomes bien différenciés des membres et de la région glutéale, caractérisées par l'amplification de MDM2) posent le dilemme entre surveillance IRM et chirurgie d'exérèse. Sur 36 patients suivis en médiane 26 mois, 61 % ont présenté une progression dimensionnelle et 3 patients (8 %) ont développé une dédifférenciation sarcomateuse (dont 2 n'avaient eu qu'un diagnostic IRM initial sans biopsie préalable). Parmi les 147 patients opérés d'emblée, 10 % ont récidivé localement (dont 20 % sous forme de liposarcome dédifférencié). L'étude souligne que la confirmation histologique et moléculaire par biopsie percutanée ciblée sur les septas épais ou nodules non graisseux visibles en IRM est indispensable.",
+        "protocol_fr": "Analyse IRM préalable (T1, T2 Fat-Sat, T1 Gado : recherche de septas épais > 2 mm, nodules non adipeux rehaussés, localisation profonde sous-fasciale > 5 cm) • Biopsie percutanée au trocart 14G–16G sous échographie ou scanner sans franchir un compartiment sain, en ciblant électivement les septas épaissis ou tout contingent nodulaire non graisseux • Recherche systématique d'amplification MDM2 en FISH.",
+        "key_points_fr": [
+            "Toute masse lipomateuse profonde (> 5 cm, sous-fasciale, cuisse ou fesse) présentant des septas épais ou un nodule non graisseux en IRM impose une microbiopsie dirigée avec recherche d'amplification MDM2.",
+            "Le ciblage biopsique doit impérativement porter sur la zone non graisseuse ou septale la plus vascularisée pour ne pas méconnaître un contingent dédifférencié.",
+            "Risque de dédifférenciation de 8 % sous surveillance active (médiane 26 mois) et de 2 % au total après chirurgie initiale.",
+            "Sécurise la décision en RCP Sarcome entre surveillance IRM active et exérèse chirurgicale."
+        ],
+        "tags": ["Tumeur lipomateuse atypique", "Liposarcome bien différencié", "MDM2", "Biopsie parties molles", "IRM", "Ann Surg Oncol 2026"]
     }
 }
 
@@ -1004,7 +1089,7 @@ def is_real_pdf(pdf_path: Path) -> bool:
         return False
     try:
         b = pdf_path.read_bytes()
-        return len(b) > 50_000 and b.startswith(b"%PDF") and b"ReportLab" not in b
+        return len(b) > 50_000 and b.startswith(b"%PDF") and b"ReportLab PDF Library" not in b[:4096]
     except Exception:
         return False
 
@@ -1023,7 +1108,7 @@ def try_download_real_pdf(pmid: str, doi: str, pdf_path: Path) -> bool:
         return False
 
     candidates = []
-    if doi.startswith("10.1007/") or doi.startswith("10.1186/"):
+    if doi.startswith("10.1007/") or doi.startswith("10.1186/") or doi.startswith("10.1245/"):
         candidates.append(f"https://link.springer.com/content/pdf/{doi}.pdf")
     if doi.startswith("10.1038/"):
         suffix = doi.split("/", 1)[1]
@@ -1118,10 +1203,12 @@ JOURNAL_IMPACT_FACTORS = {
     "cardiovascular and interventional radiology": (2.8, "CVIR"),
     "journal of vascular and interventional radiology": (2.6, "JVIR"),
     "diagnostic and interventional imaging": (3.9, "Diagn Interv Imaging"),
+    "diagnostic and interventional radiology": (1.9, "Diagn Interv Radiol"),
     "current oncology reports": (4.7, "Curr Oncol Rep"),
     "current oncology": (2.8, "Curr Oncol"),
     "clinical orthopaedics and related research": (4.2, "Clin Orthop Relat Res"),
     "scientific reports": (3.8, "Sci Rep"),
+    "annals of surgical oncology": (3.4, "Ann Surg Oncol"),
     "journal of bone oncology": (3.4, "J Bone Oncol"),
     "international journal of hyperthermia": (3.1, "Int J Hyperthermia"),
     "diagnostics": (3.0, "Diagnostics"),
@@ -1135,6 +1222,7 @@ JOURNAL_IMPACT_FACTORS = {
     "pediatric radiology": (2.1, "Pediatr Radiol"),
     "brain & spine": (1.9, "Brain Spine"),
     "american journal of hospice & palliative care": (1.9, "Am J Hosp Palliat Care"),
+    "sicot-j": (1.8, "SICOT-J"),
     "seminars in musculoskeletal radiology": (1.8, "Semin Musculoskelet Radiol"),
     "journal of medical imaging and radiation oncology": (1.8, "J Med Imaging Radiat Oncol"),
     "acta radiologica": (1.5, "Acta Radiol"),
