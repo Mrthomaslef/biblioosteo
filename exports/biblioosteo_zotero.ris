@@ -1,4 +1,54 @@
 TY  - JOUR
+TI  - Quantitative imaging-pathology correlation in nodular fasciitis and diagnostic discrimination from sarcoma
+AU  - Yuan J
+AU  - Fang S
+AU  - Shan D
+AU  - An G
+AU  - Zhang R
+AU  - Chen X
+JO  - Insights into imaging
+PY  - 2026
+VL  - 17
+IS  - 1
+DO  - 10.1186/s13244-026-02424-z
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective sur 261 patients (*Insights into Imaging*, nov. 2026 : 128 fasciites nodulaires et 133 sarcomes des tissus mous en IRM 3T) démontrant que l'ADC moyen et le signe de la queue fasciale combinés aux biomarqueurs histopathologiques distinguent fasciite nodulaire et sarcome avec une AUC de 0,96. | Points clés : Un ADC moyen significativement plus élevé associé au « fascial tail sign » oriente fortement vers une fasciite nodulaire face à un sarcome des parties molles. ; L'ADC moyen corrèle inversement avec la cellularité tumorale (ρ = -0,63) et l'hétérogénéité T2 reflète la composante myxoïde (ρ = 0,52). ; La combinaison IRM 3T + histologie quantitative porte la performance diagnostique à une AUC de 0,96 (IC 95 % : 0,938–0,978). ; Évite les exérèses délabrantes inutiles en sécurisant la concordance radio-histologique lors des biopsies de masses superficielles ou sous-fasciales. | Pratique Cochin : En lien direct avec les bilans IRM et « biopsies percutanées de masses des parties molles (diagnostic différentiel fasciite nodulaire vs sarcome) » en RCP Sarcome à Cochin. || [ABSTRACT ORIGINAL - EN] OBJECTIVES: To investigate associations between key magnetic resonance imaging features of nodular fasciitis (NF) and quantitative histopathologic biomarkers, and to evaluate whether their integration provides complementary information for differentiating NF from soft tissue sarcoma (STS) in diagnostically equivocal settings. MATERIALS AND METHODS: This retrospective study included 128 patients with NF and 133 with STS who underwent preoperative 3-T MRI between May 2023 and June 2025. Two blinded musculoskeletal radiologists independently evaluated predefined imaging features, including fascial tail sign, T2 heterogeneity score, enhancement pattern, perilesional edema, and mean/minimum apparent diffusion coefficient (ADC). Histopathology quantified cellular density, collagen content, and myxoid degeneration. Imaging-pathology correlations were assessed using Spearman analysis and multivariable regression. Diagnostic performance of MRI-only, pathology-only, and combined models was evaluated using logistic regression, receiver operating characteristic (ROC), area under the curve (AUC) analysis, calibration, decision curve analysis, and bootstrap validation. RESULTS: T2 heterogeneity correlated positively with myxoid degeneration (ρ = 0.52) and negatively with collagen content (ρ = -0.28) (p < 0.001). Mean ADC correlated inversely with cellular density (ρ = -0.63, p < 0.001). Mean ADC was significantly higher in NF than STS (p < 0.001). The combined model outperformed MRI alone (AUC, 0.96 vs 0.89) and demonstrated greater net clinical benefit. Bootstrap validation confirmed stable performance (mean AUC, 0.960; 95% confidence interval, 0.938-0.978). CONCLUSION: Imaging features of NF were associated with underlying stromal and cellular substrates. Integrating imaging features with quantitative pathology biomarkers may support radiology-pathology concordance assessment in selected diagnostically equivocal cases. KEY POINTS: Question How can we improve radiology-pathology concordance and reduce interpretative variability for NF cases presenting with suspicious, diagnostically equivocal magnetic resonance imaging findings? Findings T2 heterogeneity and diffusion measurements are associated with stromal composition and cellularity, while predefined MRI features demonstrated substantial-to-excellent inter-reader agreement. Critical relevance statement Embedding explicit AHA criteria in the prompt let an 8B model approach 671B-model agreement (38.91-81.52%), supporting standardized text-based workflows without fine-tuning.
+N1  - PMID: 42970180 | PMCID: PMC13728007 | Catégorie: Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Geste
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42970180.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42970180/
+KW  - Fasciite nodulaire
+KW  - Sarcome des tissus mous
+KW  - IRM 3T
+KW  - Diffusion ADC
+KW  - Concordance radio-histologique
+KW  - Insights Imaging 2026
+ER  - 
+
+TY  - JOUR
+TI  - Short-term clinical and imaging outcomes after ultrasound-guided cooled radiofrequency ablation for advanced knee osteoarthritis: a retrospective cohort study
+AU  - Takemoto N
+AU  - Takata Y
+AU  - Nishimura M
+AU  - Fujita K
+AU  - Saito M
+AU  - Shimbo T
+AU  - Demura S
+AU  - Nakase J
+JO  - Pain management
+PY  - 2026
+SP  - 1-10
+DO  - 10.1080/17581869.2026.2758351
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte (*Pain Management*, nov. 2026, 31 patients / 35 genoux, 91 % de gonarthrose sévère Kellgren-Lawrence 3–4) démontrant une baisse significative des douleurs (marche, repos, nuit) et une diminution de la synovite en IRM (Hoffa-synovitis / effusion-synovitis) sans aggravation des lésions osseuses sous-chondrales (BML) ni de l'arthrose à 3 mois. | Points clés : Efficacité antalgique rapide dans les gonarthroses sévères KL 3–4 non opérables ou en attente de PTG (-24 points d'EVA à la marche, p < 0,05). ; Sécurité articulaire démontrée en IRM : aucune aggravation des œdèmes osseux sous-chondraux (BML), de l'interligne (KL) ni de l'alignement mécanique. ; Réduction concomitante des scores IRM de synovite de Hoffa et d'épanchement articulaire grâce à la reprise de la mobilité. ; Aucune complication grave observée sous guidage échographique strict. | Pratique Cochin : Directement lié aux séances de « test anesthésique sous écho + radiofréquence des nerfs géniculés pour gonarthrose » programmées à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] OBJECTIVE: To evaluate short-term clinical and imaging outcomes after ultrasound-guided cooled radiofrequency ablation (CRFA) in patients predominantly with advanced knee osteoarthritis (KOA). METHODS: This retrospective cohort analysis included prospectively recorded data from 31 patients (35 knees; age, 73.6 ± 8.8 years; Kellgren-Lawrence [KL] grade 3 or 4 in 91%). Outcomes at baseline and 3 months included visual analog scale (VAS) pain, Knee Injury and Osteoarthritis Outcome Score (KOOS), KL grade, mechanical axis percentage, and MRI Osteoarthritis Knee Score assessments of bone marrow lesions (BMLs), Hoffa-synovitis, and effusion-synovitis. Sensitivity analysis retained the first-treated knee in bilateral cases. RESULTS: VAS changes were -9.3 for rest pain, -24.0 for walking pain, and -15.0 for night pain (all p < 0.05). Walking VAS decreased by at least 30% in 65.7% and by at least 50% in 42.9% of knees. Four KOOS subscales improved, including KOOS Pain by 12.8 points (p < 0.001). No significant group-level changes were observed in KL grade, alignment, or BML scores. Hoffa-synovitis and effusion-synovitis scores decreased. No serious procedure-related adverse events were documented. CONCLUSION: CRFA was associated with improved pain and function at 3 months without group-level worsening in KL grade, alignment, or BML scores. Longer-term controlled studies are required.
+N1  - PMID: 42977533 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
+UR  - https://pubmed.ncbi.nlm.nih.gov/42977533/
+KW  - Nerfs géniculés
+KW  - Radiofréquence refroidie
+KW  - Gonarthrose
+KW  - IRM MOAKS
+KW  - Échoguidage
+KW  - Pain Manag 2026
+ER  - 
+
+TY  - JOUR
 TI  - Intraarticular acetabular osteoid osteoma treated with CT-guided radiofrequency ablation after unsuccessful arthroscopy: a case report and literature review
 AU  - Nitta K
 AU  - Saito M
@@ -49,6 +99,30 @@ KW  - Recommandations 2026
 ER  - 
 
 TY  - JOUR
+TI  - Intraoperative Neurophysiological Monitoring During Continuous Radiofrequency Treatment of Morton's Neuroma: Complete Ablation
+AU  - Camuñas-Nieves G
+AU  - Fernández-Gibello A
+AU  - Martínez-Pérez F
+AU  - Montes-Salas R
+AU  - Galluccio F
+AU  - Martínez-Nova A
+JO  - Medicina (Kaunas, Lithuania)
+PY  - 2026
+VL  - 62
+IS  - 10
+DO  - 10.3390/medicina62102025
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Série prospective de 22 patients / 30 névromes de Morton (*Medicina*, oct. 2026) traités par radiofréquence continue échoguidée sous monitorage en temps réel des potentiels d'action nerveux sensitifs (SNAP), obtenant 86,7 % de succès global (96,3 % hors métatarsalgie mécanique) et 100 % de succès en rattrapage après échec d'une RF antérieure. | Points clés : Diminution majeure de l'EVA douleur de 8,67 en pré-procédure à 1,67 à 12 mois (taux de succès ajusté de 96,3 %). ; 100 % de succès clinique (7/7) chez les patients en récidive ou échec d'une première radiofréquence conventionnelle. ; Le test anesthésique diagnostique préalable est déterminant pour écarter une métatarsalgie mécanique statique associée. ; Valide l'intérêt du contrôle électrophysiologique et d'un ciblage nerveux proximal précis dans les névromes de Morton rebelles traités à Cochin. | Pratique Cochin : Complète directement les « neurolyses percutanées de névrome de Morton rebelle des 2e et 3e espaces interdigitaux (cryothérapie / radiofréquence) » de l'Agenda Cochin. || [ABSTRACT ORIGINAL - EN] Background and Objectives: Morton's neuroma is a compressive neuropathy of the common plantar digital nerve that most frequently affects the third intermetatarsal space. Continuous radiofrequency (RF) ablation has reported success rates of approximately 80-85%; however, recent histological evidence suggests that RF does not consistently achieve complete neural ablation. This study aimed to evaluate the effectiveness of intraoperative neurophysiological monitoring of sensory nerve action potentials (SNAPs) to optimize the outcomes of continuous RF ablation in the treatment of Morton's neuroma. Materials and Methods: This prospective case series included 22 patients (30 neuromas) treated with ultrasound-guided continuous RF ablation combined with intraoperative neurophysiological monitoring. SNAPs were recorded before, during, and after each RF application until complete abolition of sensory nerve conduction was confirmed. Clinical outcomes were assessed using the Visual Analog Scale (VAS), the Foot Function Index (FFI), and the Giannini Interdigital Neuroma Clinical Evaluation Score at 3, 6, and 12 months postoperatively. Results: At the 12-month follow-up, satisfactory outcomes (Giannini score ≥60) were achieved in 86.7% of neuromas (26/30). The mean VAS pain score decreased from 8.67 preoperatively to 1.67 at 12 months. Among the seven neuromas with previous unsuccessful RF treatment, all achieved satisfactory outcomes following the monitored procedure. The four cases with poor outcomes were predominantly associated with a positive anesthetic suppression test, suggesting concomitant mechanical metatarsalgia rather than treatment failure. After excluding cases with likely diagnostic misclassification, the adjusted success rate increased to 96.3%. Conclusions: Intraoperative neurophysiological monitoring enables real-time confirmation of complete sensory nerve ablation during continuous RF treatment. Its main potential value appears to lie in patients with previous unsuccessful conventional RF, all of whom achieved satisfactory outcomes in this series. Persistent postoperative symptoms appeared to be more closely related to concomitant forefoot pathology than to technical limitations of the RF procedure.
+N1  - PMID: 42942556 | PMCID: PMC13706722 | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
+UR  - https://pubmed.ncbi.nlm.nih.gov/42942556/
+KW  - Névrome de Morton
+KW  - Radiofréquence
+KW  - Neurolyse percutanée
+KW  - Monitorage neurophysiologique
+KW  - Échoguidage
+KW  - Medicina 2026
+ER  - 
+
+TY  - JOUR
 TI  - Complications of vertebral augmentation in metastatic spinal fractures: a systematic review of multiple study designs
 AU  - Correia MC
 AU  - Vieira AM
@@ -69,6 +143,32 @@ KW  - Métastases rachidiennes
 KW  - Sécurité
 KW  - Fuite de ciment
 KW  - J Bone Oncol 2026
+ER  - 
+
+TY  - JOUR
+TI  - Cryoablation for Extra-Abdominal Desmoid Tumors: a Retrospective Study of Clinical and Radiological Outcomes
+AU  - Arseneault-Monette E
+AU  - Luo T
+AU  - Mack L
+AU  - Walker R
+AU  - Taqi K
+AU  - Bouchard-Fortier A
+AU  - Przybojewski S
+JO  - Journal of vascular and interventional radiology : JVIR
+PY  - 2026
+VL  - 37
+IS  - 12
+SP  - 109083
+DO  - 10.1016/j.jvir.2026.109083
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte sur 92 séances de cryoablation chez 44 patients (*JVIR*, sept. 2026, taille médiane 6,9 cm, suivi médian 28,9 mois) rapportant 81,1 % de succès clinique, 78,4 % de réponse objective (24,3 % RC, 54,1 % RP), une concordance quasi parfaite entre volumétrie 3D et mRECIST (κ = 0,895), et seulement 5,3 % de complications majeures. | Points clés : Taux de succès clinique de 81,1 % et contrôle de la maladie (RC + RP + stabilité) de 94,6 % sur des desmoïdes volumineuses (médiane 6,9 cm). ; Concordance quasi parfaite (κ = 0,895) entre les critères mRECIST et la volumétrie 3D sur l'IRM de suivi post-cryoablation. ; Possibilité de retraitement itératif par cryoablation (26,3 % des patients) en cas de reliquat ou récidive focale, évitant les chimiothérapies au long cours. ; Profil de sécurité très favorable avec seulement 5,3 % d'événements indésirables de grade SIR ≥ 3. | Pratique Cochin : Au cœur de l'activité de « cryothérapie percutanée de tumeur desmoïde (creux sus-claviculaire, flanc, paroi, membres) » du Service de Radiologie B à Cochin. || [ABSTRACT ORIGINAL - EN] PURPOSE: To determine whether image-guided cryoablation achieves durable clinical and radiologic response with an acceptable safety profile in patients with extra-abdominal desmoid tumors and whether volumetric response assessment concords with modified Response Evaluation Criteria in Solid Tumors-based classification MATERIALS AND METHODS: Patients treated between 2020 and 2024 were identified through electronic record. Those who underwent cryoablation were included for analysis. The primary outcome was clinical success, defined as a composite of no disease progression at last follow-up, no additional treatment, and symptom improvement. The secondary outcomes included radiologic response, symptom improvement, progression-free survival, and safety. Among 208 patients diagnosed with desmoid tumors, 44 (20.7%) underwent cryoablation, of whom 38 had follow-up data available; 92 cryoablation sessions were performed. Median tumor size was 6.9 cm (interquartile range, 5.5-9.2 cm), and median follow-up duration was 28.9 months (interquartile range, 14.3-37.3 months). RESULTS: The clinical success rate was 81.1%. Radiologic response at last follow-up was complete in 24.3%, partial in 54.1%, stable in 16.2%, and progressive in 5.4% of patients. Volumetric and modified Response Evaluation Criteria in Solid Tumors-based response classification showed almost-perfect agreement (κ = 0.895). Repeat cryoablation was performed in 26.3% of patients due to radiologic progression. Additional treatment modalities were required in 13.2% of cases. The 1- and 2-year progression-free survival rates were 76.5% (95% confidence interval, 58.2%-87.6%) and 67.4% (95% confidence interval, 46.5%-81.7%), respectively. Major adverse events (Society of Interventional Radiology grade, ≥Grade 3) occurred in 5.3% of patients. CONCLUSIONS: Cryoablation is a safe and effective treatment option for selected patients with extra-abdominal desmoid tumors, achieving clinical success in the majority of patients. These findings support its role in the multidisciplinary management of desmoid tumors.
+N1  - PMID: 42731622 | PMCID:  | Catégorie: Cryoablation des Tumeurs Desmoïdes & Parties Molles
+UR  - https://pubmed.ncbi.nlm.nih.gov/42731622/
+KW  - Tumeur desmoïde
+KW  - Cryoablation
+KW  - mRECIST
+KW  - Volumétrie IRM
+KW  - Parties molles
+KW  - JVIR 2026
 ER  - 
 
 TY  - JOUR
@@ -283,6 +383,29 @@ KW  - Côtes
 KW  - Scapula
 KW  - Clavicule
 KW  - Métastases osseuses
+ER  - 
+
+TY  - JOUR
+TI  - Minimally Invasive Treatment of Aneurysmal Bone Cysts Utilizing a Modified Sclerograft Technique
+AU  - Rajeswaran S
+AU  - Balu A
+AU  - Baker J
+AU  - Ness J
+AU  - Variyam D
+AU  - Attar S
+AU  - Peabody T
+JO  - Cardiovascular and interventional radiology
+PY  - 2026
+DO  - 10.1007/s00270-026-04531-2
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude clinique du *CardioVascular and Interventional Radiology* (*CVIR*, juil. 2026, 27 patients, suivi médian 1,88 an) évaluant le protocole « Modified Sclerograft » (disruption mécanique des cloisons + sclérothérapie à la doxycycline ± cryoablation adjuvante + injection de substitut osseux régénératif), permettant une guérison en une seule séance chez 74,1 % des patients. | Points clés : Réduit drastiquement le nombre de séances d'anesthésie générale : médiane de 1 seule procédure (74,1 % de succès définitif après une unique séance). ; L'association disruption mécanique + sclérosant + substitut osseux ostéoconducteur accélère le remodelage cortical (Neer modifié grades 1–2). ; Possibilité d'associer une cryoablation percutanée ciblée sur les composantes charnues des KOA volumineux ou récidivants. ; Alternative mini-invasive très pertinente aux séances multiples d'alcoolisation ou au curetage chirurgical. | Pratique Cochin : Complète directement les procédures d'« alcoolisation / sclérothérapie et comblement percutané de kyste osseux anévrismal (KOA) ou essentiel (KOE) » de l'Agenda Cochin. || [ABSTRACT ORIGINAL - EN] PURPOSE: Aneurysmal bone cysts (ABCs) are locally aggressive expansile bone tumors that typically present near the metaphysis and are commonly encountered in the pediatric population. This study presents the results of a single staged procedure, which is a modification of the Sclerograft procedure (chemical sclerotherapy combined with regenerative bone grafting) used to treat unicameral bone cysts (UBCs), as an alternative treatment paradigm. MATERIALS AND METHODS: This retrospective, single-institution study included patients with MRI-confirmed primary aneurysmal bone cysts of the appendicular skeleton treated between 2020 and 2025. Eligible patients underwent mechanical disruption with doxycycline sclerotherapy (± cryoablation) and regenerative bone grafting. Demographics, lesion characteristics, prior treatments, imaging, and clinical outcomes were analyzed. RESULTS: The final cohort included 27 patients (15 females, 12 males) with a mean age of 10.6 years. The primary outcome was the reintervention rate. Patients underwent a median of 1 procedure (range 1-3; mean 1.33) over a median follow-up of 1.88 years (range 0.5-5.8 years). 7 of 27 (25.9%) required at least one additional procedure due to radiographic (Modified Neer Grade 3-4) and symptomatic recurrence. Median time to retreatment was 12.2 months (IQR 6.8-19.4). Radiographs were the primary follow-up imaging modality (92.6%). CONCLUSION: The modified Sclerograft technique is a feasible, single-session treatment option for primary aneurysmal bone cysts with promising results that warrant further study as a possible alternative to the historical paradigm of serial sclerotherapy. Utilizing regenerative bone graft facilitates bone formation and permits the majority of follow-up to be performed with plain radiographs.
+N1  - PMID: 42477120 | PMCID:  | Catégorie: Alcoolisation & Sclérothérapie des Kystes Osseux
+UR  - https://pubmed.ncbi.nlm.nih.gov/42477120/
+KW  - Kyste osseux anévrismal
+KW  - Sclérothérapie
+KW  - Doxycycline
+KW  - Substitut osseux
+KW  - Cryoablation
+KW  - CVIR 2026
 ER  - 
 
 TY  - JOUR

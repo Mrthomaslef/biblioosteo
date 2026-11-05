@@ -1079,6 +1079,91 @@ CURATED_DATA = {
             "Sécurise la décision en RCP Sarcome entre surveillance IRM active et exérèse chirurgicale."
         ],
         "tags": ["Tumeur lipomateuse atypique", "Liposarcome bien différencié", "MDM2", "Biopsie parties molles", "IRM", "Ann Surg Oncol 2026"]
+    },
+    "42970180": {
+        "category_id": "msk_imaging",
+        "title_fr": "Corrélation imagerie-anatomopathologie quantitative dans la fasciite nodulaire et discrimination diagnostique face aux sarcomes des tissus mous (IRM 3T)",
+        "modality": "IRM 3T Multiparamétrique (Diffusion ADC + Séquences Anatomiques)",
+        "intervention_type": "Caractérisation IRM & Concordance Radio-Histologique Pré-Biopsique",
+        "cochin_link": "En lien direct avec les bilans IRM et « biopsies percutanées de masses des parties molles (diagnostic différentiel fasciite nodulaire vs sarcome) » en RCP Sarcome à Cochin.",
+        "summary_fr_short": "Étude rétrospective sur 261 patients (*Insights into Imaging*, nov. 2026 : 128 fasciites nodulaires et 133 sarcomes des tissus mous en IRM 3T) démontrant que l'ADC moyen et le signe de la queue fasciale combinés aux biomarqueurs histopathologiques distinguent fasciite nodulaire et sarcome avec une AUC de 0,96.",
+        "summary_fr_detailed": "La fasciite nodulaire (FN) est une prolifération myofibroblastique bénigne à croissance rapide simulant fréquemment un sarcome des tissus mous (STS) en IRM et en microbiopsie. Sur 128 FN et 133 STS explorés en IRM 3T préopératoire, l'hétérogénéité T2 corrèle positivement avec la dégénérescence myxoïde (ρ = 0,52, p < 0,001) et négativement avec la teneur en collagène (ρ = -0,28), tandis que l'ADC moyen corrèle inversement avec la densité cellulaire (ρ = -0,63, p < 0,001) et s'avère significativement plus élevé dans la FN que dans les sarcomes (p < 0,001). Le modèle intégrant sémiologie IRM (signe de la queue fasciale, ADC moyen/minimum, œdème périlésionnel) et biomarqueurs histologiques atteint une AUC de 0,96 (contre 0,89 pour l'IRM seule), sécurisant l'évaluation de concordance radio-pathologique après microbiopsie.",
+        "protocol_fr": "IRM 3T pré-biopsique incluant séquences T1, T2 Fat-Sat (évaluation du fascial tail sign, du score d'hétérogénéité T2 et de l'œdème périlésionnel), diffusion DWI avec cartographie ADC (mesure de l'ADC moyen et minimal hors nécrose) et T1 Gadolinium • Confrontation systématique de l'ADC et de l'architecture stromale avec le résultat de la microbiopsie percutanée (recherche de réarrangement USP6).",
+        "key_points_fr": [
+            "Un ADC moyen significativement plus élevé associé au « fascial tail sign » oriente fortement vers une fasciite nodulaire face à un sarcome des parties molles.",
+            "L'ADC moyen corrèle inversement avec la cellularité tumorale (ρ = -0,63) et l'hétérogénéité T2 reflète la composante myxoïde (ρ = 0,52).",
+            "La combinaison IRM 3T + histologie quantitative porte la performance diagnostique à une AUC de 0,96 (IC 95 % : 0,938–0,978).",
+            "Évite les exérèses délabrantes inutiles en sécurisant la concordance radio-histologique lors des biopsies de masses superficielles ou sous-fasciales."
+        ],
+        "tags": ["Fasciite nodulaire", "Sarcome des tissus mous", "IRM 3T", "Diffusion ADC", "Concordance radio-histologique", "Insights Imaging 2026"]
+    },
+    "42942556": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Monitorage neurophysiologique per-procédure lors de l'ablation par radiofréquence continue du névrome de Morton : confirmation d'ablation complète",
+        "modality": "Échographie + Stimulation / Monitorage Neurophysiologique (SNAP)",
+        "intervention_type": "Neurolyse par Radiofréquence Continue du Névrome de Morton",
+        "cochin_link": "Complète directement les « neurolyses percutanées de névrome de Morton rebelle des 2e et 3e espaces interdigitaux (cryothérapie / radiofréquence) » de l'Agenda Cochin.",
+        "summary_fr_short": "Série prospective de 22 patients / 30 névromes de Morton (*Medicina*, oct. 2026) traités par radiofréquence continue échoguidée sous monitorage en temps réel des potentiels d'action nerveux sensitifs (SNAP), obtenant 86,7 % de succès global (96,3 % hors métatarsalgie mécanique) et 100 % de succès en rattrapage après échec d'une RF antérieure.",
+        "summary_fr_detailed": "Bien que la radiofréquence (RF) et la cryoneurolyse percutanées du névrome de Morton affichent 80 à 85 % de succès clinique, les échecs résultent soit d'une destruction neuronale incomplète, soit d'une métatarsalgie mécanique intriquée. Cette étude prospective a enregistré les potentiels d'action nerveux sensitifs (SNAP) avant, pendant et après chaque cycle de RF continue échoguidée jusqu'à abolition complète de la conduction sensitive sur 30 névromes. À 12 mois, l'EVA douleur chute de 8,67 à 1,67 avec 86,7 % de résultats satisfaisants (score de Giannini ≥ 60), et 96,3 % après exclusion des métatarsalgies mécaniques. Fait majeur : les 7 névromes en échec d'une première RF conventionnelle ont tous répondu favorablement (7/7) grâce au monitorage per-opératoire confirmant l'ablation neuronale complète.",
+        "protocol_fr": "Repérage échographique longitudinal et transversal de l'espace intermétatarsien (2e ou 3e espace) • Positionnement de la sonde à l'extrémité proximale du névrome • Enregistrement des potentiels sensitifs (SNAP) du nerf digital plantaire commun et cycles de thermo-ablation RF continue jusqu'à disparition complète du signal de conduction • Test préalable de suppression anesthésique pour éliminer une métatarsalgie mécanique pure.",
+        "key_points_fr": [
+            "Diminution majeure de l'EVA douleur de 8,67 en pré-procédure à 1,67 à 12 mois (taux de succès ajusté de 96,3 %).",
+            "100 % de succès clinique (7/7) chez les patients en récidive ou échec d'une première radiofréquence conventionnelle.",
+            "Le test anesthésique diagnostique préalable est déterminant pour écarter une métatarsalgie mécanique statique associée.",
+            "Valide l'intérêt du contrôle électrophysiologique et d'un ciblage nerveux proximal précis dans les névromes de Morton rebelles traités à Cochin."
+        ],
+        "tags": ["Névrome de Morton", "Radiofréquence", "Neurolyse percutanée", "Monitorage neurophysiologique", "Échoguidage", "Medicina 2026"]
+    },
+    "42977533": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Résultats cliniques et IRM (MOAKS) après ablation par radiofréquence refroidie (CRFA) échoguidée des nerfs géniculés dans la gonarthrose sévère",
+        "modality": "Échographie + Contrôle IRM (Score MOAKS)",
+        "intervention_type": "Radiofréquence Refroidie (Cooled RF) des Nerfs Géniculés",
+        "cochin_link": "Directement lié aux séances de « test anesthésique sous écho + radiofréquence des nerfs géniculés pour gonarthrose » programmées à l'Hôpital Cochin.",
+        "summary_fr_short": "Étude de cohorte (*Pain Management*, nov. 2026, 31 patients / 35 genoux, 91 % de gonarthrose sévère Kellgren-Lawrence 3–4) démontrant une baisse significative des douleurs (marche, repos, nuit) et une diminution de la synovite en IRM (Hoffa-synovitis / effusion-synovitis) sans aggravation des lésions osseuses sous-chondrales (BML) ni de l'arthrose à 3 mois.",
+        "summary_fr_detailed": "Une préoccupation classique concernant la dénervation par radiofréquence refroidie (CRFA) des nerfs géniculés dans la gonarthrose sévère (KL 3–4) est le risque théorique d'arthropathie destructrice rapide ou d'aggravation des lésions médullaires osseuses sous-chondrales (BML) par perte du rétrocontrôle douloureux. Cette étude évalue 35 genoux (âge moyen 73,6 ans, 91 % KL 3–4) par scores cliniques (EVA, KOOS) et IRM quantitative (score MOAKS) avant et 3 mois après CRFA échoguidée. L'EVA à la marche diminue de 24 points (réduction ≥ 30 % chez 65,7 % et ≥ 50 % chez 42,9 % des genoux) et le score KOOS Douleur progresse de +12,8 points (p < 0,001). Surtout, l'IRM de contrôle démontre l'absence totale d'aggravation des BML, du grade KL ou de l'axe mécanique, et objective même une réduction des scores de synovite de Hoffa et d'épanchement-synovite.",
+        "protocol_fr": "Repérage échographique des artères et nerfs géniculés supéro-médial (SMGN), supéro-latéral (SLGN) et inféro-médial (IMGN) au contact des corticales fémorales et tibiale • Test de stimulation sensitive et motrice de sécurité • Ablation par radiofréquence refroidie (Cooled RF, 60°C intra-électrode / ~80°C tissulaire pendant 150 s par cible) • Évaluation clinique (EVA, KOOS) et IRM (MOAKS : BML, synovite de Hoffa, épanchement).",
+        "key_points_fr": [
+            "Efficacité antalgique rapide dans les gonarthroses sévères KL 3–4 non opérables ou en attente de PTG (-24 points d'EVA à la marche, p < 0,05).",
+            "Sécurité articulaire démontrée en IRM : aucune aggravation des œdèmes osseux sous-chondraux (BML), de l'interligne (KL) ni de l'alignement mécanique.",
+            "Réduction concomitante des scores IRM de synovite de Hoffa et d'épanchement articulaire grâce à la reprise de la mobilité.",
+            "Aucune complication grave observée sous guidage échographique strict."
+        ],
+        "tags": ["Nerfs géniculés", "Radiofréquence refroidie", "Gonarthrose", "IRM MOAKS", "Échoguidage", "Pain Manag 2026"]
+    },
+    "42731622": {
+        "category_id": "desmoid_soft_tissue",
+        "title_fr": "Cryoablation percutanée des tumeurs desmoïdes extra-abdominales : résultats cliniques, survie sans progression et concordance volumétrique / mRECIST",
+        "modality": "Scanner / IRM Interventionnelle",
+        "intervention_type": "Cryoablation Percutanée de Tumeurs Desmoïdes Extra-Abdominales",
+        "cochin_link": "Au cœur de l'activité de « cryothérapie percutanée de tumeur desmoïde (creux sus-claviculaire, flanc, paroi, membres) » du Service de Radiologie B à Cochin.",
+        "summary_fr_short": "Étude de cohorte sur 92 séances de cryoablation chez 44 patients (*JVIR*, sept. 2026, taille médiane 6,9 cm, suivi médian 28,9 mois) rapportant 81,1 % de succès clinique, 78,4 % de réponse objective (24,3 % RC, 54,1 % RP), une concordance quasi parfaite entre volumétrie 3D et mRECIST (κ = 0,895), et seulement 5,3 % de complications majeures.",
+        "summary_fr_detailed": "Sur une cohorte institutionnelle de 208 tumeurs desmoïdes extra-abdominales prises en charge entre 2020 et 2024, 44 patients (20,7 %) ont bénéficié de 92 procédures de cryoablation percutanée guidée par l'image pour des lésions volumineuses (taille médiane 6,9 cm, IQR 5,5–9,2 cm). Après un suivi médian de 28,9 mois, le taux de succès clinique composite (absence de progression, amélioration symptomatique et absence de traitement systémique/chirurgical) atteint 81,1 %. En imagerie, on observe 24,3 % de réponses complètes, 54,1 % de réponses partielles, 16,2 % de stabilisations et seulement 5,4 % de progressions. L'évaluation volumétrique 3D du tissu viable montre un accord quasi parfait avec la classification mRECIST (κ = 0,895). Les taux de survie sans progression à 1 an et 2 ans sont de 76,5 % et 67,4 %, avec une seconde séance de cryoablation efficace dans 26,3 % des cas.",
+        "protocol_fr": "Planification IRM T1 Gado et T2 pour cartographier le volume charnu viable et les rapports vasculo-nerveux • Insertion multi-cryosondes sous guidage TDM/IRM avec marges de sécurité • Double cycle de congélation-décongélation sous contrôle continu de la boule de glace et neuroprotection/hydrodissection • Suivi IRM par critères mRECIST et volumétrie 3D du résidu rehaussé.",
+        "key_points_fr": [
+            "Taux de succès clinique de 81,1 % et contrôle de la maladie (RC + RP + stabilité) de 94,6 % sur des desmoïdes volumineuses (médiane 6,9 cm).",
+            "Concordance quasi parfaite (κ = 0,895) entre les critères mRECIST et la volumétrie 3D sur l'IRM de suivi post-cryoablation.",
+            "Possibilité de retraitement itératif par cryoablation (26,3 % des patients) en cas de reliquat ou récidive focale, évitant les chimiothérapies au long cours.",
+            "Profil de sécurité très favorable avec seulement 5,3 % d'événements indésirables de grade SIR ≥ 3."
+        ],
+        "tags": ["Tumeur desmoïde", "Cryoablation", "mRECIST", "Volumétrie IRM", "Parties molles", "JVIR 2026"]
+    },
+    "42477120": {
+        "category_id": "cyst_sclerotherapy",
+        "title_fr": "Traitement mini-invasif des kystes osseux anévrismaux (KOA) par technique Sclerograft modifiée en une séance (sclérothérapie doxycycline ± cryoablation + greffe régénérative)",
+        "modality": "Fluoroscopie + Scanner Interventionnel",
+        "intervention_type": "Sclérothérapie Doxycycline + Greffe Osseuse Percutanée (Sclerograft) ± Cryoablation",
+        "cochin_link": "Complète directement les procédures d'« alcoolisation / sclérothérapie et comblement percutané de kyste osseux anévrismal (KOA) ou essentiel (KOE) » de l'Agenda Cochin.",
+        "summary_fr_short": "Étude clinique du *CardioVascular and Interventional Radiology* (*CVIR*, juil. 2026, 27 patients, suivi médian 1,88 an) évaluant le protocole « Modified Sclerograft » (disruption mécanique des cloisons + sclérothérapie à la doxycycline ± cryoablation adjuvante + injection de substitut osseux régénératif), permettant une guérison en une seule séance chez 74,1 % des patients.",
+        "summary_fr_detailed": "Le traitement percutané classique des kystes osseux anévrismaux (KOA) par sclérothérapie séquentielle (alcool, polidocanol ou doxycycline) nécessite habituellement 3 à 5 séances sous anesthésie générale. Cette étude évalue sur 27 KOA primitifs du squelette appendiculaire confirmés en IRM et biopsie une approche en séance unique (« Modified Sclerograft ») combinant : 1) disruption mécanique percutanée des logettes intrakystiques, 2) sclérothérapie chimique par mousse de doxycycline (± cryoablation adjuvante pour les formes agressives), et 3) comblement par substitut osseux régénératif injectable. Le nombre médian de procédures n'est que de 1 (moyenne 1,33), avec 74,1 % des patients guéris sans aucune réintervention (score de Neer modifié 1–2) et une ossification rapide permettant un suivi radiographique simple dans 92,6 % des cas.",
+        "protocol_fr": "Abord percutané bi-trocart sous guidage fluoroscopique et TDM • Kystographie avec exclusion d'un drainage veineux rapide • Disruption mécanique endokystique des septas fibreux • Sclérothérapie chimique à la mousse de doxycycline (± cycle de cryoablation sur les parois charnues) • Comblement en fin de séance par greffon osseux régénératif injectable favorisant l'ostéoconduction.",
+        "key_points_fr": [
+            "Réduit drastiquement le nombre de séances d'anesthésie générale : médiane de 1 seule procédure (74,1 % de succès définitif après une unique séance).",
+            "L'association disruption mécanique + sclérosant + substitut osseux ostéoconducteur accélère le remodelage cortical (Neer modifié grades 1–2).",
+            "Possibilité d'associer une cryoablation percutanée ciblée sur les composantes charnues des KOA volumineux ou récidivants.",
+            "Alternative mini-invasive très pertinente aux séances multiples d'alcoolisation ou au curetage chirurgical."
+        ],
+        "tags": ["Kyste osseux anévrismal", "Sclérothérapie", "Doxycycline", "Substitut osseux", "Cryoablation", "CVIR 2026"]
     }
 }
 
@@ -1229,6 +1314,10 @@ JOURNAL_IMPACT_FACTORS = {
     "european journal of orthopaedic surgery": (1.5, "Eur J Orthop Surg Traumatol"),
     "journal of ultrasonography": (1.6, "J Ultrason"),
     "bjr open": (1.3, "BJR Open"),
+    "la radiologia medica": (8.9, "Radiol Med"),
+    "radiologia medica": (8.9, "Radiol Med"),
+    "medicina": (2.4, "Medicina (Kaunas)"),
+    "pain management": (2.0, "Pain Manag"),
 }
 
 
@@ -1291,18 +1380,113 @@ def main():
             p.unlink()
 
     pmids = list(CURATED_DATA.keys())
-    query = " OR ".join([f"EXT_ID:{p}" for p in pmids])
-    url = "https://www.ebi.ac.uk/europepmc/webservices/rest/search?" + urllib.parse.urlencode({
-        "query": query,
-        "format": "json",
-        "pageSize": 100,
-        "resultType": "core",
-    })
-    req = urllib.request.Request(url, headers={"User-Agent": "BiblioOsteo-Cochin/1.0"})
-    with urllib.request.urlopen(req, timeout=25) as resp:
-        raw_results = json.loads(resp.read().decode("utf-8"))["resultList"]["result"]
+    by_pmid = {}
 
-    by_pmid = {str(r.get("pmid")): r for r in raw_results if r.get("pmid")}
+    # Load cached metadata from existing data/articles.json first so offline/503 never breaks existing entries
+    existing_json_path = DATA_DIR / "articles.json"
+    if existing_json_path.exists():
+        try:
+            for ea in json.loads(existing_json_path.read_text(encoding="utf-8")):
+                ep = str(ea.get("pmid", ""))
+                if ep:
+                    by_pmid[ep] = {
+                        "pmid": ep,
+                        "title": ea.get("title", ""),
+                        "pubYear": str(ea.get("year", 2026)),
+                        "firstPublicationDate": f"{ea.get('year', 2026)}-{int(ea.get('month_num', 1)):02d}-01",
+                        "journalInfo": {
+                            "volume": ea.get("volume", ""),
+                            "issue": ea.get("issue", ""),
+                            "yearOfPublication": ea.get("year", 2026),
+                            "monthOfPublication": ea.get("month_num", 1),
+                            "journal": {"title": ea.get("journal", "")},
+                        },
+                        "pageInfo": ea.get("pages", ""),
+                        "doi": ea.get("doi", ""),
+                        "pmcid": ea.get("pmcid", ""),
+                        "abstractText": ea.get("abstract_en", ""),
+                        "authorList": {"author": [{"fullName": nm} for nm in ea.get("authors_list", [])]},
+                    }
+        except Exception:
+            pass
+
+    # Query Europe PMC if available
+    try:
+        query = " OR ".join([f"EXT_ID:{p}" for p in pmids])
+        url = "https://www.ebi.ac.uk/europepmc/webservices/rest/search?" + urllib.parse.urlencode({
+            "query": query,
+            "format": "json",
+            "pageSize": 100,
+            "resultType": "core",
+        })
+        req = urllib.request.Request(url, headers={"User-Agent": "BiblioOsteo-Cochin/1.0"})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            raw_results = json.loads(resp.read().decode("utf-8"))["resultList"]["result"]
+        for r in raw_results:
+            if r.get("pmid"):
+                by_pmid[str(r.get("pmid"))] = r
+    except Exception as e:
+        print(f"[Metadata] Europe PMC unavailable ({e}), falling back to PubMed MEDLINE for missing PMIDs")
+
+    # Fetch any missing PMIDs from PubMed MEDLINE format
+    missing_pmids = [p for p in pmids if p not in by_pmid or not by_pmid[p].get("title")]
+    if missing_pmids:
+        try:
+            import html as htmllib
+            pm_url = "https://pubmed.ncbi.nlm.nih.gov/?term=" + "+OR+".join(f"{p}[uid]" for p in missing_pmids) + "&format=pubmed&size=50"
+            pm_req = urllib.request.Request(pm_url, headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"})
+            with urllib.request.urlopen(pm_req, timeout=20) as pm_resp:
+                pm_html = pm_resp.read().decode("utf-8", errors="ignore")
+            m_chunk = re.search(r'<pre class="search-results-chunk">(.*?)</pre>', pm_html, re.S)
+            if m_chunk:
+                chunk_txt = htmllib.unescape(m_chunk.group(1)).replace("\r\n", "\n")
+                month_map = {"Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6, "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12}
+                for rec in re.split(r"\n(?=PMID- )", chunk_txt.strip()):
+                    fields = {}
+                    cur = None
+                    for l in rec.split("\n"):
+                        if len(l) >= 6 and l[4:6] == "- ":
+                            cur = l[:4].strip()
+                            fields.setdefault(cur, []).append(l[6:].strip())
+                        elif cur and l.startswith("      "):
+                            fields[cur][-1] += " " + l.strip()
+                    p_id = fields.get("PMID", [""])[0]
+                    if not p_id:
+                        continue
+                    dp = fields.get("DP", ["2026"])[0]
+                    dep = fields.get("DEP", [""])[0]
+                    fpd = ""
+                    if len(dep) >= 6 and dep[:6].isdigit():
+                        fpd = f"{dep[:4]}-{dep[4:6]}-{dep[6:8] if len(dep)>=8 else '01'}"
+                    else:
+                        m_dp = re.match(r"(\d{4})\s+([A-Za-z]{3})", dp)
+                        if m_dp:
+                            fpd = f"{m_dp.group(1)}-{month_map.get(m_dp.group(2)[:3].title(), 1):02d}-01"
+                    aids = fields.get("AID", []) + fields.get("LID", [])
+                    doi_val = ""
+                    for a_id in aids:
+                        if "[doi]" in a_id:
+                            doi_val = a_id.replace("[doi]", "").strip()
+                            break
+                    by_pmid[p_id] = {
+                        "pmid": p_id,
+                        "title": fields.get("TI", [""])[0],
+                        "pubYear": dp[:4] if dp[:4].isdigit() else "2026",
+                        "firstPublicationDate": fpd,
+                        "journalInfo": {
+                            "volume": fields.get("VI", [""])[0],
+                            "issue": fields.get("IP", [""])[0],
+                            "yearOfPublication": int(dp[:4]) if dp[:4].isdigit() else 2026,
+                            "journal": {"title": fields.get("JT", fields.get("TA", [""]))[0]},
+                        },
+                        "pageInfo": fields.get("PG", [""])[0],
+                        "doi": doi_val,
+                        "pmcid": fields.get("PMC", [""])[0],
+                        "abstractText": " ".join(fields.get("AB", ["Abstract non disponible."])),
+                        "authorList": {"author": [{"fullName": au} for au in fields.get("AU", [])]},
+                    }
+        except Exception as e:
+            print(f"[Metadata] PubMed MEDLINE fallback error: {e}")
     articles = []
 
     for pmid, cdata in CURATED_DATA.items():
