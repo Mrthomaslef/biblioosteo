@@ -1164,6 +1164,91 @@ CURATED_DATA = {
             "Alternative mini-invasive très pertinente aux séances multiples d'alcoolisation ou au curetage chirurgical."
         ],
         "tags": ["Kyste osseux anévrismal", "Sclérothérapie", "Doxycycline", "Substitut osseux", "Cryoablation", "CVIR 2026"]
+    },
+    "42909541": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "Cryoablation percutanée des tumeurs musculo-squelettiques : résultats cliniques, complications (classification CIRSE) et diminution de densité (UH) sur 48 patients",
+        "modality": "Scanner Interventionnel",
+        "intervention_type": "Cryoablation Percutanée de Tumeurs Osseuses, Cartilagineuses & Métastases",
+        "cochin_link": "Au cœur de l'activité de « cryoablation percutanée sous scanner de tumeurs osseuses, cartilagineuses et de métastases » du Service de Radiologie B à Cochin.",
+        "summary_fr_short": "Série monocentrique de référence (*Skeletal Radiology*, oct. 2026, équipe de R. Botchu, 48 patients) évaluant la cryoablation percutanée des tumeurs musculo-squelettiques (métastases, tumeurs cartilagineuses et tumeurs osseuses primitives/bénignes), avec 73 % de réponse clinique (58 % complète/bonne, 15 % partielle), une baisse de densité TDM (UH) dans 94 % des cas et aucune complication majeure CIRSE.",
+        "summary_fr_detailed": "Cette étude rétrospective menée dans un centre tertiaire d'oncologie musculo-squelettique (Royal Orthopaedic Hospital, Birmingham) analyse 48 procédures consécutives de cryoablation percutanée réalisées par un radiologue interventionnel senior pour des métastases osseuses, des tumeurs cartilagineuses et des tumeurs osseuses bénignes ou primitives. Une réponse clinique complète ou bonne est obtenue chez 58 % des patients et une réponse partielle chez 15 % (soit 73 % d'efficacité globale). Sur le plan scannographique, une diminution de la densité en unités Hounsfield (UH) au sein de la zone traitée est observée chez 45 des 48 patients (94 %), traduisant la nécrose de liquéfaction cryogénique. Le taux global de complications (classification CIRSE) est faible (6,3 %, 3/48), sans aucune complication majeure ni séquelle permanente.",
+        "protocol_fr": "Planification TDM/IRM pré-procédure • Insertion d'une ou plusieurs cryosondes sous guidage scanographique avec contrôle tridimensionnel de la boule de glace (« iceball ») englobant les marges tumorales • Double cycle de congélation-décongélation active/passive avec thermoprotection des structures nobles • Mesure comparative de l'atténuation TDM (UH) pré- et post-ablation et gradation des complications selon le référentiel CIRSE.",
+        "key_points_fr": [
+            "73 % de réponse clinique favorable (58 % complète/bonne, 15 % partielle) sur un large spectre de tumeurs osseuses, cartilagineuses et métastatiques.",
+            "Chute de l'atténuation scannographique (UH) post-cryoablation constatée dans 94 % des lésions (45/48), marqueur quantitatif simple de nécrose.",
+            "Excellent profil de sécurité avec 0 % de complication majeure selon la classification CIRSE (6,3 % de complications mineures transitoires).",
+            "Confirme la reproductibilité et la sûreté de la cryoablation osseuse et des parties molles pratiquée quotidiennement au scanner à Cochin."
+        ],
+        "tags": ["Cryoablation", "Tumeurs musculo-squelettiques", "Métastases osseuses", "Unités Hounsfield", "Classification CIRSE", "Skeletal Radiol 2026"]
+    },
+    "42804145": {
+        "category_id": "ect_mets",
+        "title_fr": "Électrodes aiguilles bipolaires mono-aiguille pour l'électroporation et l'électrochimiothérapie (ECT) des tissus mous et osseux : conception et mise en œuvre guidée par l'image",
+        "modality": "Scanner / Échographie Interventionnelle",
+        "intervention_type": "Électrochimiothérapie (ECT) Osseuse & des Parties Molles par Aiguille Bipolaire",
+        "cochin_link": "Directement lié aux procédures d'« électrochimiothérapie (ECT - Bléomycine IV) osseuse et épidurale sous guidage scanographique » réalisées au scanner Achard à Cochin.",
+        "summary_fr_short": "Note technique multicentrique (*La Radiologia Medica*, sept. 2026, IF 8,9) détaillant l'architecture du champ électrique et l'implantation guidée par l'image d'électrodes aiguilles bipolaires mono-aiguille pour l'électrochimiothérapie (ECT) des tumeurs osseuses et des tissus mous, permettant de réduire le nombre d'insertions tout en confinant le champ électrique à distance des structures nerveuses.",
+        "summary_fr_detailed": "L'électrochimiothérapie (ECT) osseuse et vertébrale conventionnelle requiert l'insertion rigoureusement parallèle de multiples aiguilles monopolaires pour couvrir le volume tumoral, ce qui est parfois complexe dans les corridors osseux étroits (pédicule, épidure, toit acétabulaire) ou les régions multi-opérées. Ce travail multicentrique présente les simulations de distribution de champ électrique, les validations précliniques et les applications cliniques guidées par l'image d'une électrode aiguille bipolaire unique (conception coaxiale à deux pôles sur le même axe). Cette géométrie mono-aiguille génère un champ électrique prévisible et spatialement confiné sans effet de dissipation thermique, évitant les insertions multiples et limitant la diffusion du courant aux structures neuro-vasculaires adjacentes.",
+        "protocol_fr": "Guidage TDM ou échographique pour le positionnement d'une électrode aiguille bipolaire coaxiale au centre de la lésion cible (os ou parties molles) • Perfusion intraveineuse de bléomycine (15 000 UI/m²) • Délivrance des impulsions électriques calibrées entre le pôle distal et le pôle proximal de la même aiguille (fenêtre de perméabilisation 8 à 40 min post-injection) • Contrôle de couverture volumétrique par repositionnement axial si nécessaire.",
+        "key_points_fr": [
+            "L'architecture bipolaire mono-aiguille supprime la contrainte de parallélisme strict entre plusieurs électrodes monopolaires dans l'os.",
+            "Confinement spatial optimal du champ électrique d'électroporation, idéal à proximité du fourreau dural, des racines nerveuses ou des gros vaisseaux.",
+            "Mécanisme non thermique préservant la trame minérale osseuse et compatible avec une cimentoplastie ou un vissage consolidateur dans le même temps.",
+            "Ouvre la voie à des procédures d'ECT mini-invasives simplifiées pour les métastases vertébrales, pelviennes et les récidives profondes."
+        ],
+        "tags": ["Électrochimiothérapie", "Électrode bipolaire", "Électroporation", "Métastases osseuses", "Bléomycine", "Radiol Med 2026"]
+    },
+    "42891691": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Prise en charge des fractures sacrées par insuffisance osseuse avec dissociation spino-pelvienne (types U et Rommens IVb) : place du vissage percutané",
+        "modality": "Scanner Interventionnel / Fluoroscopie 3D (Scopie Allura)",
+        "intervention_type": "Vissage Percutané Sacro-Iliaque / Trans-Sacré & Sacroplastie",
+        "cochin_link": "En lien direct avec les « vissages percutanés du bassin et sacroplasties (Scanner / Scopie Allura) » pour fractures sacrées par insuffisance ou post-radiques à Cochin.",
+        "summary_fr_short": "Revue systématique PRISMA-ScR (*Eur J Orthop Surg Traumatol*, oct. 2026, 8 études / 235 patients) consacrée aux fractures bilatérales postérieures du sacrum par insuffisance osseuse (fractures en H/U et Rommens IVb), confirmant que le vissage percutané est la technique de référence après échec du traitement médical pour restaurer la mobilité et soulager la douleur.",
+        "summary_fr_detailed": "Les fractures par fragilité ou insuffisance osseuse du sacrum (ostéoporose sévère, antécédent de radiothérapie pelvienne) évoluent fréquemment vers une fracture bilatérale en U ou en H (Rommens type IVb) réalisant une dissociation spino-pelvienne très douloureuse et invalidante. Cette revue PRISMA-ScR portant sur 235 patients compare l'approche conservatrice et la fixation chirurgicale/interventionnelle. Le vissage percutané ilio-sacré ou trans-sacré (éventuellement cimenté) constitue la modalité technique la plus utilisée, généralement proposée devant l'échec de la verticalisation sous traitement antalgique. La fixation percutanée précoce permet une amélioration rapide de l'EVA douleur, une reprise précoce de l'appui et une réduction des complications de décubitus chez des patients âgés ou oncologiques fragiles.",
+        "protocol_fr": "Analyse TDM multi-planaire des corridors sacrés S1 et S2 (recherche d'un dysmorphisme sacré et du trait transversal en U/H) • Sous guidage scanographique ou fluoroscopique (vues inlet, outlet et profil sacré strict), mise en place percutanée de vis canulées ilio-sacrées ou trans-sacrées S1 ± S2 • Cimentoplastie/sacroplastie d'augmentation autour des spires en os porotique ou post-radique.",
+        "key_points_fr": [
+            "Les fractures sacrées bilatérales par insuffisance (Rommens IVb / en U) entraînent une instabilité spino-pelvienne souvent rebelle au repos médical.",
+            "Le vissage percutané ilio-sacré / trans-sacré est la technique mini-invasive de référence pour rétablir la continuité mécanique spino-pelvienne.",
+            "Une intervention précoce en cas d'impossibilité de mise en charge accélère la récupération fonctionnelle et l'autonomie.",
+            "En os très déminéralisé ou irradié, l'augmentation cimentée (vissage cimenté au scanner ou sous scopie Allura) prévient le desserrement mécanique."
+        ],
+        "tags": ["Fracture du sacrum", "Dissociation spino-pelvienne", "Vissage percutané", "Sacroplastie", "Insuffisance osseuse", "Eur J Orthop Surg Traumatol 2026"]
+    },
+    "42874309": {
+        "category_id": "msk_biopsy",
+        "title_fr": "Précision diagnostique de la biopsie percutanée au trocart (CNB) pour déterminer le grade histologique définitif des tumeurs cartilagineuses malignes (chondrosarcomes)",
+        "modality": "Scanner Interventionnel",
+        "intervention_type": "Biopsie Osseuse Percutanée Scanoguidée de Tumeur Chondroïde",
+        "cochin_link": "Directement applicable aux « biopsies osseuses percutanées sous scanner de lésions cartilagineuses (bassin, fémur, humérus, scapula) » discutées en RCP Sarcome à Cochin.",
+        "summary_fr_short": "Étude rétrospective sur 111 chondrosarcomes opérés (*European Journal of Surgical Oncology*, oct. 2026) évaluant la concordance de grade entre la biopsie percutanée préopératoire au trocart (CNB) et la pièce de résection : concordance parfaite (100 %) pour les chondrosarcomes dédifférenciés, mais risque élevé de sous-évaluation dans les grades G1–G2 (concordance globale 48 %), imposant un ciblage biopsique guidé par l'IRM sur les zones d'ostéolyse ou d'envahissement des parties molles.",
+        "summary_fr_detailed": "La fiabilité de la biopsie osseuse au trocart (Core Needle Biopsy, CNB) pour grader les tumeurs cartilagineuses malignes est un enjeu majeur en RCP Sarcome en raison de l'hétérogénéité spatiale intratumorale. Sur 111 patients opérés d'un chondrosarcome après biopsie percutanée lue par des pathologistes spécialisés, la concordance exacte du grade histologique entre biopsie et pièce opératoire est de 48 % (53/111), avec 100 % de concordance (10/10) pour les chondrosarcomes dédifférenciés, contre 46 % pour les G1 et 41,4 % pour les G2. La concordance varie également selon le site anatomique (scapula κ = 0,60, fémur distal κ = 0,50, bassin κ = 0,30, fémur proximal κ = 0,10, humérus proximal κ = 0). L'étude démontre que le risque principal est la sous-estimation du grade (undergrading) dans les lésions périphériques ou G1–G2, d'où la nécessité absolue de cibler sous scanner la zone la moins minéralisée, d'encoche endostée active ou d'extension extra-osseuse identifiée sur l'IRM.",
+        "protocol_fr": "Relecture conjointe TDM + IRM multiparamétrique avant biopsie pour repérer le contingent non calcifié, myxoïde, hypervasculaire ou de rupture corticale • Biopsie osseuse scanoguidée au trocart de gros calibre (8G–11G) sur le trajet de la voie d'abord chirurgicale validée avec l'orthopédiste • Prélèvements multiples échantillonnant à la fois le contingent cartilagineux hyalin et toute zone ostéolytique ou charnue suspecte de haut grade / dédifférenciation.",
+        "key_points_fr": [
+            "Excellente sensibilité (100 %, 10/10) de la biopsie percutanée lorsque le prélèvement cible le contingent non cartilagineux d'un chondrosarcome dédifférencié.",
+            "Risque significatif de sous-estimation du grade (undergrading) entre ACT/G1 et chondrosarcome G2–G3 en raison de l'hétérogénéité tumorale (concordance de 48 %).",
+            "La décision thérapeutique (curetage vs résection carcinologique) ne doit jamais reposer sur la seule biopsie G1 sans confrontation radio-clinique et IRM.",
+            "Dans le bassin, le fémur proximal et l'humérus proximal, réaliser des carottes multiples ciblant les zones d'ostéolyse endostée et de prise de contraste précoce."
+        ],
+        "tags": ["Chondrosarcome", "Tumeur cartilagineuse", "Biopsie osseuse", "Grade histologique", "RCP Sarcome", "Eur J Surg Oncol 2026"]
+    },
+    "42742682": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Sélection et protocole des anesthésiques locaux lors de l'ablation par radiofréquence (RFA) rachidienne et des grandes articulations : guide pratique pour le radiologue ostéo-articulaire",
+        "modality": "Scanner / Fluoroscopie / Échographie Interventionnelle",
+        "intervention_type": "Radiofréquence Nerveuse Articulaire (Géniculés, Hanche, SI) & Rachidienne",
+        "cochin_link": "Guide directement le protocole pharmacologique des « tests anesthésiques et radiofréquences des nerfs géniculés, articulaires postérieurs et sacro-iliaques » à Cochin.",
+        "summary_fr_short": "Mise au point pratique (*Skeletal Radiology*, sept. 2026) définissant le choix, la concentration et le séquençage des anesthésiques locaux lors des procédures de radiofréquence (RFA) rachidienne (branches médiales), sacro-iliaque et des grandes articulations périphériques (genou, hanche, épaule) afin de préserver la fiabilité des tests de stimulation motrice/sensitive et d'optimiser l'analgésie.",
+        "summary_fr_detailed": "Lors des procédures de neurolyse par radiofréquence (nerfs géniculés du genou, branches articulaires de hanche, rameaux médiaux rachidiens et branches latérales sacro-iliaques), l'administration d'anesthésique local (AL) sur le trajet de ponction puis en périneural conditionne à la fois le confort du patient et la validité du test de stimulation neurophysiologique. Cette revue de *Skeletal Radiology* établit que : 1) la lidocaïne à 1 % est le standard pour l'anesthésie cutanée et du trajet superficiel ; 2) il faut éviter d'injecter de la lidocaïne à 2 % au contact immédiat du nerf cible avant les tests de stimulation sensitive et motrice pour ne pas abolir la réponse d'alerte motrice ; 3) avant le cycle de thermo-ablation, la bupivacaïne 0,25 % ou la ropivacaïne 0,2 % (préférable en cas de procédure multi-étagée ou de trouble conductif cardiaque) offre la meilleure analgésie post-procédure, sans aucun bénéfice démontré au mélange lidocaïne + bupivacaïne.",
+        "protocol_fr": "Anesthésie cutanée et du trajet superficiel à la lidocaïne 1 % en restant à distance du nerf cible • Positionnement de la canule de radiofréquence sous guidage écho/scopie/TDM • Réalisation des tests de stimulation sensitive (50 Hz) et motrice (2 Hz) avant toute infiltration périneurale profonde • Injection périneurale pré-lésionnelle de 0,5 à 1 mL de ropivacaïne 0,2 % (ou bupivacaïne 0,25 %) 60 à 90 secondes avant le cycle thermique.",
+        "key_points_fr": [
+            "Ne jamais infiltrer le nerf cible (surtout à la lidocaïne 2 %) avant d'avoir effectué les tests de stimulation sensitive (50 Hz) et motrice (2 Hz).",
+            "Le mélange empirique lidocaïne + bupivacaïne n'accélère pas le délai d'action par rapport à l'anesthésique seul et réduit la durée d'analgésie prolongée.",
+            "Privilégier la ropivacaïne 0,2 % (profil cardiotoxique plus sûr) lors des dénervations multi-sites (3 nerfs géniculés ou branches sacro-iliaques).",
+            "Fournit un algorithme structuré de substitution en cas d'allergie documentée aux amino-amides."
+        ],
+        "tags": ["Radiofréquence nerveuse", "Anesthésiques locaux", "Ropivacaïne", "Nerfs géniculés", "Stimulation motrice", "Skeletal Radiol 2026"]
     }
 }
 
@@ -1318,6 +1403,8 @@ JOURNAL_IMPACT_FACTORS = {
     "radiologia medica": (8.9, "Radiol Med"),
     "medicina": (2.4, "Medicina (Kaunas)"),
     "pain management": (2.0, "Pain Manag"),
+    "european journal of surgical oncology": (3.5, "Eur J Surg Oncol"),
+    "world journal of surgical oncology": (2.5, "World J Surg Oncol"),
 }
 
 
