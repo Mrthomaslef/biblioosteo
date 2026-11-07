@@ -150,6 +150,33 @@ KW  - Eur J Surg Oncol 2026
 ER  - 
 
 TY  - JOUR
+TI  - Current Role of Radiomics for Management of Soft Tissue Sarcoma
+AU  - Chang YC
+AU  - McGowan N
+AU  - Alessandrino F
+AU  - Dayan E
+AU  - Jonczak E
+AU  - Crawford B
+AU  - Din NU
+AU  - Subhawong T
+JO  - Current treatment options in oncology
+PY  - 2026
+VL  - 27
+IS  - 1
+SP  - 52
+DO  - 10.1007/s11864-026-01420-1
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue de synthèse (*Current Treatment Options in Oncology*, oct. 2026, IF 4,1) faisant le point sur l'apport des biomarqueurs radiomiques extraits de l'IRM conventionnelle dans les sarcomes des tissus mous : discrimination bas grade vs haut grade avant biopsie, prédiction précoce de la nécrose post-traitement néoadjuvant et stratification pronostique du risque métastatique. | Points clés : L'analyse quantitative de l'hétérogénéité IRM distingue avec une haute précision les sarcomes de haut grade (FNCLCC G2–G3) des tumeurs de bas grade. ; Permet d'orienter la biopsie percutanée vers le sous-volume tumoral (« habitat ») biologiquement le plus agressif. ; Surpasse les critères morphologiques RECIST 1.1 pour évaluer la nécrose tumorale réelle après traitement néoadjuvant ou ablation. ; Renforce la valeur ajoutée de l'expertise IRM ostéo-articulaire de Cochin au sein de la RCP Sarcome. | Pratique Cochin : Complète les bilans d'« IRM diagnostique, ciblage biopsique et suivi post-thérapeutique des sarcomes des parties molles » en centre de référence Sarcome à Cochin. || [ABSTRACT ORIGINAL - EN] Opinion statement Soft tissue sarcomas represent a diverse set of malignancies with equally diverse behavior, ranging from relatively indolent low-grade tumors to aggressive high-grade tumors with high metastatic potential. Initial diagnosis hinges on tissue biopsy for determining histologic subtype and grade, while conventional imaging plays critical roles in defining local tumor size and extent, staging, treatment response, and disease surveillance. However, conventional semantic interpretation of imaging studies overlooks much of the complex imaging data embedded in routine clinical studies. Radiomics encompasses the identification of novel disease biomarkers extracted from highly quantitative characterizations of tumor structure and heterogeneity and has shown promise in providing a deeper understanding of soft tissue sarcomas. Given the increasing usage of imaging in soft tissue sarcomas, particularly usage of MRI, it behooves both clinicians and radiologists to further the depth of understanding that may be gleaned from radiomics. These insights, although primarily experimental, represent a rapidly evolving landscape in soft tissue sarcoma diagnosis and management where radiomics will be increasingly integrated into clinical practice. The present work focuses on the latest updates with regards to the application of radiomics to the diagnosis, prediction of treatment response, assessment of treatment response, and prognosis of soft tissue sarcomas and how they may affect sarcoma management.
+N1  - PMID: 42955458 | PMCID:  | Catégorie: Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Geste
+UR  - https://pubmed.ncbi.nlm.nih.gov/42955458/
+KW  - Sarcome des tissus mous
+KW  - IRM multiparamétrique
+KW  - Radiomique
+KW  - Réponse thérapeutique
+KW  - Grade FNCLCC
+KW  - Curr Treat Options Oncol 2026
+ER  - 
+
+TY  - JOUR
 TI  - Intraoperative Neurophysiological Monitoring During Continuous Radiofrequency Treatment of Morton's Neuroma: Complete Ablation
 AU  - Camuñas-Nieves G
 AU  - Fernández-Gibello A
@@ -220,7 +247,7 @@ KW  - J Bone Oncol 2026
 ER  - 
 
 TY  - JOUR
-TI  - Cryoablation for Extra-Abdominal Desmoid Tumors: A Retrospective Study of Clinical and radiological outcomes
+TI  - Cryoablation for Extra-Abdominal Desmoid Tumors: a Retrospective Study of Clinical and Radiological Outcomes
 AU  - Arseneault-Monette E
 AU  - Luo T
 AU  - Mack L
@@ -230,9 +257,11 @@ AU  - Bouchard-Fortier A
 AU  - Przybojewski S
 JO  - Journal of vascular and interventional radiology : JVIR
 PY  - 2026
+VL  - 37
+IS  - 12
 SP  - 109083
 DO  - 10.1016/j.jvir.2026.109083
-AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte sur 92 séances de cryoablation chez 44 patients (*JVIR*, sept. 2026, taille médiane 6,9 cm, suivi médian 28,9 mois) rapportant 81,1 % de succès clinique, 78,4 % de réponse objective (24,3 % RC, 54,1 % RP), une concordance quasi parfaite entre volumétrie 3D et mRECIST (κ = 0,895), et seulement 5,3 % de complications majeures. | Points clés : Taux de succès clinique de 81,1 % et contrôle de la maladie (RC + RP + stabilité) de 94,6 % sur des desmoïdes volumineuses (médiane 6,9 cm). ; Concordance quasi parfaite (κ = 0,895) entre les critères mRECIST et la volumétrie 3D sur l'IRM de suivi post-cryoablation. ; Possibilité de retraitement itératif par cryoablation (26,3 % des patients) en cas de reliquat ou récidive focale, évitant les chimiothérapies au long cours. ; Profil de sécurité très favorable avec seulement 5,3 % d'événements indésirables de grade SIR ≥ 3. | Pratique Cochin : Au cœur de l'activité de « cryothérapie percutanée de tumeur desmoïde (creux sus-claviculaire, flanc, paroi, membres) » du Service de Radiologie B à Cochin. || [ABSTRACT ORIGINAL - EN] Purpose To determine if image-guided cryoablation achieves durable clinical and radiologic response with an acceptable safety profile in patients with extra-abdominal desmoid tumors, and whether volumetric response assessment concords with mRECIST-based classification MATERIALS AND METHODS: Patients treated between 2020 and 2024 were identified through electronic record. Those who underwent cryoablation were included for analysis. The primary outcome was clinical success, defined as a composite of no disease progression at last follow-up, no additional treatment, and symptom improvement. Secondary outcomes included radiologic response, symptom improvement, progression-free survival (PFS), and safety. Among 208 patients diagnosed with desmoid tumors, 44 (20.7%) underwent cryoablation, and 38 had follow-up data available. 92 cryoablation sessions were performed. Median tumor size was 6.9 cm (IQR 5.5-9.2), and median follow-up duration was 28.9 months (IQR 14.3-37.3). Results The clinical success rate was 81.1%. Radiologic response at last follow-up was complete in 24.3%, partial in 54.1%, stable in 16.2%, and progressive in 5.4%. Volumetric and mRECIST-based response classification showed almost-perfect agreement (κ = 0.895). Repeat cryoablation was performed in 26.3% of patients due to radiologic progression. Additional treatment modalities were required in 13.2% of cases. The 1- and 2-year PFS rates were 76.5% (95% CI: 58.2-87.6%) and 67.4% (95% CI: 46.5-81.7%), respectively. Major adverse events (SIR ≥3) occurred in 5.3% of patients. Conclusion Cryoablation is a safe and effective treatment option for selected patients with extra-abdominal desmoid tumors, achieving clinical success in the majority of patients. These findings support its role in the multidisciplinary management of desmoid tumors.
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte sur 92 séances de cryoablation chez 44 patients (*JVIR*, sept. 2026, taille médiane 6,9 cm, suivi médian 28,9 mois) rapportant 81,1 % de succès clinique, 78,4 % de réponse objective (24,3 % RC, 54,1 % RP), une concordance quasi parfaite entre volumétrie 3D et mRECIST (κ = 0,895), et seulement 5,3 % de complications majeures. | Points clés : Taux de succès clinique de 81,1 % et contrôle de la maladie (RC + RP + stabilité) de 94,6 % sur des desmoïdes volumineuses (médiane 6,9 cm). ; Concordance quasi parfaite (κ = 0,895) entre les critères mRECIST et la volumétrie 3D sur l'IRM de suivi post-cryoablation. ; Possibilité de retraitement itératif par cryoablation (26,3 % des patients) en cas de reliquat ou récidive focale, évitant les chimiothérapies au long cours. ; Profil de sécurité très favorable avec seulement 5,3 % d'événements indésirables de grade SIR ≥ 3. | Pratique Cochin : Au cœur de l'activité de « cryothérapie percutanée de tumeur desmoïde (creux sus-claviculaire, flanc, paroi, membres) » du Service de Radiologie B à Cochin. || [ABSTRACT ORIGINAL - EN] Purpose To determine whether image-guided cryoablation achieves durable clinical and radiologic response with an acceptable safety profile in patients with extra-abdominal desmoid tumors and whether volumetric response assessment concords with modified Response Evaluation Criteria in Solid Tumors-based classification MATERIALS AND METHODS: Patients treated between 2020 and 2024 were identified through electronic record. Those who underwent cryoablation were included for analysis. The primary outcome was clinical success, defined as a composite of no disease progression at last follow-up, no additional treatment, and symptom improvement. The secondary outcomes included radiologic response, symptom improvement, progression-free survival, and safety. Among 208 patients diagnosed with desmoid tumors, 44 (20.7%) underwent cryoablation, of whom 38 had follow-up data available; 92 cryoablation sessions were performed. Median tumor size was 6.9 cm (interquartile range, 5.5-9.2 cm), and median follow-up duration was 28.9 months (interquartile range, 14.3-37.3 months). Results The clinical success rate was 81.1%. Radiologic response at last follow-up was complete in 24.3%, partial in 54.1%, stable in 16.2%, and progressive in 5.4% of patients. Volumetric and modified Response Evaluation Criteria in Solid Tumors-based response classification showed almost-perfect agreement (κ = 0.895). Repeat cryoablation was performed in 26.3% of patients due to radiologic progression. Additional treatment modalities were required in 13.2% of cases. The 1- and 2-year progression-free survival rates were 76.5% (95% confidence interval, 58.2%-87.6%) and 67.4% (95% confidence interval, 46.5%-81.7%), respectively. Major adverse events (Society of Interventional Radiology grade, ≥Grade 3) occurred in 5.3% of patients. Conclusions Cryoablation is a safe and effective treatment option for selected patients with extra-abdominal desmoid tumors, achieving clinical success in the majority of patients. These findings support its role in the multidisciplinary management of desmoid tumors.
 N1  - PMID: 42731622 | PMCID:  | Catégorie: Cryoablation des Tumeurs Desmoïdes & Parties Molles
 UR  - https://pubmed.ncbi.nlm.nih.gov/42731622/
 KW  - Tumeur desmoïde
@@ -272,6 +301,36 @@ KW  - Électroporation
 KW  - Métastases osseuses
 KW  - Bléomycine
 KW  - Radiol Med 2026
+ER  - 
+
+TY  - JOUR
+TI  - Spine interventional oncology: An illustrated review of minimally invasive techniques
+AU  - Hafiani H
+AU  - Shotar E
+AU  - Premat K
+AU  - Allard J
+AU  - Burel J
+AU  - Mazit A
+AU  - Deschamps F
+AU  - Tselikas L
+AU  - Beunon P
+AU  - Clarençon F
+AU  - Bonnet B
+JO  - Neuro-Chirurgie
+PY  - 2026
+VL  - 72
+IS  - 6
+SP  - 101884
+DO  - 10.1016/j.neuchi.2026.101884
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Mise au point illustrée française (*Neurochirurgie*, sept. 2026, équipes Pitié-Salpêtrière & Rouen) synthétisant l'arsenal d'oncologie interventionnelle rachidienne : biopsie radioguidée, cimentoplastie des étages complexes (rachis cervical), fixation percutanée (odontoïde, sacrum, bassin), embolisation préopératoire, ablation thermique et électrochimiothérapie (ECT) en présence d'une épidurite. | Points clés : L'électrochimiothérapie (ECT) constitue l'alternative de choix à l'ablation thermique lorsqu'une coulée tumorale épidurale jouxte la moelle ou les racines. ; Détaille les corridors de sécurité pour la cimentoplastie cervicale, le vissage de l'odontoïde et la fixation spino-pelvienne percutanée. ; Insiste sur les stratégies de neuroprotection (dissection épidurale au CO2/sérum glucosé, thermométrie et monitorage neurophysiologique). ; Synthèse française de référence alignée sur l'intégralité du plateau technique interventionnel ostéo-articulaire de l'Hôpital Cochin. | Pratique Cochin : En lien direct avec les procédures complexes d'« électrochimiothérapie (ECT) rachidienne/épidurale, cimentoplastie cervicale et vissage pelvi-sacré » réalisées à Cochin. || [ABSTRACT ORIGINAL - EN] Spine oncological interventional radiology has become an integral component of multidisciplinary care for patients with neoplastic spinal disease. Beyond conventional vertebral augmentation, the field now encompasses image-guided biopsy, cementoplasty at complex spinal levels, percutaneous fixation, preoperative embolization of hypervascular tumors, thermal ablation, and electrochemotherapy. These techniques address complementary objectives, including histological diagnosis, rapid pain relief, mechanical stabilization, facilitation of surgery, and local tumor control in selected patients. Advances in imaging guidance, procedural planning, and device technology have enabled increasingly precise and tailored interventions in anatomically constrained regions. However, the spine remains a high-risk anatomical territory because of the proximity of the spinal cord, nerve roots, radiculomedullary arteries, and major vascular structures. Procedural safety therefore depends on careful patient selection, detailed knowledge of spinal anatomy, rigorous planning, and multidisciplinary coordination. Particularly challenging scenarios include cervical cementoplasty, percutaneous fixation of odontoid, pelvic, or sacral lesions, and tumor treatment in the presence of epidural extension. This illustrated review summarizes the main minimally invasive techniques currently used in spine interventional oncology, with emphasis on their indications, technical principles, safety strategies, limitations, and integration into contemporary oncologic care pathways.
+N1  - PMID: 42785703 | PMCID:  | Catégorie: Électrochimiothérapie (ECT) & Métastases Osseuses
+UR  - https://pubmed.ncbi.nlm.nih.gov/42785703/
+KW  - Oncologie interventionnelle rachidienne
+KW  - Électrochimiothérapie
+KW  - Cimentoplastie cervicale
+KW  - Vissage percutané
+KW  - Épidurite métastatique
+KW  - Neurochirurgie 2026
 ER  - 
 
 TY  - JOUR
@@ -320,6 +379,30 @@ KW  - Skeletal Radiol 2026
 ER  - 
 
 TY  - JOUR
+TI  - Robot-assisted targeting for osteoid osteoma: a systematic review
+AU  - Vu DN
+AU  - Dang NH
+AU  - Nguyen TT
+AU  - Nguyen TT
+AU  - Vu DA
+JO  - Journal of robotic surgery
+PY  - 2026
+VL  - 20
+IS  - 1
+SP  - 919
+DO  - 10.1007/s11701-026-03900-w
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue systématique (*Journal of Robotic Surgery*, août 2026, 12 études / 440 procédures dont 232 assistées par robot) évaluant l'apport du positionnement robotique lors du forage et de l'ablation thermique des ostéomes ostéoïdes : réduction du nombre de repositionnements de broche et fenêtres osseuses plus économiques, avec une efficacité clinique et une sécurité équivalentes au guidage TDM expert à main levée. | Points clés : Sur 440 procédures analysées, le facteur déterminant du succès reste l'ablation thermique complète du nidus plutôt que le recours à un bras robotique. ; L'assistance balistique diminue le nombre de réorientations d'aiguille dans les trajectoires obliques complexes (bassin, rachis, col fémoral). ; Les taux de guérison clinique (> 90–95 %) et de complications demeurent identiques au guidage TDM à main levée pratiqué en centre expert. ; Confirme l'excellence du standard actuel par thermo-ablation scanoguidée directe (RF ou cryoablation no-touch) réalisé à Cochin. | Pratique Cochin : Complète la réflexion technique sur le « guidage TDM de haute précision pour radiofréquence et cryoablation d'ostéome ostéoïde (rachis, col fémoral, talus) » à Cochin. || [ABSTRACT ORIGINAL - EN] Accurate nidus access is essential for treating osteoid osteoma, but the incremental contribution of physical robotic targeting should be distinguished from imaging, definitive treatment, and the wider care pathway. We systematically reviewed peer-reviewed human reports in which a robot physically positioned or constrained an instrument used for biopsy or treatment. PubMed/MEDLINE, Embase, Web of Science Core Collection, the Cochrane Library, Wanfang Data and the China National Knowledge Infrastructure were searched from inception through August 2026, without a final language restriction. Primary outcomes were success, recurrence or retreatment, and treatment-related complications. Secondary outcomes included localization, instrument corrections, radiation, procedure time, diagnostic yield, recovery, and cost. Twelve reports contained 440 report-level treatment records, including 232 robot-assisted procedures, before assessment of probable or possible overlap. Evidence comprised seven retrospective comparisons, four uncontrolled series, and one case report. Robot-proximal findings generally favored more reproducible or conservative access, including fewer Kirschner-wire corrections, shorter localization, greater resection accuracy, or a smaller bone window. Procedure-time effects varied by comparator and workflow. In comparisons that approximately held treatment constant, clinical success, later pain, recurrence, and complications were not clearly improved. Apparent advantages over open surgery mainly reflected minimally invasive access or treatment modality rather than robotic targeting alone. Meta-analysis was not performed because clinically equivalent comparisons were not independently replicated, outcome definitions differed, and cohort overlap was probable or possible. Comparative certainty was very low. Robotic targeting may improve trajectory execution in technically demanding lesions, but superior long-term effectiveness, safety, diagnostic adequacy, robot-attributable radiation reduction, and cost-effectiveness remain unproven.
+N1  - PMID: 42671500 | PMCID:  | Catégorie: Ablation Thermique des Tumeurs Osseuses Bénignes
+UR  - https://pubmed.ncbi.nlm.nih.gov/42671500/
+KW  - Ostéome ostéoïde
+KW  - Radiofréquence
+KW  - Guidage scanographique
+KW  - Robotique interventionnelle
+KW  - Nidus
+KW  - J Robot Surg 2026
+ER  - 
+
+TY  - JOUR
 TI  - Avoiding pitfalls in percutaneous acetabular column screw placement using combined fluoroscopic check-point views: a technical note and case series
 AU  - Godinho M
 AU  - Serra M
@@ -346,6 +429,32 @@ KW  - Colonne postérieure
 KW  - Incidence COOHO
 KW  - Fluoroscopie
 KW  - Bassin
+ER  - 
+
+TY  - JOUR
+TI  - Analysis of bone metastasis multidisciplinary team meeting activity in a university hospital: patient profiles, prognostic factors
+AU  - Chanzy P
+AU  - Khalifé M
+AU  - Morardet L
+AU  - Pascal-Moussellard H
+AU  - Bonaccorsi R
+AU  - Marie-Hardy L
+JO  - World journal of surgical oncology
+PY  - 2026
+VL  - 24
+IS  - 1
+SP  - 408
+DO  - 10.1186/s12957-026-04531-z
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective de l'équipe AP-HP Pitié-Salpêtrière (*World Journal of Surgical Oncology*, août 2026, 992 dossiers / 630 patients) analysant l'activité d'une RCP Métastases Osseuses universitaire : atteinte rachidienne dans 85 % et pelvienne dans 51 % des cas, avec recours à la cimentoplastie percutanée chez 39 % des patients (contre 22 % de chirurgie). | Points clés : La cimentoplastie percutanée est indiquée chez 39 % des patients présentés en RCP Métastases Osseuses en CHU (contre 22 % pour la chirurgie). ; 85 % des patients présentent une atteinte rachidienne et 51 % une atteinte du bassin, cibles privilégiées de la radiologie interventionnelle ostéo-articulaire. ; 37 % des patients opérés décédant dans les 6 mois, l'approche percutanée (cimentoplastie ± vissage) évite une morbidité chirurgicale disproportionnée. ; Données françaises AP-HP directement transposables au flux de patients oncologiques pris en charge en HDJ et au scanner à Cochin. | Pratique Cochin : Miroir direct de l'activité parisienne AP-HP de « cimentoplastie vertébrale/pelvienne et vissage percutané discutés en RCP Métastases Osseuses » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Background Bone metastases a represent a challenge in the oncological management of patients as the complications can be severe, as fractures or neurological impairment in spinal metastases. Recommendations on the management of bone metastases are constantly being improved. However, there are few recent prognostic data on bone metastases in the literature to assess the impact of advances in oncological treatment on patient survival. Hypothesis An analysis of the activity of an MDT (Multidisciplinary Team Meeting) over 2 years could provide recent data regarding prognosis of patients presenting with bone metastasis. Materials and methods This is a retrospective study of patients presented at an MDT from 2020 to 2021 in a university hospital. The objectives were to describe a representative cohort of patients with bone metastasis and the therapeutic decisions made (cementoplasty/radiotherapy/surgery) and patient survival according to tumor type, location of bone metastasis (spine/pelvis/other). Results Nine hundred ninety-two presentations of 630 patients were analyzed. The most frequent primary cancer was bronchopulmonary, followed by breast, myeloma, prostate and thyroid. 85% of patients had a spinal lesion, 51% a pelvic lesion and 52% another bone site. 49% of patients underwent radiotherapy, 39% cementoplasty and 22% surgery. Median survival was 17 months. Bronchopulmonary and prostate tumors patients had a poorer prognosis. 37% of operated patients died within 6 months of follow-up. Conclusion This study provides a description of bone MDT meeting activity in a university hospital setting, and gives a picture of the volume of activity, prognostic factors and decisions taken with significant recourse to cementoplasty, compared with older series. The presence of bone metastases still represents a turning point in the progression of oncological diseases. Level of evidence IV, retrospective study.
+N1  - PMID: 42947096 | PMCID: PMC13715128 | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42947096.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42947096/
+KW  - Métastases osseuses
+KW  - Cimentoplastie
+KW  - RCP
+KW  - Rachis
+KW  - Bassin
+KW  - World J Surg Oncol 2026
 ER  - 
 
 TY  - JOUR
@@ -604,6 +713,29 @@ KW  - Ablation tumorale
 KW  - Rachis
 KW  - Bassin
 KW  - CVIR 2026
+ER  - 
+
+TY  - JOUR
+TI  - Intraosseous pressure measurement of cystic bone lesions and comparison with normal marrow
+AU  - Vicentini JRT
+AU  - Habibollahi S
+AU  - Habib U
+AU  - Chang CY
+JO  - Skeletal radiology
+PY  - 2026
+VL  - 55
+IS  - 10
+SP  - 2649-2657
+DO  - 10.1007/s00256-026-05259-3
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude prospective du Massachusetts General Hospital (*Skeletal Radiology*, juin/oct. 2026, équipe de C.Y. Chang) mesurant in vivo la pression intra-osseuse par le trocart de ponction lors des sclérothérapies scanoguidées de kystes osseux : mise en évidence d'une hyperpression systolique intrakystique significative (90 ± 18 mmHg vs 67 ± 23 mmHg dans la moelle normale, p = 0,01) indépendante de la pression artérielle systémique. | Points clés : Démontre in vivo une hyperpression systolique élevée (90 ± 18 mmHg) au sein des lésions kystiques osseuses par rapport à la moelle normale (67 mmHg). ; La pression intrakystique est indépendante de la pression artérielle systémique (p > 0,35), traduisant un mécanisme hémodynamique local propre. ; Justifie physiologiquement le recours au montage à double trocart (décompression/drainage) lors des alcoolisations et sclérothérapies à Cochin. ; Réduit le risque d'extravasation veineuse ou péri-osseuse de l'agent sclérosant en évitant toute surpression lors de l'injection. | Pratique Cochin : Directement lié aux procédures d'« alcoolisation / sclérothérapie percutanée sous scanner de kyste osseux anévrismal (KOA) et essentiel (KOE) » réalisées à Cochin. || [ABSTRACT ORIGINAL - EN] Objective To (1) measure intraosseous pressure (IOP) in cystic bone lesions and compare it with pressure values in normal bone marrow from a previous cohort; (2) to investigate the relationship between intralesional and systemic blood pressure. Materials and methods In this prospective HIPAA-compliant study, patients referred for CT-guided sclerotherapy of cystic bone lesions or CT-guided bone marrow biopsy between November 2020 and February 2022 were consecutively enrolled. IOP was recorded in vivo through the biopsy needle using a closed arterial pressure monitoring system for 5 min. Demographic variables and systemic blood pressure were collected. Continuous and categorical variables were compared using the Student t test and Fisher's exact test, respectively. Pearson correlation was used to assess the relationship between intraosseous and systemic blood pressure. A p value Results Seven patients with cystic bone lesions (CBL) and 45 patients with normal marrow histology were included. Participants with CBL were younger than those in the normal marrow group (20 ± 4 vs 55 ± 14 years; p 0.35). Conclusion Cystic bone lesions demonstrate elevated intraosseous pressures, particularly systolic parameters, compared with normal marrow. Intraosseous pressures appear independent of systemic blood pressure.
+N1  - PMID: 42234093 | PMCID:  | Catégorie: Alcoolisation & Sclérothérapie des Kystes Osseux
+UR  - https://pubmed.ncbi.nlm.nih.gov/42234093/
+KW  - Kyste osseux anévrismal
+KW  - Kyste osseux essentiel
+KW  - Pression intra-osseuse
+KW  - Sclérothérapie
+KW  - Scanner interventionnel
+KW  - Skeletal Radiol 2026
 ER  - 
 
 TY  - JOUR

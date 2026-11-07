@@ -1249,6 +1249,91 @@ CURATED_DATA = {
             "Fournit un algorithme structuré de substitution en cas d'allergie documentée aux amino-amides."
         ],
         "tags": ["Radiofréquence nerveuse", "Anesthésiques locaux", "Ropivacaïne", "Nerfs géniculés", "Stimulation motrice", "Skeletal Radiol 2026"]
+    },
+    "42947096": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Analyse de l'activité d'une RCP Métastases Osseuses en CHU (AP-HP Pitié-Salpêtrière) sur 630 patients : profils cliniques, facteurs pronostiques et place centrale de la cimentoplastie",
+        "modality": "Scanner / Fluoroscopie Interventionnelle & Concertation Pluridisciplinaire (RCP)",
+        "intervention_type": "Cimentoplastie Vertébrale / Pelvienne & Stratégie Pluridisciplinaire Osseuse",
+        "cochin_link": "Miroir direct de l'activité parisienne AP-HP de « cimentoplastie vertébrale/pelvienne et vissage percutané discutés en RCP Métastases Osseuses » à l'Hôpital Cochin.",
+        "summary_fr_short": "Étude rétrospective de l'équipe AP-HP Pitié-Salpêtrière (*World Journal of Surgical Oncology*, août 2026, 992 dossiers / 630 patients) analysant l'activité d'une RCP Métastases Osseuses universitaire : atteinte rachidienne dans 85 % et pelvienne dans 51 % des cas, avec recours à la cimentoplastie percutanée chez 39 % des patients (contre 22 % de chirurgie).",
+        "summary_fr_detailed": "Cette série française de l'AP-HP analyse 992 présentations consécutives en Réunion de Concertation Pluridisciplinaire (RCP) dédiée aux métastases osseuses chez 630 patients. Les primitifs les plus fréquents sont bronchopulmonaires, mammaires, myélomateux, prostatiques et thyroïdiens, avec 85 % de localisations rachidiennes et 51 % de localisations pelviennes. Les décisions thérapeutiques illustrent le virage mini-invasif contemporain : radiothérapie dans 49 % des cas, cimentoplastie percutanée dans 39 % des cas et chirurgie ouverte dans seulement 22 % des cas. Alors que 37 % des patients opérés décèdent dans les 6 mois post-opératoires (survie globale médiane de 17 mois), la cimentoplastie offre une consolidation antalgique immédiate sans retarder les traitements systémiques.",
+        "protocol_fr": "Évaluation systématique en RCP Métastases Osseuses (score SINS rachidien, classification de Harrington/mirels pelvienne, pronostic oncologique selon le primitif) • Cimentoplastie percutanée vertébrale ou acétabulaire/sacrée sous guidage TDM et fluoroscopique seule ou couplée à la radiothérapie stéréotaxique/antalgique • Réservation de la chirurgie lourde aux compressions médullaires aiguës ou instabilités non accessibles au vissage/cimentoplastie.",
+        "key_points_fr": [
+            "La cimentoplastie percutanée est indiquée chez 39 % des patients présentés en RCP Métastases Osseuses en CHU (contre 22 % pour la chirurgie).",
+            "85 % des patients présentent une atteinte rachidienne et 51 % une atteinte du bassin, cibles privilégiées de la radiologie interventionnelle ostéo-articulaire.",
+            "37 % des patients opérés décédant dans les 6 mois, l'approche percutanée (cimentoplastie ± vissage) évite une morbidité chirurgicale disproportionnée.",
+            "Données françaises AP-HP directement transposables au flux de patients oncologiques pris en charge en HDJ et au scanner à Cochin."
+        ],
+        "tags": ["Métastases osseuses", "Cimentoplastie", "RCP", "Rachis", "Bassin", "World J Surg Oncol 2026"]
+    },
+    "42785703": {
+        "category_id": "ect_mets",
+        "title_fr": "Oncologie interventionnelle rachidienne : revue illustrée des techniques mini-invasives (électrochimiothérapie épidurale, cimentoplastie cervicale, vissage odontoidien/sacré et thermo-ablation)",
+        "modality": "Scanner Interventionnel / Angiographie Biplan / Cône-Beam CT",
+        "intervention_type": "Électrochimiothérapie (ECT) Épidurale, Thermo-Ablation, Cimentoplastie Cervicale & Vissage",
+        "cochin_link": "En lien direct avec les procédures complexes d'« électrochimiothérapie (ECT) rachidienne/épidurale, cimentoplastie cervicale et vissage pelvi-sacré » réalisées à Cochin.",
+        "summary_fr_short": "Mise au point illustrée française (*Neurochirurgie*, sept. 2026, équipes Pitié-Salpêtrière & Rouen) synthétisant l'arsenal d'oncologie interventionnelle rachidienne : biopsie radioguidée, cimentoplastie des étages complexes (rachis cervical), fixation percutanée (odontoïde, sacrum, bassin), embolisation préopératoire, ablation thermique et électrochimiothérapie (ECT) en présence d'une épidurite.",
+        "summary_fr_detailed": "Rédigée par des équipes françaises de radiologie interventionnelle ostéo-articulaire et neuroradiologique, cette revue détaille l'intégration complémentaire des gestes percutanés dans les métastases et tumeurs primitives du rachis. Au-delà de la vertébroplastie thoraco-lombaire standard, l'article précise les règles techniques et de sécurité pour les localisations à haut risque : cimentoplastie cervicale (abord antéro-latéral ou trans-oral), vissage percutané de l'odontoïde et des fractures-lyses sacro-pelviennes, thermo-ablation (RF/cryoablation sous thermoprotection épidurale et monitorage radiculaire) et électrochimiothérapie (ECT) à la bléomycine qui permet de traiter les extensions épidurales au contact du cordon médullaire sans risque de lésion thermique.",
+        "protocol_fr": "Bilan pré-thérapeutique IRM + TDM (bilan de la corticale postérieure, de l'extension épidurale Bilsky et repérage de l'artère d'Adamkiewicz si nécessaire) • Choix personnalisé : thermo-ablation (RF/cryo) + cimentoplastie pour les lésions intracorporelles, ou électrochimiothérapie (ECT) non thermique en cas d'envahissement épidural ou radiculaire • Combinaison au vissage percutané en cas d'instabilité mécanique (SINS ≥ 7).",
+        "key_points_fr": [
+            "L'électrochimiothérapie (ECT) constitue l'alternative de choix à l'ablation thermique lorsqu'une coulée tumorale épidurale jouxte la moelle ou les racines.",
+            "Détaille les corridors de sécurité pour la cimentoplastie cervicale, le vissage de l'odontoïde et la fixation spino-pelvienne percutanée.",
+            "Insiste sur les stratégies de neuroprotection (dissection épidurale au CO2/sérum glucosé, thermométrie et monitorage neurophysiologique).",
+            "Synthèse française de référence alignée sur l'intégralité du plateau technique interventionnel ostéo-articulaire de l'Hôpital Cochin."
+        ],
+        "tags": ["Oncologie interventionnelle rachidienne", "Électrochimiothérapie", "Cimentoplastie cervicale", "Vissage percutané", "Épidurite métastatique", "Neurochirurgie 2026"]
+    },
+    "42955458": {
+        "category_id": "msk_imaging",
+        "title_fr": "Rôle actuel de la radiomique IRM dans la prise en charge des sarcomes des tissus mous : diagnostic de grade, prédiction et évaluation de la réponse thérapeutique",
+        "modality": "IRM Multiparamétrique & Analyse Radiomique Quantitative",
+        "intervention_type": "Caractérisation IRM Pré-Biopsique & Évaluation de Réponse des Sarcomes",
+        "cochin_link": "Complète les bilans d'« IRM diagnostique, ciblage biopsique et suivi post-thérapeutique des sarcomes des parties molles » en centre de référence Sarcome à Cochin.",
+        "summary_fr_short": "Revue de synthèse (*Current Treatment Options in Oncology*, oct. 2026, IF 4,1) faisant le point sur l'apport des biomarqueurs radiomiques extraits de l'IRM conventionnelle dans les sarcomes des tissus mous : discrimination bas grade vs haut grade avant biopsie, prédiction précoce de la nécrose post-traitement néoadjuvant et stratification pronostique du risque métastatique.",
+        "summary_fr_detailed": "Les sarcomes des tissus mous (STS) présentent une forte hétérogénéité spatiale qui limite parfois l'analyse sémantique visuelle de l'IRM et expose au risque d'échantillonnage incomplet lors de la biopsie percutanée. Cette revue synthétise les performances cliniques des modèles radiomiques IRM (séquences T1, T2 Fat-Sat, DWI/ADC et T1 injecté) pour : 1) différencier les lésions bénignes (lipomes, fasciites, schwannomes) des sarcomes et distinguer les grades FNCLCC G1 vs G2/G3 ; 2) cartographier les sous-régions intratumorales (« habitats ») les plus agressives afin de guider la microbiopsie percutanée ; et 3) prédire la réponse histopathologique (nécrose > 90 %) aux traitements néoadjuvants mieux que les seuls critères dimensionnels RECIST.",
+        "protocol_fr": "Acquisition IRM multiparamétrique standardisée (T1, T2 FS/STIR, diffusion multi-b avec ADC et perfusion/T1 Gado) • Analyse de l'hétérogénéité de texture intratumorale et de la zone périlésionnelle pour identifier le contingent de plus haut grade • Ciblage de la biopsie percutanée sur l'habitat hypercellulaire/hypervasculaire et suivi longitudinal post-thérapeutique multiparamétrique.",
+        "key_points_fr": [
+            "L'analyse quantitative de l'hétérogénéité IRM distingue avec une haute précision les sarcomes de haut grade (FNCLCC G2–G3) des tumeurs de bas grade.",
+            "Permet d'orienter la biopsie percutanée vers le sous-volume tumoral (« habitat ») biologiquement le plus agressif.",
+            "Surpasse les critères morphologiques RECIST 1.1 pour évaluer la nécrose tumorale réelle après traitement néoadjuvant ou ablation.",
+            "Renforce la valeur ajoutée de l'expertise IRM ostéo-articulaire de Cochin au sein de la RCP Sarcome."
+        ],
+        "tags": ["Sarcome des tissus mous", "IRM multiparamétrique", "Radiomique", "Réponse thérapeutique", "Grade FNCLCC", "Curr Treat Options Oncol 2026"]
+    },
+    "42234093": {
+        "category_id": "cyst_sclerotherapy",
+        "title_fr": "Mesure in vivo de la pression intra-osseuse des lésions kystiques osseuses (KOA / KOE) sous guidage scanographique et comparaison à la moelle normale",
+        "modality": "Scanner Interventionnel + Manométrie Intra-Osseuse",
+        "intervention_type": "Sclérothérapie Percutanée Scanoguidée de Kyste Osseux (KOA / KOE)",
+        "cochin_link": "Directement lié aux procédures d'« alcoolisation / sclérothérapie percutanée sous scanner de kyste osseux anévrismal (KOA) et essentiel (KOE) » réalisées à Cochin.",
+        "summary_fr_short": "Étude prospective du Massachusetts General Hospital (*Skeletal Radiology*, juin/oct. 2026, équipe de C.Y. Chang) mesurant in vivo la pression intra-osseuse par le trocart de ponction lors des sclérothérapies scanoguidées de kystes osseux : mise en évidence d'une hyperpression systolique intrakystique significative (90 ± 18 mmHg vs 67 ± 23 mmHg dans la moelle normale, p = 0,01) indépendante de la pression artérielle systémique.",
+        "summary_fr_detailed": "La physiopathologie de l'expansion corticale et du risque d'extravasation lors de la sclérothérapie des kystes osseux anévrismaux (KOA) et essentiels (KOE) repose sur un régime d'hyperpression intralésionnelle jusqu'ici peu quantifié chez l'adulte et l'adolescent. Dans cette étude prospective portant sur 52 patients (lésions kystiques osseuses adressées pour sclérothérapie TDM vs moelle osseuse normale), la pression intra-osseuse a été enregistrée pendant 5 minutes via un capteur artériel fermé connecté au trocart osseux. La pression systolique intrakystique est significativement plus élevée dans les kystes osseux que dans la moelle normale (90 ± 18 mmHg contre 67 ± 23 mmHg, p = 0,01), alors même que la pression artérielle systémique moyenne des patients jeunes porteurs de kystes est plus basse (80 vs 93 mmHg), confirmant l'autonomie hémodynamique du compartiment kystique.",
+        "protocol_fr": "Mise en place sous guidage TDM d'un trocart osseux dans la cavité kystique • Mesure/décompression initiale de l'hyperpression intrakystique (systolique moyenne ~90 mmHg) et réalisation systématique d'une technique à double aiguille (une aiguille d'injection et une aiguille de décompression/ventilation) lors de l'injection du produit de contraste et de l'agent sclérosant (alcool absolu, polidocanol ou doxycycline) pour prévenir toute surpression et fuite veineuse.",
+        "key_points_fr": [
+            "Démontre in vivo une hyperpression systolique élevée (90 ± 18 mmHg) au sein des lésions kystiques osseuses par rapport à la moelle normale (67 mmHg).",
+            "La pression intrakystique est indépendante de la pression artérielle systémique (p > 0,35), traduisant un mécanisme hémodynamique local propre.",
+            "Justifie physiologiquement le recours au montage à double trocart (décompression/drainage) lors des alcoolisations et sclérothérapies à Cochin.",
+            "Réduit le risque d'extravasation veineuse ou péri-osseuse de l'agent sclérosant en évitant toute surpression lors de l'injection."
+        ],
+        "tags": ["Kyste osseux anévrismal", "Kyste osseux essentiel", "Pression intra-osseuse", "Sclérothérapie", "Scanner interventionnel", "Skeletal Radiol 2026"]
+    },
+    "42671500": {
+        "category_id": "ablation_benign",
+        "title_fr": "Ciblage assisté par robotique pour le traitement percutané de l'ostéome ostéoïde : revue systématique sur 440 procédures",
+        "modality": "Scanner Interventionnel / Guidage Robotique & Navigation 3D",
+        "intervention_type": "Thermo-Ablation Percutanée (RF / Cryoablation) d'Ostéome Ostéoïde",
+        "cochin_link": "Complète la réflexion technique sur le « guidage TDM de haute précision pour radiofréquence et cryoablation d'ostéome ostéoïde (rachis, col fémoral, talus) » à Cochin.",
+        "summary_fr_short": "Revue systématique (*Journal of Robotic Surgery*, août 2026, 12 études / 440 procédures dont 232 assistées par robot) évaluant l'apport du positionnement robotique lors du forage et de l'ablation thermique des ostéomes ostéoïdes : réduction du nombre de repositionnements de broche et fenêtres osseuses plus économiques, avec une efficacité clinique et une sécurité équivalentes au guidage TDM expert à main levée.",
+        "summary_fr_detailed": "L'accès millimétrique au nidus de l'ostéome ostéoïde (notamment dans les localisations profondes, péri-articulaires ou rachidiennes proches des structures nerveuses) conditionne le succès de la radiofréquence ou de la cryoablation. Cette revue systématique analyse 440 cas traités (dont 232 avec assistance robotique contraignant la trajectoire du trocart). Le guidage robotique réduit le nombre de corrections d'angle de la broche de Kirschner et raccourcit le temps de ciblage balistique initial. En revanche, à modalité d'ablation thermique constante (RFA ou cryoablation), les taux de succès clinique définitif, de récidive et de complications ne diffèrent pas significativement d'un guidage scanographique conventionnel réalisé par un opérateur entraîné.",
+        "protocol_fr": "Acquisition TDM en coupes fines millimétriques centrée sur le nidus calcifié ou hypodense • Planification 3D de la trajectoire trans-corticale optimale évitant les pédicules vasculo-nerveux et le cartilage articulaire • Forage coaxial (11G–14G) jusqu'au centre du nidus (avec approche no-touch en cryoablation pour les localisations superficielles ou juxta-articulaires) • Thermo-ablation RF (90°C pendant 6 min) ou cryoablation.",
+        "key_points_fr": [
+            "Sur 440 procédures analysées, le facteur déterminant du succès reste l'ablation thermique complète du nidus plutôt que le recours à un bras robotique.",
+            "L'assistance balistique diminue le nombre de réorientations d'aiguille dans les trajectoires obliques complexes (bassin, rachis, col fémoral).",
+            "Les taux de guérison clinique (> 90–95 %) et de complications demeurent identiques au guidage TDM à main levée pratiqué en centre expert.",
+            "Confirme l'excellence du standard actuel par thermo-ablation scanoguidée directe (RF ou cryoablation no-touch) réalisé à Cochin."
+        ],
+        "tags": ["Ostéome ostéoïde", "Radiofréquence", "Guidage scanographique", "Robotique interventionnelle", "Nidus", "J Robot Surg 2026"]
     }
 }
 
@@ -1405,6 +1490,9 @@ JOURNAL_IMPACT_FACTORS = {
     "pain management": (2.0, "Pain Manag"),
     "european journal of surgical oncology": (3.5, "Eur J Surg Oncol"),
     "world journal of surgical oncology": (2.5, "World J Surg Oncol"),
+    "neurochirurgie": (1.8, "Neurochirurgie"),
+    "neuro-chirurgie": (1.8, "Neurochirurgie"),
+    "journal of robotic surgery": (2.2, "J Robot Surg"),
 }
 
 
