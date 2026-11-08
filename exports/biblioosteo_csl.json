@@ -102,6 +102,45 @@
     "abstract": "[SYNTHÈSE FR] Étude de cohorte (*Pain Management*, nov. 2026, 31 patients / 35 genoux, 91 % de gonarthrose sévère Kellgren-Lawrence 3–4) démontrant une baisse significative des douleurs (marche, repos, nuit) et une diminution de la synovite en IRM (Hoffa-synovitis / effusion-synovitis) sans aggravation des lésions osseuses sous-chondrales (BML) ni de l'arthrose à 3 mois.\n\n[ABSTRACT EN] OBJECTIVE: To evaluate short-term clinical and imaging outcomes after ultrasound-guided cooled radiofrequency ablation (CRFA) in patients predominantly with advanced knee osteoarthritis (KOA). METHODS: This retrospective cohort analysis included prospectively recorded data from 31 patients (35 knees; age, 73.6 ± 8.8 years; Kellgren-Lawrence [KL] grade 3 or 4 in 91%). Outcomes at baseline and 3 months included visual analog scale (VAS) pain, Knee Injury and Osteoarthritis Outcome Score (KOOS), KL grade, mechanical axis percentage, and MRI Osteoarthritis Knee Score assessments of bone marrow lesions (BMLs), Hoffa-synovitis, and effusion-synovitis. Sensitivity analysis retained the first-treated knee in bilateral cases. RESULTS: VAS changes were -9.3 for rest pain, -24.0 for walking pain, and -15.0 for night pain (all p < 0.05). Walking VAS decreased by at least 30% in 65.7% and by at least 50% in 42.9% of knees. Four KOOS subscales improved, including KOOS Pain by 12.8 points (p < 0.001). No significant group-level changes were observed in KL grade, alignment, or BML scores. Hoffa-synovitis and effusion-synovitis scores decreased. No serious procedure-related adverse events were documented. CONCLUSION: CRFA was associated with improved pain and function at 3 months without group-level worsening in KL grade, alignment, or BML scores. Longer-term controlled studies are required."
   },
   {
+    "id": "pmid-42995280",
+    "type": "article-journal",
+    "title": "Evolving role of cryoablation and cryoneurolysis for interventional pain management",
+    "container-title": "European radiology",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "DOI": "10.1007/s00330-026-13035-z",
+    "PMID": "42995280",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42995280/",
+    "author": [
+      {
+        "family": "Düx",
+        "given": "DM"
+      },
+      {
+        "family": "Filippiadis",
+        "given": "D"
+      },
+      {
+        "family": "Wacker",
+        "given": "F"
+      },
+      {
+        "family": "Ringe",
+        "given": "KI"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Mise au point de référence publiée dans *European Radiology* (nov. 2026, IF 4,7, équipe de D. Filippiadis) structurant les indications, le mécanisme d'axonotmésis réversible (classification de Sunderland II) et les protocoles de cryoablation tumorale (ostéome ostéoïde, métastases osseuses, tumeurs des parties molles) et de cryoneurolyse périphérique (nerfs intercostaux, clunéaux, géniculés, névrome de Morton).\n\n[ABSTRACT EN] Despite advances in pain management, pain remains a major global health challenge in both oncological and non-oncological patients. Long-term pharmacological treatment is often restricted by insufficient therapeutic benefit and adverse events, highlighting the need for alternative approaches such as image-guided pain therapies. The idea of treating pain with cold has been recognized for centuries, and today cryotherapy has emerged as a valuable minimally invasive option for pain management. Cryoablation refers to the destruction of tissue with extreme cold and has an increasing role, especially in the treatment of benign (e.g., osteoid osteoma), malignant bone (i.e., metastases), and soft tissue tumors, either with a curative or palliative intent. Cryoneurolysis is a related but distinct application, focusing either on peripheral nerve modulation or nerve destruction. Cryoneurolysis may be highly effective for the treatment of acute or chronic pain, including sympathetic neurolysis in cancer and non-cancer-related pain syndromes. The general approach in patients with tumor-related pain depends on whether the lesion itself can be ablated or not. In non-oncologic patients, cryoneurolysis of the responsible nerve is typically performed following a positive response to a diagnostic nerve block. Potential indications for cryotherapy are constantly evolving; however, evidence, especially for cryoneurolysis, is still limited and based mostly on single-center case series and retrospective studies. Standardized ablation protocols are lacking, and for the duration of cycles, most experts rely on imaging visualization and validated protocols. Equally important, successful integration of cryoablation and cryoneurolysis into daily practice requires structured workflows across different patient pathways and interdisciplinary management. KEY POINTS: Question Pain management remains a major global health challenge and an unmet need in oncological and non-oncological patients. Findings Cryotherapy, in terms of cryoablation and cryoneurolysis, is increasingly incorporated in multimodal curative and palliative pain care concepts, for treatment of acute and chronic pain syndromes. Clinical relevance Advancement and validation of standardized treatment protocols are needed to strengthen evidence and further enhance clinical implementation in interventional radiology practice and interdisciplinary patient care."
+  },
+  {
     "id": "pmid-42931896",
     "type": "article-journal",
     "title": "Intraarticular acetabular osteoid osteoma treated with CT-guided radiofrequency ablation after unsuccessful arthroscopy: a case report and literature review",
@@ -304,6 +343,37 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude rétrospective sur 111 chondrosarcomes opérés (*European Journal of Surgical Oncology*, oct. 2026) évaluant la concordance de grade entre la biopsie percutanée préopératoire au trocart (CNB) et la pièce de résection : concordance parfaite (100 %) pour les chondrosarcomes dédifférenciés, mais risque élevé de sous-évaluation dans les grades G1–G2 (concordance globale 48 %), imposant un ciblage biopsique guidé par l'IRM sur les zones d'ostéolyse ou d'envahissement des parties molles.\n\n[ABSTRACT EN] Introduction The reliability of Core Needle Biopsy (CNB) for the preoperative diagnosis of chondroid tumors and for determining the histological grade of chondrosarcoma (CS) remains debated. The aim of the study was to evaluate the diagnostic accuracy and agreement of CNB in determining the histological grade of CS. Materials and methods A retrospective study was conducted including all patients who underwent surgical resection for CS at a tertiary research hospital between 2006 and 2023. All the included patients had preoperative histological diagnosis obtained by CNB. All samples were evaluated by experienced musculoskeletal pathologists. The agreement between CNB and definitive histology was assessed using Cohen's Kappa (κ). Statistical analysis was performed using SPSS version 29. Results A total of 111 patients with a mean age of 54.5 ± 16 years were included. Overall concordance between CNB and final histology was observed in 53/111 cases, corresponding to a concordace of 48%. Among the 58 discordant cases, 13 (22.4%) showed a discrepancy of two or more histological grades. Based on the biopsy grade, the concordance was 0% (0/4) for chondroma, 46% (29/63) for G1, 41.4% (12/29) for G2, 40% (2/5) for G3, and 100% (10/10) for dedifferentiated tumors (κ = 0.28). Based on anatomical location, it was stratified by hemipelvis (31 cases, κ = 0.3), distal femur (14, κ = 0.5), proximal femur (19, κ = 0.1), proximal humerus (8, κ = 0), scapula (8, κ = 0.6), and proximal tibia (11, κ = 0.18). Conclusion This study showed modest agreement between the histological grade obtained by CNB and the definitive postoperative grade in CS. Agreement was higher in dedifferentiated tumors, in central skeletal lesions, and in tumors with soft tissue invasion. Conversely, concordance was particularly poor in G1-G2 CSs and in peripheral lesions, with an increased risk of undergrading."
+  },
+  {
+    "id": "pmid-42997475",
+    "type": "article-journal",
+    "title": "Multimodal imaging and artificial intelligence for bone tumor diagnosis: Comparative performance and emerging technologies",
+    "container-title": "Journal of bone oncology",
+    "volume": "61",
+    "issue": "",
+    "page": "100808",
+    "DOI": "10.1016/j.jbo.2026.100808",
+    "PMID": "42997475",
+    "PMCID": "PMC13742044",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42997475/",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "X"
+      },
+      {
+        "family": "Liu",
+        "given": "L"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue critique publiée dans le *Journal of Bone Oncology* (oct./déc. 2026, IF 3,4) démontrant que la limite principale des modèles diagnostiques en oncologie osseuse réside dans la variabilité du standard histologique : la concordance de grade entre biopsie au trocart (CNB) et pièce opératoire dans les chondrosarcomes centraux chute de κ = 0,63 sur les os longs à κ = 0,12 dans le bassin.\n\n[ABSTRACT EN] Multimodal imaging is central to the diagnosis, staging, and management of bone tumors. Radiography and computed tomography remain essential for initial assessment and cortical evaluation, magnetic resonance imaging provides superior soft tissue contrast and local staging accuracy, and positron emission tomography enhances detection of metastatic disease and treatment response. No single technique suffices across clinical scenarios. Advances in artificial intelligence and radiomics offer avenues to augment this framework, with demonstrated potential in lesion classification, segmentation, prognostication, and response prediction. This review advances a specific argument rather than surveying available technologies: that the principal constraint on artificial intelligence in musculoskeletal oncology is the stability of the reference standard rather than algorithmic capability. Ground truth in bone tumors is unstable on four grounds. Core needle biopsy samples a limited volume and may miss the highest-grade component: agreement between biopsy and resection grade in central chondrosarcoma falls from a weighted kappa of 0.63 in long bones to 0.12 in the pelvis. Expert interpretation is itself inconsistent, with interobserver kappa for grading cartilaginous tumors of 0.44 among musculoskeletal pathologists and 0.35 among radiologists. Molecular criteria have redefined entities within the past decade, so older datasets contain classes that no longer exist as defined. And histological classification does not reliably predict clinical behavior. Consequently, measurable accuracy has a ceiling set by the reference standard rather than the algorithm, and apparent failure on external validation may reflect label divergence between institutions rather than model deficiency. Evidence is graded throughout, and clinical readiness distinguished from technical performance. No system for primary bone tumor characterization has regulatory clearance in the United States or Europe, and formal appraisal of this literature confirms low methodological compliance and infrequent external validation. Progress will depend on multicenter validation and protocol harmonization, and, distinctively for this field, on composite reference standards, outcome-based endpoints, and explicit uncertainty modelling, since ground-truth instability can be mitigated but not eliminated."
   },
   {
     "id": "pmid-42955458",
@@ -687,6 +757,65 @@
     "abstract": "[SYNTHÈSE FR] Mise au point illustrée française (*Neurochirurgie*, sept. 2026, équipes Pitié-Salpêtrière & Rouen) synthétisant l'arsenal d'oncologie interventionnelle rachidienne : biopsie radioguidée, cimentoplastie des étages complexes (rachis cervical), fixation percutanée (odontoïde, sacrum, bassin), embolisation préopératoire, ablation thermique et électrochimiothérapie (ECT) en présence d'une épidurite.\n\n[ABSTRACT EN] Spine oncological interventional radiology has become an integral component of multidisciplinary care for patients with neoplastic spinal disease. Beyond conventional vertebral augmentation, the field now encompasses image-guided biopsy, cementoplasty at complex spinal levels, percutaneous fixation, preoperative embolization of hypervascular tumors, thermal ablation, and electrochemotherapy. These techniques address complementary objectives, including histological diagnosis, rapid pain relief, mechanical stabilization, facilitation of surgery, and local tumor control in selected patients. Advances in imaging guidance, procedural planning, and device technology have enabled increasingly precise and tailored interventions in anatomically constrained regions. However, the spine remains a high-risk anatomical territory because of the proximity of the spinal cord, nerve roots, radiculomedullary arteries, and major vascular structures. Procedural safety therefore depends on careful patient selection, detailed knowledge of spinal anatomy, rigorous planning, and multidisciplinary coordination. Particularly challenging scenarios include cervical cementoplasty, percutaneous fixation of odontoid, pelvic, or sacral lesions, and tumor treatment in the presence of epidural extension. This illustrated review summarizes the main minimally invasive techniques currently used in spine interventional oncology, with emphasis on their indications, technical principles, safety strategies, limitations, and integration into contemporary oncologic care pathways."
   },
   {
+    "id": "pmid-42997935",
+    "type": "article-journal",
+    "title": "Dynamic contrast-enhanced magnetic resonance imaging (MRI) and intravoxel incoherent motion imaging for characterizing angiogenesis in soft-tissue sarcomas: an exploratory study based on MRI-pathology co-alignment",
+    "container-title": "Quantitative imaging in medicine and surgery",
+    "volume": "16",
+    "issue": "11",
+    "page": "881",
+    "DOI": "10.21037/qims-2026-1-0086",
+    "PMID": "42997935",
+    "PMCID": "PMC13743322",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42997935/",
+    "author": [
+      {
+        "family": "Zhang",
+        "given": "K"
+      },
+      {
+        "family": "Tao",
+        "given": "J"
+      },
+      {
+        "family": "Dai",
+        "given": "Y"
+      },
+      {
+        "family": "Huang",
+        "given": "J"
+      },
+      {
+        "family": "Li",
+        "given": "J"
+      },
+      {
+        "family": "Zhu",
+        "given": "Y"
+      },
+      {
+        "family": "Liu",
+        "given": "Y"
+      },
+      {
+        "family": "Liu",
+        "given": "Y"
+      },
+      {
+        "family": "Wang",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude prospective sur 70 sarcomes des tissus mous en IRM 3T (*Quantitative Imaging in Medicine and Surgery*, nov. 2026) avec co-alignement spatial coupe-à-coupe IRM/anatomopathologie, démontrant que les paramètres Ktrans (DCE-MRI) et D* (IVIM) corrèlent fortement avec l'expression de VEGF et la densité microvasculaire (MVD) avec une AUC de 0,86.\n\n[ABSTRACT EN] BACKGROUND: Vascular endothelial growth factor (VEGF) expression and microvessel density (MVD) are established markers of tumor angiogenesis and key targets for anti-angiogenic therapy in soft-tissue sarcomas (STSs). Dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) and intravoxel incoherent motion (IVIM) imaging are complementary magnetic resonance imaging (MRI) methods commonly used to assess angiogenesis in a variety of tumors. This study aimed to explore whether DCE-MRI and IVIM imaging could be used as non-invasive tools to evaluate tumor angiogenesis in STS based on MRI-pathology co-alignment. METHODS: In total, 70 patients with STS underwent 3.0-T DCE-MRI and IVIM imaging. The volume transfer constant (Ktrans), reflux rate constant (Kep), volume fraction of the extravascular extracellular space (Ve), true diffusion coefficient (D), pseudo-diffusion coefficient (D*), and perfusion fraction (f) were measured. Correlations between MRI parameters and VEGF expression or MVD were examined. Differences in MRI parameters between tumors with low and high VEGF expression were evaluated. Receiver operating characteristic (ROC) curves were generated, and interobserver reproducibility was assessed using the intraclass correlation coefficient (ICC). An MRI-pathology control protocol was implemented to verify the spatial correspondence between MRI slices and their corresponding histologic sections. RESULTS: Ktrans, Kep, D*, and f were positively correlated with VEGF expression (r=0.673, 0.573, 0.692, and 0.386, respectively) and MVD (r=0.662, 0.595, 0.619, and 0.344, respectively). Ktrans and D* were identified as independent factors associated with VEGF expression and MVD. No significant correlations were observed between Ve or D and either angiogenesis marker. Tumors with high VEGF expression exhibited higher Ktrans, Kep, D*, and f values than those with low VEGF expression. The areas under the ROC curves for the four parameters in differentiating between tumors with low and high VEGF expression were 0.861, 0.844, 0.860, and 0.720, respectively. CONCLUSIONS: The study demonstrated associations between DCE-MRI- and IVIM-derived perfusion metrics and VEGF expression and MVD in STSs."
+  },
+  {
     "id": "pmid-42803442",
     "type": "article-journal",
     "title": "Mapping Genicular Nerve Endings for Optimal Pain Management: A Comparative Cadaveric Analysis Between Native Versus Prosthetic Knee",
@@ -771,6 +900,77 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Mise au point pratique (*Skeletal Radiology*, sept. 2026) définissant le choix, la concentration et le séquençage des anesthésiques locaux lors des procédures de radiofréquence (RFA) rachidienne (branches médiales), sacro-iliaque et des grandes articulations périphériques (genou, hanche, épaule) afin de préserver la fiabilité des tests de stimulation motrice/sensitive et d'optimiser l'analgésie.\n\n[ABSTRACT EN] Local anesthetic (LA) selection for radiofrequency ablation (RFA) of spinal medial branch nerves, sacroiliac joint lateral branches, and large peripheral joint articular branches has not been addressed by any dedicated document. The concentration, class, and sequencing of agents used during needle placement, stimulation testing, and pre-lesioning injection have plausible implications for procedural accuracy and post-procedural analgesia. This review synthesizes pharmacological data and adjacent procedural literature into practice considerations for the musculoskeletal radiologist. No randomized or prospective comparative trial has evaluated LA agents, concentrations, or sequencing within an RFA procedure; every statement therefore rests on indirect evidence, mechanistic reasoning, or the authors' practice, and each is labeled accordingly. Lidocaine 1% is a reasonable default for skin, subcutaneous, and deep track anesthesia. Where sensory and/or motor stimulation testing is performed, there is a mechanistic argument for avoiding lidocaine 2% close to the target nerve, since selectivity between fiber classes falls as concentration rises; that argument derives from epidural quantitative sensory testing and rodent electrophysiology, has not been tested in RFA, and no study has shown that lidocaine 2% impairs stimulation testing or procedural outcome. Bupivacaine 0.25% or ropivacaine 0.2% is a reasonable choice for perineural injection before lesioning. Premixing lidocaine and bupivacaine has no demonstrated advantage: across five randomized trials, all outside interventional pain settings and heterogeneous in design, mixtures did not accelerate onset relative to bupivacaine alone and in several curtailed its duration; two also found same-site sequential injection no better than premixing. Ropivacaine is a reasonable preference in cardiac conduction disease or multi-level procedures. A structured allergy substitution pathway is provided with formal allergist evaluation as the central step. These considerations are offered to inform practice and to prompt the prospective studies the field lacks."
+  },
+  {
+    "id": "pmid-42782915",
+    "type": "article-journal",
+    "title": "Pre-Spondylectomy Radiofrequency Ablation for Spinal Chordoma: An Illustrative Case and Systematic Review of Clinical Applications and Outcomes",
+    "container-title": "Current oncology (Toronto, Ont.)",
+    "volume": "33",
+    "issue": "9",
+    "page": "569",
+    "DOI": "10.3390/curroncol33090569",
+    "PMID": "42782915",
+    "PMCID": "PMC13605485",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42782915/",
+    "author": [
+      {
+        "family": "Husbands",
+        "given": "H"
+      },
+      {
+        "family": "Johnston",
+        "given": "D"
+      },
+      {
+        "family": "Tharakan",
+        "given": "M"
+      },
+      {
+        "family": "Hussan",
+        "given": "A"
+      },
+      {
+        "family": "Balasubramanian",
+        "given": "K"
+      },
+      {
+        "family": "Bettiol",
+        "given": "P"
+      },
+      {
+        "family": "Chou",
+        "given": "B"
+      },
+      {
+        "family": "Hameed",
+        "given": "S"
+      },
+      {
+        "family": "Smith",
+        "given": "ZA"
+      },
+      {
+        "family": "Janjua",
+        "given": "MB"
+      },
+      {
+        "family": "Burke",
+        "given": "JF"
+      },
+      {
+        "family": "Shakir",
+        "given": "HJ"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue systématique (*Current Oncology*, sept. 2026, 13 études / 33 patients / 34 sites de chordomes rachidiens ou sacrés traités par cryoablation [n=21] ou radiofréquence [n=11]) et cas illustratif de chordome L4 traité par RFA + vertébroplastie scanoguidée avant spondylectomie en bloc, sans déficit neurologique ni récidive à 18 mois.\n\n[ABSTRACT EN] Chordomas are rare, locally aggressive spinal tumors. En bloc resection may improve local control but can cause substantial morbidity. Thermal ablation may provide a less invasive adjunct or alternative in selected cases. We systematically reviewed reports of radiofrequency ablation (RFA), cryoablation, laser interstitial thermal therapy, high-intensity focused ultrasound, and similar thermal techniques for spinal or sacral chordoma to characterize their clinical applications and reported clinical and radiographic outcomes across pre-resection, primary non-operative, and palliative settings. Eligible studies reported at least one ablation-related clinical or radiographic outcome. Data were descriptively synthesized, and risk of bias was assessed using the Joanna Briggs Institute criteria. Thirteen studies including 33 patients and 34 ablated sites were identified. Cryoablation was used in 21 patients, RFA in 11 patients, and laser interstitial thermal therapy in one patient. Ablation was used as a pre-resection adjunct, primary treatment for unresectable disease, or palliation for recurrent or metastatic lesions. Most reports described pain improvement, short-term local stability, and few major complications. We also report an L4 chordoma treated with CT-guided RFA and vertebroplasty before staged en bloc spondylectomy, without a new neurologic deficit or local recurrence at 18 months. Thermal ablation may be a technically feasible adjunct, primary non-operative option, or palliative strategy for carefully selected spinal and sacral chordomas. In the presented mobile-spine case, planned pre-spondylectomy RFA was feasible before staged en bloc resection; however, limited follow-up and sparse heterogeneous literature preclude conclusions regarding long-term local control, recurrence reduction, survival, or routine use. Ablation should not replace oncologically appropriate en bloc resection when that procedure can be safely achieved and should be considered selectively within multidisciplinary chordoma care."
   },
   {
     "id": "pmid-42671500",
@@ -2249,6 +2449,53 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Mise au point (*SICOT-J*, janv. 2026) synthétisant les avancées thérapeutiques dans les tumeurs à cellules géantes de l'os (TCG / GCTB) des membres, mettant en avant l'efficacité de l'ablation thermique percutanée (radiofréquence et cryoablation) pour traiter les récidives locales de petite taille sans reprise chirurgicale lourde.\n\n[ABSTRACT EN] When treating extremities affected by giant cell tumor of bone (GCTB), curettage should be performed to preserve the joint as much as possible in order to obtain a good functional outcome. The local recurrence risk is high following curettage, but new techniques are being developed to reduce local recurrence. We present a review of the literature reporting favorable results of radiofrequency ablation alone in locally recurrent small GCTB. New filling materials are also being developed to prevent non-oncological complications such as arthrosis and fractures. Routine measurement of tartrate-resistant acid phosphatase 5b in serum may be helpful in detecting early instances of local recurrence. For unresectable or metastatic GCTB, there is an urgent need for a new drug that is as effective as denosumab, avoids side effects, and can be administered to pregnant women."
+  },
+  {
+    "id": "pmid-42483265",
+    "type": "article-journal",
+    "title": "Polidocanol Sclerotherapy Plus Adjuvant Autogenous Bone Marrow Injection for Management of Aneurysmal Bone Cyst: A Prospective Study",
+    "container-title": "Indian journal of orthopaedics",
+    "volume": "60",
+    "issue": "7",
+    "page": "1612-1618",
+    "DOI": "10.1007/s43465-025-01648-3",
+    "PMID": "42483265",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42483265/",
+    "author": [
+      {
+        "family": "Elshal",
+        "given": "EA"
+      },
+      {
+        "family": "Byoumy",
+        "given": "MAM"
+      },
+      {
+        "family": "Hassan",
+        "given": "AME"
+      },
+      {
+        "family": "Ali",
+        "given": "AM"
+      },
+      {
+        "family": "Hatab",
+        "given": "MAAA"
+      },
+      {
+        "family": "Khashaba",
+        "given": "ASI"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude prospective sur 20 patients suivis 30 mois (*Indian Journal of Orthopaedics*, janv./juil. 2026) évaluant l'association d'une sclérothérapie percutanée au polidocanol et d'une injection adjuvante de moelle osseuse autologue dans les kystes osseux anévrismaux : chute de l'EVA douleur de 6,2 à 0,3, réduction du volume kystique de 79,9 mL à 2,0 mL (p < 0,001) et seulement 5 % de récidive.\n\n[ABSTRACT EN] Purpose Aneurysmal bone cysts (ABCs) are benign bone lesions that exhibit localized destructive growth. Conventionally, most patients are treated with curettage and bone grafting. Alternatively, percutaneous treatment using selective arterial embolization and sclerotherapy had been successfully used with promising results. Adjuvant use of bone marrow injection alone or with other agents for treatment of bone cysts was previously used. The aim of this work is to assess the clinical outcome of polidocanol sclerotherapy with adjuvant autogenous bone marrow injection for management of ABCs. Methods The present prospective study was conducted on 20 patients with ABCs diagnosed on the basis of clinical and radiological findings. All patients were managed using polidocanol sclerotherapy followed by adjuvant autogenous bone marrow injection. Pain was evaluated using Visual Analog Scale (VAS). Radiographic evaluation was performed using plain radiographs. All patients were followed for 30 months after the last treatment session. Results The present study was conducted on 20 patients with an age of 10.2 ± 4.4 years (range: 3.0-20.0 years). They comprised 12 males and 8 females. VAS for pain improved from 6.2 ± 1.4 at baseline to 0.3 ± 0.5 ( p p Conclusion Use of polidocanol sclerotherapy followed by adjuvant autogenous bone marrow injection for management of ABCs is highly effective with adequate safety profile."
   },
   {
     "id": "pmid-41473339",

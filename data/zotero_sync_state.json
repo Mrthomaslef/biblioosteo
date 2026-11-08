@@ -1,5 +1,5 @@
 {
-  "last_sync": "2026-11-07T07:04:30+01:00",
+  "last_sync": "2026-11-08T07:03:00+01:00",
   "user_id": 10722826,
   "username": "Mrthomaslef",
   "collection_key": "P8GXSZX2",
@@ -7,7 +7,7 @@
   "total_articles": 35,
   "subcollections": 9,
   "pdfs_attached": 49,
-  "total_articles_synced": 71,
+  "total_articles_synced": 76,
   "synced_pmids": [
     "41867110",
     "42780331",
@@ -79,6 +79,11 @@
     "42785703",
     "42671500",
     "42947096",
-    "42234093"
+    "42234093",
+    "42995280",
+    "42997475",
+    "42997935",
+    "42782915",
+    "42483265"
   ]
 }

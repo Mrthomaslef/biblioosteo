@@ -1334,6 +1334,91 @@ CURATED_DATA = {
             "Confirme l'excellence du standard actuel par thermo-ablation scanoguidée directe (RF ou cryoablation no-touch) réalisé à Cochin."
         ],
         "tags": ["Ostéome ostéoïde", "Radiofréquence", "Guidage scanographique", "Robotique interventionnelle", "Nidus", "J Robot Surg 2026"]
+    },
+    "42995280": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Évolution du rôle de la cryoablation tumorale et de la cryoneurolyse périphérique dans la prise en charge interventionnelle de la douleur (oncologique et non oncologique)",
+        "modality": "Scanner / Échographie / IRM Interventionnelle",
+        "intervention_type": "Cryoneurolyse Périphérique & Cryoablation Antalgique / Curative",
+        "cochin_link": "Synthèse européenne de référence (*European Radiology*, D. Filippiadis et al.) couvrant les « cryoneurolyses (Morton, intercostal, clunéal) et cryoablations osseuses/parties molles » de l'Agenda Cochin.",
+        "summary_fr_short": "Mise au point de référence publiée dans *European Radiology* (nov. 2026, IF 4,7, équipe de D. Filippiadis) structurant les indications, le mécanisme d'axonotmésis réversible (classification de Sunderland II) et les protocoles de cryoablation tumorale (ostéome ostéoïde, métastases osseuses, tumeurs des parties molles) et de cryoneurolyse périphérique (nerfs intercostaux, clunéaux, géniculés, névrome de Morton).",
+        "summary_fr_detailed": "Rédigée par les experts européens du comité CIRSE (D.M. Düx, D. Filippiadis, F. Wacker, K.I. Ringe), cette revue distingue et articule les deux piliers de la cryothérapie interventionnelle : 1) la cryoablation tissulaire (destruction tumorale par cycles de congélation-décongélation à -40°C des tumeurs osseuses bénignes comme l'ostéome ostéoïde, des métastases osseuses et des tumeurs des parties molles à visée curative ou palliative) ; et 2) la cryoneurolyse sélective des nerfs périphériques ou sympathiques (températures de -20°C à -60°C induisant une dégénérescence wallérienne réversible avec préservation de l'endonèvre et du périnèvre, évitant tout névrome de désafférentation). Chez le patient non oncologique, l'indication de cryoneurolyse repose sur la positivité préalable d'un bloc nerveux diagnostique ciblé.",
+        "protocol_fr": "En pathologie tumorale : cryoablation directe sous TDM/IRM avec visualisation temps réel de l'iceball couvrant l'interface os-tumeur et thermoprotection (hydro/carbodissection) • En douleur neuropathique ou articulaire non oncologique : bloc test anesthésique diagnostique préalable sous écho/scanner, puis cryoneurolyse ciblée (2 cycles de congélation de 2 à 3 min séparés par une décongélation passive) au contact du nerf responsable.",
+        "key_points_fr": [
+            "Clarifie l'algorithme décisionnel entre cryoablation de la lésion cible (tumeur osseuse ou des parties molles accessible) et cryoneurolyse du nerf afférent.",
+            "La cryoneurolyse induit une axonotmésis (Sunderland II) préservant la gaine conjonctive endoneurale, permettant une régénération axonale sans névrome secondaire.",
+            "Valide le prérequis d'un bloc diagnostique positif avant cryoneurolyse dans les douleurs non oncologiques (nerfs géniculés, clunéaux, intercostaux, inguinaux).",
+            "Souligne l'avantage décisif de la visualisation directe de la boule de glace au scanner ou en IRM par rapport aux techniques thermiques par le chaud."
+        ],
+        "tags": ["Cryoneurolyse", "Cryoablation", "Douleur interventionnelle", "Filippiadis", "Métastases osseuses", "Eur Radiol 2026"]
+    },
+    "42997935": {
+        "category_id": "msk_imaging",
+        "title_fr": "IRM de perfusion dynamique (DCE-MRI) et diffusion IVIM à 3T pour caractériser l'angiogenèse des sarcomes des tissus mous : étude de co-alignement radio-histologique",
+        "modality": "IRM 3T Multiparamétrique (DCE-MRI Perfusion + Diffusion IVIM)",
+        "intervention_type": "Cartographie IRM de l'Angiogenèse & Ciblage Biopsique des Sarcomes",
+        "cochin_link": "Directement applicable aux « bilans IRM 3T pré-biopsiques et au ciblage des zones hypervasculaires viables des sarcomes des parties molles » en RCP Sarcome à Cochin.",
+        "summary_fr_short": "Étude prospective sur 70 sarcomes des tissus mous en IRM 3T (*Quantitative Imaging in Medicine and Surgery*, nov. 2026) avec co-alignement spatial coupe-à-coupe IRM/anatomopathologie, démontrant que les paramètres Ktrans (DCE-MRI) et D* (IVIM) corrèlent fortement avec l'expression de VEGF et la densité microvasculaire (MVD) avec une AUC de 0,86.",
+        "summary_fr_detailed": "L'évaluation non invasive de la néo-angiogenèse tumorale au sein des sarcomes des tissus mous (STS) est cruciale pour guider la biopsie percutanée hors des zones nécrotiques et évaluer la réponse aux thérapies ciblées ou anti-angiogéniques. Sur 70 patients explorés en IRM 3T (séquences de perfusion dynamique T1 DCE-MRI et diffusion bi-exponentielle IVIM) avec protocole de recalage spatial strict entre coupes IRM et lames histologiques, les paramètres de transfert vasculaire Ktrans (r = 0,673), Kep (r = 0,573), le coefficient de pseudo-diffusion D* (r = 0,692) et la fraction de perfusion f corrèlent significativement avec l'expression immunohistochimique du VEGF et la densité microvasculaire (MVD). Ktrans (AUC = 0,861) et D* (AUC = 0,860) constituent deux biomarqueurs indépendants majeurs de l'hypervascularisation sarcomateuse.",
+        "protocol_fr": "IRM 3T pré-biopsique combinant : 1) séquence de diffusion IVIM multi-b (séparation de la diffusion moléculaire pure D et de la micro-perfusion capillaire D* et f sans injection) ; 2) séquence de perfusion dynamique T1 après injection de gadolinium (calcul des cartes paramétriques Ktrans, Kep et Ve) • Ciblage de la microbiopsie percutanée sur le « hot-spot » présentant le Ktrans et le D* les plus élevés.",
+        "key_points_fr": [
+            "Corrélation radio-histologique coupe-à-coupe démontrant que Ktrans (DCE-MRI) et D* (IVIM) reflètent fidèlement l'expression de VEGF et la densité microvasculaire.",
+            "Excellente performance diagnostique de Ktrans (AUC 0,861) et D* (AUC 0,860) pour identifier les contingents sarcomateux fortement angiogéniques.",
+            "La séquence IVIM permet d'estimer la fraction de perfusion microvasculaire (D*, f) même chez les patients insuffisants rénaux ne pouvant recevoir de gadolinium.",
+            "Optimise le rendement de la microbiopsie percutanée à Cochin en guidant le trocart vers le foyer tumoral biologiquement le plus actif."
+        ],
+        "tags": ["Sarcome des tissus mous", "DCE-MRI", "Diffusion IVIM", "Angiogenèse", "Concordance IRM-histologie", "Quant Imaging Med Surg 2026"]
+    },
+    "42997475": {
+        "category_id": "msk_biopsy",
+        "title_fr": "Imagerie multimodale, intelligence artificielle et limites de la biopsie au trocart (CNB) dans le diagnostic des tumeurs osseuses : analyse critique de la concordance biopsie-résection",
+        "modality": "Scanner / IRM / TEP-TDM & Biopsie Osseuse Percutanée",
+        "intervention_type": "Biopsie Osseuse Percutanée & Concordance Radio-Pathologique (RCP Sarcome)",
+        "cochin_link": "Éclaire directement l'interprétation des « biopsies osseuses percutanées sous scanner (notamment du bassin et des os longs) » discutées en RCP Sarcome à Cochin.",
+        "summary_fr_short": "Revue critique publiée dans le *Journal of Bone Oncology* (oct./déc. 2026, IF 3,4) démontrant que la limite principale des modèles diagnostiques en oncologie osseuse réside dans la variabilité du standard histologique : la concordance de grade entre biopsie au trocart (CNB) et pièce opératoire dans les chondrosarcomes centraux chute de κ = 0,63 sur les os longs à κ = 0,12 dans le bassin.",
+        "summary_fr_detailed": "Cette mise au point du *Journal of Bone Oncology* analyse l'intégration de l'imagerie multimodale (radiographie, TDM pour l'analyse corticale et matricielle, IRM pour l'extension médullaire et des parties molles, TEP-TDM pour le métabolisme) et de la biopsie osseuse au trocart (Core Needle Biopsy). Les auteurs démontrent chiffres à l'appui que la biopsie percutanée isolée ne peut constituer un gold standard absolu sans confrontation à l'imagerie en raison de quatre facteurs : 1) l'erreur d'échantillonnage spatial sur les tumeurs volumineuses (dans les chondrosarcomes centraux, la concordance pondérée κ entre biopsie et résection tombe de 0,63 dans les os longs à seulement 0,12 dans le bassin) ; 2) la variabilité inter-observateur entre pathologistes experts (κ = 0,44) et radiologues (κ = 0,35) ; 3) l'évolution des critères moléculaires OMS ; et 4) la dissociation possible entre aspect histologique focal et agressivité clinique.",
+        "protocol_fr": "Synthèse pré-biopsique obligatoire TDM + IRM (+ TEP-TDM si lésion pelvienne volumineuse) pour cibler le secteur le plus suspect • Dans les tumeurs osseuses du bassin (où la concordance d'un prélèvement unique tombe à κ = 0,12), réalisation de prélèvements multi-sites divergents au trocart osseux 8G–11G sous guidage TDM • Décision thérapeutique fondée sur un standard composite (radio-histo-moléculaire et évolutif) en RCP Sarcome.",
+        "key_points_fr": [
+            "Dans les tumeurs cartilagineuses centrales du bassin, la concordance de grade entre biopsie au trocart et résection chute à κ = 0,12 (contre κ = 0,63 sur les os longs).",
+            "Une biopsie osseuse rassurante (bas grade) sur une lésion pelvienne lytique ou agressivement rehaussée en IRM ne doit jamais faire récuser un haut grade sans relecture.",
+            "Justifie la réalisation de carottes multiples dans des cadrans distincts lors des biopsies osseuses scanoguidées du bassin à Cochin.",
+            "Plaide pour l'adoption systématique d'un gold standard composite associant imagerie multimodale, histologie et biologie moléculaire en RCP."
+        ],
+        "tags": ["Tumeurs osseuses", "Biopsie osseuse", "Chondrosarcome du bassin", "Imagerie multimodale", "RCP Sarcome", "J Bone Oncol 2026"]
+    },
+    "42782915": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "Ablation thermique percutanée (radiofréquence et cryoablation) des chordomes rachidiens et sacrés : revue systématique sur 34 lésions et protocole pré-spondylectomie combiné à la vertébroplastie",
+        "modality": "Scanner Interventionnel + Fluoroscopie",
+        "intervention_type": "Radiofréquence / Cryoablation & Cimentoplastie de Chordome Rachidien / Sacré",
+        "cochin_link": "En lien direct avec les procédures d'« ablation thermique percutanée (cryoablation / RF) et cimentoplastie des tumeurs rachidiennes et sacrées » réalisées à Cochin.",
+        "summary_fr_short": "Revue systématique (*Current Oncology*, sept. 2026, 13 études / 33 patients / 34 sites de chordomes rachidiens ou sacrés traités par cryoablation [n=21] ou radiofréquence [n=11]) et cas illustratif de chordome L4 traité par RFA + vertébroplastie scanoguidée avant spondylectomie en bloc, sans déficit neurologique ni récidive à 18 mois.",
+        "summary_fr_detailed": "Les chordomes du rachis mobile et du sacrum sont des tumeurs malignes localement agressives et radio-résistantes dont la résection chirurgicale en bloc expose à une lourde morbidité fonctionnelle et à un risque de dissémination lors de l'ostéotomie. Cette revue systématique synthétise 34 procédures d'ablation thermique guidée par l'image (21 par cryoablation, 11 par radiofréquence, 1 par LITT) réalisées soit en néoadjuvant avant résection en bloc, soit à visée curative/palliative pour les récidives locales inopérables. Les auteurs rapportent également un protocole séquentiel associant RFA bipolaire scanoguidée et vertébroplastie consolidatrice d'un chordome L4 avant spondylectomie en bloc, permettant une nécrose tumorale centrale, une réduction du saignement peropératoire et une survie sans récidive à 18 mois sans complication neurologique.",
+        "protocol_fr": "Repérage TDM/IRM précis des rapports avec le fourreau dural et les racines lombaires/sacrées • Thermoprotection épidurale et foraminale (hydrodissection / carbodissection + thermocouples) et monitorage neurophysiologique • Cryoablation multi-sondes (visualisation de l'iceball sur les chordomes sacrés) ou RFA + vertébroplastie acrylique sur le corps vertébral du rachis mobile.",
+        "key_points_fr": [
+            "Sur 34 chordomes rachidiens/sacrés traités par ablation percutanée, la cryoablation (62 %) et la RFA (32 %) assurent un contrôle antalgique et local avec peu de complications.",
+            "En situation néoadjuvante pré-spondylectomie, le couplage RFA + vertébroplastie stérilise le contingent corporéal et limite le risque d'essaimage peropératoire.",
+            "Dans les récidives locales sacrées inopérables ou post-radiques, la cryoablation scanoguidée constitue une option de rattrapage mini-invasive précieuse.",
+            "Illustre la complémentarité entre radiologie interventionnelle ostéo-articulaire et chirurgie rachidienne oncologique."
+        ],
+        "tags": ["Chordome", "Rachis", "Sacrum", "Radiofréquence", "Cryoablation", "Vertébroplastie", "Curr Oncol 2026"]
+    },
+    "42483265": {
+        "category_id": "cyst_sclerotherapy",
+        "title_fr": "Sclérothérapie percutanée au polidocanol combinée à l'injection adjuvante de moelle osseuse autologue pour le traitement des kystes osseux anévrismaux (KOA) : étude prospective",
+        "modality": "Fluoroscopie / Scanner Interventionnel",
+        "intervention_type": "Sclérothérapie au Polidocanol + Injection de Moelle Osseuse Autologue (KOA)",
+        "cochin_link": "Complète directement les protocoles de « sclérothérapie / alcoolisation percutanée des kystes osseux anévrismaux (KOA) et essentiels (KOE) » de l'Agenda Cochin.",
+        "summary_fr_short": "Étude prospective sur 20 patients suivis 30 mois (*Indian Journal of Orthopaedics*, janv./juil. 2026) évaluant l'association d'une sclérothérapie percutanée au polidocanol et d'une injection adjuvante de moelle osseuse autologue dans les kystes osseux anévrismaux : chute de l'EVA douleur de 6,2 à 0,3, réduction du volume kystique de 79,9 mL à 2,0 mL (p < 0,001) et seulement 5 % de récidive.",
+        "summary_fr_detailed": "Afin d'accélérer l'ostéogenèse réparatrice après destruction chimique de la membrane endokystique des kystes osseux anévrismaux (KOA), cette étude prospective a traité 20 patients consécutifs par sclérothérapie percutanée au polidocanol suivie de l'instillation intrakystique de moelle osseuse autologue (prélevée sur la crête iliaque au cours de la même séance). Au terme d'un suivi complet de 30 mois après la dernière séance, le score EVA douleur diminue de 6,2 ± 1,4 à 0,3 ± 0,5 (p < 0,001) et le volume résiduel du kyste passe de 79,9 ± 26,3 mL à 2,0 ± 2,1 mL (p < 0,001), avec une ré-ossification corticale complète dans 95 % des cas et un taux de récidive limité à 5 % (1/20), sans complication majeure.",
+        "protocol_fr": "Ponction percutanée du KOA sous guidage radiologique/TDM et aspiration du contenu hématique • Sclérothérapie chimique par injection de polidocanol (Aetoxisclerol) • Aspiration de moelle osseuse rouge autologue à la crête iliaque dans le même temps opératoire et réinjection intrakystique pour apporter des cellules souches mésenchymateuses ostéoprogénitrices • Suivi radiographique jusqu'à 30 mois.",
+        "key_points_fr": [
+            "Réduction volumétrique spectaculaire des KOA de 79,9 mL à 2,0 mL (p < 0,001) et disparition quasi complète des douleurs (EVA 6,2 → 0,3).",
+            "Taux de guérison sans récidive de 95 % à 30 mois de recul (seulement 5 % de récidive locale).",
+            "L'apport de moelle osseuse autologue iliaque stimule l'ostéogenèse intrakystique après l'action sclérosante du polidocanol sur l'endothélium.",
+            "Technique simple, autologue et peu coûteuse facilement combinable aux procédures de sclérothérapie de KOA/KOE réalisées à Cochin."
+        ],
+        "tags": ["Kyste osseux anévrismal", "Polidocanol", "Moelle osseuse autologue", "Sclérothérapie", "Ostéogenèse", "Indian J Orthop 2026"]
     }
 }
 
@@ -1493,6 +1578,8 @@ JOURNAL_IMPACT_FACTORS = {
     "neurochirurgie": (1.8, "Neurochirurgie"),
     "neuro-chirurgie": (1.8, "Neurochirurgie"),
     "journal of robotic surgery": (2.2, "J Robot Surg"),
+    "quantitative imaging in medicine and surgery": (2.9, "Quant Imaging Med Surg"),
+    "indian journal of orthopaedics": (1.2, "Indian J Orthop"),
 }
 
 
