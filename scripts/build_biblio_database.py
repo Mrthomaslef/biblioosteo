@@ -1419,6 +1419,91 @@ CURATED_DATA = {
             "Technique simple, autologue et peu coûteuse facilement combinable aux procédures de sclérothérapie de KOA/KOE réalisées à Cochin."
         ],
         "tags": ["Kyste osseux anévrismal", "Polidocanol", "Moelle osseuse autologue", "Sclérothérapie", "Ostéogenèse", "Indian J Orthop 2026"]
+    },
+    "42999001": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Névralgie pudendale en centre tertiaire de la douleur (224 patients) : bloc diagnostique du nerf pudendal, radiofréquence pulsée et facteurs prédictifs de neuromodulation",
+        "modality": "Scanner / Échographie / Fluoroscopie Interventionnelle",
+        "intervention_type": "Infiltration Diagnostique & Radiofréquence Pulsée / Cryoneurolyse du Nerf Pudendal",
+        "cochin_link": "Directement lié aux « infiltrations scanoguidées, radiofréquences pulsées et cryoneurolyses des nerfs pudendal et clunéal » programmées à l'Hôpital Cochin.",
+        "summary_fr_short": "Étude de cohorte sur 224 adultes (*Pain and Therapy*, nov. 2026, IF 3,8) évaluant le parcours interventionnel de la névralgie pudendale : bloc pudendal diagnostique réalisé chez 59,4 % des patients et radiofréquence pulsée (PRF) chez 28,6 %, avec identification d'un bloc diagnostique positif (OR ajusté = 4,88) et d'une étiologie post-chirurgicale confirmée (OR = 2,83) comme facteurs prédictifs majeurs de réponse aux thérapies de neuromodulation.",
+        "summary_fr_detailed": "La névralgie pudendale est une douleur neuropathique périnéale chronique invalidante aggravée par la position assise (critères de Nantes). Sur 224 patients consécutifs suivis en centre tertiaire, l'analyse après vérification manuelle des dossiers montre qu'une origine post-chirurgicale vraie n'est confirmée que dans 13,8 % des cas (contre 24,1 % de syndrome canalaire d'Alcock). La prise en charge repose avant tout sur la radiologie interventionnelle : bloc du nerf pudendal (59,4 %) et radiofréquence pulsée (28,6 %), tandis que la chirurgie de décompression (9,4 %) et l'implantation définitive d'un neurostimulateur (8,0 %) restent réservées aux formes réfractaires. Un soulagement significatif après bloc diagnostique pudendal multiplie par près de 5 (OR ajusté = 4,88, IC 95 % : 1,91–12,46) la probabilité d'éligibilité aux techniques de neuromodulation percutanée.",
+        "protocol_fr": "Patient en procubitus sous guidage scanographique • Ciblage sélectif du nerf pudendal à l'épine ischiatique (pince ligamentaire sacro-épineuse / sacro-tubérale) et/ou dans le canal d'Alcock • Bloc diagnostique par anesthésique local (lidocaïne / ropivacaïne) ± corticoïde avec évaluation de l'EVA assise avant/après • En cas de bloc positif mais d'effet transitoire : radiofréquence pulsée (PRF, 42°C pendant 120 à 240 s) ou cryoneurolyse prudente.",
+        "key_points_fr": [
+            "Près de 60 % des patients bénéficient d'un bloc pudendal et près de 30 % d'une radiofréquence pulsée, piliers du parcours mini-invasif.",
+            "Un test anesthésique positif du nerf pudendal est le facteur prédictif indépendant le plus puissant (OR = 4,88) pour guider la neuromodulation.",
+            "L'implantation chirurgicale lourde n'est finalement nécessaire que chez 8 % des patients grâce à l'efficacité des gestes percutanés.",
+            "Conforte l'algorithme de prise en charge graduée (bloc test scanoguidé puis PRF / cryoneurolyse) pratiqué en Radiologie B à Cochin."
+        ],
+        "tags": ["Névralgie pudendale", "Nerf pudendal", "Radiofréquence pulsée", "Bloc nerveux", "Douleur pelvi-périnéale", "Pain Ther 2026"]
+    },
+    "42998777": {
+        "category_id": "ect_mets",
+        "title_fr": "Toxicité pulmonaire induite par la bléomycine intraveineuse : revue systématique et méta-analyse PRISMA sur 7 601 patients (implications pour l'électrochimiothérapie)",
+        "modality": "Scanner Thoracique & Électrochimiothérapie (ECT) sous Scanner",
+        "intervention_type": "Sécurité Pharmacologique de l'Électrochimiothérapie (Bléomycine IV)",
+        "cochin_link": "Référence essentielle de sécurité pour les séances d'« électrochimiothérapie (ECT - Bléomycine 15 000 UI/m² soit ~30 mg IV) osseuse et épidurale » au scanner Achard à Cochin.",
+        "summary_fr_short": "Méta-analyse PRISMA 2020 (*Critical Reviews in Oncology/Hematology*, nov. 2026, IF 5,5, équipe de J. Gehl, 65 études / 7 601 patients) évaluant l'incidence et les facteurs de risque de toxicité pulmonaire à la bléomycine IV : contrairement aux cures répétées de chimiothérapie systémique (incidence globale 18 % en oncologie médicale), l'injection unique ou pauciséquentielle d'ECT à faible dose cumulative reste dépourvue de surrisque lié à l'âge ou aux métastases pulmonaires.",
+        "summary_fr_detailed": "La bléomycine intraveineuse (15 000 UI/m² en bolus) est l'agent cytotoxique de référence de l'électrochimiothérapie (ECT) osseuse et des parties molles. Coordonnée par Julie Gehl (pionnière européenne de l'ECT), cette méta-analyse de 65 études (7 601 patients traités principalement par cures multiples pour tumeurs germinales ou lymphomes) montre que l'incidence rapportée de pneumopathie interstitielle dépend fortement de la définition utilisée (42 % sur des anomalies TDM asymptomatiques vs 16 % sur des critères cliniques composites). Fait rassurant pour la pratique d'ECT interventionnelle (où une dose unique faible est administrée) : l'analyse méta-régressive ne retrouve pas d'association significative à l'échelle des études avec l'âge, le sexe, le tabagisme ou la présence de métastases pulmonaires, tout en rappelant les précautions anesthésiques standard (limitation de la FiO2 peropératoire ≤ 30 %).",
+        "protocol_fr": "Bilan pré-ECT : vérification de la fonction rénale (DFG, adaptation de dose si insuffisance rénale) et de l'absence de fibrose pulmonaire évolutive sur le scanner thoracique • Administration IV en bolus de bléomycine (15 000 UI/m²) sous anesthésie générale avec consigne stricte d'oxygénothérapie à FiO2 minimale nécessaire (idéalement FiO2 ≤ 30 %) • Impulsions d'électroporation entre 8 et 40 minutes post-injection.",
+        "key_points_fr": [
+            "Travail de référence de l'équipe de J. Gehl précisant le profil de tolérance pulmonaire de la bléomycine intraveineuse sur 7 601 patients.",
+            "La présence de métastases pulmonaires ou l'âge avancé ne constituent pas en soi une contre-indication à une séance d'électrochimiothérapie osseuse.",
+            "Distingue les anomalies scannographiques asymptomatiques (42 %) des pneumopathies cliniquement symptomatiques (16 % après cures cumulées d'oncologie médicale).",
+            "Rappelle l'importance de la coordination avec l'anesthésiste (maintien d'une FiO2 basse per-procédure) lors des ECT réalisées à Cochin."
+        ],
+        "tags": ["Électrochimiothérapie", "Bléomycine", "Toxicité pulmonaire", "Sécurité anesthésique", "FiO2", "Crit Rev Oncol Hematol 2026"]
+    },
+    "42641400": {
+        "category_id": "desmoid_soft_tissue",
+        "title_fr": "Cryoablation des tumeurs malignes et des lésions bénignes localement agressives (tumeurs desmoïdes, ostéome ostéoïde, chondroblastome) chez l'enfant et le jeune : consensus de la SIR Foundation",
+        "modality": "Scanner / IRM / Échographie Interventionnelle",
+        "intervention_type": "Cryoablation Percutanée des Tumeurs Desmoïdes & Tumeurs Osseuses Bénignes",
+        "cochin_link": "En lien direct avec les « cryothérapies percutanées de tumeurs desmoïdes et de tumeurs osseuses bénignes chez les adolescents et jeunes adultes » prises en charge à Cochin.",
+        "summary_fr_short": "Actes officiels du panel de consensus de la Society of Interventional Radiology (*JVIR*, août/nov. 2026) définissant les priorités cliniques et biologiques de la cryoablation chez le sujet jeune : comparaison prospective traitement systémique + cryoablation vs traitement systémique seul dans les tumeurs desmoïdes, et respect du cartilage articulaire et de conjugaison lors de la cryoablation des lésions osseuses bénignes.",
+        "summary_fr_detailed": "Réunissant un panel multidisciplinaire d'experts nord-américains sous l'égide de la SIR Foundation, ce consensus synthétise les données d'efficacité et de qualité de vie de la cryoablation percutanée dans les pathologies tumorales musculo-squelettiques de l'enfant, de l'adolescent et du jeune adulte. Le groupe établit trois axes majeurs pour la pratique : 1) dans les tumeurs desmoïdes extra-abdominales, l'intégration précoce de la cryoablation percutanée (seule ou combinée aux traitements systémiques) améliore rapidement la douleur et la fonction ; 2) dans les tumeurs osseuses bénignes (ostéome ostéoïde, ostéoblastome, chondroblastome, KOA), il est essentiel de contrôler la marge de l'iceball au voisinage du cartilage hyalin et des physes ; et 3) dans les sarcomes oligométastatiques, la cryoablation constitue une alternative d'épargne parenchymateuse à la métastasectomie chirurgicale.",
+        "protocol_fr": "Planification IRM et TDM haute résolution • Utilisation de cryosondes de petit calibre (17G) permettant de sculpter précisément la géométrie de l'iceball • Surveillance scannographique ou IRM continue de la marge à 0°C et -20°C à distance du cartilage articulaire, des physes et des troncs nerveux • Hydrodissection/carbodissection et réchauffement cutané actif.",
+        "key_points_fr": [
+            "Consensus officiel de la SIR positionnant la cryoablation au premier plan dans la stratégie multimodale des tumeurs desmoïdes.",
+            "Met en avant le gain majeur de qualité de vie et d'épargne fonctionnelle par rapport à la chirurgie ou aux chimiothérapies prolongées.",
+            "Précise les règles de prudence thermique au voisinage du cartilage épiphysaire et articulaire dans les tumeurs osseuses bénignes.",
+            "Parfaitement aligné avec la prise en charge des jeunes adultes porteurs de tumeurs desmoïdes ou d'ostéomes ostéoïdes/chondroblastomes à Cochin."
+        ],
+        "tags": ["Cryoablation", "Tumeur desmoïde", "Consensus SIR", "Tumeurs osseuses bénignes", "Cartilage", "JVIR 2026"]
+    },
+    "42767629": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Vissage percutané ilio-sacré des fractures du sacrum en procubitus : technique modifiée guidée par le pédicule S1 et associée à la sacroplastie",
+        "modality": "Fluoroscopie 2D/3D (Scopie Allura) + Contrôle Scanner",
+        "intervention_type": "Vissage Percutané Ilio-Sacré en Procubitus & Sacroplastie",
+        "cochin_link": "Directement applicable aux « vissages percutanés du bassin et sacroplasties en procubitus (Scanner / Scopie Allura) » réalisés à l'Hôpital Cochin.",
+        "summary_fr_short": "Série clinique (*Orthopaedic Surgery*, sept./nov. 2026, PMC Open-Access, 22 patients) décrivant une technique modifiée de vissage ilio-sacré percutané en procubitus guidée par les repères du pédicule de S1 : taux d'excellence de positionnement intra-osseux au scanner de 97 %, absence totale de complication radiculaire et amélioration significative de l'EVA douleur et du score fonctionnel de Majeed.",
+        "summary_fr_detailed": "Le positionnement en procubitus (prone position) est la posture de référence en radiologie interventionnelle ostéo-articulaire pour combiner dans le même temps un abord postérieur rachidien/sacré (cimentoplastie, sacroplastie) et un vissage ilio-sacré percutané. Cette étude évalue sur 22 patients une technique standardisée de visée ilio-sacrée en procubitus s'appuyant sur le repérage fluoroscopique du pédicule de S1 (vues inlet, outlet et profil strict). Le scanner de contrôle systématique à 6 mois démontre un taux d'excellence de trajectoire de 97 % sans aucune effraction des foramens sacrés ni lésion nerveuse L5/S1. Les auteurs soulignent l'intérêt majeur du procubitus chez les patients obèses ou présentant des lésions rachidiennes ou sacrées concomitantes nécessitant une sacroplastie associée.",
+        "protocol_fr": "Installation en procubitus sur table radiotransparente (Scopie Allura ou table de scanner interventionnel) • Repérage des incidences fluoroscopiques inlet, outlet et profil sacré vrai centrées sur les pédicules S1 • Insertion de la broche-guide à travers l'aile iliaque et l'articulation sacro-iliaque jusque dans le corps de S1 • Mise en place de la vis canulée (7,0–7,3 mm) ± injection de ciment PMMA (sacroplastie/vissage cimenté).",
+        "key_points_fr": [
+            "Taux de précision intra-osseuse de 97 % au contrôle TDM et 0 % de complication neurologique radiculaire.",
+            "L'installation en procubitus facilite l'association dans le même temps d'un vissage ilio-sacré et d'une sacroplastie ou vertébroplastie.",
+            "Amélioration rapide et durable de l'EVA douleur et du score fonctionnel pelvien de Majeed.",
+            "Correspond exactement à l'installation en procubitus utilisée en salle de scanner et sous scopie Allura à Cochin."
+        ],
+        "tags": ["Vissage ilio-sacré", "Fracture du sacrum", "Procubitus", "Sacroplastie", "Fluoroscopie", "Orthop Surg 2026"]
+    },
+    "42645393": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "La radiologie interventionnelle dans le traitement des tumeurs musculo-squelettiques primitives et secondaires : radiofréquence, cryoablation, cimentoplastie et HIFU",
+        "modality": "Scanner / IRM / Échographie / Fluoroscopie Interventionnelle",
+        "intervention_type": "Ablation Thermique (RF, Cryoablation) & Cimentoplastie des Tumeurs Osseuses et des Parties Molles",
+        "cochin_link": "Synthèse transversale couvrant l'ensemble du plateau de « radiofréquence, cryoablation et cimentoplastie des tumeurs osseuses bénignes et malignes » de l'Hôpital Cochin.",
+        "summary_fr_short": "Revue clinique du Karolinska Institutet (*Current Oncology*, août 2026, IF 2,8) synthétisant les indications, critères de sélection et résultats de la radiofréquence (RFA), de la cryoablation, de la cimentoplastie et des ultrasons focalisés (HIFU) dans les tumeurs osseuses bénignes (ostéome ostéoïde, chondroblastome), les tumeurs localement agressives (desmoïdes, TCG) et les métastases osseuses et des parties molles.",
+        "summary_fr_detailed": "Rédigée par l'équipe d'oncologie musculo-squelettique du Karolinska University Hospital (Stockholm), cette revue propose un arbre décisionnel pragmatique pour le choix de la modalité percutanée : 1) la radiofréquence (RFA) demeure le gold standard des petites lésions intra-osseuses ostéocondensantes ou nidus (ostéome ostéoïde) et se combine idéalement à la cimentoplastie dans les métastases vertébrales ou acétabulaires lytiques ; 2) la cryoablation est privilégiée pour les tumeurs à extension extra-osseuse, les tumeurs cartilagineuses de bas grade ou bénignes (chondroblastome), les récidives de tumeurs à cellules géantes (TCG), les tumeurs desmoïdes et les métastases volumineuses ou ostéoblastiques grâce à la visualisation directe de la boule de glace ; 3) la cimentoplastie assure la stabilisation mécanique immédiate des zones portantes en compression.",
+        "protocol_fr": "Sélection personnalisée en RCP selon 5 critères : histologie (bénin vs malin/métastatique), volume et matrice (lytique vs condensante/parties molles), objectif (curatif vs palliatif antalgique), stabilité mécanique (score SINS / Mirels / Harrington) et proximité des structures critiques (< 1 cm de la moelle, d'un tronc nerveux ou du cartilage articulaire).",
+        "key_points_fr": [
+            "Fournit un algorithme comparatif clair entre RFA (petit nidus intra-osseux, métastase lytique corporéale) et cryoablation (volume > 2–3 cm, extension aux parties molles, matrice sclérotique).",
+            "Rappelle la nécessité d'associer une cimentoplastie ou un vissage percutané dès que l'ablation porte sur un segment osseux soumis aux contraintes mécaniques.",
+            "Souligne le rôle croissant de la cryoablation dans les tumeurs localement agressives récidivantes (desmoïdes, TCG, chondroblastomes).",
+            "Excellente référence pédagogique résumant la philosophie de prise en charge interventionnelle ostéo-articulaire de Cochin."
+        ],
+        "tags": ["Radiologie interventionnelle", "Tumeurs musculo-squelettiques", "Cryoablation", "Radiofréquence", "Cimentoplastie", "Curr Oncol 2026"]
     }
 }
 
@@ -1580,6 +1665,10 @@ JOURNAL_IMPACT_FACTORS = {
     "journal of robotic surgery": (2.2, "J Robot Surg"),
     "quantitative imaging in medicine and surgery": (2.9, "Quant Imaging Med Surg"),
     "indian journal of orthopaedics": (1.2, "Indian J Orthop"),
+    "critical reviews in oncology/hematology": (5.5, "Crit Rev Oncol Hematol"),
+    "pain and therapy": (3.8, "Pain Ther"),
+    "orthopaedic surgery": (2.1, "Orthop Surg"),
+    "injury": (2.2, "Injury"),
 }
 
 

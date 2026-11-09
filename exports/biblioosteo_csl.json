@@ -1,5 +1,44 @@
 [
   {
+    "id": "pmid-42998777",
+    "type": "article-journal",
+    "title": "Bleomycin-Induced Pulmonary Toxicity: A Systematic Review and Meta-Analysis of Incidence and Risk Factors",
+    "container-title": "Critical reviews in oncology/hematology",
+    "volume": "",
+    "issue": "",
+    "page": "105685",
+    "DOI": "10.1016/j.critrevonc.2026.105685",
+    "PMID": "42998777",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42998777/",
+    "author": [
+      {
+        "family": "Tolstrup",
+        "given": "M"
+      },
+      {
+        "family": "Lonkvist",
+        "given": "CK"
+      },
+      {
+        "family": "Gehl",
+        "given": "J"
+      },
+      {
+        "family": "Lauritsen",
+        "given": "J"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Méta-analyse PRISMA 2020 (*Critical Reviews in Oncology/Hematology*, nov. 2026, IF 5,5, équipe de J. Gehl, 65 études / 7 601 patients) évaluant l'incidence et les facteurs de risque de toxicité pulmonaire à la bléomycine IV : contrairement aux cures répétées de chimiothérapie systémique (incidence globale 18 % en oncologie médicale), l'injection unique ou pauciséquentielle d'ECT à faible dose cumulative reste dépourvue de surrisque lié à l'âge ou aux métastases pulmonaires.\n\n[ABSTRACT EN] Bleomycin remains an important component of curative regimens for malignancies such as germ cell tumors, Hodgkin lymphoma, and in the local treatment modality electrochemotherapy. A limiting toxicity is bleomycin-induced pulmonary toxicity (BIP), with considerable variance in reported incidence across studies. OBJECTIVE: To estimate the incidence of BIP after intravenous bleomycin treatment and investigate the influence of diagnostic definitions, patient characteristics, and treatment-related factors on reported incidence. METHODS: A systematic review and meta-analysis was conducted according to PRISMA 2020. MEDLINE, Embase, and Cochrane Library were searched through May 2026. Studies including patients aged ≥15 years treated with intravenous bleomycin were eligible. Risk of bias was assessed using the Joanna Briggs Institute Critical Appraisal Checklist for Prevalence Studies. Random-effects meta-analysis and prespecified subgroup analyses were performed. RESULTS: A total of 65 studies comprising 7601 patients were included. The pooled incidence of BIP was 18% (95% CI 15-21%) with substantial between-study heterogeneity (I(2) = 87.3%). Reported incidence varied by diagnostic definition, ranging from 42% in imaging-based studies to 16% in studies using symptom-based composite definitions. Diagnostic definition explained a substantial proportion of between-study heterogeneity (R(2)=28%). No significant study-level associations were found between reported BIP incidence and age, sex, year of publication, overall cumulative bleomycin dose, use of granulocyte colony-stimulating factor, smoking history, or lung metastases. CONCLUSIONS: Reported BIP incidence varies widely, largely due to differences in diagnostic definitions. Standardized, clinically meaningful diagnostic criteria are needed to improve comparability between studies and support evidence-based clinical decision-making. REGISTRATION: PROSPERO (CRDxxxxxxxxxx)."
+  },
+  {
     "id": "pmid-42970180",
     "type": "article-journal",
     "title": "Quantitative imaging-pathology correlation in nodular fasciitis and diagnostic discrimination from sarcoma",
@@ -139,6 +178,53 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Mise au point de référence publiée dans *European Radiology* (nov. 2026, IF 4,7, équipe de D. Filippiadis) structurant les indications, le mécanisme d'axonotmésis réversible (classification de Sunderland II) et les protocoles de cryoablation tumorale (ostéome ostéoïde, métastases osseuses, tumeurs des parties molles) et de cryoneurolyse périphérique (nerfs intercostaux, clunéaux, géniculés, névrome de Morton).\n\n[ABSTRACT EN] Despite advances in pain management, pain remains a major global health challenge in both oncological and non-oncological patients. Long-term pharmacological treatment is often restricted by insufficient therapeutic benefit and adverse events, highlighting the need for alternative approaches such as image-guided pain therapies. The idea of treating pain with cold has been recognized for centuries, and today cryotherapy has emerged as a valuable minimally invasive option for pain management. Cryoablation refers to the destruction of tissue with extreme cold and has an increasing role, especially in the treatment of benign (e.g., osteoid osteoma), malignant bone (i.e., metastases), and soft tissue tumors, either with a curative or palliative intent. Cryoneurolysis is a related but distinct application, focusing either on peripheral nerve modulation or nerve destruction. Cryoneurolysis may be highly effective for the treatment of acute or chronic pain, including sympathetic neurolysis in cancer and non-cancer-related pain syndromes. The general approach in patients with tumor-related pain depends on whether the lesion itself can be ablated or not. In non-oncologic patients, cryoneurolysis of the responsible nerve is typically performed following a positive response to a diagnostic nerve block. Potential indications for cryotherapy are constantly evolving; however, evidence, especially for cryoneurolysis, is still limited and based mostly on single-center case series and retrospective studies. Standardized ablation protocols are lacking, and for the duration of cycles, most experts rely on imaging visualization and validated protocols. Equally important, successful integration of cryoablation and cryoneurolysis into daily practice requires structured workflows across different patient pathways and interdisciplinary management. KEY POINTS: Question Pain management remains a major global health challenge and an unmet need in oncological and non-oncological patients. Findings Cryotherapy, in terms of cryoablation and cryoneurolysis, is increasingly incorporated in multimodal curative and palliative pain care concepts, for treatment of acute and chronic pain syndromes. Clinical relevance Advancement and validation of standardized treatment protocols are needed to strengthen evidence and further enhance clinical implementation in interventional radiology practice and interdisciplinary patient care."
+  },
+  {
+    "id": "pmid-42999001",
+    "type": "article-journal",
+    "title": "Pudendal Neuralgia in a Tertiary Pain Clinic: Presentation, Treatment, and Factors Associated with Neuromodulation in 224 Adults",
+    "container-title": "Pain and therapy",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "DOI": "10.1007/s40122-026-00902-2",
+    "PMID": "42999001",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42999001/",
+    "author": [
+      {
+        "family": "Kelmer",
+        "given": "P"
+      },
+      {
+        "family": "Shemesh",
+        "given": "SZ"
+      },
+      {
+        "family": "Rossovsky",
+        "given": "P"
+      },
+      {
+        "family": "Hadari",
+        "given": "Y"
+      },
+      {
+        "family": "Goor-Aryeh",
+        "given": "I"
+      },
+      {
+        "family": "Ungar",
+        "given": "L"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de cohorte sur 224 adultes (*Pain and Therapy*, nov. 2026, IF 3,8) évaluant le parcours interventionnel de la névralgie pudendale : bloc pudendal diagnostique réalisé chez 59,4 % des patients et radiofréquence pulsée (PRF) chez 28,6 %, avec identification d'un bloc diagnostique positif (OR ajusté = 4,88) et d'une étiologie post-chirurgicale confirmée (OR = 2,83) comme facteurs prédictifs majeurs de réponse aux thérapies de neuromodulation.\n\n[ABSTRACT EN] INTRODUCTION: Pudendal neuralgia is an under-recognized cause of chronic, disabling neuropathic perineal pain affecting both women and men. Real-world data on its presentation, its treatment within a specialty pain service, and the factors that accompany escalation to interventional therapy are scarce. We hypothesized that an iatrogenic (postsurgical) origin and relief after a diagnostic pudendal nerve block would identify the patients who reach neuromodulation. METHODS: We performed a retrospective manual review of the complete electronic records of all adults with documented pudendal neuralgia, pudendal neuropathy, or pudendal nerve entrapment managed at a single tertiary pain clinic between 2009 and 2026. Demographics, clinical presentation, presumed etiology, treatments, and outcomes were abstracted from the free-text record. Ascertainment was in two stages: variables were first identified by structured text screening of the free-text record, and the two variables most susceptible to false-positive screening, a postsurgical etiology and receipt of neuromodulation, were then verified against the source charts by manual review of every screen-positive record. The chart-verified definitions are used throughout. Associations between binary variables were tested by the chi-squared test, with odds ratios (OR) and 95% confidence intervals (CI); factors associated with neuromodulation were assessed by multivariable logistic regression. RESULTS: Among 224 patients (138 women [61.6%], 86 men [38.4%]; median age 48.5 years, interquartile range 35-64), pain was worse when sitting in 57.6% and burning in 39.3%, and involvement was bilateral in 21.9%. Text screening identified a possible postsurgical onset in 46.4%, but chart re-adjudication confirmed a named operation preceding the pain in only 31 patients (13.8%), of whom 6 had undergone a clearly non-pelvic procedure; confirmed postsurgical onset was therefore less frequent than documented entrapment features (24.1%) and comparable to childbirth (15.9% of women). Care was heavily interventional: 59.4% received a pudendal nerve block, 28.6% pulsed radiofrequency, and 9.4% underwent surgical decompression. Neuromodulation was documented in the record of 64 patients (28.6%), but an electrode was placed in only 26 (11.6%) and a permanent device implanted in 18 (8.0%): spinal cord stimulation in 14, sacral neuromodulation in 2, dorsal root ganglion stimulation in 1, and pudendal nerve stimulation in 1. Three factors were independently associated with documented neuromodulation: relief after a diagnostic block (adjusted OR 4.88, 95% CI 1.91-12.46%), a refractory course (2.92, 1.52-5.60%), and chart-confirmed postsurgical onset (2.83, 1.17-6.82%); c-statistic 0.76. In an exploratory model restricted to the 18 implanted patients, a refractory course (7.40, 1.98-27.61%) and postsurgical onset (4.24, 1.29-13.94%) remained associated with the outcome whereas relief after a block did not (5.90, 0.72-48.31%). CONCLUSIONS: In routine pain-clinic practice, pudendal neuralgia is managed along an interventional pathway, but device implantation is considerably less common than the frequency with which neuromodulation is discussed. A confirmed postsurgical onset is less common than text screening suggests, yet is disproportionately associated with escalation. Being observational, these findings describe how care proceeds rather than establishing cause."
   },
   {
     "id": "pmid-42931896",
@@ -566,6 +652,53 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Revue systématique d'envergure (*Journal of Bone Oncology*, sept. 2026, 76 études, 3 234 patients, ≥ 5 737 vertèbres traitées) quantifiant précisément le taux de complications symptomatiques (3,41 %) et de fuites de ciment (20,7 %, majoritairement asymptomatiques) lors de la cimentoplastie des métastases rachidiennes.\n\n[ABSTRACT EN] Background Vertebral augmentation techniques, including vertebroplasty and kyphoplasty, are widely used to relieve pain and restore spinal stability in patients with metastatic vertebral lesions. Despite their widespread use, the full spectrum and clinical significance of procedure-related complications remain incompletely characterised. This systematic review aims to summarise and characterise all reported complications associated with vertebral augmentation for metastatic thoracolumbar disease. Methods A comprehensive search of PubMed/MEDLINE, Scopus, and Web of Science databases was performed. Studies reporting complications associated with vertebral augmentation procedures for metastatic thoracolumbar spinal fractures were included. Randomised controlled trials, observational studies, case series, and case reports were eligible. Due to substantial heterogeneity across studies, a descriptive synthesis was performed. Results A total of 76 studies were included, comprising 3234 patients and at least 5737 vertebral levels treated. The overall weighted complication rate was 25.5%, while the weighted rate of symptomatic complications was 3.41%. Cement leakage was the most frequently reported complication, with a weighted mean incidence of 20.7%, although the majority were asymptomatic. Other complications included postprocedural pain (1.77%), pulmonary cement embolism (1.08%), and adjacent level fractures (0.79%). Studies using CT imaging reported significantly higher cement leakage rates (28.6% vs 11.9%, p = 0.004). Case reports described rare but potentially severe complications, including needle-tract tumour seeding, tumour extrusion, and cement migration to cardiac structures. Conclusions This review presents a comprehensive and detailed description of all complications of vertebral augmentation for treatment of metastatic spine disease and reinforce its safety. Differences in imaging protocols and reporting standards contribute to variability in reported complication rates. Further prospective studies with standardised complication reporting are needed."
+  },
+  {
+    "id": "pmid-42767629",
+    "type": "article-journal",
+    "title": "Iliosacral Screw Fixation for Treating Sacral Fractures: A Modified Pedicle-Guided Fixation Technique in Prone Position",
+    "container-title": "Orthopaedic surgery",
+    "volume": "18",
+    "issue": "11",
+    "page": "2480-2490",
+    "DOI": "10.1111/os.70439",
+    "PMID": "42767629",
+    "PMCID": "PMC13593370",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42767629/",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "BM"
+      },
+      {
+        "family": "Liu",
+        "given": "YH"
+      },
+      {
+        "family": "Hsu",
+        "given": "TS"
+      },
+      {
+        "family": "Chen",
+        "given": "CY"
+      },
+      {
+        "family": "Chiang",
+        "given": "CJ"
+      },
+      {
+        "family": "Hsieh",
+        "given": "YY"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Série clinique (*Orthopaedic Surgery*, sept./nov. 2026, PMC Open-Access, 22 patients) décrivant une technique modifiée de vissage ilio-sacré percutané en procubitus guidée par les repères du pédicule de S1 : taux d'excellence de positionnement intra-osseux au scanner de 97 %, absence totale de complication radiculaire et amélioration significative de l'EVA douleur et du score fonctionnel de Majeed.\n\n[ABSTRACT EN] Background Sacral fractures are posterior pelvic ring injuries which mechanisms range from high-energy trauma to low-energy falls in osteoporotic patients. In surgical treatment, percutaneous approaches have demonstrated significant shorter operation time and less soft tissue damage. In this study, we present a method of iliosacral (SI) screw insertion in prone position, with modified pedicle-guided technique. Methods The present study is a retrospective case series of 22 patients for SI screw fixation from February 2019 to September 2023 under our method. Surgical technique was described in detail with images. Perioperative clinical parameters were analyzed. Activity status, complications, data of 10-point visual analogue scale (VAS) for pain and further functional outcomes using the Majeed Pelvic Score (MPS) were recorded. In addition, computed tomography (CT) was routinely performed at 6 months postsurgery to inspect the quality of screws position. Results Excellence rate of screw position was 97% upon CT. Two patients had screws partially contacting the cortical bone but not violating sacral foramen, and no neurological symptoms were noted. All screws were secure from possible iatrogenic nerve injuries. VAS scores improved significantly over time and most patients recorded excellent functional recovery. One untoward complication occurred involving unexpected cement extravasation after sacroplasty. No associated neurologic compromise, or clinical evidence of venous emboli thrombosis was reported. Conclusion Our method aims at reducing operation time and radiation exposure to surgeons as conventional two-dimensional fluoroscopy was enough to identify safe insertion corridors in SI screw placement. Performing SI fixation in prone position is also advantageous when dealing with obese patients and concomitant spinal injuries."
   },
   {
     "id": "pmid-42731622",
@@ -1189,6 +1322,65 @@
     "abstract": "[SYNTHÈSE FR] Revue récente (*Current Oncology Reports*, 2026) précisant la place de la radiologie interventionnelle (cryoablation, micro-ondes, HIFU, embolisation transartérielle) dans l'algorithme moderne des tumeurs desmoïdes aux côtés de la surveillance active et des nouvelles thérapies ciblées (nirogacestat, sorafénib).\n\n[ABSTRACT EN] Purpose of review To provide a comprehensive review of percutaneous image-guided techniques in the management of desmoid tumors including evolving thermal and non-thermal ablation options, as well as trans-arterial catheter options. Beyond each treatment modality, we aim to highlight considerations related to patient selection, technical components, and the growing interplay between percutaneous therapies and emerging systemic therapies. Recent findings Percutaneous ablation, particularly cryoablation, has emerged as a safe and effective treatment for extra-abdominal desmoid tumors, with prospective data demonstrating durable disease control and significant improvements in pain and functional status. A meta-analysis of 694 desmoid tumors treated with thermal ablation reported pooled local control of 88%, symptom relief in 90% of patients, and major complication rates below 5%. Transarterial doxorubicin-eluting embolization has shown promise in both adult and pediatric settings, while bland particle and radioembolic approaches remain under investigation. Irreversible electroporation is emerging as a non-thermal alternative near critical structures. The National Comprehensive Cancer Network (NCCN) Soft Tissue Sarcoma Guidelines now formally incorporate cryoablation along with embolization into the treatment algorithm for progressive, morbid, or symptomatic extra-abdominal desmoid tumors, marking a significant milestone in the recognition of percutaneous techniques as standard-of-care options. Percutaneous image-guided techniques now offer local tumor control with rates similar to surgical resection and a favorable safety profile. Some of these percutaneous techniques are endorsed alongside systemic therapy and radiation as primary options for progressive or symptomatic extra-abdominal desmoid tumors per various guidelines. An important consideration involves the level of data, comprised predominantly of retrospective data, without direct comparative date. The ongoing prospective CRYODESMO-02 trial will help define optimal sequencing and strengthen the evidence base underpinning guideline recommendations."
   },
   {
+    "id": "pmid-42641400",
+    "type": "article-journal",
+    "title": "Cryoablation of Malignancies and Aggressive Benign Diseases in Children: Proceedings from the Society of Interventional Radiology Foundation Research Consensus Panel",
+    "container-title": "Journal of vascular and interventional radiology : JVIR",
+    "volume": "37",
+    "issue": "11",
+    "page": "109000",
+    "DOI": "10.1016/j.jvir.2026.109000",
+    "PMID": "42641400",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42641400/",
+    "author": [
+      {
+        "family": "Monroe",
+        "given": "EJ"
+      },
+      {
+        "family": "Rajeswaran",
+        "given": "SS"
+      },
+      {
+        "family": "Talbot",
+        "given": "LJ"
+      },
+      {
+        "family": "Temple",
+        "given": "MJ"
+      },
+      {
+        "family": "Batra",
+        "given": "V"
+      },
+      {
+        "family": "Fung",
+        "given": "KFK"
+      },
+      {
+        "family": "Shaikh",
+        "given": "R"
+      },
+      {
+        "family": "Abi-Jaoudeh",
+        "given": "N"
+      },
+      {
+        "family": "Cahill",
+        "given": "AM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Actes officiels du panel de consensus de la Society of Interventional Radiology (*JVIR*, août/nov. 2026) définissant les priorités cliniques et biologiques de la cryoablation chez le sujet jeune : comparaison prospective traitement systémique + cryoablation vs traitement systémique seul dans les tumeurs desmoïdes, et respect du cartilage articulaire et de conjugaison lors de la cryoablation des lésions osseuses bénignes.\n\n[ABSTRACT EN] While literature surrounding pediatric applications of cryoablation continues to grow and demonstrate potential benefits, evidence to date largely comprises small, retrospective, and uncontrolled series. To address this opportunity, a multidisciplinary panel of pediatric specialists convened virtually in a research consensus panel organized by the Society of Interventional Radiology (SIR); each panelist presented current data surrounding common applications of cryoablation in the pediatric population. A recurring theme throughout the discussion was the potential for cryoablation to increase quality of life in pediatric patients whether applied with curative or palliative intent. After presentations and discussions, research concepts were discussed and ranked on their potential impact, with the following 3 topics emerging as top priorities: (a) thoracic event-free survival and complication comparison between pulmonary metastasectomy and cryoablation of lesions amenable to either modality, (b) a prospective comparison of systemic therapy and cryoablation versus systemic therapy alone in the treatment of desmoid tumor, and (c) the biologic effects of cryoablation on healthy bone, cartilage, and growth plates as may be affected in the treatment of benign osseous lesions."
+  },
+  {
     "id": "pmid-42618654",
     "type": "article-journal",
     "title": "Curative-Intent Cryoablation for Bone Metastases: Study Protocol for BOREALIS, a Prospective Multicentre Observational Investigation",
@@ -1309,6 +1501,37 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude clinique monocentrique (*Abdominal Radiology*, août 2026, 19 patientes, 29 lésions) évaluant l'ablation par radiofréquence sous échographie (technique 'moving-shot') des endométriomes de la paroi abdominale : chute de l'EVA de 7,37 à 1,72 et réduction volumétrique de 77,5 % dès 3 mois.\n\n[ABSTRACT EN] Purpose To evaluate the feasibility, safety, and short-term outcomes of ultrasound-guided radiofrequency ablation (RFA) for abdominal wall endometriosis (AWE). Materials and methods This retrospective single-center study included 19 patients with AWE (mean age, 35.5 ± 5.0 years) with 29 lesions who underwent ultrasound-guided RFA between December 2023 and January 2026. AWE was diagnosed based on clinical symptoms and imaging findings on ultrasonography and magnetic resonance imaging; biopsy was performed in atypical cases. RFA was performed using an 18-gauge electrode with the moving-shot technique under local anesthesia combined with intravenous analgesia. Complications were classified according to the SIR classification. Short-term technical efficacy was assessed at 3 months based on clinical symptoms and changes in lesion size on imaging. Results All patients presented with abdominal pain, including 14 patients (73.7%) with cyclic pain. The mean preprocedural VAS score was 7.37 ± 1.42. A palpable mass was present in 17 patients (89.5%), and two patients (10.5%) had a history of prior surgery for AWE. The mean maximum lesion diameter decreased from 25.1 ± 17.47 mm before treatment to 13.4 ± 10.6 mm at 3 months (p Conclusion Ultrasound-guided RFA is a feasible and safe treatment option for AWE, providing short-term reductions in pain severity and lesion size."
+  },
+  {
+    "id": "pmid-42645393",
+    "type": "article-journal",
+    "title": "Interventional Radiology in the Treatment of Musculoskeletal Tumours",
+    "container-title": "Current oncology (Toronto, Ont.)",
+    "volume": "33",
+    "issue": "8",
+    "page": "488",
+    "DOI": "10.3390/curroncol33080488",
+    "PMID": "42645393",
+    "PMCID": "PMC13510922",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42645393/",
+    "author": [
+      {
+        "family": "Yarar",
+        "given": "S"
+      },
+      {
+        "family": "Tsagkozis",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue clinique du Karolinska Institutet (*Current Oncology*, août 2026, IF 2,8) synthétisant les indications, critères de sélection et résultats de la radiofréquence (RFA), de la cryoablation, de la cimentoplastie et des ultrasons focalisés (HIFU) dans les tumeurs osseuses bénignes (ostéome ostéoïde, chondroblastome), les tumeurs localement agressives (desmoïdes, TCG) et les métastases osseuses et des parties molles.\n\n[ABSTRACT EN] Background/Objectives: Primary benign and malignant musculoskeletal tumours are generally treated with surgical excision. Metastatic musculoskeletal disease may require both systemic and local treatment. This review focuses on the use of radiofrequency ablation (RFA), cryoablation, cementoplasty, and high-intensity focused ultrasound (HIFU) in primary musculoskeletal tumours and bone and soft-tissue metastases. Methods: We reviewed English-language studies addressing the indications, clinical outcomes, patient selection, and complications of these techniques in patients with primary musculoskeletal tumours or bone and soft-tissue metastases. Results: RFA is the preferred minimally invasive treatment for osteoid osteoma and may be considered for selected small intraosseous tumours. In symptomatic bone metastases, RFA may provide pain relief and can be combined with cementoplasty when structural support is needed. Cryoablation is used selectively for benign, locally aggressive, recurrent, and metastatic tumours, with the advantage of visualizing the ablation zone. Cementoplasty is mainly used to relieve mechanical pain and reinforce weakened bone. HIFU has been studied mainly for pain palliation in bone metastases, while evidence in primary malignant tumours remains limited. Conclusions: Image-guided interventions can complement surgery and radiotherapy in selected patients. Treatment choice depends on tumour type, location, treatment intent, skeletal stability, and proximity to critical structures."
   },
   {
     "id": "pmid-42489686",
