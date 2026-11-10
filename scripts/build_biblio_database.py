@@ -1504,6 +1504,108 @@ CURATED_DATA = {
             "Excellente référence pédagogique résumant la philosophie de prise en charge interventionnelle ostéo-articulaire de Cochin."
         ],
         "tags": ["Radiologie interventionnelle", "Tumeurs musculo-squelettiques", "Cryoablation", "Radiofréquence", "Cimentoplastie", "Curr Oncol 2026"]
+    },
+    "42612110": {
+        "category_id": "ect_mets",
+        "title_fr": "Simulation patient-spécifique du champ électrique dans l'électrochimiothérapie (ECT) des métastases rachidiennes (workflow 3D Slicer / AI4DEEP)",
+        "modality": "Scanner Interventionnel + Fusion IRM / Planification 3D",
+        "intervention_type": "Électrochimiothérapie (ECT) des Métastases Vertébrales & Planification Dosimétrique",
+        "cochin_link": "Directement applicable aux « Électrochimiothérapies (ECT - Bléomycine 30 mg IV) rachidiennes et épidurales au scanner Achard -1 » réalisées à l'Hôpital Cochin.",
+        "summary_fr_short": "Protocole de référence français (Gustave Roussy / AP-HP : Beunon, Bonnet, Tselikas et al., *JoVE*, juil. 2026, IF 1,2) décrivant un workflow reproductible de simulation 3D patient-spécifique du champ électrique (3D Slicer + module éléments finis AI4DEEP) pour l'ECT des métastases vertébrales : validation sur 9 procédures rachidiennes démontrant une concordance maximale avec la nécrose post-ECT en IRM injectée sur l'isodose 160–200 V/cm.",
+        "summary_fr_detailed": "L'électrochimiothérapie (ECT) rachidienne permet une décompression épidurale et un contrôle tumoral non thermique au contact de la moelle épinière et des racines nerveuses lorsque la radiothérapie ou la thermoablation sont contre-indiquées. Toutefois, l'hétérogénéité diélectrique entre os cortical, os spongieux, tumeur lytique et espace épidural rend complexe l'anticipation de la couverture réelle du champ électrique. L'équipe française (Gustave Roussy / Hôpitaux Universitaires Paris-Seine-Saint-Denis) détaille un pipeline open-source sous 3D Slicer combinant segmentation multimodale TDM + IRM préopératoire, attribution des conductivités tissulaires (base IT'IS) et résolution par éléments finis via le module dédié AI4DEEP. Validé rétrospectivement sur 9 procédures d'ECT vertébrale avec recalage sur l'IRM injectée de suivi (coefficient de Dice), le modèle montre que le seuil isodose de 160 à 200 V/cm prédit le plus fidèlement le volume tumoral effectivement nécrosé et identifie les zones sous-traitées ou surexposées.",
+        "protocol_fr": "Imagerie pré-procédurale multimodale TDM coupes fines + IRM rachidienne gadolinium • Segmentation 3D de la tumeur, des corticales vertébrales, du fourreau dural et des tissus mous sous 3D Slicer • Simulation par éléments finis (module AI4DEEP, conductivités IT'IS) de la géométrie des aiguilles-électrodes transpédiculaires/paravertébrales • Vérification de la couverture tumorale complète au-dessus du seuil réversible/efficace (≥ 160–200 V/cm dans ce modèle linéaire, cible nominale ECT 400 V/cm) tout en limitant le courant traversant le cordon médullaire • Contrôle IRM injecté post-ECT.",
+        "key_points_fr": [
+            "Premier protocole ouvert et reproductible (3D Slicer + AI4DEEP) de planification patient-spécifique du champ électrique pour l'ECT rachidienne.",
+            "Excellente corrélation spatiale (Dice) entre la cartographie simulée (160–200 V/cm en conductivité linéaire constante) et la nécrose observée en IRM de contrôle sur 9 cas cliniques.",
+            "Permet d'optimiser le parallélisme, l'espacement et le nombre d'électrodes transpédiculaires avant le geste pour éviter les reliquats épiduraux sous-traités.",
+            "Outil directement transposable aux dossiers complexes d'ECT vertébrale discutés en RCP et traités sous scanner à Cochin."
+        ],
+        "tags": ["Électrochimiothérapie", "ECT rachidienne", "Métastases vertébrales", "Simulation champ électrique", "3D Slicer", "Gustave Roussy", "JoVE 2026"]
+    },
+    "42964659": {
+        "category_id": "msk_biopsy",
+        "title_fr": "Performance diagnostique et sécurité de la biopsie osseuse percutanée guidée par scanner en oncologie musculo-squelettique (64 procédures consécutives)",
+        "modality": "Scanner Interventionnel (Approche Coaxiale)",
+        "intervention_type": "Biopsie Osseuse Percutanée Guidée par TDM (Pelvis, Rachis & Os Longs)",
+        "cochin_link": "Reflète directement l'activité quotidienne de « Biopsie osseuse ou disco-vertébrale sous scanner (crête iliaque, sacrum, membres) » de l'Agenda Interventionnel Cochin.",
+        "summary_fr_short": "Étude de cohorte monocentrique (*World Journal of Radiology*, oct. 2026, IF 2,5, Open-Access) portant sur 64 biopsies osseuses percutanées consécutives guidées par scanner : rendement diagnostique de 93,75 % (60/64) dès le premier prélèvement, concordance histologique de 100 % parmi les prélèvements contributifs, révision du diagnostic clinique pré-geste dans 9,4 % des cas (6/64) et 0 % de complication majeure SIR.",
+        "summary_fr_detailed": "Cette série évalue rigoureusement la rentabilité histopathologique, la concordance diagnostique finale (chirurgie, immunohistochimie et suivi radio-clinique composite) et la morbidité selon la classification SIR de 64 biopsies osseuses percutanées consécutives réalisées sous guidage TDM entre 2023 et 2025 pour suspicion de tumeur osseuse primitive ou secondaire (les localisations pelviennes étant majoritaires). Soixante procédures sur 64 (93,75 % ; IC 95 % : 84,8–98,3 %) ont fourni un diagnostic histologique exploitable sans nécessité de re-biopsie, avec une concordance de 100 % sur les cas contributifs. Fait clinique majeur : dans 6 cas (9,4 %), la biopsie TDM a redressé l'hypothèse diagnostique initiale (ex. lésion bénigne ou infectieuse mimant une métastase ou inversement). Aucune complication majeure SIR n'est survenue (0 %), seuls 2 trajets fistuleux mineurs de grade SIR B (3,1 %) ayant été observés.",
+        "protocol_fr": "Revue préalable de l'IRM/TDM/TEP pour cibler la portion charnue non nécrotique ou ostéolytique active et respecter strictement la voie d'abord chirurgicale en cas de suspicion de sarcome primitif • Approche coaxiale sous guidage TDM hélicoïdal ou fluoroscopie-TDM • Carottage multiple au trocart à os (11G–13G) couplé si composante tissulaire à un pistolet semi-automatique (14G–16G) • Bilan d'hémostase et gestion standardisée des antithrombotiques.",
+        "key_points_fr": [
+            "Rendement diagnostique élevé de 93,75 % dès la première biopsie osseuse sous scanner, dominée par les localisations pelviennes complexes.",
+            "Redressement du diagnostic clinique pré-procédural dans près de 1 cas sur 10 (9,4 %), justifiant l'histologie systématique avant ablation ou radiothérapie.",
+            "Sécurité optimale : 0 % de complication majeure SIR et seulement 3,1 % d'événements mineurs locaux.",
+            "Conforte les standards de biopsie osseuse coaxiale sous scanner pratiqués en Radio B à Cochin."
+        ],
+        "tags": ["Biopsie osseuse", "Scanner interventionnel", "Rendement diagnostique", "Oncologie musculo-squelettique", "Bassin", "World J Radiol 2026"]
+    },
+    "42736384": {
+        "category_id": "msk_biopsy",
+        "title_fr": "Biopsie disco-vertébrale guidée par l'image et antibiothérapie probabiliste préalable dans les suspicions de spondylodiscite (81 procédures)",
+        "modality": "Scanner Interventionnel / Fluoroscopie",
+        "intervention_type": "Biopsie Disco-Vertébrale Percutanée pour Suspicion de Spondylodiscite",
+        "cochin_link": "Répond à une question quotidienne de l'Agenda Cochin lors des demandes urgentes de « Biopsie disco-vertébrale sous scanner pour spondylodiscite » chez des patients déjà mis sous antibiotiques.",
+        "summary_fr_short": "Étude rétrospective (*Diagnostic and Interventional Radiology*, sept. 2026, IF 1,9) sur 81 biopsies disco-vertébrales guidées par l'image (62 sous TDM, 19 sous scopie) : rendement microbiologique global de 37,0 % non significativement diminué par une antibiothérapie préalable (36,4 % sous antibiotiques vs 37,8 % sans antibiotiques, p = 0,890), soulignant qu'il ne faut pas retarder l'antibiothérapie probabiliste chez un patient septique et que la biologie moléculaire (ARN 16S / NGS) est indispensable pour compléter la culture.",
+        "summary_fr_detailed": "Analysant 81 biopsies percutanées réalisées entre 2014 et 2025 pour suspicion de spondylodiscite infectieuse, cette étude compare le rendement des cultures microbiologiques selon le mode de guidage (TDM : 38,7 % vs fluoroscopie : 31,6 %, p = 0,586), le site prélevé (os transpédiculaire vs disque/aspiration, p > 0,60) et surtout l'exposition préalable aux antibiotiques. De façon notable, la positivité des cultures standard ne diffère pas significativement entre les patients ayant reçu une antibiothérapie avant le geste (36,4 %) et ceux vierges d'antibiotiques (37,8 %, p = 0,890). Hors tuberculose, 97 % des germes isolés étaient couverts par l'association probabiliste vancomycine + ceftriaxone. Les auteurs concluent que la culture isolée a une sensibilité modérée (44,4 %, spécificité 88,9 %) mais reste capitale en cas de suspicion de tuberculose/brucellose/fongique, d'échec clinique ou d'immunodépression.",
+        "protocol_fr": "Abord transpédiculaire ou postéro-latéral disco-vertébral sous guidage scanner • Prélèvements multiples combinant carottes osseuses des plateaux vertébraux érodés, tissu discal et aspiration liquidienne éventuelle d'abcès paravertébral/psoas • Envoi systématique en bactériologie standard prolongée, mycobactériologie, anatomopathologie ET biologie moléculaire (PCR universelle ARN 16S) pour pallier la faible sensibilité des cultures seules.",
+        "key_points_fr": [
+            "Une antibiothérapie probabiliste débutée avant le geste n'annule pas le rendement de la biopsie (36,4 % vs 37,8 %, p = 0,890) et ne doit pas faire récuser d'emblée un prélèvement nécessaire (suspicion de BK, germe atypique ou échec thérapeutique).",
+            "Rendement supérieur tendanciel du guidage TDM (38,7 %) par rapport à la fluoroscopie (31,6 %), avec sécurisation des abords thoraciques et paravertébraux.",
+            "La sensibilité limitée des cultures conventionnelles (37–44 %) justifie d'associer systématiquement l'anatomopathologie et la PCR ARN 16S sur les carottes disco-vertébrales.",
+            "Données pragmatiques très utiles pour arbitrer les demandes de biopsies de spondylodiscite en urgence différée à Cochin."
+        ],
+        "tags": ["Spondylodiscite", "Biopsie disco-vertébrale", "Antibiothérapie préalable", "Scanner interventionnel", "Microbiologie", "Diagn Interv Radiol 2026"]
+    },
+    "42804317": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Facteurs prédictifs de succès de la radiofréquence des nerfs intercostaux dans les névralgies intercostales réfractaires : radiofréquence thermique conventionnelle vs pulsée (60 patients)",
+        "modality": "Échographie / Scanner Interventionnel",
+        "intervention_type": "Radiofréquence Conventionnelle & Pulsée des Nerfs Intercostaux",
+        "cochin_link": "Complète directement la prise en charge des douleurs pariétales thoraciques de l'Agenda Cochin (« Neurolyse / Cryoneurolyse et radiofréquence du nerf intercostal »).",
+        "summary_fr_short": "Étude comparative rétrospective (*Pain Physician*, sept. 2026, IF 3,1) chez 60 adultes souffrant de névralgie intercostale post-traumatique, post-zostérienne ou idiopathique réfractaire : la radiofréquence thermique conventionnelle (CRF, n = 31) procure une analgésie nettement plus durable à 3 et 6 mois que la radiofréquence pulsée (PRF, n = 29 ; NRS à 6 mois : 2,81 ± 1,93 vs 6,31 ± 2,34, p < 0,001) et constitue le seul facteur prédictif indépendant de réponse clinique IMMPACT (OR = 9,40 ; p = 0,001).",
+        "summary_fr_detailed": "Les névralgies intercostales chroniques (post-thoracotomie, post-traumatiques, post-zostériennes) altèrent sévèrement la qualité de vie. Cette cohorte compare deux modalités de neurolyse guidée par l'image des nerfs intercostaux : la radiofréquence thermique conventionnelle ablative (CRF) et la radiofréquence pulsée neuromodulatrice non destructrice (PRF), avec évaluation à 3 et 6 mois selon les critères IMMPACT (réduction ≥ 50 % ou ≥ 4 points du score NRS-11). Alors que les deux techniques soulagent transitoirement la douleur initiale, la CRF maintient un score NRS bas à 3 mois (2,77 vs 5,83, p < 0,001) et à 6 mois (2,81 vs 6,31, p < 0,001). En régression logistique multivariée incluant l'âge, le sexe, l'allodynie et l'intensité douloureuse initiale, le choix d'une modalité ablative vraie (CRF versus PRF) multiplie par 9,4 la probabilité de succès durable à 6 mois.",
+        "protocol_fr": "Repérage sous échographie haute fréquence ou scanner du sillon sous-costal au bord inférieur de la côte cible (à distance de la plèvre pariétale et du pédicule vasculaire intercostal) • Stimulation sensitive (50 Hz, reproduction de la topographie douloureuse < 0,5 V) et motrice • Anesthésie locale lidocaïne 1–2 % avant lésion thermique (CRF 80°C pendant 60–90 s, ou alternative par cryoneurolyse -60°C/-70°C à Cochin évitant la névrite de désafférentation).",
+        "key_points_fr": [
+            "Démontre la supériorité franche d'une neurolyse axonotmétique vraie (RF conventionnelle : NRS 2,8 à 6 mois) sur la simple neuromodulation pulsée (PRF : NRS 6,3 à 6 mois, OR = 9,40).",
+            "Ni la présence d'allodynie ni l'âge n'ont empêché la réponse clinique en analyse multivariée.",
+            "Confirme que pour les douleurs pariétales thoraciques rebelles, une modalité neurolytique (RF conventionnelle ou cryoneurolyse intercostale sous scanner telle que pratiquée à Cochin) offre un contrôle bien plus durable que la PRF.",
+            "Rappelle l'importance du guidage imagerie continu pour prévenir tout risque de pneumothorax ou de brèche vasculaire sous-costale."
+        ],
+        "tags": ["Nerf intercostal", "Névralgie intercostale", "Radiofréquence", "Douleur thoracique", "Neurolyse", "Pain Physician 2026"]
+    },
+    "42729247": {
+        "category_id": "cyst_sclerotherapy",
+        "title_fr": "Injection percutanée de ciment phosphocalcique pour les kystes osseux essentiels (KOE) : résultats cliniques, remodelage cortical et récidives à moyen et long terme (suivi moyen > 5 ans)",
+        "modality": "Fluoroscopie / Scanner Interventionnel",
+        "intervention_type": "Injection Percutanée Ostéoconductrice / Cimentoplastie Phosphocalcique de Kyste Osseux Essentiel (KOE)",
+        "cochin_link": "En lien direct avec les procédures d'« Alcoolisation (+/- cimentoplastie phosphocalcique) de kyste osseux essentiel (KOE) de l'aile iliaque, de l'humérus ou du fémur proximal » de l'Agenda Cochin.",
+        "summary_fr_short": "Série clinique à long terme (*Frontiers in Surgery*, août 2026, IF 1,8, Open-Access, suivi moyen 61,1 mois jusqu'à 12 ans) chez 31 enfants et jeunes adultes porteurs d'un kyste osseux essentiel (dont 14 révélés par fracture pathologique) traités par injection percutanée de ciment phosphocalcique (CPC) : disparition complète des douleurs (EVA médiane à 0), score fonctionnel MSTS médian de 30/30, cicatrisation radiographique Neer I/II dans 100 % des cas finaux et taux de récidive primaire limité à 12,9 % (4/31).",
+        "summary_fr_detailed": "Le traitement mini-invasif des kystes osseux essentiels (unicameral bone cysts, KOE) vise à prévenir les fractures itératives tout en stimulant l'ostéogenèse cavitaire sans greffe chirurgicale ouverte. Cette étude analyse avec un recul moyen de plus de 5 ans (61,1 mois, extrêmes 13–149 mois) 31 patients traités par évacuation-lavage percutané suivie du comblement par ciment phosphocalcique injectable (CPC), substitut osseux résorbable et ostéoconducteur offrant une résistance mécanique en compression immédiate. L'EVA douleur chute à 0 et le score fonctionnel MSTS atteint 30/30 (p < 0,001). Quatre récidives cavitaires tardives (12,9 %) sont survenues après la première injection : 3 ont guéri durablement après une seconde injection percutanée de CPC et 1 est restée asymptomatique avec corticale épaissie. Au dernier recul, 100 % des patients présentent un grade de Neer modifié I ou II sans aucune complication grave.",
+        "protocol_fr": "Ponction percutanée à deux trocarts sous guidage scopique/TDM (technique à double aiguille pour décompression) • Aspiration du liquide citrin, kystographie de contrôle éliminant un drainage veineux massif, curetage-lavage endokystique mécanique/chimique (alcoolisation préalable possible selon protocole local) • Injection lente sous contrôle fluoroscopique continu du ciment phosphocalcique (CPC) jusqu'au comblement cavitaire complet • Reprise fonctionnelle précoce grâce au renfort mécanique.",
+        "key_points_fr": [
+            "Recul exceptionnel (> 5 ans de moyenne) confirmant la durabilité du comblement percutané par ciment phosphocalcique dans les KOE (87,1 % de succès en 1 séance, 100 % Neer I/II au recul final).",
+            "Épaississement cortical progressif et résorption-substitution osseuse du ciment phosphocalcique contrairement au PMMA non résorbable chez le sujet jeune.",
+            "Possibilité de retraiter simplement par nouvelle injection percutanée les rares récidives partielles (3/31) sans chirurgie ouverte.",
+            "Valide parfaitement la stratégie combinée sclérothérapie/alcoolisation + comblement phosphocalcique pratiquée à Cochin sur les KOE fragilisants."
+        ],
+        "tags": ["Kyste osseux essentiel", "KOE", "Ciment phosphocalcique", "Traitement percutané", "Remodelage cortical", "Front Surg 2026"]
+    },
+    "42938822": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Stabilisation osseuse photodynamique centromédullaire percutanée (IlluminOss®) des fractures pathologiques et menaçantes de l'humérus métastatique : étude bicentrique (52 lésions)",
+        "modality": "Fluoroscopie Interventionnelle",
+        "intervention_type": "Ostéosynthèse Percutanée Photodynamique & Consolidation des Métastases des Os Longs",
+        "cochin_link": "Complète l'arsenal d'« Ostéosynthèse percutanée et consolidation osseuse oncologique » (en complément du vissage cimenté et de la cimentoplastie) discuté en RCP Métastases Osseuses à Cochin.",
+        "summary_fr_short": "Étude bicentrique sur données prospectives (*Cancers*, oct. 2026, IF 4,5, Open-Access) portant sur 51 patients métastatiques (52 fractures humérales avérées ou menaçantes Mirels 8–10) traités par ballonnet centromédullaire photopolymérisable mini-invasif (IlluminOss®) : chute rapide de la douleur (NRS de 7,1 à 2,0, p < 0,001), doublement du score fonctionnel MSTS-UE (de 9,5 à 20/30, p < 0,001), implant radiotransparent sans artefact TDM/IRM et faible taux de défaillance mécanique (7,7 %).",
+        "summary_fr_detailed": "Contrairement au bassin ou aux vertèbres où le ciment PMMA travaille idéalement en compression, la diaphyse humérale métastatique subit d'importantes contraintes en torsion et flexion qui limitent la cimentoplastie isolée. Cette série bicentrique évalue sur 52 lésions humérales (67,3 % de fractures pathologiques constituées, 32,7 % de lésions lytiques menaçantes Mirels 8–10) le système percutané de stabilisation photodynamique IlluminOss® : un ballonnet en PET souple est introduit par un abord mini-invasif dans le canal médullaire, gonflé d'un monomère liquide épousant la géométrie endostée irrégulière de l'ostéolyse, puis polymérisé in situ en quelques minutes par fibre optique à lumière bleue visible (436 nm). La douleur chute de NRS 7,1 à 2,0 (p < 0,001) et les scores fonctionnels MSTS-UE (9,5 à 20/30) et TESS (36,5 à 61/100) s'améliorent significativement, y compris chez des patients fragiles (25 % ECOG 3–4).",
+        "protocol_fr": "Abord percutané proximal ou distal minimal sous guidage fluoroscopique • Alésage léger/cathétérisme du fût huméral à travers la zone ostéolytique • Mise en place du ballonnet PET sur mesure et infusion du monomère liquide sous scopie (zéro fuite extra-osseuse grâce à l'enveloppe étanche du ballonnet) • Photopolymérisation par fibre optique endoluminale (436 nm) créant un tuteur intramédullaire rigide et radiotransparent, compatible avec un vissage transversal complémentaire direct à travers le polymère si fracture complexe.",
+        "key_points_fr": [
+            "Alternative mini-invasive aux enclouages chirurgicaux lourds pour stabiliser les fractures pathologiques ou menaçantes (Mirels 8–10) de l'humérus chez les patients oncologiques fragiles.",
+            "Analgésie rapide et majeure (NRS 7,1 → 2,0) et récupération précoce de la fonction du membre supérieur (MSTS-UE doublé).",
+            "Polymère confiné dans un ballonnet étanche (éliminant le risque de fuite de ciment dans les loges vasculo-nerveuses brachiales/radiales) et totalement radiotransparent pour la radiothérapie et le suivi TDM/IRM.",
+            "Enrichit les options percutanées de stabilisation des os longs non porteurs soumises aux contraintes de torsion."
+        ],
+        "tags": ["Stabilisation photodynamique", "IlluminOss", "Humérus métastatique", "Fracture pathologique", "Ostéosynthèse percutanée", "Cancers 2026"]
     }
 }
 
@@ -1519,25 +1621,30 @@ def is_real_pdf(pdf_path: Path) -> bool:
         return False
 
 
-def try_download_real_pdf(pmid: str, doi: str, pdf_path: Path) -> bool:
+def try_download_real_pdf(pmid: str, doi: str, pdf_path: Path, pmcid: str = "") -> bool:
     """
     Attempt to download the genuine publisher or open-access repository PDF (Springer, Nature,
-    Unpaywall, OpenAlex, HAL). Never generates a synthetic PDF.
+    PMC/EuropePMC, Unpaywall, OpenAlex, HAL). Never generates a synthetic PDF.
     """
     if is_real_pdf(pdf_path):
         return True
     if pdf_path.exists():
         pdf_path.unlink()
 
-    if not doi:
+    if not doi and not pmcid:
         return False
 
     candidates = []
+    if pmcid:
+        candidates.append(f"https://europepmc.org/backend/ptpmcrender.fcgi?accid={pmcid}&blobtype=pdf")
+        candidates.append(f"https://pmc.ncbi.nlm.nih.gov/articles/{pmcid}/pdf/")
     if doi.startswith("10.1007/") or doi.startswith("10.1186/") or doi.startswith("10.1245/"):
         candidates.append(f"https://link.springer.com/content/pdf/{doi}.pdf")
     if doi.startswith("10.1038/"):
         suffix = doi.split("/", 1)[1]
         candidates.append(f"https://www.nature.com/articles/{suffix}.pdf")
+    if doi.startswith("10.3389/"):
+        candidates.append(f"https://www.frontiersin.org/articles/{doi}/pdf")
 
     # Query Unpaywall
     try:
@@ -1669,6 +1776,11 @@ JOURNAL_IMPACT_FACTORS = {
     "pain and therapy": (3.8, "Pain Ther"),
     "orthopaedic surgery": (2.1, "Orthop Surg"),
     "injury": (2.2, "Injury"),
+    "journal of visualized experiments": (1.2, "JoVE"),
+    "world journal of radiology": (2.5, "World J Radiol"),
+    "pain physician": (3.1, "Pain Physician"),
+    "frontiers in surgery": (1.8, "Front Surg"),
+    "cancers": (4.5, "Cancers"),
 }
 
 
@@ -1761,25 +1873,27 @@ def main():
         except Exception:
             pass
 
-    # Query Europe PMC if available
-    try:
-        query = " OR ".join([f"EXT_ID:{p}" for p in pmids])
-        url = "https://www.ebi.ac.uk/europepmc/webservices/rest/search?" + urllib.parse.urlencode({
-            "query": query,
-            "format": "json",
-            "pageSize": 100,
-            "resultType": "core",
-        })
-        req = urllib.request.Request(url, headers={"User-Agent": "BiblioOsteo-Cochin/1.0"})
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            raw_results = json.loads(resp.read().decode("utf-8"))["resultList"]["result"]
-        for r in raw_results:
-            if r.get("pmid"):
-                by_pmid[str(r.get("pmid"))] = r
-    except Exception as e:
-        print(f"[Metadata] Europe PMC unavailable ({e}), falling back to PubMed MEDLINE for missing PMIDs")
+    # Query Europe PMC for uncached PMIDs if available
+    uncached_pmids = [p for p in pmids if p not in by_pmid or not by_pmid[p].get("title")]
+    if uncached_pmids:
+        try:
+            query = " OR ".join([f"EXT_ID:{p}" for p in uncached_pmids])
+            url = "https://www.ebi.ac.uk/europepmc/webservices/rest/search?" + urllib.parse.urlencode({
+                "query": query,
+                "format": "json",
+                "pageSize": 200,
+                "resultType": "core",
+            })
+            req = urllib.request.Request(url, headers={"User-Agent": "BiblioOsteo-Cochin/1.0"})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                raw_results = json.loads(resp.read().decode("utf-8"))["resultList"]["result"]
+            for r in raw_results:
+                if r.get("pmid"):
+                    by_pmid[str(r.get("pmid"))] = r
+        except Exception as e:
+            print(f"[Metadata] Europe PMC unavailable ({e}), falling back to PubMed MEDLINE for missing PMIDs")
 
-    # Fetch any missing PMIDs from PubMed MEDLINE format
+    # Fetch any still-missing PMIDs from PubMed MEDLINE format
     missing_pmids = [p for p in pmids if p not in by_pmid or not by_pmid[p].get("title")]
     if missing_pmids:
         try:
@@ -1788,54 +1902,54 @@ def main():
             pm_req = urllib.request.Request(pm_url, headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"})
             with urllib.request.urlopen(pm_req, timeout=20) as pm_resp:
                 pm_html = pm_resp.read().decode("utf-8", errors="ignore")
-            m_chunk = re.search(r'<pre class="search-results-chunk">(.*?)</pre>', pm_html, re.S)
-            if m_chunk:
-                chunk_txt = htmllib.unescape(m_chunk.group(1)).replace("\r\n", "\n")
-                month_map = {"Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6, "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12}
-                for rec in re.split(r"\n(?=PMID- )", chunk_txt.strip()):
-                    fields = {}
-                    cur = None
-                    for l in rec.split("\n"):
-                        if len(l) >= 6 and l[4:6] == "- ":
-                            cur = l[:4].strip()
-                            fields.setdefault(cur, []).append(l[6:].strip())
-                        elif cur and l.startswith("      "):
-                            fields[cur][-1] += " " + l.strip()
-                    p_id = fields.get("PMID", [""])[0]
-                    if not p_id:
-                        continue
-                    dp = fields.get("DP", ["2026"])[0]
-                    dep = fields.get("DEP", [""])[0]
-                    fpd = ""
-                    if len(dep) >= 6 and dep[:6].isdigit():
-                        fpd = f"{dep[:4]}-{dep[4:6]}-{dep[6:8] if len(dep)>=8 else '01'}"
-                    else:
-                        m_dp = re.match(r"(\d{4})\s+([A-Za-z]{3})", dp)
-                        if m_dp:
-                            fpd = f"{m_dp.group(1)}-{month_map.get(m_dp.group(2)[:3].title(), 1):02d}-01"
-                    aids = fields.get("AID", []) + fields.get("LID", [])
-                    doi_val = ""
-                    for a_id in aids:
-                        if "[doi]" in a_id:
-                            doi_val = a_id.replace("[doi]", "").strip()
-                            break
-                    by_pmid[p_id] = {
-                        "pmid": p_id,
-                        "title": fields.get("TI", [""])[0],
-                        "pubYear": dp[:4] if dp[:4].isdigit() else "2026",
-                        "firstPublicationDate": fpd,
-                        "journalInfo": {
-                            "volume": fields.get("VI", [""])[0],
-                            "issue": fields.get("IP", [""])[0],
-                            "yearOfPublication": int(dp[:4]) if dp[:4].isdigit() else 2026,
-                            "journal": {"title": fields.get("JT", fields.get("TA", [""]))[0]},
-                        },
-                        "pageInfo": fields.get("PG", [""])[0],
-                        "doi": doi_val,
-                        "pmcid": fields.get("PMC", [""])[0],
-                        "abstractText": " ".join(fields.get("AB", ["Abstract non disponible."])),
-                        "authorList": {"author": [{"fullName": au} for au in fields.get("AU", [])]},
-                    }
+            chunks = re.findall(r'<pre class="search-results-chunk"[^>]*>(.*?)</pre>', pm_html, re.S)
+            raw_medline = "\n".join(chunks) if chunks else pm_html
+            chunk_txt = htmllib.unescape(raw_medline).replace("\r\n", "\n")
+            month_map = {"Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6, "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12}
+            for rec in re.split(r"\n(?=PMID-\s+)", "\n" + chunk_txt.strip()):
+                fields = {}
+                cur = None
+                for l in rec.split("\n"):
+                    if len(l) >= 6 and l[4:6] == "- ":
+                        cur = l[:4].strip()
+                        fields.setdefault(cur, []).append(l[6:].strip())
+                    elif cur and l.startswith("      "):
+                        fields[cur][-1] += " " + l.strip()
+                p_id = fields.get("PMID", [""])[0]
+                if not p_id:
+                    continue
+                dp = fields.get("DP", ["2026"])[0]
+                dep = fields.get("DEP", [""])[0]
+                fpd = ""
+                if len(dep) >= 6 and dep[:6].isdigit():
+                    fpd = f"{dep[:4]}-{dep[4:6]}-{dep[6:8] if len(dep)>=8 else '01'}"
+                else:
+                    m_dp = re.match(r"(\d{4})\s+([A-Za-z]{3})", dp)
+                    if m_dp:
+                        fpd = f"{m_dp.group(1)}-{month_map.get(m_dp.group(2)[:3].title(), 1):02d}-01"
+                aids = fields.get("AID", []) + fields.get("LID", [])
+                doi_val = ""
+                for a_id in aids:
+                    if "[doi]" in a_id:
+                        doi_val = a_id.replace("[doi]", "").strip()
+                        break
+                by_pmid[p_id] = {
+                    "pmid": p_id,
+                    "title": fields.get("TI", [""])[0],
+                    "pubYear": dp[:4] if dp[:4].isdigit() else "2026",
+                    "firstPublicationDate": fpd,
+                    "journalInfo": {
+                        "volume": fields.get("VI", [""])[0],
+                        "issue": fields.get("IP", [""])[0],
+                        "yearOfPublication": int(dp[:4]) if dp[:4].isdigit() else 2026,
+                        "journal": {"title": fields.get("JT", fields.get("TA", [""]))[0]},
+                    },
+                    "pageInfo": fields.get("PG", [""])[0],
+                    "doi": doi_val,
+                    "pmcid": fields.get("PMC", [""])[0],
+                    "abstractText": " ".join(fields.get("AB", ["Abstract non disponible."])),
+                    "authorList": {"author": [{"fullName": au} for au in fields.get("AU", [])]},
+                }
         except Exception as e:
             print(f"[Metadata] PubMed MEDLINE fallback error: {e}")
     articles = []
@@ -1875,7 +1989,7 @@ def main():
         rel_pdf = f"pdfs/PMID_{pmid}.pdf"
         pdf_path = BASE_DIR / rel_pdf
 
-        has_real_pdf = is_real_pdf(pdf_path) or try_download_real_pdf(pmid, doi, pdf_path)
+        has_real_pdf = is_real_pdf(pdf_path) or try_download_real_pdf(pmid, doi, pdf_path, pmcid=pmcid)
 
         pubmed_url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
         doi_url = f"https://doi.org/{doi}" if doi else pubmed_url
@@ -1933,8 +2047,14 @@ def main():
     (DATA_DIR / "categories.json").write_text(
         json.dumps(list(CATEGORIES.values()), indent=2, ensure_ascii=False), encoding="utf-8"
     )
+    js_content = (
+        f"window.BIBLIO_ARTICLES = {json.dumps(articles, ensure_ascii=False)};\n"
+        f"window.BIBLIO_CATEGORIES = {json.dumps(list(CATEGORIES.values()), ensure_ascii=False)};\n"
+    )
+    (DATA_DIR / "embedded_data.js").write_text(js_content, encoding="utf-8")
+
     real_pdf_count = sum(1 for a in articles if a.get("pdf_file"))
-    print(f"[Database] Saved {len(articles)} articles ({real_pdf_count} with real PDFs, {len(articles) - real_pdf_count} with external links) to {DATA_DIR / 'articles.json'}")
+    print(f"[Database] Saved {len(articles)} articles ({real_pdf_count} with real PDFs, {len(articles) - real_pdf_count} with external links) to {DATA_DIR / 'articles.json'} and embedded_data.js")
 
     # Generate static Zotero exports (.ris, .bib, .json)
     from zotero_sync import generate_static_exports
