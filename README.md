@@ -36,6 +36,14 @@ Portail de veille bibliographique, de résumés cliniques structurés en frança
 
 ---
 
+## 📊 Synthèse des preuves par technique (pseudo-méta-analyse)
+
+En tête de chaque filtre de technique, une carte **Synthèse des preuves** résume la littérature de la catégorie : message clé, 3–4 chiffres clés, niveau de preuve, indications, technique, ⚠️ sécurité et suivi. Chaque affirmation est reliée à ses PMID (toucher un PMID ouvre l'article).
+
+- Source éditable : `scripts/syntheses_source.py` (vérifie que chaque PMID cité existe dans la base)
+- Régénération : `python3 scripts/syntheses_source.py` → `data/syntheses.json` + `data/embedded_data.js`
+- Synthèse narrative non pondérée (pas de pooling statistique) : à mettre à jour quand des articles majeurs sont ajoutés.
+
 ## 📚 Stockage des PDF & Intégration Zotero
 
 - **PDFs originaux dans [`pdfs/`](pdfs/) :**

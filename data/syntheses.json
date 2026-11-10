@@ -1,0 +1,1413 @@
+[
+  {
+    "category_id": "ablation_benign",
+    "evidence": "Niveau de preuve modéré : 2 revues systématiques/comparatives, 1 registre multicentrique (DeGIR), cohortes rétrospectives et séries princeps.",
+    "bottom_line": "La thermo-ablation percutanée sous scanner (RF ou cryoablation) est le traitement de référence de l'ostéome ostéoïde, avec > 92–96 % de guérison clinique dès la première séance et < 2 % de complications ; elle s'étend aux chondroblastomes épiphysaires < 2,5 cm et aux récidives focales de TCG.",
+    "kpis": [
+      {
+        "v": "92–99 %",
+        "l": "Succès technique/clinique OO (1 séance)",
+        "r": [
+          "41876692",
+          "42489686",
+          "33839926"
+        ]
+      },
+      {
+        "v": "96 %",
+        "l": "Succès cryo « no-touch » (adulte, n = 50)",
+        "r": [
+          "34812672"
+        ]
+      },
+      {
+        "v": "1,8 %",
+        "l": "Complications (registre DeGIR, n = 166)",
+        "r": [
+          "41876692"
+        ]
+      },
+      {
+        "v": "×6,5",
+        "l": "Risque de récidive si nidus extracortical",
+        "r": [
+          "41867110"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "k": "indications",
+        "title": "Indications retenues",
+        "items": [
+          {
+            "t": "Ostéome ostéoïde typique (cortical, médullaire, intra-articulaire) : RF = gold standard historique (71 % des procédures du registre DeGIR), cryoablation d'efficacité équivalente (> 93 %).",
+            "r": [
+              "41876692",
+              "33839926"
+            ]
+          },
+          {
+            "t": "OO intra-articulaire (cotyle, coude, talus) : la RF scanoguidée accède aux nidus inaccessibles à l'arthroscopie et fait céder la synovite réactionnelle.",
+            "r": [
+              "42931896"
+            ]
+          },
+          {
+            "t": "Chondroblastome épiphysaire < 2,5 cm : alternative au curetage avec préservation articulaire.",
+            "r": [
+              "19304917"
+            ]
+          },
+          {
+            "t": "Récidive locale focale de TCG après curetage : RF/cryo ± comblement PMMA si corticale ou os sous-chondral fragilisé.",
+            "r": [
+              "41568883"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "technique",
+        "title": "Technique & choix de l'énergie",
+        "items": [
+          {
+            "t": "Cryoablation « no-touch » extra-osseuse : pas de forage du nidus, visualisation de l'iceball, 60 % des gestes sous AL + sédation ; privilégiée au tarse et sur les lésions superficielles.",
+            "r": [
+              "34812672",
+              "33839926"
+            ]
+          },
+          {
+            "t": "L'os cortical freine la RF (haute impédance) mais laisse diffuser le froid : penser cryo pour les lésions corticales épaisses/scléreuses.",
+            "r": [
+              "24838839"
+            ]
+          },
+          {
+            "t": "Nidus extracortical + DCE-MRI lent (TTP > 40 s, MRE < 300 %) : risque de récidive > 55 % → prolonger l'ablation, augmenter la température ou basculer en cryo.",
+            "r": [
+              "41867110"
+            ]
+          },
+          {
+            "t": "Robotique : moins de repositionnements dans les trajets obliques, sans gain d'efficacité vs guidage TDM expert (440 procédures).",
+            "r": [
+              "42671500"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "safety",
+        "title": "Sécurité & structures nobles",
+        "warn": true,
+        "items": [
+          {
+            "t": "Seuils de neurotoxicité : < 10 °C et > 45 °C au contact des troncs nerveux ; hydro-/carbodissection pour écarter peau, nerfs et tube digestif.",
+            "r": [
+              "24838839"
+            ]
+          },
+          {
+            "t": "Lésions superficielles (tibia antérieur, talus, coude) : risque de brûlure cutanée/cartilagineuse.",
+            "r": [
+              "42489686"
+            ]
+          },
+          {
+            "t": "Chondroblastome : préserver la lame sous-chondrale (risque d'effondrement ostéochondral).",
+            "r": [
+              "19304917"
+            ]
+          },
+          {
+            "t": "Dosimétrie (enfant) : DLP médian 124 mGy·cm (membres) / 222 mGy·cm (axial) comme référentiel ALARA ; collimation serrée et bas kV.",
+            "r": [
+              "41876692",
+              "42489686"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "followup",
+        "title": "Bilan & suivi",
+        "items": [
+          {
+            "t": "IRM dynamique injectée pré-geste pour confirmer le nidus et limiter les acquisitions TDM diagnostiques.",
+            "r": [
+              "42489686",
+              "41867110"
+            ]
+          },
+          {
+            "t": "Chondroblastome / TCG : IRM + TDM à 3, 6 et 12 mois (réossification, interface os-ciment).",
+            "r": [
+              "19304917",
+              "41568883"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "19304917",
+      "24838839",
+      "33839926",
+      "34812672",
+      "41568883",
+      "41867110",
+      "41876692",
+      "42489686",
+      "42671500",
+      "42931896"
+    ]
+  },
+  {
+    "category_id": "desmoid_soft_tissue",
+    "evidence": "Niveau de preuve modéré à élevé : 1 essai prospectif de phase II (CRYODESMO-01), consensus SIR, cohortes rétrospectives et revues 2024–2026.",
+    "bottom_line": "La cryoablation percutanée est la modalité ablative de choix des tumeurs desmoïdes extra-abdominales symptomatiques ou progressives : 85–91 % de contrôle local à 12–16 mois, 78–79 % de réponse objective (mRECIST) et ~5 % de complications majeures, avec retraitement itératif possible.",
+    "kpis": [
+      {
+        "v": "85,6 %",
+        "l": "Non-progression à 12 mois (phase II, n = 50)",
+        "r": [
+          "33290994"
+        ]
+      },
+      {
+        "v": "78–79 %",
+        "l": "Réponse objective mRECIST",
+        "r": [
+          "42731622",
+          "42384128"
+        ]
+      },
+      {
+        "v": "94,6 %",
+        "l": "Contrôle de la maladie (n = 44, 6,9 cm)",
+        "r": [
+          "42731622"
+        ]
+      },
+      {
+        "v": "5,3 %",
+        "l": "Complications majeures (SIR ≥ 3)",
+        "r": [
+          "42731622"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "k": "indications",
+        "title": "Indications retenues",
+        "items": [
+          {
+            "t": "Desmoïde extra-abdominale progressive ou symptomatique après surveillance active ou traitement systémique (alternative à la chirurgie délabrante).",
+            "r": [
+              "33290994",
+              "42631901"
+            ]
+          },
+          {
+            "t": "Ablation subtotale délibérée à visée antalgique/fonctionnelle au contact d'un plexus (creux sus-claviculaire / plexus brachial).",
+            "r": [
+              "42955498",
+              "42631901"
+            ]
+          },
+          {
+            "t": "Oligoprogression sous traitement systémique : cryo focale sur le contingent résiduel ; consensus SIR plaçant la cryo au premier plan de la stratégie multimodale chez le sujet jeune.",
+            "r": [
+              "42955498",
+              "42641400"
+            ]
+          },
+          {
+            "t": "Autres cibles parties molles : endométriomes pariétaux, nodules oligométastatiques musculaires/sous-cutanés.",
+            "r": [
+              "39556172"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "technique",
+        "title": "Technique",
+        "items": [
+          {
+            "t": "Isotherme létal (−20 à −40 °C) à 3–5 mm en dedans du bord visible du glaçon (0 °C) : planifier la couverture en conséquence.",
+            "r": [
+              "39556172"
+            ]
+          },
+          {
+            "t": "Planification multi-sondes selon volume tumoral et proximité nerveuse ; retraitement itératif chez 26 % des patients.",
+            "r": [
+              "33290994",
+              "42731622"
+            ]
+          },
+          {
+            "t": "Petites lésions à distance des troncs moteurs : faisable sous AL + sédation consciente.",
+            "r": [
+              "39556172"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "safety",
+        "title": "Sécurité & protection",
+        "warn": true,
+        "items": [
+          {
+            "t": "Hydrodissection sous-cutanée continue et réchauffement cutané pour les nodules superficiels (trapèze, paroi thoracique).",
+            "r": [
+              "39556172",
+              "42955498"
+            ]
+          },
+          {
+            "t": "Protection nerveuse active au contact des plexus ; accepter une ablation subtotale plutôt qu'un déficit moteur.",
+            "r": [
+              "42955498",
+              "42631901"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "followup",
+        "title": "Évaluation de la réponse (IRM)",
+        "items": [
+          {
+            "t": "Utiliser mRECIST / volumétrie du tissu viable rehaussé, pas RECIST 1.1 : ORR 79,4 % vs 28,6 % ; concordance mRECIST–volumétrie 3D κ = 0,895.",
+            "r": [
+              "42384128",
+              "42731622"
+            ]
+          },
+          {
+            "t": "Une cicatrice fibreuse non rehaussée de taille inchangée peut correspondre à une réponse complète ; utiliser la soustraction post-gadolinium.",
+            "r": [
+              "42384128",
+              "41357250"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "33290994",
+      "39556172",
+      "42384128",
+      "42631901",
+      "42641400",
+      "42731622",
+      "42955498",
+      "41357250"
+    ]
+  },
+  {
+    "category_id": "ect_mets",
+    "evidence": "Niveau de preuve modéré : 1 méta-analyse PRISMA (toxicité bléomycine, 7 601 patients), 1 revue systématique, séries cliniques, étude préclinique et protocole prospectif (BOREALIS).",
+    "bottom_line": "L'électrochimiothérapie (bléomycine IV + électroporation réversible) est la seule technique ablative percutanée utilisable au contact direct de la moelle, des racines ou de la peau : antalgie rapide (EVA 7 → 1 à 1 mois dans l'épidurite réfractaire) et réponse épidurale objective chez 77 % des patients, sans effet thermique.",
+    "kpis": [
+      {
+        "v": "7 → 1",
+        "l": "EVA médiane à 1 mois (épidurite réfractaire, n = 40)",
+        "r": [
+          "37030078"
+        ]
+      },
+      {
+        "v": "77 %",
+        "l": "Réponse épidurale objective en IRM",
+        "r": [
+          "37030078"
+        ]
+      },
+      {
+        "v": "56 %",
+        "l": "Amélioration neurologique à 1 mois",
+        "r": [
+          "37030078"
+        ]
+      },
+      {
+        "v": "85–92 %",
+        "l": "Contrôle local à 1 an (cryo oligométastatique)",
+        "r": [
+          "37504355"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "k": "indications",
+        "title": "Indications retenues",
+        "items": [
+          {
+            "t": "Coulée épidurale / compression médullaire métastatique réfractaire à la radiothérapie, au contact du fourreau dural.",
+            "r": [
+              "37030078",
+              "42785703"
+            ]
+          },
+          {
+            "t": "Métastases distales (pied, main), juxta-articulaires ou radiorésistantes (rein, mélanome).",
+            "r": [
+              "37834793",
+              "38732352"
+            ]
+          },
+          {
+            "t": "Lésions volumineuses : association « cryoablation centrale (debulking) + couronne périphérique d'ECT » ± cimentoplastie dans le même temps.",
+            "r": [
+              "38732352",
+              "37834793"
+            ]
+          },
+          {
+            "t": "Maladie oligométastatique osseuse : cryoablation à visée curative avec marge ≥ 5 mm (protocole BOREALIS).",
+            "r": [
+              "42618654",
+              "37504355"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "technique",
+        "title": "Technique & pharmacologie",
+        "items": [
+          {
+            "t": "Bléomycine 15 000 UI/m² IV en bolus ; impulsions délivrées entre 8 et 40 min après l'injection.",
+            "r": [
+              "37834793",
+              "42998777"
+            ]
+          },
+          {
+            "t": "Électrodes : voie transpédiculaire validée au rachis ; électrodes bipolaires mono-aiguille pour réduire le nombre d'insertions et confiner le champ.",
+            "r": [
+              "40906057",
+              "42804145"
+            ]
+          },
+          {
+            "t": "Planification patient-spécifique du champ électrique (3D Slicer / AI4DEEP) : isodose 160–200 V/cm corrélée à la nécrose IRM.",
+            "r": [
+              "42612110"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "safety",
+        "title": "Sécurité",
+        "warn": true,
+        "items": [
+          {
+            "t": "Anesthésie : FiO2 < 30 % après bléomycine (risque de toxicité pulmonaire) — coordination indispensable avec l'anesthésiste.",
+            "r": [
+              "38732352",
+              "42998777"
+            ]
+          },
+          {
+            "t": "Âge avancé et métastases pulmonaires ne contre-indiquent pas une séance unique d'ECT (méta-analyse 7 601 patients : risque lié aux doses cumulées de chimiothérapie).",
+            "r": [
+              "42998777"
+            ]
+          },
+          {
+            "t": "Neuromonitoring : chute transitoire des PEM après impulsion, récupération complète < 30 min ; aucune lésion médullaire histologique.",
+            "r": [
+              "40906057"
+            ]
+          },
+          {
+            "t": "Cryoablation distale ou sous anti-angiogéniques (lenvatinib) : vigilance cutanée renforcée.",
+            "r": [
+              "37504355"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "followup",
+        "title": "Suivi",
+        "items": [
+          {
+            "t": "IRM injectée à 1 et 3 mois : réponse du contingent épidural (score ESCCS) et douleur ; réduction des opioïdes dès le 1er mois.",
+            "r": [
+              "37030078",
+              "38732352"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "37030078",
+      "37504355",
+      "37834793",
+      "38732352",
+      "40906057",
+      "42612110",
+      "42618654",
+      "42785703",
+      "42804145",
+      "42998777"
+    ]
+  },
+  {
+    "category_id": "consolidation_screw_cement",
+    "evidence": "Niveau de preuve modéré : 2 revues systématiques (dont 76 études / 3 234 patients en cimentoplastie rachidienne), cohortes multicentriques et séries techniques.",
+    "bottom_line": "La cimentoplastie traite la compression (corps vertébral, toit du cotyle) et le vissage percutané ± cimenté le cisaillement (anneau pelvien, sacrum, col) : antalgie > 80–88 %, complications symptomatiques ~3 % et reprise d'appui précoce ; l'association ablation + vis + ciment en une séance est validée pour les métastases pelviennes.",
+    "kpis": [
+      {
+        "v": "3,4 %",
+        "l": "Complications symptomatiques (cimentoplastie, 3 234 pts)",
+        "r": [
+          "42780331"
+        ]
+      },
+      {
+        "v": "20,7 %",
+        "l": "Fuites de ciment (majoritairement asymptomatiques)",
+        "r": [
+          "42780331"
+        ]
+      },
+      {
+        "v": "88 %",
+        "l": "Succès antalgique os thoraciques extra-rachidiens",
+        "r": [
+          "42439173"
+        ]
+      },
+      {
+        "v": "97 %",
+        "l": "Positionnement intra-osseux vis ilio-sacrées",
+        "r": [
+          "42767629"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "k": "indications",
+        "title": "Indications retenues",
+        "items": [
+          {
+            "t": "Métastases et myélome rachidiens douloureux : cimentoplastie (39 % des patients de RCP Métastases Osseuses en CHU vs 22 % de chirurgie).",
+            "r": [
+              "42947096",
+              "40911195"
+            ]
+          },
+          {
+            "t": "Fractures sacrées par insuffisance (U / Rommens IVb) et fractures pathologiques ou post-radiques de l'anneau pelvien : vissage ilio-/trans-sacré.",
+            "r": [
+              "42891691",
+              "26318372"
+            ]
+          },
+          {
+            "t": "Métastases pelviennes douloureuses : cryoablation + vissage + cimentoplastie en une séance.",
+            "r": [
+              "42173356"
+            ]
+          },
+          {
+            "t": "Sites atypiques : rachis cervical (voie antéro-latérale C3–C7), sternum/côtes/clavicule/scapula, humérus (ballonnet photopolymérisable, Mirels 8–10).",
+            "r": [
+              "20848245",
+              "42439173",
+              "42938822"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "technique",
+        "title": "Technique",
+        "items": [
+          {
+            "t": "Ciment = compression ; vis canulées = cisaillement ; scellement cimenté des vis en os irradié/ostéoporotique pour éviter migration.",
+            "r": [
+              "38544877",
+              "26318372",
+              "42173356"
+            ]
+          },
+          {
+            "t": "Après cryoablation, attendre le réchauffement complet avant d'injecter le PMMA (polymérisation retardée, fuites).",
+            "r": [
+              "42173356",
+              "38544877"
+            ]
+          },
+          {
+            "t": "Corridors S1/S2 très variables (10–32 mm) : planification 3D/CBCT ; procubitus pour associer vissage et sacroplastie ; incidences COOHO/Outlet/Profil strict pour les colonnes acétabulaires.",
+            "r": [
+              "42471112",
+              "42767629",
+              "42663695"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "safety",
+        "title": "Sécurité & pièges",
+        "warn": true,
+        "items": [
+          {
+            "t": "Embolie pulmonaire de ciment 1,08 % ; le contrôle TDM détecte 2,4× plus de fuites que la scopie.",
+            "r": [
+              "42780331"
+            ]
+          },
+          {
+            "t": "Fuite intradiscale : risque de fracture adjacente 31 % vs 8,8 % (myélome) — à éviter.",
+            "r": [
+              "40911195"
+            ]
+          },
+          {
+            "t": "Rachis cervical = geste à haut risque hémorragique : arrêt AOD et gestion des antiagrégants en consultation d'anesthésie.",
+            "r": [
+              "20848245"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "followup",
+        "title": "Résultats à long terme",
+        "items": [
+          {
+            "t": "Myélome : 1,4 % de refracture locale à > 5 ans sur 142 sites cimentés.",
+            "r": [
+              "40911195"
+            ]
+          },
+          {
+            "t": "Vissage pelvien : appui dès J1, complication 0,6 % (169 vis), durée médiane 47 min.",
+            "r": [
+              "26318372",
+              "42471112"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "20848245",
+      "26318372",
+      "38544877",
+      "40911195",
+      "42173356",
+      "42439173",
+      "42471112",
+      "42663695",
+      "42767629",
+      "42780331",
+      "42891691",
+      "42938822",
+      "42947096"
+    ]
+  },
+  {
+    "category_id": "cyst_sclerotherapy",
+    "evidence": "Niveau de preuve faible à modéré : 1 étude prospective, séries cliniques (dont recul > 5 ans), étude physiopathologique et revues de synthèse.",
+    "bottom_line": "La sclérothérapie percutanée (éthanol, polidocanol, doxycycline) ± comblement est devenue le traitement de première intention de nombreux KOA et KOE : guérison en 1–2 séances dans 74–95 % des cas, avec très peu de complications, à condition d'avoir éliminé un ostéosarcome télangiectasique.",
+    "kpis": [
+      {
+        "v": "80–90 %",
+        "l": "Ostéogenèse réparatrice après alcoolisation (1–2 séances)",
+        "r": [
+          "34367902"
+        ]
+      },
+      {
+        "v": "95 %",
+        "l": "Sans récidive à 30 mois (polidocanol + moelle, KOA)",
+        "r": [
+          "42483265"
+        ]
+      },
+      {
+        "v": "74,1 %",
+        "l": "Guérison en 1 séance (Sclerograft modifié, KOA)",
+        "r": [
+          "42477120"
+        ]
+      },
+      {
+        "v": "87,1 %",
+        "l": "Succès en 1 séance (ciment phosphocalcique, KOE)",
+        "r": [
+          "42729247"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "k": "indications",
+        "title": "Indications retenues",
+        "items": [
+          {
+            "t": "KOA primaire (réarrangement USP6) et KOE symptomatiques ou à risque fracturaire, en première intention avant curetage.",
+            "r": [
+              "41857607",
+              "35941207"
+            ]
+          },
+          {
+            "t": "KOE volumineux (aile iliaque, humérus) : alcoolisation + comblement/cimentoplastie avant reprise sportive.",
+            "r": [
+              "34367902",
+              "42729247"
+            ]
+          },
+          {
+            "t": "KOA volumineux, axiaux ou récidivants : sclérothérapie ± cryoablation des contingents charnus ou embolisation sélective.",
+            "r": [
+              "42477120",
+              "41857607"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "technique",
+        "title": "Technique",
+        "items": [
+          {
+            "t": "Montage à double trocart (décompression/drainage) : l'hyperpression intrakystique (90 vs 67 mmHg) justifie physiologiquement la décompression.",
+            "r": [
+              "42234093",
+              "34367902"
+            ]
+          },
+          {
+            "t": "Kystographie iodée préalable obligatoire avant alcoolisation (fuite veineuse directe, passage articulaire).",
+            "r": [
+              "35941207"
+            ]
+          },
+          {
+            "t": "Options d'adjuvants : disruption des cloisons + doxycycline + substitut osseux ; moelle autologue après polidocanol ; ciment phosphocalcique résorbable chez le jeune (≠ PMMA).",
+            "r": [
+              "42477120",
+              "42483265",
+              "42729247"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "safety",
+        "title": "Pièges diagnostiques",
+        "warn": true,
+        "items": [
+          {
+            "t": "Toute lésion multiloculée à niveaux liquide-liquide atypique : confirmation histologique/moléculaire (USP6) avant sclérothérapie — diagnostic différentiel de l'ostéosarcome télangiectasique.",
+            "r": [
+              "35941207"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "followup",
+        "title": "Suivi",
+        "items": [
+          {
+            "t": "TDM ou radiographies à 3, 6 et 12 mois : épaississement cortical, disparition de l'effet soufflant, ossification centripète sur 6–24 mois (Neer I/II).",
+            "r": [
+              "41857607",
+              "35941207",
+              "42729247"
+            ]
+          },
+          {
+            "t": "Récidive partielle : nouvelle injection percutanée possible sans chirurgie ouverte.",
+            "r": [
+              "42729247"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "34367902",
+      "35941207",
+      "41857607",
+      "42234093",
+      "42477120",
+      "42483265",
+      "42729247"
+    ]
+  },
+  {
+    "category_id": "pain_cryoneurolysis",
+    "evidence": "Niveau de preuve élevé pour les nerfs géniculés (méta-analyse de 8 ECR vs sham, 627 patients) et les nerfs clunéaux (méta-analyse, 628 patients) ; modéré pour Morton et intercostaux (cohortes).",
+    "bottom_line": "Après bloc test positif, la neurolyse percutanée (RF conventionnelle ou cryoneurolyse) procure ≥ 50 % de soulagement chez 70–85 % des patients sélectionnés (genou, clunéaux, Morton, intercostaux), sans événement indésirable grave ; la cryoneurolyse induit une axonotmésis réversible (Sunderland II) sans névrome.",
+    "kpis": [
+      {
+        "v": "−1,65 pt",
+        "l": "EVA à 12 sem. vs sham (géniculés, 8 ECR)",
+        "r": [
+          "41063397"
+        ]
+      },
+      {
+        "v": "78–83 %",
+        "l": "Répondeurs névralgie clunéale (3–6 mois)",
+        "r": [
+          "42182575"
+        ]
+      },
+      {
+        "v": "> 80 %",
+        "l": "Succès cryoneurolyse Morton (AL, ambulatoire)",
+        "r": [
+          "38438685",
+          "42942556"
+        ]
+      },
+      {
+        "v": "OR 9,4",
+        "l": "RF conventionnelle vs pulsée (intercostaux)",
+        "r": [
+          "42804317"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "k": "indications",
+        "title": "Indications retenues",
+        "items": [
+          {
+            "t": "Gonarthrose sévère (KL 3–4) réfractaire ou en attente de PTG, et douleurs persistantes après prothèse.",
+            "r": [
+              "41063397",
+              "42977533",
+              "42803442"
+            ]
+          },
+          {
+            "t": "Névralgie clunéale supérieure/moyenne (lombo-fessalgies) après bloc diagnostique positif.",
+            "r": [
+              "42182575"
+            ]
+          },
+          {
+            "t": "Névrome de Morton réfractaire au traitement conservateur, y compris après échec d'une première RF.",
+            "r": [
+              "38438685",
+              "42942556"
+            ]
+          },
+          {
+            "t": "Névralgie intercostale (post-zostérienne, post-traumatique, oncologique) et douleurs post-amputation.",
+            "r": [
+              "42804317",
+              "28431129"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "technique",
+        "title": "Technique",
+        "items": [
+          {
+            "t": "Bloc test sous échographie à faible volume (0,5–1 mL par nerf) = meilleur prédicteur d'efficacité ; prérequis dans les douleurs non oncologiques.",
+            "r": [
+              "42602563",
+              "42995280",
+              "28431129"
+            ]
+          },
+          {
+            "t": "Genou : repères vasculaires Doppler (artères géniculées) et périostés ; extension à 4–5 cibles possible.",
+            "r": [
+              "42602563",
+              "42803442"
+            ]
+          },
+          {
+            "t": "Préférer une modalité neurolytique vraie (RF conventionnelle ou cryo) à la RF pulsée pour une analgésie durable (NRS 6 mois 2,8 vs 6,3).",
+            "r": [
+              "42804317"
+            ]
+          },
+          {
+            "t": "Clunéal supérieur : franchissement de la crête iliaque postéro-supérieure à 6–8 cm de la ligne médiane.",
+            "r": [
+              "42182575"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "safety",
+        "title": "Sécurité & pièges",
+        "warn": true,
+        "items": [
+          {
+            "t": "Ne jamais cibler le nerf géniculé inféro-latéral (risque de lésion du nerf fibulaire commun / steppage).",
+            "r": [
+              "42602563"
+            ]
+          },
+          {
+            "t": "Tests de stimulation sensitive (50 Hz) et motrice (2 Hz) avant toute anesthésie du nerf cible ; ropivacaïne 0,2 % en multi-sites.",
+            "r": [
+              "42742682",
+              "28431129"
+            ]
+          },
+          {
+            "t": "Morton : protection cutanée dans l'espace inter-métatarsien étroit ; Intercostaux : guidage TDM au bord inférieur costal (pneumothorax).",
+            "r": [
+              "38438685",
+              "28431129"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "followup",
+        "title": "Suivi",
+        "items": [
+          {
+            "t": "Pas d'aggravation des BML ni de l'arthrose en IRM à 3 mois après RF géniculée refroidie ; bénéfice WOMAC jusqu'à 24 semaines.",
+            "r": [
+              "42977533",
+              "41063397"
+            ]
+          },
+          {
+            "t": "> 70 % des patients sélectionnés maintiennent ≥ 50 % de soulagement à 6–12 mois.",
+            "r": [
+              "28431129"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "28431129",
+      "38438685",
+      "41063397",
+      "42182575",
+      "42602563",
+      "42742682",
+      "42803442",
+      "42804317",
+      "42942556",
+      "42977533",
+      "42995280"
+    ]
+  },
+  {
+    "category_id": "pudendal_cryoneurolysis",
+    "evidence": "Niveau de preuve modéré : 1 série de référence de 362 procédures sur 10 ans, cohortes comparatives (224, 95 et 84 patients), étude IRM et série princeps ; pas d'essai randomisé.",
+    "bottom_line": "La cryoneurolyse du nerf pudendal sous scanner, chez un patient bien sélectionné (triade : facteur déclenchant + douleur périnéale unilatérale systématisée + bloc TDM positif), obtient ~77 % de succès clinique, un intervalle libre moyen de 31,8 mois et 0 % de complication majeure ou sphinctérienne.",
+    "kpis": [
+      {
+        "v": "77,4 %",
+        "l": "Succès clinique si triade de sélection (vs 36,4 %)",
+        "r": [
+          "42276242"
+        ]
+      },
+      {
+        "v": "31,8 mois",
+        "l": "Délai moyen avant réintervention",
+        "r": [
+          "42276242"
+        ]
+      },
+      {
+        "v": "0 %",
+        "l": "Complication majeure / sphinctérienne",
+        "r": [
+          "42276242",
+          "41999357",
+          "32602380"
+        ]
+      },
+      {
+        "v": "OR 4,88",
+        "l": "Bloc diagnostique positif → réponse",
+        "r": [
+          "42999001"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "k": "indications",
+        "title": "Indications retenues",
+        "items": [
+          {
+            "t": "Névralgie pudendale réfractaire (critères cliniques) avec bloc diagnostique positif ; étiologie post-chirurgicale = facteur prédictif favorable (OR 2,83).",
+            "r": [
+              "42276242",
+              "42999001"
+            ]
+          },
+          {
+            "t": "Douleurs pelvi-périnéales oncologiques réfractaires : cryoneurolyse pudendale, éventuellement bilatérale en un temps (−5,2 pts d'EVA, sortie en 2,3 j).",
+            "r": [
+              "32602380",
+              "41999357"
+            ]
+          },
+          {
+            "t": "Composante sympathique médiane associée : ajouter le ganglion impar (EVA 6 mois 2,09 vs 3,81 avec PRF pudendale seule).",
+            "r": [
+              "42263315",
+              "41440950"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "technique",
+        "title": "Technique",
+        "items": [
+          {
+            "t": "Procubitus, guidage TDM ; cible au niveau de la pince ligamentaire (épine ischiatique / ligament sacro-épineux) ou du canal d'Alcock selon le site du conflit.",
+            "r": [
+              "41594302",
+              "25511935"
+            ]
+          },
+          {
+            "t": "Bloc test TDM indispensable dans les névralgies fonctionnelles/canalaires ; peut être omis en oncologie pelvienne à cible évidente (succès 81,1 % vs 69,7 %, NS ; gain de ~16 jours).",
+            "r": [
+              "42527618"
+            ]
+          },
+          {
+            "t": "Cryo-axonotmésis (−20 à −100 °C) : préservation de l'endonèvre, pas de névrite ni de névrome de désafférentation ; supérieure en durabilité à la RF pulsée (neuromodulation).",
+            "r": [
+              "41440950",
+              "42999001"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "safety",
+        "title": "Sécurité",
+        "warn": true,
+        "items": [
+          {
+            "t": "Aucune incontinence ni complication sphinctérienne rapportée, y compris en bilatéral, grâce à la précision du guidage TDM et à la réversibilité de l'axonotmésis.",
+            "r": [
+              "32602380",
+              "41440950",
+              "25511935"
+            ]
+          },
+          {
+            "t": "Hors triade de sélection, le taux de succès chute à 36,4 % : ne pas multiplier les gestes sans bloc positif.",
+            "r": [
+              "42276242"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "followup",
+        "title": "Bilan & suivi",
+        "items": [
+          {
+            "t": "IRM pelvienne avec neurographie de diffusion (b = 0, 100, 600) : anomalie du nerf chez 51,9 % des patients, cause compressive identifiée chez ~55 % d'entre eux.",
+            "r": [
+              "41594302"
+            ]
+          },
+          {
+            "t": "Antalgie dès 24 h–J7, maintenue à 6 mois (EVA 7,6 → 3,1) avec épargne morphinique ; retraitement possible après ~2,5 ans.",
+            "r": [
+              "25511935",
+              "41999357",
+              "42276242"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "25511935",
+      "32602380",
+      "41440950",
+      "41594302",
+      "41999357",
+      "42263315",
+      "42276242",
+      "42527618",
+      "42999001"
+    ]
+  },
+  {
+    "category_id": "msk_biopsy",
+    "evidence": "Niveau de preuve modéré : études multicentriques et cohortes rétrospectives (64 à 183 patients), revue critique de la concordance biopsie-résection.",
+    "bottom_line": "La biopsie percutanée sous scanner/écho atteint 94–97 % de rendement diagnostique avec 0 % de complication majeure ; ses limites sont le sous-grading des tumeurs cartilagineuses (surtout pelviennes) et le faible rendement microbiologique des spondylodiscites (37 %, 86 % avec technique optimisée + 16S).",
+    "kpis": [
+      {
+        "v": "93,8 %",
+        "l": "Rendement diagnostique biopsie osseuse TDM",
+        "r": [
+          "42964659"
+        ]
+      },
+      {
+        "v": "95–97 %",
+        "l": "Précision bénin/malin (parties molles, écho)",
+        "r": [
+          "34497298"
+        ]
+      },
+      {
+        "v": "κ 0,12",
+        "l": "Concordance de grade chondrosarcome pelvien",
+        "r": [
+          "42997475"
+        ]
+      },
+      {
+        "v": "51 → 86 %",
+        "l": "Rendement spondylodiscite (technique modifiée + 16S)",
+        "r": [
+          "42363976"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "k": "indications",
+        "title": "Indications retenues",
+        "items": [
+          {
+            "t": "Histologie systématique avant ablation ou radiothérapie : le diagnostic clinique pré-geste est corrigé dans 9,4 % des cas.",
+            "r": [
+              "42964659"
+            ]
+          },
+          {
+            "t": "Masse lipomateuse profonde > 5 cm avec septas épais ou nodule non graisseux : microbiopsie ciblée + recherche d'amplification MDM2.",
+            "r": [
+              "42129022"
+            ]
+          },
+          {
+            "t": "Suspicion de spondylodiscite : ne pas récuser la biopsie sous antibiothérapie probabiliste (36,4 % vs 37,8 %, NS).",
+            "r": [
+              "42736384"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "technique",
+        "title": "Technique",
+        "items": [
+          {
+            "t": "≥ 3 carottes de ≥ 10 mm ; cibler la berge ostéolytique active / le nodule charnu, pas le centre nécrotique ; envoyer le caillot aspiré en « cell block » (+7 % de rendement).",
+            "r": [
+              "41204964"
+            ]
+          },
+          {
+            "t": "Chondrosarcome : carottes multiples dans des cadrans distincts, viser le contingent non cartilagineux (100 % de sensibilité pour le dédifférencié).",
+            "r": [
+              "42874309",
+              "42997475"
+            ]
+          },
+          {
+            "t": "Spondylodiscite : prélever simultanément l'os sous-chondral du plateau et le disque + séquençage ARN 16S.",
+            "r": [
+              "42363976"
+            ]
+          },
+          {
+            "t": "Lymphome / infiltration médullaire : cibler l'hypersignal diffusion/rehaussement IRM, éviter l'écrasement des carottes.",
+            "r": [
+              "41838307"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "safety",
+        "title": "Règles carcinologiques",
+        "warn": true,
+        "items": [
+          {
+            "t": "Ne jamais traverser un compartiment sain ni le fascia profond ; trajet sur la future voie d'incision définie avec les chirurgiens.",
+            "r": [
+              "34497298"
+            ]
+          },
+          {
+            "t": "Une biopsie « bas grade » sur une lésion cartilagineuse pelvienne agressive en IRM ne récuse pas un haut grade (concordance globale 48 %) : relecture et décision en RCP.",
+            "r": [
+              "42874309",
+              "42997475"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "34497298",
+      "41204964",
+      "41838307",
+      "42129022",
+      "42363976",
+      "42736384",
+      "42874309",
+      "42964659",
+      "42997475"
+    ]
+  },
+  {
+    "category_id": "msk_imaging",
+    "evidence": "Niveau de preuve modéré : cohortes diagnostiques (70 à 261 patients), revues de radiomique et atlas iconographiques, publications princeps (Radiology, RadioGraphics).",
+    "bottom_line": "L'IRM fonctionnelle (diffusion/ADC, DCE-MRI, IVIM) améliore la caractérisation des tumeurs des parties molles (AUC 0,86–0,96) et conditionne le ciblage biopsique, le dépistage du nidus d'ostéome ostéoïde et l'évaluation post-ablation, où les critères de viabilité supplantent les critères dimensionnels.",
+    "kpis": [
+      {
+        "v": "AUC 0,96",
+        "l": "Fasciite nodulaire vs sarcome (ADC + queue fasciale)",
+        "r": [
+          "42970180"
+        ]
+      },
+      {
+        "v": "AUC 0,86",
+        "l": "Ktrans / D* (IVIM) – angiogenèse sarcomes",
+        "r": [
+          "42997935"
+        ]
+      },
+      {
+        "v": "35 %",
+        "l": "Nidus d'OO manqués sans séquence dynamique",
+        "r": [
+          "12773675"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "k": "indications",
+        "title": "Apports diagnostiques",
+        "items": [
+          {
+            "t": "DCE-MRI au temps artériel précoce (< 30 s) avec wash-out : signature du nidus d'ostéome ostéoïde, indispensable en intra-articulaire.",
+            "r": [
+              "12773675"
+            ]
+          },
+          {
+            "t": "ADC élevé + « fascial tail sign » → fasciite nodulaire ; radiomique et IVIM pour grader les sarcomes et orienter la biopsie vers l'« habitat » le plus agressif.",
+            "r": [
+              "42970180",
+              "42955458",
+              "42997935"
+            ]
+          },
+          {
+            "t": "TTCG/SVN : hyposignal T1/T2 avec blooming T2* (hémosidérine).",
+            "r": [
+              "31601938"
+            ]
+          },
+          {
+            "t": "Lésion solitaire rachidienne/sacrée : topographie (arc postérieur vs corps) et âge orientent le diagnostic ; cartographier V2 et foramen avant geste cervical.",
+            "r": [
+              "18635627",
+              "41473339"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "followup",
+        "title": "Suivi post-thérapeutique",
+        "items": [
+          {
+            "t": "Post-cryo desmoïde : fine prise de contraste périphérique régulière à 3–6 mois = cicatrice granulomateuse normale ; hypersignal T1 spontané → soustraction obligatoire.",
+            "r": [
+              "41357250"
+            ]
+          },
+          {
+            "t": "Évaluer la nécrose/viabilité plutôt que la taille (radiomique, mRECIST) après traitement néoadjuvant ou ablation.",
+            "r": [
+              "42955458",
+              "42384128"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "12773675",
+      "18635627",
+      "31601938",
+      "41357250",
+      "41473339",
+      "42955458",
+      "42970180",
+      "42997935",
+      "42384128"
+    ]
+  },
+  {
+    "category_id": "percutaneous_ablation_general",
+    "evidence": "Niveau de preuve modéré : recommandations CIRSE 2022, 2 revues systématiques (endométriose pariétale, chordomes), étude robotique prospective multicentrique, cohortes et revues d'état de l'art.",
+    "bottom_line": "L'ablation percutanée (cryoablation, RF, micro-ondes) suit un paradigme palliatif-curatif : contrôle local à 1 an de 67 % en intention de traiter, > 85 % pour les oligométastases métachrones < 2 cm à corticale intacte ; toute ablation en zone portante doit être couplée à une consolidation.",
+    "kpis": [
+      {
+        "v": "67 % → > 85 %",
+        "l": "Contrôle local 1 an (global → oligo < 2 cm)",
+        "r": [
+          "24859596"
+        ]
+      },
+      {
+        "v": "73 %",
+        "l": "Réponse clinique cryo MSK (0 % complication majeure)",
+        "r": [
+          "42909541"
+        ]
+      },
+      {
+        "v": "8 → 1",
+        "l": "EVA endométriose pariétale (cryo, 8 études)",
+        "r": [
+          "39576446"
+        ]
+      },
+      {
+        "v": "2,0 mm",
+        "l": "Précision robot Epione® (98,9 % succès)",
+        "r": [
+          "42527616"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "k": "indications",
+        "title": "Indications retenues",
+        "items": [
+          {
+            "t": "Curatif : oligométastase métachrone < 2 cm, corticale intacte, à distance des nerfs (5 facteurs prédictifs).",
+            "r": [
+              "24859596",
+              "35348870"
+            ]
+          },
+          {
+            "t": "Palliatif : douleur réfractaire ; chordomes rachidiens/sacrés inopérables ou en néoadjuvant (RF + vertébroplastie avant spondylectomie).",
+            "r": [
+              "37742284",
+              "42782915"
+            ]
+          },
+          {
+            "t": "Endométriose pariétale abdominale : cryoablation (80–100 % de réponse complète) ou RF « moving-shot » sous écho (EVA 7,4 → 1,7, −77,5 % de volume).",
+            "r": [
+              "39576446",
+              "42667387"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "technique",
+        "title": "Choix de l'énergie",
+        "items": [
+          {
+            "t": "RF : petit nidus intra-osseux, métastase lytique corporéale ; cryoablation : volume > 2–3 cm, extension aux parties molles, matrice sclérotique, visualisation de l'iceball.",
+            "r": [
+              "42645393",
+              "35348870"
+            ]
+          },
+          {
+            "t": "Optimisation de l'iceball par synergie multi-sondes ; baisse de densité TDM (UH) post-cryo dans 94 % des cas comme marqueur simple de nécrose.",
+            "r": [
+              "41720112",
+              "42909541"
+            ]
+          },
+          {
+            "t": "Robotique : utile pour les abords obliques/multi-aiguilles (rachis, bassin).",
+            "r": [
+              "42527616"
+            ]
+          }
+        ]
+      },
+      {
+        "k": "safety",
+        "title": "Sécurité",
+        "warn": true,
+        "items": [
+          {
+            "t": "Thermoprotection standardisée (CO2, sérum glucosé/salé, thermocouples) selon les recommandations CIRSE.",
+            "r": [
+              "35348870",
+              "41720112"
+            ]
+          },
+          {
+            "t": "Endométriose pariétale : hydrodissection pour protéger le derme et le péritoine/anses digestives.",
+            "r": [
+              "39576446"
+            ]
+          },
+          {
+            "t": "Zone portante : associer cimentoplastie ou vissage (SINS, Mirels).",
+            "r": [
+              "42645393",
+              "37742284"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "24859596",
+      "35348870",
+      "37742284",
+      "39576446",
+      "41720112",
+      "42527616",
+      "42645393",
+      "42667387",
+      "42782915",
+      "42909541"
+    ]
+  }
+]

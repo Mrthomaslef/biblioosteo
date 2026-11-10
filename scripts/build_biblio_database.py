@@ -2176,6 +2176,7 @@ def main():
     js_content = (
         f"window.BIBLIO_ARTICLES = {json.dumps(articles, ensure_ascii=False)};\n"
         f"window.BIBLIO_CATEGORIES = {json.dumps(list(CATEGORIES.values()), ensure_ascii=False)};\n"
+        + (f"window.BIBLIO_SYNTHESES = {(DATA_DIR / 'syntheses.json').read_text(encoding='utf-8')};\n" if (DATA_DIR / "syntheses.json").exists() else "")
     )
     (DATA_DIR / "embedded_data.js").write_text(js_content, encoding="utf-8")
 

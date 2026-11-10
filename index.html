@@ -560,6 +560,50 @@
     @keyframes ptrSpin {
       to { transform: rotate(360deg); }
     }
+
+    /* Synthèse des preuves (pseudo-méta-analyse) en tête de chaque technique */
+    .synth-card {
+      border: 1.5px solid var(--synth-color, var(--accent));
+      background: linear-gradient(180deg, var(--accent-soft) 0%, var(--bg-card) 120px);
+      gap: 0.75rem;
+      min-width: 0;
+    }
+    .synth-head { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+    .synth-kicker {
+      font-size: 0.7rem; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase;
+      color: var(--accent-text);
+    }
+    .synth-stats { font-size: 0.74rem; color: var(--text-muted); font-weight: 500; }
+    .synth-bottom {
+      font-size: 0.92rem; line-height: 1.55; color: var(--text-main); font-weight: 500;
+      overflow-wrap: anywhere;
+    }
+    .synth-kpis {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(135px, 1fr)); gap: 0.5rem;
+    }
+    .synth-kpi {
+      background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius-sm);
+      padding: 0.55rem 0.6rem; min-width: 0;
+    }
+    .synth-kpi-v {
+      font-size: 1.15rem; font-weight: 800; color: var(--text-main); line-height: 1.15;
+      font-variant-numeric: tabular-nums; overflow-wrap: anywhere;
+    }
+    .synth-kpi-l { font-size: 0.72rem; color: var(--text-secondary); line-height: 1.3; margin-top: 0.15rem; }
+    .synth-evidence { font-size: 0.76rem; color: var(--text-secondary); }
+    .synth-evidence strong { color: var(--accent-text); }
+    .synth-sec ul { margin: 0; padding-left: 1.05rem; display: flex; flex-direction: column; gap: 0.35rem; }
+    .synth-sec li { font-size: 0.84rem; line-height: 1.5; color: var(--text-secondary); overflow-wrap: anywhere; }
+    .synth-sec.warn { border-color: #e7a08a; }
+    .synth-sec.warn summary { color: #b4432a; }
+    html.dark .synth-sec.warn { border-color: #7a3a2a; }
+    html.dark .synth-sec.warn summary { color: #f2a48c; }
+    .ref-chip {
+      display: inline-block; font-size: 0.66rem; font-weight: 700; padding: 0.03rem 0.32rem; margin-left: 0.2rem;
+      border-radius: 4px; background: var(--bg-chip); color: var(--accent-text); border: 1px solid var(--border);
+      cursor: pointer; touch-action: manipulation; font-family: inherit; vertical-align: 1px;
+    }
+    .synth-disclaimer { font-size: 0.7rem; color: var(--text-muted); font-style: italic; }
   </style>
 </head>
 <body>
@@ -693,12 +737,13 @@
   </div>
 
   <!-- Données embarquées -->
-  <script src="data/embedded_data.js?v=20261110-pudendal"></script>
+  <script src="data/embedded_data.js?v=20261110-syntheses"></script>
 
   <script>
-    const CACHE_KEY = 'biblioosteo-v2026-11-10-pudendal';
+    const CACHE_KEY = 'biblioosteo-v2026-11-10-syntheses';
     let articles = window.BIBLIO_ARTICLES || [];
     let categories = window.BIBLIO_CATEGORIES || [];
+    let syntheses = window.BIBLIO_SYNTHESES || [];
     let currentCategory = 'all';
 
     const SHORT_PILL_LABELS = {
@@ -717,12 +762,14 @@
     async function fetchLatestData() {
       try {
         const ts = Date.now();
-        const [artRes, catRes] = await Promise.all([
+        const [artRes, catRes, synRes] = await Promise.all([
           fetch(`data/articles.json?t=${ts}`, { cache: 'no-store' }),
-          fetch(`data/categories.json?t=${ts}`, { cache: 'no-store' })
+          fetch(`data/categories.json?t=${ts}`, { cache: 'no-store' }),
+          fetch(`data/syntheses.json?t=${ts}`, { cache: 'no-store' })
         ]);
         if (artRes.ok) articles = await artRes.json();
         if (catRes.ok) categories = await catRes.json();
+        if (synRes.ok) syntheses = await synRes.json();
         renderPills();
         renderList();
       } catch (e) {
@@ -890,6 +937,49 @@
         .replace(/"/g, '&quot;');
     }
 
+    function refChips(refs) {
+      return (refs || []).map(r => `<button class="ref-chip" onclick="searchPmid('${esc(r)}')" title="Voir l'article PMID ${esc(r)}">${esc(r)}</button>`).join('');
+    }
+
+    function searchPmid(pmid) {
+      const input = document.getElementById('searchInput');
+      input.value = pmid;
+      onSearchInput();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function renderSynthesis(catId) {
+      const s = syntheses.find(x => x.category_id === catId);
+      if (!s) return '';
+      const cat = categories.find(c => c.id === catId) || {};
+      const catArticles = articles.filter(a => a.category_id === catId);
+      const years = catArticles.map(a => a.year).filter(Boolean);
+      const yr = years.length ? `${Math.min(...years)}–${Math.max(...years)}` : '';
+      const kpis = (s.kpis || []).map(k => `
+        <div class="synth-kpi">
+          <div class="synth-kpi-v">${esc(k.v)}</div>
+          <div class="synth-kpi-l">${esc(k.l)}${refChips(k.r)}</div>
+        </div>`).join('');
+      const secs = (s.sections || []).map((sec, i) => `
+        <details class="fold synth-sec ${sec.warn ? 'warn' : ''}" ${i === 0 || sec.warn ? 'open' : ''}>
+          <summary>${sec.warn ? '⚠️ ' : ''}${esc(sec.title)}</summary>
+          <div class="fold-body"><ul>${(sec.items || []).map(it => `<li>${esc(it.t)}${refChips(it.r)}</li>`).join('')}</ul></div>
+        </details>`).join('');
+      return `
+        <article class="card synth-card" style="--synth-color:${esc(cat.color || '')}">
+          <div class="synth-head">
+            <span class="synth-kicker">📊 Synthèse des preuves</span>
+            <span class="synth-stats">• ${catArticles.length} articles${yr ? ` • ${yr}` : ''}</span>
+          </div>
+          <h2 class="card-title">${esc(cat.label || '')}</h2>
+          <p class="synth-bottom">${esc(s.bottom_line)}</p>
+          <div class="synth-kpis">${kpis}</div>
+          <div class="synth-evidence"><strong>Niveau de preuve :</strong> ${esc((s.evidence || '').replace(/^Niveau de preuve\s*/i, ''))}</div>
+          <div class="details-group">${secs}</div>
+          <div class="synth-disclaimer">Pseudo-méta-analyse narrative non pondérée, construite à partir des articles de cette catégorie (chiffres issus des études citées, sans pooling statistique). Toucher un PMID pour ouvrir l'article.</div>
+        </article>`;
+    }
+
     function renderList() {
       const q = (document.getElementById('searchInput').value || '').trim().toLowerCase();
 
@@ -919,7 +1009,9 @@
         return;
       }
 
-      listEl.innerHTML = filtered.map(a => {
+      const synthHtml = (!q && currentCategory !== 'all') ? renderSynthesis(currentCategory) : '';
+
+      listEl.innerHTML = synthHtml + filtered.map(a => {
         const kpList = (a.key_points_fr || []).map(k => `<li>${esc(k)}</li>`).join('');
         const shortCat = SHORT_PILL_LABELS[a.category_id] || a.category_short;
         const pubDate = a.pub_date_fr || a.year;
