@@ -103,7 +103,7 @@ JO  - Pain and therapy
 PY  - 2026
 DO  - 10.1007/s40122-026-00902-2
 AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte sur 224 adultes (*Pain and Therapy*, nov. 2026, IF 3,8) évaluant le parcours interventionnel de la névralgie pudendale : bloc pudendal diagnostique réalisé chez 59,4 % des patients et radiofréquence pulsée (PRF) chez 28,6 %, avec identification d'un bloc diagnostique positif (OR ajusté = 4,88) et d'une étiologie post-chirurgicale confirmée (OR = 2,83) comme facteurs prédictifs majeurs de réponse aux thérapies de neuromodulation. | Points clés : Près de 60 % des patients bénéficient d'un bloc pudendal et près de 30 % d'une radiofréquence pulsée, piliers du parcours mini-invasif. ; Un test anesthésique positif du nerf pudendal est le facteur prédictif indépendant le plus puissant (OR = 4,88) pour guider la neuromodulation. ; L'implantation chirurgicale lourde n'est finalement nécessaire que chez 8 % des patients grâce à l'efficacité des gestes percutanés. ; Conforte l'algorithme de prise en charge graduée (bloc test scanoguidé puis PRF / cryoneurolyse) pratiqué en Radiologie B à Cochin. | Pratique Cochin : Directement lié aux « infiltrations scanoguidées, radiofréquences pulsées et cryoneurolyses des nerfs pudendal et clunéal » programmées à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] INTRODUCTION: Pudendal neuralgia is an under-recognized cause of chronic, disabling neuropathic perineal pain affecting both women and men. Real-world data on its presentation, its treatment within a specialty pain service, and the factors that accompany escalation to interventional therapy are scarce. We hypothesized that an iatrogenic (postsurgical) origin and relief after a diagnostic pudendal nerve block would identify the patients who reach neuromodulation. METHODS: We performed a retrospective manual review of the complete electronic records of all adults with documented pudendal neuralgia, pudendal neuropathy, or pudendal nerve entrapment managed at a single tertiary pain clinic between 2009 and 2026. Demographics, clinical presentation, presumed etiology, treatments, and outcomes were abstracted from the free-text record. Ascertainment was in two stages: variables were first identified by structured text screening of the free-text record, and the two variables most susceptible to false-positive screening, a postsurgical etiology and receipt of neuromodulation, were then verified against the source charts by manual review of every screen-positive record. The chart-verified definitions are used throughout. Associations between binary variables were tested by the chi-squared test, with odds ratios (OR) and 95% confidence intervals (CI); factors associated with neuromodulation were assessed by multivariable logistic regression. RESULTS: Among 224 patients (138 women [61.6%], 86 men [38.4%]; median age 48.5 years, interquartile range 35-64), pain was worse when sitting in 57.6% and burning in 39.3%, and involvement was bilateral in 21.9%. Text screening identified a possible postsurgical onset in 46.4%, but chart re-adjudication confirmed a named operation preceding the pain in only 31 patients (13.8%), of whom 6 had undergone a clearly non-pelvic procedure; confirmed postsurgical onset was therefore less frequent than documented entrapment features (24.1%) and comparable to childbirth (15.9% of women). Care was heavily interventional: 59.4% received a pudendal nerve block, 28.6% pulsed radiofrequency, and 9.4% underwent surgical decompression. Neuromodulation was documented in the record of 64 patients (28.6%), but an electrode was placed in only 26 (11.6%) and a permanent device implanted in 18 (8.0%): spinal cord stimulation in 14, sacral neuromodulation in 2, dorsal root ganglion stimulation in 1, and pudendal nerve stimulation in 1. Three factors were independently associated with documented neuromodulation: relief after a diagnostic block (adjusted OR 4.88, 95% CI 1.91-12.46%), a refractory course (2.92, 1.52-5.60%), and chart-confirmed postsurgical onset (2.83, 1.17-6.82%); c-statistic 0.76. In an exploratory model restricted to the 18 implanted patients, a refractory course (7.40, 1.98-27.61%) and postsurgical onset (4.24, 1.29-13.94%) remained associated with the outcome whereas relief after a block did not (5.90, 0.72-48.31%). CONCLUSIONS: In routine pain-clinic practice, pudendal neuralgia is managed along an interventional pathway, but device implantation is considerably less common than the frequency with which neuromodulation is discussed. A confirmed postsurgical onset is less common than text screening suggests, yet is disproportionately associated with escalation. Being observational, these findings describe how care proceeds rather than establishing cause.
-N1  - PMID: 42999001 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
+N1  - PMID: 42999001 | PMCID:  | Catégorie: Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale
 L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42999001.pdf
 UR  - https://pubmed.ncbi.nlm.nih.gov/42999001/
 KW  - Névralgie pudendale
@@ -1096,6 +1096,31 @@ KW  - CVIR 2026
 ER  - 
 
 TY  - JOUR
+TI  - Evaluating the Predictive Value of Pre-procedural Diagnostic Nerve Blocks in Patients Undergoing Cryoneurolysis
+AU  - Young S
+AU  - Gunkan A
+AU  - Placek S
+AU  - Struycken L
+AU  - Abramyan A
+AU  - De Martini IV
+AU  - Hannallah J
+AU  - Woodhead G
+AU  - Goldberg D
+JO  - Cardiovascular and interventional radiology
+PY  - 2026
+DO  - 10.1007/s00270-026-04543-y
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude comparative (*CardioVascular and Interventional Radiology - CVIR*, juil. 2026, IF 2,8, 95 patients) évaluant l'utilité d'un bloc nerveux diagnostique préalable avant cryoneurolyse TDM abdomino-pelvienne : chute hautement significative de l'EVA (de 8,4 à 3,8 à 1 mois, p < 0,001) avec un taux de succès clinique équivalent avec ou sans bloc préalable (81,1 % vs 69,7 % à 1 mois, p = 0,40), suggérant que la cryoneurolyse directe d'emblée est légitime lorsque l'étiologie anatomique (notamment tumorale) est formellement identifiée. | Points clés : Réduction majeure de l'EVA douleur de 8,4 à 3,8 à 1 mois (p < 0,001) avec 0 % de complication sur 95 patients. ; Le bloc test préalable retarde en moyenne la cryoneurolyse de 16 jours : il reste indispensable dans les névralgies fonctionnelles/canalaires mais peut être omis au profit d'une cryoneurolyse d'emblée lorsque la cible tumorale pelvienne est évidente. ; Pertinent pour accélérer la prise en charge antalgique des patients d'oncologie pelvienne hospitalisés à Cochin. | Pratique Cochin : Éclaire l'organisation du parcours « Bloc test scanoguidé vs Cryoneurolyse d'emblée du nerf pudendal » dans les douleurs pelviennes oncologiques et neuropathiques à Cochin. || [ABSTRACT ORIGINAL - EN] Purpose To evaluate the impact of pre-cryoneurolysis blocks by comparing outcomes between patients who underwent cryoneurolysis without a pretreatment block and those who underwent cryoneurolysis following a diagnostic block. Materials and methods A retrospective single-center analysis was performed of patients who underwent CT-guided cryoneurolysis for intractable abdominopelvic pain. Patients were categorized according to whether a pre-cryoneurolysis diagnostic block was performed. Clinical success was defined as an improvement in Visual Analog Scale (VAS) pain score of ≥ 3 points. Pre- and post-procedural pain scores and adverse events (AEs) were assessed. Results For entire cohort, including 52 patients who received a pre-cryoneurolysis block and 43 patients who did not, mean VAS score improved from 8.4 ± 1.6 pre-procedurally to 3.9 ± 2.5 at 1 week (p Conclusion CT-guided cryoneurolysis provides significant pain relief for cancer- and non-cancer-related chronic abdominopelvic pain, with comparable pain improvement regardless of whether a pre-cryoneurolysis diagnostic block is performed. When the pain source is clearly identified, direct cryoneurolysis may be a reasonable option.
+N1  - PMID: 42527618 | PMCID:  | Catégorie: Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale
+UR  - https://pubmed.ncbi.nlm.nih.gov/42527618/
+KW  - Cryoneurolyse
+KW  - Bloc diagnostique
+KW  - Douleur pelvienne
+KW  - Nerf pudendal
+KW  - Scanner interventionnel
+KW  - CVIR 2026
+ER  - 
+
+TY  - JOUR
 TI  - Intraosseous pressure measurement of cystic bone lesions and comparison with normal marrow
 AU  - Vicentini JRT
 AU  - Habibollahi S
@@ -1169,6 +1194,35 @@ KW  - Gonarthrose
 ER  - 
 
 TY  - JOUR
+TI  - Clinical Criteria for Improved Outcomes in Patients Who Undergo Percutaneous CT-Guided Pudendal Nerve Cryoablation: A Retrospective Analysis
+AU  - Battle W
+AU  - Garcia RM
+AU  - Li H
+AU  - Moon JT
+AU  - Manyapu S
+AU  - Behi A
+AU  - Kim J
+AU  - Huang J
+AU  - Prologo JD
+JO  - Journal of vascular and interventional radiology : JVIR
+PY  - 2026
+VL  - 37
+IS  - 9
+SP  - 108902
+DO  - 10.1016/j.jvir.2026.108902
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Plus grande série publiée sur 10 ans (*JVIR*, juin 2026, IF 2,6, 362 cryoablations TDM du nerf pudendal) : les patients réunissant la triade de sélection (facteur déclenchant identifié, douleur périnéale unilatérale systématisée et bloc diagnostique TDM positif) obtiennent 77,4 % de succès clinique (réduction moyenne de la douleur de 88,8 % chez les répondeurs) et un intervalle libre avant réintervention de 31,8 mois, avec 0 % de complication majeure SIR. | Points clés : Série de référence mondiale (362 procédures sur 10 ans dans JVIR) validant l'efficacité durable et la sécurité (0 % complication SIR C-F) de la cryoneurolyse TDM du nerf pudendal. ; La triade clinique (événement déclenchant + topographie pudendale unilatérale + bloc test TDM positif) double le taux de succès (77,4 % vs 36,4 %, p = 0,002). ; Durabilité remarquable d'une séance : délai moyen de 31,8 mois avant toute réintervention chez les répondeurs. ; Guide directement l'indication de cryoneurolyse pudendale après bloc diagnostique positif en Radiologie B à Cochin. | Pratique Cochin : Référence majeure pour la sélection des patients adressés en « Cryoneurolyse percutanée du nerf pudendal sous scanner (épine ischiatique / canal d'Alcock) » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Purpose To evaluate whether predefined clinical selection criteria were associated with improved outcomes following computed tomography (CT)-guided pudendal nerve cryoablation. Materials and methods A retrospective review of 362 CT-guided pudendal nerve cryoablations was performed at a multisite, tertiary-care, academic center over a 10-year period (2014-2024). Among 202 unilateral procedures, 75 (37.1%) had adequate follow-up and were included in the primary analysis. Patient stratification was performed by presence of predefined selection criteria, namely, identifiable antecedent event, unilateral perineal pain consistent with pudendal distribution, and positive response to CT-guided diagnostic pudendal block. The primary endpoint was ≥50% pain reduction on a 0-10 numerical rating scale. Mean percent pain reduction, reintervention interval, and adverse events (Society of Interventional Radiology [SIR] classification) were recorded. Fischer exact test, chi-square test, and multivariate logistic regression were performed where appropriate. Significance level was set at P Results Among 75 unilateral procedures with adequate follow-up, 49 (65.3%) achieved ≥50% pain reduction. Procedures performed on patients meeting all predefined criteria (53 procedures in 33 patients) demonstrated higher response rates than those not meeting all criteria (77.4% vs 36.4%, χ 2 P = .002) and greater mean pain reduction (69.1% vs 29.5%, P Conclusions Patients who met all predefined clinical selection criteria had significantly greater positive outcomes following CT-guided pudendal nerve cryoablation compared than those who did not.
+N1  - PMID: 42276242 | PMCID:  | Catégorie: Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale
+UR  - https://pubmed.ncbi.nlm.nih.gov/42276242/
+KW  - Cryoneurolyse
+KW  - Cryoablation
+KW  - Nerf pudendal
+KW  - Névralgie pudendale
+KW  - Bloc diagnostique
+KW  - Canal d'Alcock
+KW  - JVIR 2026
+ER  - 
+
+TY  - JOUR
 TI  - Combination of Percutaneous Cryoablation, Screw Fixation, and Cementoplasty for Painful Pelvic Bone Metastases: A Supportive Care Approach Improving Pain, Mobility, and Quality of Life
 AU  - Grange S
 AU  - Grange R
@@ -1227,6 +1281,31 @@ KW  - Ann Surg Oncol 2026
 ER  - 
 
 TY  - JOUR
+TI  - Ganglion Impar Neurolysis Enhances the Short-term Efficacy of Pudendal Nerve Pulsed Radiofrequency Treatment for Pudendal Neuralgia: A Retrospective Cohort Study
+AU  - Liu Y
+AU  - Yang Y
+AU  - Li J
+AU  - Wu O
+AU  - Xie S
+AU  - Zhang T
+AU  - Feng Y
+JO  - Pain physician
+PY  - 2026
+VL  - 29
+IS  - 3
+SP  - 289-297
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte rétrospective comparative (*Pain Physician*, 2026, IF 3,1, 84 patientes) comparant le traitement isolé du nerf pudendal par radiofréquence pulsée (PRF, n = 40) à l'association PRF du nerf pudendal + neurolyse du ganglion impar (PRF + GIN, n = 44) : à 6 mois, le groupe combiné obtient une EVA significativement plus basse (2,09 vs 3,81, p < 0,05), un taux d'amélioration globale supérieur (73,7 % vs 56,1 %, p < 0,05) et une réduction marquée des scores d'anxiété-dépression (HADS) et de catastrophisme (PCS), sans complication. | Points clés : Démontre la synergie anatomique et clinique entre le ciblage somatique (nerf pudendal) et sympathique (ganglion impar) dans la névralgie pudendale. ; Gain significatif à 6 mois sur l'EVA (2,09 vs 3,81) et sur le taux d'amélioration ressentie (73,7 % vs 56,1 %). ; Aucune complication sphinctérienne ou rectale grâce au contrôle d'imagerie en procubitus. | Pratique Cochin : Appuie les gestes combinés « Traitement du nerf pudendal + neurolyse du ganglion impar » réalisés pour les douleurs périnéales mixtes somatiques et sympathiques à Cochin. || [ABSTRACT ORIGINAL - EN] Background Pudendal neuralgia (PN) lacks specific treatments and severely affects patients' quality of life. Although pudendal nerve pulsed radiofrequency (PRF) can alleviate symptoms, its overall efficacy is not satisfactory. Ganglion impar neurolysis (GIN) has been widely employed for perineal pain management. We hypothesize that combining PRF with GIN may enhance therapeutic outcomes for PN compared to PRF monotherapy. To the best of our knowledge, no relevant reports have been found. Objective To assess whether GIN improves PRF treatment efficacy for PN. Study design A retrospective cohort study. Setting This is a single-center retrospective study conducted at the Department of Pain Medicine, Peking University People's Hospital in Beijing, China. Methods We conducted a retrospective analysis of 84 women patients with PN treated from January 2020 through February 2024. The patients were divided into 2 groups: PRF Group (n = 40) received only pudendal nerve PRF; PRF + GIN Group (n = 44) received PRF combined with GIN. We recorded the posttreatment differences in Visual Analog Scale (VAS) scores, Overall Improvement in Pain (OIP) values, Hospital Anxiety and Depression Scales scores (anxiety: HADS-A; depression: HADS-D), and Pain Catastrophizing Scale scores (PCS) of the 2 groups at time points up to posttreatment month 6. Results At one, 2, 3, and 6 months posttreatment, the VAS scores in both groups were lower than pretreatment levels (P Limitations This single-center study has a small sample size, a short follow-up period, and lacks patients who are men. Conclusions GIN enhances short-term pudendal nerve PRF efficacy for PN, with no significant adverse reactions.
+N1  - PMID: 42263315 | PMCID:  | Catégorie: Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale
+UR  - https://pubmed.ncbi.nlm.nih.gov/42263315/
+KW  - Nerf pudendal
+KW  - Ganglion impar
+KW  - Névralgie pudendale
+KW  - Neurolyse combinée
+KW  - Radiofréquence pulsée
+KW  - Pain Physician 2026
+ER  - 
+
+TY  - JOUR
 TI  - Efficacy and safety of genicular nerve ablation techniques for knee osteoarthritis: a systematic review and meta-analysis of sham-controlled randomized trials
 AU  - Barreto RB
 AU  - Barreto AJ
@@ -1250,31 +1329,6 @@ KW  - Méta-analyse ECR sham
 ER  - 
 
 TY  - JOUR
-TI  - Evaluation of CT-Guided Pudendal Nerve Cryoneurolysis for the Treatment of Refractory Pelvic Pain
-AU  - Young S
-AU  - Gunkan A
-AU  - Struycken L
-AU  - Placek S
-AU  - Abramyan A
-AU  - De Martini IV
-AU  - Hannallah J
-AU  - Woodhead G
-AU  - Goldberg D
-JO  - The American journal of hospice & palliative care
-PY  - 2026
-SP  - 10499091261442199
-DO  - 10.1177/10499091261442199
-AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude clinique rétrospective (*Am J Hosp Palliat Care*, avr. 2026, 30 patients) démontrant une réduction hautement significative de l'EVA douloureuse (jusqu'à 6 mois, p < 0,001) et de la consommation d'opioïdes après cryoneurolyse TDM du nerf pudendal, sans aucune complication. | Points clés : Soulagement antalgique rapide dès J7 et durable jusqu'à 6 mois (p < 0,001) chez 30 patients atteints de douleurs pelviennes réfractaires. ; Épargne morphinique significative à 1 semaine et 1 mois post-procédure (p = 0,032). ; Efficacité identique dans les douleurs pelviennes oncologiques (envahissement sacré/pelvien) et les névralgies pudendales non malignes. ; Sécurité remarquable sous guidage scanner (aucun événement indésirable rapporté). | Pratique Cochin : Complète l'arsenal de cryoneurolyse percutanée sous scanner (Morton, nerfs intercostaux, douleurs pelviennes et périnéales oncologiques) réalisé à Cochin. || [ABSTRACT ORIGINAL - EN] BackgroundPelvic pain caused by malignant and non-malignant etiologies can be treated by cryoneurolysis of the pudendal nerve(s). The purpose of this report is to assess the efficacy and safety of CT-guided pudendal nerve cryoneurolysis. Additionally, treatment outcomes were compared between malignant and non-malignant pelvic pain etiologies.MethodsPatients who underwent CT-guided pudendal nerve cryoneurolysis for intractable pelvic pain were retrospectively reviewed. Pre-procedural and post-procedural pain scores, supplemental analgesic use, and complications were assessed.ResultsA total of 30 patients underwent CT-guided pudendal nerve cryoneurolysis. Pre-treatment Visual Analog Scale (VAS) pain scores were significantly improved at 1 week (3.9 ± 2.1, P P P P P = 0.04) and 1 month (17.5 (range:0-216), P = 0.032) post-treatment. Both malignant and non-malignant cohorts demonstrated significant improvement of VAS score at all time points; however, there was no significant difference in numeric improvement or percentage improvement in VAS score between the 2 cohorts. No adverse events were observed.ConclusionCT-guided pudendal nerve cryoneurolysis is an effective and safe treatment modality in patients with refractory pelvic pain from both malignant and non-malignant etiologies.
-N1  - PMID: 41999357 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
-UR  - https://pubmed.ncbi.nlm.nih.gov/41999357/
-KW  - Cryoneurolyse
-KW  - Nerf pudendal
-KW  - Douleur pelvienne
-KW  - Soins palliatifs
-KW  - Guidage scanner
-ER  - 
-
-TY  - JOUR
 TI  - Treatment outcomes for cluneal neuropathy: a systematic review and meta-analysis
 AU  - Catalano K
 AU  - Andereggen L
@@ -1295,6 +1349,31 @@ KW  - Radiofréquence
 KW  - Lombalgie
 KW  - Fessalgie
 KW  - Méta-analyse 2026
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of CT-Guided Pudendal Nerve Cryoneurolysis for the Treatment of Refractory Pelvic Pain
+AU  - Young S
+AU  - Gunkan A
+AU  - Struycken L
+AU  - Placek S
+AU  - Abramyan A
+AU  - De Martini IV
+AU  - Hannallah J
+AU  - Woodhead G
+AU  - Goldberg D
+JO  - The American journal of hospice & palliative care
+PY  - 2026
+SP  - 10499091261442199
+DO  - 10.1177/10499091261442199
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude clinique rétrospective (*Am J Hosp Palliat Care*, avr. 2026, 30 patients) démontrant une réduction hautement significative de l'EVA douloureuse (jusqu'à 6 mois, p < 0,001) et de la consommation d'opioïdes après cryoneurolyse TDM du nerf pudendal, sans aucune complication. | Points clés : Soulagement antalgique rapide dès J7 et durable jusqu'à 6 mois (p < 0,001) chez 30 patients atteints de douleurs pelviennes réfractaires. ; Épargne morphinique significative à 1 semaine et 1 mois post-procédure (p = 0,032). ; Efficacité identique dans les douleurs pelviennes oncologiques (envahissement sacré/pelvien) et les névralgies pudendales non malignes. ; Sécurité remarquable sous guidage scanner (aucun événement indésirable rapporté). | Pratique Cochin : Complète l'arsenal de cryoneurolyse percutanée sous scanner (Morton, nerfs intercostaux, douleurs pelviennes et périnéales oncologiques) réalisé à Cochin. || [ABSTRACT ORIGINAL - EN] BackgroundPelvic pain caused by malignant and non-malignant etiologies can be treated by cryoneurolysis of the pudendal nerve(s). The purpose of this report is to assess the efficacy and safety of CT-guided pudendal nerve cryoneurolysis. Additionally, treatment outcomes were compared between malignant and non-malignant pelvic pain etiologies.MethodsPatients who underwent CT-guided pudendal nerve cryoneurolysis for intractable pelvic pain were retrospectively reviewed. Pre-procedural and post-procedural pain scores, supplemental analgesic use, and complications were assessed.ResultsA total of 30 patients underwent CT-guided pudendal nerve cryoneurolysis. Pre-treatment Visual Analog Scale (VAS) pain scores were significantly improved at 1 week (3.9 ± 2.1, P P P P P = 0.04) and 1 month (17.5 (range:0-216), P = 0.032) post-treatment. Both malignant and non-malignant cohorts demonstrated significant improvement of VAS score at all time points; however, there was no significant difference in numeric improvement or percentage improvement in VAS score between the 2 cohorts. No adverse events were observed.ConclusionCT-guided pudendal nerve cryoneurolysis is an effective and safe treatment modality in patients with refractory pelvic pain from both malignant and non-malignant etiologies.
+N1  - PMID: 41999357 | PMCID:  | Catégorie: Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale
+UR  - https://pubmed.ncbi.nlm.nih.gov/41999357/
+KW  - Cryoneurolyse
+KW  - Nerf pudendal
+KW  - Douleur pelvienne
+KW  - Soins palliatifs
+KW  - Guidage scanner
 ER  - 
 
 TY  - JOUR
@@ -1487,6 +1566,34 @@ KW  - Indian J Orthop 2026
 ER  - 
 
 TY  - JOUR
+TI  - MRI in Chronic Pudendal Neuralgia: Diagnostic Criteria and Associated Pathologies
+AU  - Gaeta M
+AU  - Turturici S
+AU  - Galletta K
+AU  - Geremia C
+AU  - Tuscano A
+AU  - Gaeta A
+AU  - Cavallaro M
+AU  - Silipigni S
+AU  - Granata F
+JO  - Diagnostics (Basel, Switzerland)
+PY  - 2026
+VL  - 16
+IS  - 2
+SP  - 326
+DO  - 10.3390/diagnostics16020326
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude radiologique sur 81 patients atteints de névralgie pudendale chronique (*Diagnostics*, janv. 2026, IF 3,0, Open-Access) évaluant un protocole d'IRM pelvienne incluant une neurographie par séquence de diffusion EPI (valeurs b = 0, 100 et 600 s/mm²) : détection d'anomalies de signal du nerf pudendal chez 51,9 % des patients (42/81, unilatérales dans 78,6 % des cas) et identification d'une cause anatomique compressive ou extrinsèque dans 54,8 % des cas positifs. | Points clés : La séquence DWI (b = 0, 100, 600) améliore nettement la conspicuité du nerf pudendal et détecte une anomalie focale dans plus de la moitié des névralgies pudendales chroniques. ; Identifie une étiologie anatomique ou compressive associée chez plus d'un patient sur deux présentant une anomalie DWI. ; Permet de cibler avec précision le site du conflit (pince ligamentaire ischiatique vs canal d'Alcock) lors de la cryoneurolyse sous scanner. | Pratique Cochin : Outil de référence pour l'interprétation des « IRM pelviennes et du nerf pudendal pré-infiltration / pré-cryoneurolyse » en Radiologie B à Cochin. || [ABSTRACT ORIGINAL - EN] Background/Objectives: Chronic pudendal neuralgia is a relatively rare condition in the general population, with an incidence of 1%. Although diagnosis of pudendal neuralgia is mainly clinical, Magnetic Resonance Imaging (MRI) is commonly performed to obtain further information. However, clear criteria and guidelines for MRI diagnosis and the clinical-radiological correlation are still not definite. Methods : We reviewed 81 patients with chronic pudendal neuralgia, studied by an MRI designed protocol for a pelvis and pelvic floor examination. A key element of the protocol was the use of a diffusion-weighted imaging (DWI) technique with echo planar imaging (EPI) sequence (b-values of 0, 100, and 600) for the neurographic evaluation of the nerve. Results: MRI examination revealed DWI abnormalities in 42/81 patients. Pudendal nerve abnormalities were unilateral in 33/42 patients and bilateral in 9/42. Moreover, in 23/42 patients, pathologies related to a high probability of neuropathy have been identified. Conclusions : This study highlights the role of pelvic MRI as a valuable imaging modality in the evaluation of patients with chronic pudendal neuralgia. In the study protocol we propose, an essential role is played by the DWI technique, which improves the visual definition of the pudendal nerve and related anatomical structures. By focusing on anatomical visualization and structured image interpretation, our work provides a practical imaging-oriented contribution to a field in which standardized MRI evaluation is still lacking.
+N1  - PMID: 41594302 | PMCID: PMC12840153 | Catégorie: Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale
+UR  - https://pubmed.ncbi.nlm.nih.gov/41594302/
+KW  - IRM pelvienne
+KW  - Neurographie IRM
+KW  - Diffusion DWI
+KW  - Nerf pudendal
+KW  - Canal d'Alcock
+KW  - Diagnostics 2026
+ER  - 
+
+TY  - JOUR
 TI  - Imaging Evaluation of Bone Tumors in the Cervical Spine: A Comprehensive Review
 AU  - Sun M
 AU  - Meng X
@@ -1531,6 +1638,32 @@ KW  - Tumeur desmoïde
 KW  - Sémiologie IRM
 KW  - Soustraction T1
 KW  - Récidive vs cicatrice
+ER  - 
+
+TY  - JOUR
+TI  - Cryoneurolysis: An Emerging Personalized Treatment Strategy for Significant Pelvic Pain
+AU  - Young S
+AU  - Abramyan A
+AU  - Vittoria De Martini I
+AU  - Hannallah J
+AU  - Woodhead G
+AU  - Struycken L
+AU  - Goldberg D
+JO  - Journal of personalized medicine
+PY  - 2025
+VL  - 15
+IS  - 12
+SP  - 587
+DO  - 10.3390/jpm15120587
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue clinique et technique (*Journal of Personalized Medicine*, déc. 2025, IF 3,0, équipe J.D. Prologo) détaillant la neurobiologie de l'axonotmésis par le froid (-20°C à -100°C), la cartographie sémiologique des douleurs pelvi-périnéales et la technique de cryoneurolyse personnalisée du nerf pudendal et du ganglion impar en alternative d'épargne opioïde. | Points clés : Rappelle le fondement histologique clé de la cryoneurolyse : préservation de l'endonèvre et de la lame basale évitant toute névrite ou névrome de désafférentation. ; Distingue clairement les indications du nerf pudendal (somatique S2-S4) et du ganglion impar (sympathique médian), souvent complémentaires. ; Sécurité sphinctérienne préservée grâce à la précision du guidage TDM et à la réversibilité de la cryo-axonotmésis. | Pratique Cochin : Synthèse pratique sur le ciblage combiné « Nerf pudendal + Ganglion de Walther (Impar) » pratiqué sous scanner en Radiologie Interventionnelle à Cochin. || [ABSTRACT ORIGINAL - EN] Significant pelvic pain is a fairly common malady in the United States. At the same time, the opioid epidemic has changed how pain is thought about and treated, resulting in a clear call for alternative treatment strategies. One of the promising techniques that has emerged over the last several years is cryoneurolysis. Cryoneurolysis allows for personalization of treatment through targeting of specific peripheral nerves, which correspond to a patient's pain. In the setting of pelvic pain, several viable targets, namely the pudendal nerve and impar ganglion, have been described. This review delineates the mechanism of action in cryoneurolysis, reviews the pertinent literature and describes patient workup and technique. Finally, future directions are discussed.
+N1  - PMID: 41440950 | PMCID: PMC12734139 | Catégorie: Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale
+UR  - https://pubmed.ncbi.nlm.nih.gov/41440950/
+KW  - Cryoneurolyse
+KW  - Nerf pudendal
+KW  - Ganglion impar
+KW  - Douleur pelvienne
+KW  - Axonotmésis
+KW  - J Pers Med 2025
 ER  - 
 
 TY  - JOUR
@@ -2061,6 +2194,30 @@ KW  - mRECIST
 ER  - 
 
 TY  - JOUR
+TI  - Percutaneous CT-Guided Cryoablation of the Bilateral Pudendal Nerves for Palliation of Intractable Pain Related to Pelvic Neoplasms
+AU  - Prologo JD
+AU  - Manyapu S
+AU  - Bercu ZL
+AU  - Mittal A
+AU  - Mitchell JW
+JO  - The American journal of hospice & palliative care
+PY  - 2020
+VL  - 37
+IS  - 8
+SP  - 619-623
+DO  - 10.1177/1049909119892003
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Série clinique (*Am J Hosp Palliat Care*, 2020, IF 1,9, équipe J.D. Prologo) évaluant la cryoablation percutanée bilatérale en un temps des nerfs pudendaux sous scanner chez des patients hospitalisés en crise hyperalgique pour cancer pelvien évolué : succès technique de 100 %, chute moyenne de 5,2 points sur l'échelle de douleur maximale (p = 0,003), sortie d'hospitalisation en 2,3 jours en moyenne et 0 % de complication sphinctérienne ou procédurale. | Points clés : Démontre qu'une cryoneurolyse pudendale bilatérale en une seule séance est sûre (0 % d'incontinence ou de complication) et extrêmement efficace (-5,2 points d'EVA, p = 0,003). ; Permet une sortie rapide d'hospitalisation (moyenne 2,3 jours) chez des patients oncologiques hyperalgiques alités. ; Alternative mini-invasive majeure aux pompes intrathécales chez les patients atteints d'envahissement tumoral pelvi-périnéal. | Pratique Cochin : Correspond aux demandes de « Cryoneurolyse pudendale bilatérale antalgique en hospitalisation pour néoplasie pelvienne » prises en charge au scanner de Cochin. || [ABSTRACT ORIGINAL - EN] Objectives The purpose of this report is to describe the effect of computed tomography-guided bilateral pudendal nerve cryoablations on pain and time to discharge in the setting of acute hospitalizations secondary to refractory pelvic pain from cancer. Methods Investigators queried the medical record for patients who underwent pudendal nerve cryoablation using the Category III Current Procedural Technology code assignment 0442T or Category I code 64640 for cases prior to 2015. The resulting list was reviewed, and procedures performed on inpatients for intractable pelvic pain related to neoplasm were selected. The final cohort was then analyzed with regard to patient demographics, procedure details, technical success, safety, pain scores, and time to discharge. Results Ten patients underwent cryoablation by 3 operators for palliation of painful pelvic neoplasms between June 2014 and January 2019. All probes were satisfactorily positioned and freeze cycles undertaken without difficulty. There were no procedure-related complications or adverse events. The mean difference in pre- and posttreatment worst pain scores was significant (n = 5.20, P = .003). The mean time to discharge following the procedure was 2.3 days. Conclusion Computed tomography-guided percutaneous cryoablation of the bilateral pudendal nerves may represent a viable option in the setting of acute hospitalization secondary to intractable pain in patients with pelvic neoplasms.
+N1  - PMID: 32602380 | PMCID:  | Catégorie: Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale
+UR  - https://pubmed.ncbi.nlm.nih.gov/32602380/
+KW  - Cryoneurolyse bilatérale
+KW  - Nerf pudendal
+KW  - Douleur oncologique
+KW  - Cancer pelvien
+KW  - Soins palliatifs
+KW  - Scanner TDM
+ER  - 
+
+TY  - JOUR
 TI  - Long-term efficacy of imatinib mesylate in patients with advanced Tenosynovial Giant Cell Tumor
 AU  - Verspoor FGM
 AU  - Mastboom MJL
@@ -2154,6 +2311,29 @@ KW  - Post-radiothérapie
 KW  - Cimentoplastie
 KW  - Deschamps
 KW  - European Radiology
+ER  - 
+
+TY  - JOUR
+TI  - Percutaneous CT-guided cryoablation for the treatment of refractory pudendal neuralgia
+AU  - Prologo JD
+AU  - Lin RC
+AU  - Williams R
+AU  - Corn D
+JO  - Skeletal radiology
+PY  - 2014
+VL  - 44
+IS  - 5
+SP  - 709-714
+DO  - 10.1007/s00256-014-2075-3
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude pilote historique (*Skeletal Radiology*, 2015, IF 1,9, Prologo et al.) ayant établi le protocole de cryoablation percutanée TDM du nerf pudendal dans la névralgie pudendale réfractaire : chute spectaculaire de l'EVA douleur de 7,6/10 avant le geste à 2,6 dès 24 h, 3,5 à J45 et 3,1 à 6 mois (p < 0,005), sans aucune complication procédurale. | Points clés : Publication fondatrice de J.D. Prologo dans Skeletal Radiology démontrant la faisabilité et la sécurité du ciblage cryoablatif du nerf pudendal sous scanner. ; Réduction de plus de 60 % de l'intensité douloureuse dès 24 heures, maintenue à 6 mois (EVA de 7,6 à 3,1, p < 0,005). ; Aucune complication sphinctérienne, motrice ou cutanée rapportée. | Pratique Cochin : Article fondateur de la technique de « Cryoneurolyse percutanée du nerf pudendal sous scanner » appliquée en Radiologie Interventionnelle à Cochin. || [ABSTRACT ORIGINAL - EN] Purpose To evaluate the safety and efficacy of percutaneous CT-guided cryoablation of the pudendal nerve for the treatment of refractory pudendal neuralgia. Materials and methods Eleven patients were selected to undergo percutaneous CT-guided cryoablation of the pudendal nerve based on established diagnostic criteria. Brief Pain Inventory questionnaires were administered prior to the procedure, during the immediate 24 h post procedure, and 45 days and 6 months following the procedure. Results Prior to treatment, the average level of pain on a scale from 0 (no pain) to 10 (worst pain imaginable) was 7.6, with pain described as "burning" (80%), "pulling" (37.5%), "crushing" (50%), "pressure" (84.5%), "throbbing" (50%), "knife-life" (52%), and "other" (60%). At 24 h, 45 days, and 6 months post-treatment, pain intensity dropped to 2.6, 3.5, and 3.1, respectively (p Conclusions CT-guided percutaneous cryoablation may represent a safe and efficacious option for selected patients with refractory pudendal neuralgia.
+N1  - PMID: 25511935 | PMCID:  | Catégorie: Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale
+UR  - https://pubmed.ncbi.nlm.nih.gov/25511935/
+KW  - Étude princeps
+KW  - Cryoneurolyse
+KW  - Nerf pudendal
+KW  - Névralgie pudendale
+KW  - Prologo
+KW  - Skeletal Radiol 2015
 ER  - 
 
 TY  - JOUR

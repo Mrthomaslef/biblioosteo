@@ -63,6 +63,8 @@
     html, body {
       overflow-y: auto;
       overflow-x: hidden;
+      overscroll-behavior-y: contain;
+      touch-action: manipulation;
     }
     body {
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -545,12 +547,12 @@
       border-bottom-color: var(--border);
     }
     .ptr-spinner {
-      width: 16px;
-      height: 16px;
-      border: 2px solid var(--border);
-      border-top-color: var(--accent);
-      border-radius: 50%;
-      display: inline-block;
+      width: 22px;
+      height: 22px;
+      color: var(--accent);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
     }
     .ptr-bar.refreshing .ptr-spinner {
       animation: ptrSpin 0.7s linear infinite;
@@ -561,10 +563,12 @@
   </style>
 </head>
 <body>
-  <!-- Indicateur Pull-to-Refresh (Glisser vers le bas pour actualiser) -->
-  <div class="ptr-bar" id="ptrBar">
-    <span class="ptr-spinner" id="ptrSpinner"></span>
-    <span id="ptrText">Tirer vers le bas pour actualiser…</span>
+  <!-- Indicateur Pull-to-Refresh (Uniquement icône flèche circulaire SVG, sans texte) -->
+  <div class="ptr-bar" id="ptrBar" aria-hidden="true">
+    <svg class="ptr-spinner" id="ptrSpinner" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M21 12a9 9 0 1 1-2.64-6.36" />
+      <polyline points="21 3 21 9 15 9" />
+    </svg>
   </div>
 
   <!-- En-tête épuré spécial mobile -->
@@ -598,7 +602,7 @@
           type="search"
           id="searchInput"
           class="search-input"
-          placeholder="Rechercher (Morton, desmoïde, ECT, ostéome, vissage, biopsie...)"
+          placeholder="Rechercher (pudendal, Morton, desmoïde, ECT, ostéome, vissage, biopsie...)"
           oninput="onSearchInput()"
         />
         <button class="clear-btn" id="clearSearchBtn" onclick="clearSearch()">✕</button>
@@ -612,7 +616,7 @@
   <!-- Liste des articles -->
   <main class="main">
     <div class="count-bar">
-      <span id="resultsCount">24 résumés disponibles</span>
+      <span id="resultsCount">Résumés disponibles</span>
       <a href="exports/biblioosteo_zotero.ris" download="BiblioOsteo_Zotero.ris" style="color: var(--accent-text); font-weight: 600; text-decoration: none;">
         ⬇️ Export .RIS
       </a>
@@ -630,7 +634,7 @@
       </div>
       <div class="modal-body">
         <p>
-          Synchronisez les 24 articles (avec résumés FR, abstracts originaux et PDFs) dans votre Zotero ou téléchargez le fichier d'import :
+          Synchronisez les articles (avec résumés FR, abstracts originaux et PDFs) dans votre Zotero ou téléchargez le fichier d'import :
         </p>
 
         <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
@@ -689,9 +693,10 @@
   </div>
 
   <!-- Données embarquées -->
-  <script src="data/embedded_data.js"></script>
+  <script src="data/embedded_data.js?v=20261110-pudendal"></script>
 
   <script>
+    const CACHE_KEY = 'biblioosteo-v2026-11-10-pudendal';
     let articles = window.BIBLIO_ARTICLES || [];
     let categories = window.BIBLIO_CATEGORIES || [];
     let currentCategory = 'all';
@@ -703,12 +708,13 @@
       consolidation_screw_cement: '🔩 Vissage & Ciment',
       cyst_sclerotherapy: '💧 Kystes (KOA/KOE)',
       pain_cryoneurolysis: '🦶 Morton & Nerfs',
+      pudendal_cryoneurolysis: '❄️ Nerf Pudendal',
       msk_biopsy: '🎯 Biopsies',
       msk_imaging: '🧲 Imagerie IRM/TDM',
       percutaneous_ablation_general: '⚡ Ablation Percutanée'
     };
 
-    async function fetchLatestData(showFeedback = false) {
+    async function fetchLatestData() {
       try {
         const ts = Date.now();
         const [artRes, catRes] = await Promise.all([
@@ -719,62 +725,55 @@
         if (catRes.ok) categories = await catRes.json();
         renderPills();
         renderList();
-        if (showFeedback) {
-          const ptrText = document.getElementById('ptrText');
-          if (ptrText) ptrText.textContent = `✓ À jour (${articles.length} articles)`;
-        }
       } catch (e) {
-        if (showFeedback) {
-          const ptrText = document.getElementById('ptrText');
-          if (ptrText) ptrText.textContent = 'Mode hors-ligne (données locales)';
-        }
+        // Fallback silencieux sur embedded_data.js en mode hors-ligne
       }
     }
 
     function setupPullToRefresh() {
       const ptrBar = document.getElementById('ptrBar');
-      const ptrText = document.getElementById('ptrText');
       const ptrSpinner = document.getElementById('ptrSpinner');
       let startY = 0;
       let pullDist = 0;
       let isPulling = false;
       let isRefreshing = false;
-      const THRESHOLD = 68;
+      let hasVibrated = false;
+      const THRESHOLD = 64;
 
-      window.addEventListener('touchstart', (e) => {
+      function startPull(y) {
         if (isRefreshing) return;
-        // Activer uniquement si on est tout en haut de la page et qu'aucune modale n'est ouverte
         const modalOpen = document.querySelector('.modal-backdrop.open');
-        if (window.scrollY <= 2 && !modalOpen && e.touches.length === 1) {
-          startY = e.touches[0].clientY;
+        if (window.scrollY <= 2 && !modalOpen) {
+          startY = y;
           pullDist = 0;
           isPulling = true;
+          hasVibrated = false;
         }
-      }, { passive: true });
+      }
 
-      window.addEventListener('touchmove', (e) => {
+      function movePull(y) {
         if (!isPulling || isRefreshing) return;
-        const currentY = e.touches[0].clientY;
-        const dy = currentY - startY;
+        const dy = y - startY;
         if (dy > 0 && window.scrollY <= 0) {
-          pullDist = Math.min(115, dy * 0.52);
-          if (pullDist > 8) {
+          pullDist = Math.min(100, dy * 0.5);
+          if (pullDist > 6) {
             ptrBar.classList.add('pulling');
             ptrBar.style.height = `${pullDist}px`;
             ptrBar.style.opacity = String(Math.min(1, pullDist / THRESHOLD));
-            ptrSpinner.style.transform = `rotate(${pullDist * 4}deg)`;
-            ptrText.textContent = pullDist >= THRESHOLD
-              ? 'Relâcher pour actualiser la veille…'
-              : 'Tirer vers le bas pour actualiser…';
+            ptrSpinner.style.transform = `rotate(${pullDist * 4.5}deg)`;
+            if (pullDist >= THRESHOLD && !hasVibrated) {
+              hasVibrated = true;
+              if (navigator.vibrate) navigator.vibrate(12);
+            }
           }
         } else {
           pullDist = 0;
           ptrBar.style.height = '0px';
           ptrBar.style.opacity = '0';
         }
-      }, { passive: true });
+      }
 
-      window.addEventListener('touchend', async () => {
+      async function endPull() {
         if (!isPulling || isRefreshing) return;
         isPulling = false;
         ptrBar.classList.remove('pulling');
@@ -782,23 +781,46 @@
         if (pullDist >= THRESHOLD) {
           isRefreshing = true;
           ptrBar.classList.add('refreshing');
-          ptrText.textContent = 'Actualisation de la biblio…';
-          await fetchLatestData(true);
+          if (navigator.vibrate) navigator.vibrate(15);
+          await fetchLatestData();
           setTimeout(() => {
             ptrBar.classList.remove('refreshing');
             ptrBar.style.height = '0px';
             ptrBar.style.opacity = '0';
             isRefreshing = false;
-          }, 650);
+          }, 500);
         } else {
           ptrBar.style.height = '0px';
           ptrBar.style.opacity = '0';
         }
         pullDist = 0;
+      }
+
+      window.addEventListener('touchstart', (e) => {
+        if (e.touches.length === 1) startPull(e.touches[0].clientY);
       }, { passive: true });
+      window.addEventListener('touchmove', (e) => {
+        if (e.touches.length === 1) movePull(e.touches[0].clientY);
+      }, { passive: true });
+      window.addEventListener('touchend', endPull, { passive: true });
+
+      window.addEventListener('mousedown', (e) => {
+        if (e.button === 0 && !e.target.closest('button, a, input, details, summary')) {
+          startPull(e.clientY);
+        }
+      });
+      window.addEventListener('mousemove', (e) => movePull(e.clientY));
+      window.addEventListener('mouseup', endPull);
     }
 
     function init() {
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(regs => regs.forEach(r => r.unregister())).catch(() => {});
+      }
+      if ('caches' in window && localStorage.getItem('biblio_cache_key') !== CACHE_KEY) {
+        caches.keys().then(keys => Promise.all(keys.map(k => caches.delete(k)))).catch(() => {});
+        localStorage.setItem('biblio_cache_key', CACHE_KEY);
+      }
       // Restaurer préférence mode sombre
       if (localStorage.getItem('biblio_dark') === '1') {
         document.documentElement.classList.add('dark');

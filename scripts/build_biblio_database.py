@@ -89,6 +89,18 @@ CATEGORIES = {
             "Cryoneurolyse percutanée du nerf clunéal et du nerf intercostal sous scanner"
         ]
     },
+    "pudendal_cryoneurolysis": {
+        "id": "pudendal_cryoneurolysis",
+        "label": "Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale",
+        "short_label": "Cryoneurolyse Nerf Pudendal",
+        "icon": "snowflake",
+        "color": "#0ea5e9",
+        "agenda_examples": [
+            "Cryoneurolyse percutanée du nerf pudendal sous scanner (épine ischiatique / canal d'Alcock)",
+            "Bloc test anesthésique scanoguidé du nerf pudendal (critères de Nantes)",
+            "Cryoneurolyse pudendale bilatérale antalgique (douleurs pelvi-périnéales réfractaires et oncologiques)"
+        ]
+    },
     "msk_biopsy": {
         "id": "msk_biopsy",
         "label": "Biopsies Ostéo-Articulaires, Synoviales & Sarcomes",
@@ -894,7 +906,7 @@ CURATED_DATA = {
         "tags": ["Vissage cotyle", "Colonne antérieure", "Colonne postérieure", "Incidence COOHO", "Fluoroscopie", "Bassin"]
     },
     "41999357": {
-        "category_id": "pain_cryoneurolysis",
+        "category_id": "pudendal_cryoneurolysis",
         "title_fr": "Évaluation de la cryoneurolyse du nerf pudendal guidée par scanner dans le traitement des douleurs pelviennes réfractaires (oncologiques et non oncologiques)",
         "modality": "Scanner TDM",
         "intervention_type": "Cryoneurolyse Percutanée du Nerf Pudendal",
@@ -1421,7 +1433,7 @@ CURATED_DATA = {
         "tags": ["Kyste osseux anévrismal", "Polidocanol", "Moelle osseuse autologue", "Sclérothérapie", "Ostéogenèse", "Indian J Orthop 2026"]
     },
     "42999001": {
-        "category_id": "pain_cryoneurolysis",
+        "category_id": "pudendal_cryoneurolysis",
         "title_fr": "Névralgie pudendale en centre tertiaire de la douleur (224 patients) : bloc diagnostique du nerf pudendal, radiofréquence pulsée et facteurs prédictifs de neuromodulation",
         "modality": "Scanner / Échographie / Fluoroscopie Interventionnelle",
         "intervention_type": "Infiltration Diagnostique & Radiofréquence Pulsée / Cryoneurolyse du Nerf Pudendal",
@@ -1606,6 +1618,119 @@ CURATED_DATA = {
             "Enrichit les options percutanées de stabilisation des os longs non porteurs soumises aux contraintes de torsion."
         ],
         "tags": ["Stabilisation photodynamique", "IlluminOss", "Humérus métastatique", "Fracture pathologique", "Ostéosynthèse percutanée", "Cancers 2026"]
+    },
+    "42276242": {
+        "category_id": "pudendal_cryoneurolysis",
+        "title_fr": "Critères cliniques de sélection et résultats à 10 ans de la cryoablation percutanée du nerf pudendal guidée par scanner (362 procédures)",
+        "modality": "Scanner Interventionnel (TDM)",
+        "intervention_type": "Cryoneurolyse / Cryoablation Percutanée du Nerf Pudendal sous Scanner",
+        "cochin_link": "Référence majeure pour la sélection des patients adressés en « Cryoneurolyse percutanée du nerf pudendal sous scanner (épine ischiatique / canal d'Alcock) » à l'Hôpital Cochin.",
+        "summary_fr_short": "Plus grande série publiée sur 10 ans (*JVIR*, juin 2026, IF 2,6, 362 cryoablations TDM du nerf pudendal) : les patients réunissant la triade de sélection (facteur déclenchant identifié, douleur périnéale unilatérale systématisée et bloc diagnostique TDM positif) obtiennent 77,4 % de succès clinique (réduction moyenne de la douleur de 88,8 % chez les répondeurs) et un intervalle libre avant réintervention de 31,8 mois, avec 0 % de complication majeure SIR.",
+        "summary_fr_detailed": "Cette étude rétrospective académique multicentrique analyse 362 procédures de cryoablation percutanée du nerf pudendal guidées par scanner réalisées entre 2014 et 2024. L'analyse porte sur la valeur prédictive d'une triade clinique prédéfinie : 1) événement causal identifiable (chirurgie, traumatisme, accouchement, compression), 2) topographie douloureuse périnéale unilatérale typique du nerf pudendal, et 3) réponse positive au bloc anesthésique diagnostique sous scanner. Lorsque les 3 critères sont réunis, le taux de réponse clinique (réduction ≥ 50 % du score NRS) atteint 77,4 % contre 36,4 % en l'absence des critères complets (p = 0,002), avec une réduction douloureuse moyenne de 69,1 % (et 88,8 % chez les répondeurs). Chez les patients nécessitant une seconde séance à distance, la durée moyenne d'efficacité avant retraitement est de 31,8 mois (> 2,5 ans), sans aucun événement indésirable majeur (SIR C-F).",
+        "protocol_fr": "Sélection pré-procédurale stricte par bloc test scanoguidé du nerf pudendal • Patient en procubitus au scanner • Abord transglutéal postéro-latéral ciblant l'espace inter-ligamentaire (pince entre ligament sacro-épineux et ligament sacro-tubéral à l'épine ischiatique) ou le canal d'Alcock (aponévrose de l'obturateur interne) • Mise en place d'une cryosonde 17G • Double cycle de congélation (ex. 2 × 2 à 3 min séparés par décongélation passive) avec contrôle TDM de l'iceball à distance de la paroi rectale et du nerf sciatique.",
+        "key_points_fr": [
+            "Série de référence mondiale (362 procédures sur 10 ans dans JVIR) validant l'efficacité durable et la sécurité (0 % complication SIR C-F) de la cryoneurolyse TDM du nerf pudendal.",
+            "La triade clinique (événement déclenchant + topographie pudendale unilatérale + bloc test TDM positif) double le taux de succès (77,4 % vs 36,4 %, p = 0,002).",
+            "Durabilité remarquable d'une séance : délai moyen de 31,8 mois avant toute réintervention chez les répondeurs.",
+            "Guide directement l'indication de cryoneurolyse pudendale après bloc diagnostique positif en Radiologie B à Cochin."
+        ],
+        "tags": ["Cryoneurolyse", "Cryoablation", "Nerf pudendal", "Névralgie pudendale", "Bloc diagnostique", "Canal d'Alcock", "JVIR 2026"]
+    },
+    "42527618": {
+        "category_id": "pudendal_cryoneurolysis",
+        "title_fr": "Valeur prédictive du bloc nerveux diagnostique pré-procédural avant cryoneurolyse guidée par scanner des douleurs abdomino-pelviennes réfractaires (95 patients)",
+        "modality": "Scanner Interventionnel (TDM)",
+        "intervention_type": "Bloc Nerveux Diagnostique & Cryoneurolyse Pelvi-Périnéale sous Scanner",
+        "cochin_link": "Éclaire l'organisation du parcours « Bloc test scanoguidé vs Cryoneurolyse d'emblée du nerf pudendal » dans les douleurs pelviennes oncologiques et neuropathiques à Cochin.",
+        "summary_fr_short": "Étude comparative (*CardioVascular and Interventional Radiology - CVIR*, juil. 2026, IF 2,8, 95 patients) évaluant l'utilité d'un bloc nerveux diagnostique préalable avant cryoneurolyse TDM abdomino-pelvienne : chute hautement significative de l'EVA (de 8,4 à 3,8 à 1 mois, p < 0,001) avec un taux de succès clinique équivalent avec ou sans bloc préalable (81,1 % vs 69,7 % à 1 mois, p = 0,40), suggérant que la cryoneurolyse directe d'emblée est légitime lorsque l'étiologie anatomique (notamment tumorale) est formellement identifiée.",
+        "summary_fr_detailed": "Sur 95 patients traités par cryoneurolyse guidée par scanner pour des douleurs abdomino-pelviennes et périnéales réfractaires (oncologiques et non oncologiques), 52 ont bénéficié d'un bloc anesthésique diagnostique préalable (retardant la cryoneurolyse de 16,1 jours en moyenne) et 43 ont eu une cryoneurolyse directe d'emblée. L'EVA moyenne diminue de 8,4 ± 1,6 avant le geste à 3,9 à 1 semaine, 3,8 à 1 mois et 4,8 à 3 mois (p < 0,001). Les taux de succès clinique (baisse ≥ 3 points d'EVA) ne diffèrent pas significativement entre les groupes avec ou sans bloc à 1 semaine (76,6 % vs 78,4 %) et 1 mois (81,1 % vs 69,7 %), sans aucune complication observée.",
+        "protocol_fr": "Stratification selon le contexte clinique : 1) Névralgie pudendale idiopathique ou canalaire (critères de Nantes) : bloc diagnostique TDM préalable recommandé pour confirmer l'imputabilité du nerf pudendal ; 2) Douleur pelvi-périnéale oncologique ou lésionnelle anatomiquement prouvée : cryoneurolyse TDM directe en un seul temps pour éviter tout délai analgésique de 2 semaines.",
+        "key_points_fr": [
+            "Réduction majeure de l'EVA douleur de 8,4 à 3,8 à 1 mois (p < 0,001) avec 0 % de complication sur 95 patients.",
+            "Le bloc test préalable retarde en moyenne la cryoneurolyse de 16 jours : il reste indispensable dans les névralgies fonctionnelles/canalaires mais peut être omis au profit d'une cryoneurolyse d'emblée lorsque la cible tumorale pelvienne est évidente.",
+            "Pertinent pour accélérer la prise en charge antalgique des patients d'oncologie pelvienne hospitalisés à Cochin."
+        ],
+        "tags": ["Cryoneurolyse", "Bloc diagnostique", "Douleur pelvienne", "Nerf pudendal", "Scanner interventionnel", "CVIR 2026"]
+    },
+    "41440950": {
+        "category_id": "pudendal_cryoneurolysis",
+        "title_fr": "Cryoneurolyse personnalisée dans les douleurs pelviennes sévères : ciblage du nerf pudendal et du ganglion impar (mécanismes, bilan et technique)",
+        "modality": "Scanner Interventionnel (TDM) / Fluoroscopie",
+        "intervention_type": "Cryoneurolyse Ciblée du Nerf Pudendal & du Ganglion Impar",
+        "cochin_link": "Synthèse pratique sur le ciblage combiné « Nerf pudendal + Ganglion de Walther (Impar) » pratiqué sous scanner en Radiologie Interventionnelle à Cochin.",
+        "summary_fr_short": "Revue clinique et technique (*Journal of Personalized Medicine*, déc. 2025, IF 3,0, équipe J.D. Prologo) détaillant la neurobiologie de l'axonotmésis par le froid (-20°C à -100°C), la cartographie sémiologique des douleurs pelvi-périnéales et la technique de cryoneurolyse personnalisée du nerf pudendal et du ganglion impar en alternative d'épargne opioïde.",
+        "summary_fr_detailed": "Face aux douleurs pelvi-périnéales réfractaires et à la nécessité d'épargne morphinique, cette mise au point détaille l'approche personnalisée par cryoneurolyse guidée par l'image. Contrairement à l'alcoolisation ou à la radiofréquence thermique ablative à haute température qui exposent au névrome de désafférentation, la cryoneurolyse induit une dégénérescence wallérienne réversible (axonotmésis de grade II de Sunderland) en préservant intégralement la trame conjonctive endoneurale, périneurale et épineurale, permettant une repousse axonale physiologique sans névrome. L'article précise les repères TDM pour cibler sélectivement le nerf pudendal (douleur périnéale latéralisée des 2/3 antérieurs, majorée assis) et le ganglion impar pré-coccygien (douleur périnéale médiane, ano-rectale ou coccygienne à composante sympathique).",
+        "protocol_fr": "Phénotypage topographique pré-geste : douleur périnéale/génitale dans le territoire S2-S4 → ciblage TDM du nerf pudendal à l'épine ischiatique ou dans le canal d'Alcock ; douleur médiane ano-coccygienne/vulvo-périnéale sympathique → ciblage trans-sacro-coccygien ou latéro-coccygien du ganglion impar dans l'espace rétro-rectal • Cryoneurolyse en zone de transition thermique (-20°C à -70°C) préservant l'endonèvre.",
+        "key_points_fr": [
+            "Rappelle le fondement histologique clé de la cryoneurolyse : préservation de l'endonèvre et de la lame basale évitant toute névrite ou névrome de désafférentation.",
+            "Distingue clairement les indications du nerf pudendal (somatique S2-S4) et du ganglion impar (sympathique médian), souvent complémentaires.",
+            "Sécurité sphinctérienne préservée grâce à la précision du guidage TDM et à la réversibilité de la cryo-axonotmésis."
+        ],
+        "tags": ["Cryoneurolyse", "Nerf pudendal", "Ganglion impar", "Douleur pelvienne", "Axonotmésis", "J Pers Med 2025"]
+    },
+    "42263315": {
+        "category_id": "pudendal_cryoneurolysis",
+        "title_fr": "La neurolyse du ganglion impar potentialise l'efficacité de la radiofréquence pulsée du nerf pudendal dans la névralgie pudendale : étude de cohorte comparative (84 patientes)",
+        "modality": "Scanner TDM / Fluoroscopie Interventionnelle",
+        "intervention_type": "Traitement Combiné Nerf Pudendal + Neurolyse du Ganglion Impar",
+        "cochin_link": "Appuie les gestes combinés « Traitement du nerf pudendal + neurolyse du ganglion impar » réalisés pour les douleurs périnéales mixtes somatiques et sympathiques à Cochin.",
+        "summary_fr_short": "Étude de cohorte rétrospective comparative (*Pain Physician*, 2026, IF 3,1, 84 patientes) comparant le traitement isolé du nerf pudendal par radiofréquence pulsée (PRF, n = 40) à l'association PRF du nerf pudendal + neurolyse du ganglion impar (PRF + GIN, n = 44) : à 6 mois, le groupe combiné obtient une EVA significativement plus basse (2,09 vs 3,81, p < 0,05), un taux d'amélioration globale supérieur (73,7 % vs 56,1 %, p < 0,05) et une réduction marquée des scores d'anxiété-dépression (HADS) et de catastrophisme (PCS), sans complication.",
+        "summary_fr_detailed": "L'efficacité parfois incomplète des gestes ciblant uniquement le tronc du nerf pudendal s'explique par l'intrication fréquente d'une sensibilisation sympathique pelvi-périnéale relayée par le ganglion impar (ganglion de Walther, terminaison impaire de la chaîne sympathique paravertébrale en avant de la jonction sacro-coccygienne). Sur 84 patientes suivies 6 mois, l'adjonction d'une neurolyse du ganglion impar au geste pudendal améliore significativement le contrôle douloureux à 6 mois (EVA moyenne 2,09 ± 1,38 vs 3,81 ± 1,85, p < 0,05 ; amélioration globale de la douleur de 73,7 % vs 56,1 %) ainsi que le retentissement émotionnel (HADS-A : 3,91 vs 6,54 ; PCS : 12,16 vs 19,52, p < 0,05), sans effet indésirable grave.",
+        "protocol_fr": "Patient en procubitus • Temps 1 : Ciblage du nerf pudendal à l'épine sciatique / canal d'Alcock (stimulation sensitive 50 Hz < 0,5 V reproduisant la douleur périnéale, puis traitement pudendal par PRF ou cryoneurolyse) • Temps 2 (si composante brûlante périnéale postérieure/médiane ou hyperpathie sympathique) : Abord trans-discale sacro-coccygien ou paracéphalique coccygien du ganglion impar avec opacification rétro-rectale en « virgule » avant neurolyse.",
+        "key_points_fr": [
+            "Démontre la synergie anatomique et clinique entre le ciblage somatique (nerf pudendal) et sympathique (ganglion impar) dans la névralgie pudendale.",
+            "Gain significatif à 6 mois sur l'EVA (2,09 vs 3,81) et sur le taux d'amélioration ressentie (73,7 % vs 56,1 %).",
+            "Aucune complication sphinctérienne ou rectale grâce au contrôle d'imagerie en procubitus."
+        ],
+        "tags": ["Nerf pudendal", "Ganglion impar", "Névralgie pudendale", "Neurolyse combinée", "Radiofréquence pulsée", "Pain Physician 2026"]
+    },
+    "41594302": {
+        "category_id": "pudendal_cryoneurolysis",
+        "title_fr": "IRM pelvienne et neurographie par diffusion (DWI) dans la névralgie pudendale chronique : critères diagnostiques et pathologies associées sur 81 patients",
+        "modality": "IRM Pelvienne & Neurographie IRM (DWI)",
+        "intervention_type": "Bilan IRM Pré-Interventionnel du Nerf Pudendal & du Canal d'Alcock",
+        "cochin_link": "Outil de référence pour l'interprétation des « IRM pelviennes et du nerf pudendal pré-infiltration / pré-cryoneurolyse » en Radiologie B à Cochin.",
+        "summary_fr_short": "Étude radiologique sur 81 patients atteints de névralgie pudendale chronique (*Diagnostics*, janv. 2026, IF 3,0, Open-Access) évaluant un protocole d'IRM pelvienne incluant une neurographie par séquence de diffusion EPI (valeurs b = 0, 100 et 600 s/mm²) : détection d'anomalies de signal du nerf pudendal chez 51,9 % des patients (42/81, unilatérales dans 78,6 % des cas) et identification d'une cause anatomique compressive ou extrinsèque dans 54,8 % des cas positifs.",
+        "summary_fr_detailed": "Bien que le diagnostic de névralgie pudendale repose sur les critères cliniques de Nantes, l'IRM pelvienne est indispensable avant tout geste de cryoneurolyse ou de décompression pour éliminer une lésion tumorale, kystique ou endométriosique et localiser le site exact du conflit canalaire. En intégrant une séquence de diffusion écho-planaire (DWI-EPI avec b = 0, 100 et 600) supprimant le signal vasculaire pour rehausser sélectivement les faisceaux nerveux, les auteurs mettent en évidence une hyperintensité ou un épaississement focal du nerf pudendal chez 42 des 81 patients (33 unilatéraux, 9 bilatéraux), permettant de guider précisément l'étage du bloc et de la cryoneurolyse TDM (pince ligamentaire rétro-sciatique vs canal d'Alcock).",
+        "protocol_fr": "IRM pelvienne haute résolution (1,5T ou 3T) : séquences pondérées T2 FSE multiplanaires fines centrées sur la grande échancrure sciatique, l'épine ischiatique, la pince sacro-épineuse/sacro-tubérale et le canal pudendal d'Alcock • Séquence de neurographie par diffusion DWI-EPI (b = 0, 100, 600 s/mm²) permettant de suivre le trajet nerveux et d'identifier les asymétries de calibre/signal avant la cryoneurolyse TDM.",
+        "key_points_fr": [
+            "La séquence DWI (b = 0, 100, 600) améliore nettement la conspicuité du nerf pudendal et détecte une anomalie focale dans plus de la moitié des névralgies pudendales chroniques.",
+            "Identifie une étiologie anatomique ou compressive associée chez plus d'un patient sur deux présentant une anomalie DWI.",
+            "Permet de cibler avec précision le site du conflit (pince ligamentaire ischiatique vs canal d'Alcock) lors de la cryoneurolyse sous scanner."
+        ],
+        "tags": ["IRM pelvienne", "Neurographie IRM", "Diffusion DWI", "Nerf pudendal", "Canal d'Alcock", "Diagnostics 2026"]
+    },
+    "32602380": {
+        "category_id": "pudendal_cryoneurolysis",
+        "title_fr": "Cryoablation percutanée bilatérale des nerfs pudendaux guidée par scanner pour le traitement palliatif des douleurs pelviennes oncologiques réfractaires",
+        "modality": "Scanner Interventionnel (TDM)",
+        "intervention_type": "Cryoneurolyse Bilatérale des Nerfs Pudendaux sous Scanner (Oncologie)",
+        "cochin_link": "Correspond aux demandes de « Cryoneurolyse pudendale bilatérale antalgique en hospitalisation pour néoplasie pelvienne » prises en charge au scanner de Cochin.",
+        "summary_fr_short": "Série clinique (*Am J Hosp Palliat Care*, 2020, IF 1,9, équipe J.D. Prologo) évaluant la cryoablation percutanée bilatérale en un temps des nerfs pudendaux sous scanner chez des patients hospitalisés en crise hyperalgique pour cancer pelvien évolué : succès technique de 100 %, chute moyenne de 5,2 points sur l'échelle de douleur maximale (p = 0,003), sortie d'hospitalisation en 2,3 jours en moyenne et 0 % de complication sphinctérienne ou procédurale.",
+        "summary_fr_detailed": "Les tumeurs pelviennes localement avancées (rectum, col utérin, prostate, sarcomes pelviens, métastases sacrées) entraînent fréquemment des douleurs périnéales bilatérales intolérables nécessitant des hospitalisations prolongées sous opioïdes parentéraux à haute dose. Cette étude évalue la faisabilité et la sécurité d'une cryoneurolyse bilatérale simultanée des nerfs pudendaux sous guidage TDM chez 10 patients hospitalisés en impasse antalgique. Toutes les sondes ont été positionnées avec succès dans les canaux d'Alcock droit et gauche, entraînant une réduction immédiate et majeure du score de douleur maximale (-5,2 points sur 10, p = 0,003), autorisant un retour rapide à domicile (délai moyen de sortie : 2,3 jours post-procédure) sans aucune complication urinaire, fécale ou motrice.",
+        "protocol_fr": "Patient en procubitus sous sédation consciente ou anesthésie locale au scanner • Ponction bilatérale symétrique par voie transglutéale vers le canal d'Alcock / épine ischiatique • Positionnement d'une cryosonde au contact de chaque nerf pudendal avec contrôle TDM de la distance au rectum • Protocole de congélation bilatérale (2 cycles de congélation séparés par décongélation).",
+        "key_points_fr": [
+            "Démontre qu'une cryoneurolyse pudendale bilatérale en une seule séance est sûre (0 % d'incontinence ou de complication) et extrêmement efficace (-5,2 points d'EVA, p = 0,003).",
+            "Permet une sortie rapide d'hospitalisation (moyenne 2,3 jours) chez des patients oncologiques hyperalgiques alités.",
+            "Alternative mini-invasive majeure aux pompes intrathécales chez les patients atteints d'envahissement tumoral pelvi-périnéal."
+        ],
+        "tags": ["Cryoneurolyse bilatérale", "Nerf pudendal", "Douleur oncologique", "Cancer pelvien", "Soins palliatifs", "Scanner TDM"]
+    },
+    "25511935": {
+        "category_id": "pudendal_cryoneurolysis",
+        "title_fr": "Étude princeps : cryoablation percutanée du nerf pudendal guidée par scanner dans le traitement de la névralgie pudendale réfractaire (Prologo et al.)",
+        "modality": "Scanner Interventionnel (TDM)",
+        "intervention_type": "Cryoneurolyse Percutanée du Nerf Pudendal sous Scanner (Protocole Princeps)",
+        "cochin_link": "Article fondateur de la technique de « Cryoneurolyse percutanée du nerf pudendal sous scanner » appliquée en Radiologie Interventionnelle à Cochin.",
+        "summary_fr_short": "Étude pilote historique (*Skeletal Radiology*, 2015, IF 1,9, Prologo et al.) ayant établi le protocole de cryoablation percutanée TDM du nerf pudendal dans la névralgie pudendale réfractaire : chute spectaculaire de l'EVA douleur de 7,6/10 avant le geste à 2,6 dès 24 h, 3,5 à J45 et 3,1 à 6 mois (p < 0,005), sans aucune complication procédurale.",
+        "summary_fr_detailed": "Publication princeps ayant introduit en radiologie interventionnelle musculo-squelettique la cryoneurolyse percutanée sous scanner du nerf pudendal. Onze patients souffrant de névralgie pudendale sévère réfractaire (douleur moyenne 7,6/10 à type de brûlure dans 80 % des cas et de pression insupportable en position assise dans 84,5 % des cas) et répondeurs à un bloc test ont été traités par cryoablation TDM dans le canal d'Alcock / épine ischiatique. Les questionnaires Brief Pain Inventory (BPI) démontrent un effondrement rapide et soutenu de l'intensité douloureuse à 24 h (2,6/10), 45 jours (3,5/10) et 6 mois (3,1/10, p < 0,005) avec amélioration fonctionnelle majeure et 0 % de complication.",
+        "protocol_fr": "Patient en procubitus au scanner • Repérage TDM du canal pudendal (Alcock) le long de la paroi latérale de la fosse ischio-rectale au bord médial du muscle obturateur interne • Insertion coaxiale d'une cryosonde 17G • Cycle de congélation en deux temps (8 min de congélation, 4 min de décongélation passive, puis 8 min de congélation dans le protocole princeps, adapté aujourd'hui en cycles de 2 à 3 min selon la sonde) sous contrôle TDM de la boule de glace.",
+        "key_points_fr": [
+            "Publication fondatrice de J.D. Prologo dans Skeletal Radiology démontrant la faisabilité et la sécurité du ciblage cryoablatif du nerf pudendal sous scanner.",
+            "Réduction de plus de 60 % de l'intensité douloureuse dès 24 heures, maintenue à 6 mois (EVA de 7,6 à 3,1, p < 0,005).",
+            "Aucune complication sphinctérienne, motrice ou cutanée rapportée."
+        ],
+        "tags": ["Étude princeps", "Cryoneurolyse", "Nerf pudendal", "Névralgie pudendale", "Prologo", "Skeletal Radiol 2015"]
     }
 }
 
@@ -1781,6 +1906,7 @@ JOURNAL_IMPACT_FACTORS = {
     "pain physician": (3.1, "Pain Physician"),
     "frontiers in surgery": (1.8, "Front Surg"),
     "cancers": (4.5, "Cancers"),
+    "journal of personalized medicine": (3.0, "J Pers Med"),
 }
 
 

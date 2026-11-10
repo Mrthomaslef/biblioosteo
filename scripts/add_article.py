@@ -51,6 +51,9 @@ def infer_category_and_modality(title: str, abstract: str) -> tuple:
     elif "desmoid" in txt or "fibromatosis" in txt:
         cat_id = "desmoid_soft_tissue"
         interv = "Cryoablation"
+    elif "pudendal" in txt or "alcock" in txt:
+        cat_id = "pudendal_cryoneurolysis"
+        interv = "Cryoneurolyse du Nerf Pudendal"
     elif "morton" in txt or "genicular" in txt or "cryoneurolysis" in txt or "intercostal" in txt:
         cat_id = "pain_cryoneurolysis"
         interv = "Cryoneurolyse / RF Nerveuse"

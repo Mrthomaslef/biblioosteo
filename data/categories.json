@@ -70,6 +70,18 @@
     ]
   },
   {
+    "id": "pudendal_cryoneurolysis",
+    "label": "Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale",
+    "short_label": "Cryoneurolyse Nerf Pudendal",
+    "icon": "snowflake",
+    "color": "#0ea5e9",
+    "agenda_examples": [
+      "Cryoneurolyse percutanée du nerf pudendal sous scanner (épine ischiatique / canal d'Alcock)",
+      "Bloc test anesthésique scanoguidé du nerf pudendal (critères de Nantes)",
+      "Cryoneurolyse pudendale bilatérale antalgique (douleurs pelvi-périnéales réfractaires et oncologiques)"
+    ]
+  },
+  {
     "id": "msk_biopsy",
     "label": "Biopsies Ostéo-Articulaires, Synoviales & Sarcomes",
     "short_label": "Biopsies TDM & Écho",

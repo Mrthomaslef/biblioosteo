@@ -2254,6 +2254,65 @@
     "abstract": "[SYNTHÈSE FR] Étude prospective multicentrique pilote (*CVIR*, juil. 2026, 34 patients, 90 insertions d'aiguilles) démontrant une faisabilité de 98,9 % et une précision balistique de 2,0 ± 1,4 mm pour les procédures osseuses percutanées du rachis et du bassin assistées par le robot Epione®.\n\n[ABSTRACT EN] Purpose To prospectively evaluate the feasibility, safety, and targeting accuracy of robotic-assisted CT-guided percutaneous bone procedures. Materials and methods This prospective multicenter pilot study included adult patients undergoing CT-guided percutaneous bone consolidation or tumor ablation between September 2024 and January 2025 at three academic institutions. All procedures were planned and performed using the Epione® robotic platform. Targets included the thoracic and lumbar spine and the pelvis. The primary endpoint was feasibility of robotic-assisted needle insertion, defined as successful needle placement without conversion to manual technique. Secondary endpoints included safety, targeting accuracy, procedural time, and radiation dose. Targeting accuracy was measured as lateral tip deviation and angular deviation between planned and final needle positions. Results Thirty-four patients underwent 90 needle insertions, including 66 in the spine (73.3%) and 24 in the pelvis (26.7%). Indications were bone consolidation in 87/90 insertions (97%) and tumor ablation in 3/90 (3%). Robotic insertion was feasible in 89/90 insertions (98.9%). Seven adverse events occurred in 6 patients (17.6%), including four serious events, none related to the device or procedure. Mean lateral tip deviation was 2.0 ± 1.4 mm, and mean angular deviation was 3.1° ± 2.7°. Mean dose-length product was 3224 ± 2215 mGy.cm. Mean total procedure time was 03 h 09 min ± 50 min. Conclusions Robotic-assisted CT-guided bone procedures showed high feasibility and satisfactory targeting accuracy, with no device- or procedure-related adverse events. These findings support further evaluation in larger comparative studies. Clinical trial registration NCT06376682."
   },
   {
+    "id": "pmid-42527618",
+    "type": "article-journal",
+    "title": "Evaluating the Predictive Value of Pre-procedural Diagnostic Nerve Blocks in Patients Undergoing Cryoneurolysis",
+    "container-title": "Cardiovascular and interventional radiology",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "DOI": "10.1007/s00270-026-04543-y",
+    "PMID": "42527618",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42527618/",
+    "author": [
+      {
+        "family": "Young",
+        "given": "S"
+      },
+      {
+        "family": "Gunkan",
+        "given": "A"
+      },
+      {
+        "family": "Placek",
+        "given": "S"
+      },
+      {
+        "family": "Struycken",
+        "given": "L"
+      },
+      {
+        "family": "Abramyan",
+        "given": "A"
+      },
+      {
+        "family": "De Martini",
+        "given": "IV"
+      },
+      {
+        "family": "Hannallah",
+        "given": "J"
+      },
+      {
+        "family": "Woodhead",
+        "given": "G"
+      },
+      {
+        "family": "Goldberg",
+        "given": "D"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude comparative (*CardioVascular and Interventional Radiology - CVIR*, juil. 2026, IF 2,8, 95 patients) évaluant l'utilité d'un bloc nerveux diagnostique préalable avant cryoneurolyse TDM abdomino-pelvienne : chute hautement significative de l'EVA (de 8,4 à 3,8 à 1 mois, p < 0,001) avec un taux de succès clinique équivalent avec ou sans bloc préalable (81,1 % vs 69,7 % à 1 mois, p = 0,40), suggérant que la cryoneurolyse directe d'emblée est légitime lorsque l'étiologie anatomique (notamment tumorale) est formellement identifiée.\n\n[ABSTRACT EN] Purpose To evaluate the impact of pre-cryoneurolysis blocks by comparing outcomes between patients who underwent cryoneurolysis without a pretreatment block and those who underwent cryoneurolysis following a diagnostic block. Materials and methods A retrospective single-center analysis was performed of patients who underwent CT-guided cryoneurolysis for intractable abdominopelvic pain. Patients were categorized according to whether a pre-cryoneurolysis diagnostic block was performed. Clinical success was defined as an improvement in Visual Analog Scale (VAS) pain score of ≥ 3 points. Pre- and post-procedural pain scores and adverse events (AEs) were assessed. Results For entire cohort, including 52 patients who received a pre-cryoneurolysis block and 43 patients who did not, mean VAS score improved from 8.4 ± 1.6 pre-procedurally to 3.9 ± 2.5 at 1 week (p Conclusion CT-guided cryoneurolysis provides significant pain relief for cancer- and non-cancer-related chronic abdominopelvic pain, with comparable pain improvement regardless of whether a pre-cryoneurolysis diagnostic block is performed. When the pain source is clearly identified, direct cryoneurolysis may be a reasonable option."
+  },
+  {
     "id": "pmid-42234093",
     "type": "article-journal",
     "title": "Intraosseous pressure measurement of cystic bone lesions and comparison with normal marrow",
@@ -2399,6 +2458,65 @@
     "abstract": "[SYNTHÈSE FR] Article de référence (2026) détaillant l'anatomie échographique haute résolution des nerfs géniculés (supéro-latéral SLGN, supéro-médial SMGN, inféro-médial IMGN, nerf récurrent fibulaire et nerf du vaste intermédiaire). Précise les repères vasculaires et périostés permettant un bloc test diagnostique ultra-sélectif avant radiofréquence.\n\n[ABSTRACT EN] The genicular nerves are sensory nerves that innervate the knee joint, playing a crucial role in pain transmission. Because of their small size, they are frequently underappreciated and overlooked during routine ultrasound examinations. With the advent of high-resolution ultrasound, these nerves can be visualized directly, facilitating targeted interventions. A detailed understanding of genicular nerve anatomy, ultrasound landmarks, and characteristic imaging appearances has significant clinical implications for managing knee pain. Given the high prevalence of chronic knee pain due to osteoarthritis and post-operative conditions, ultrasound-guided genicular nerve blocks and radiofrequency ablation are increasingly utilized. Traditionally, genicular nerve procedures, targeting three nerves (the superomedial, superolateral, and inferomedial genicular nerves), were performed under fluoroscopic guidance. However, ultrasound offers distinct advantages, including real-time visualization of soft tissues, the absence of radiation exposure, and precise targeting of anatomical locations using revised landmarks and Doppler signal. These advancements have enabled more comprehensive targeting of five nerves: the superomedial genicular nerve, superolateral genicular nerve, inferomedial genicular nerve, recurrent peroneal genicular nerve, and the infrapatellar branch of the saphenous nerve. Although ablation of the recurrent peroneal genicular nerve carries a risk of injury to the common peroneal nerve, potentially resulting in foot drop, precise localization through ultrasound-guidance may help mitigate this complication. This article provides a comprehensive review of genicular nerve anatomy, ultrasound techniques, and interventional approaches, emphasizing the clinical relevance of ultrasound-guided procedures for managing knee pain and diagnosing nerve pathologies."
   },
   {
+    "id": "pmid-42276242",
+    "type": "article-journal",
+    "title": "Clinical Criteria for Improved Outcomes in Patients Who Undergo Percutaneous CT-Guided Pudendal Nerve Cryoablation: A Retrospective Analysis",
+    "container-title": "Journal of vascular and interventional radiology : JVIR",
+    "volume": "37",
+    "issue": "9",
+    "page": "108902",
+    "DOI": "10.1016/j.jvir.2026.108902",
+    "PMID": "42276242",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42276242/",
+    "author": [
+      {
+        "family": "Battle",
+        "given": "W"
+      },
+      {
+        "family": "Garcia",
+        "given": "RM"
+      },
+      {
+        "family": "Li",
+        "given": "H"
+      },
+      {
+        "family": "Moon",
+        "given": "JT"
+      },
+      {
+        "family": "Manyapu",
+        "given": "S"
+      },
+      {
+        "family": "Behi",
+        "given": "A"
+      },
+      {
+        "family": "Kim",
+        "given": "J"
+      },
+      {
+        "family": "Huang",
+        "given": "J"
+      },
+      {
+        "family": "Prologo",
+        "given": "JD"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Plus grande série publiée sur 10 ans (*JVIR*, juin 2026, IF 2,6, 362 cryoablations TDM du nerf pudendal) : les patients réunissant la triade de sélection (facteur déclenchant identifié, douleur périnéale unilatérale systématisée et bloc diagnostique TDM positif) obtiennent 77,4 % de succès clinique (réduction moyenne de la douleur de 88,8 % chez les répondeurs) et un intervalle libre avant réintervention de 31,8 mois, avec 0 % de complication majeure SIR.\n\n[ABSTRACT EN] Purpose To evaluate whether predefined clinical selection criteria were associated with improved outcomes following computed tomography (CT)-guided pudendal nerve cryoablation. Materials and methods A retrospective review of 362 CT-guided pudendal nerve cryoablations was performed at a multisite, tertiary-care, academic center over a 10-year period (2014-2024). Among 202 unilateral procedures, 75 (37.1%) had adequate follow-up and were included in the primary analysis. Patient stratification was performed by presence of predefined selection criteria, namely, identifiable antecedent event, unilateral perineal pain consistent with pudendal distribution, and positive response to CT-guided diagnostic pudendal block. The primary endpoint was ≥50% pain reduction on a 0-10 numerical rating scale. Mean percent pain reduction, reintervention interval, and adverse events (Society of Interventional Radiology [SIR] classification) were recorded. Fischer exact test, chi-square test, and multivariate logistic regression were performed where appropriate. Significance level was set at P Results Among 75 unilateral procedures with adequate follow-up, 49 (65.3%) achieved ≥50% pain reduction. Procedures performed on patients meeting all predefined criteria (53 procedures in 33 patients) demonstrated higher response rates than those not meeting all criteria (77.4% vs 36.4%, χ 2 P = .002) and greater mean pain reduction (69.1% vs 29.5%, P Conclusions Patients who met all predefined clinical selection criteria had significantly greater positive outcomes following CT-guided pudendal nerve cryoablation compared than those who did not."
+  },
+  {
     "id": "pmid-42173356",
     "type": "article-journal",
     "title": "Combination of Percutaneous Cryoablation, Screw Fixation, and Cementoplasty for Painful Pelvic Bone Metastases: A Supportive Care Approach Improving Pain, Mobility, and Quality of Life",
@@ -2525,6 +2643,57 @@
     "abstract": "[SYNTHÈSE FR] Étude de cohorte (*Annals of Surgical Oncology*, mai 2026, 183 patients : 36 en surveillance active et 147 opérés) analysant le risque de dédifférenciation (8 % en surveillance, 20 % des récidives locales) et démontrant le caractère indispensable de la biopsie percutanée ciblée dès que l'IRM montre des signes atypiques.\n\n[ABSTRACT EN] Background Atypical lipomatous tumors (ALTs) can recur locally but do not metastasize. Surgical treatment risks morbidity, recurrence, and dedifferentiation. This study assessed the outcomes of initial surveillance or surgery for patients with ALT. Methods Patients with ALT diagnosed between 2005 and 2022 were retrospectively identified from surgical and radiologic databases. Adults with primary or locally recurrent (LR) ALT confirmed by imaging, histology, or both and managed with surveillance for 12 months or longer were included in the surveillance study cohort. The primary outcome was the development of dedifferentiation during surveillance. The secondary outcomes were tumor progression, imaging-histopathology concordance, motives for surgery, and surgical outcomes. A comparison cohort included patients who had ALT treated with upfront surgery. Results The 36 patients (median age, 63 years; IQR, 52-69 years) in this study underwent surveillance for a median of 26 months (IQR, 19-54 months). Most of the tumors were primary (81%) and located in the lower extremities (78%). Tumor progression (RECIST) occurred in 22 patients (61%). Three patients (8%) experienced dedifferentiation (2 with the diagnosis by imaging alone at baseline and 1 with an LR). No dedifferentiation occurred in the remaining 33 patients (92%). Magnetic resonance imaging suggested dedifferentiation in five cases, histologically confirmed in two cases. Among 147 patients initially treated surgically for ALT, 15 (10%) had LR, with 3 (20%) of these patients experiencing recurrence as dedifferentiated liposarcoma. No disease-related metastases or deaths occurred. Conclusion Initial surveillance for ALT appears feasible for selected patients. However, surgery remains the preferred treatment for many, and the short follow-up period and small cohort size limited definitive conclusions regarding long-term dedifferentiation risk. Histologic confirmation remains essential when MRI findings are atypical."
   },
   {
+    "id": "pmid-42263315",
+    "type": "article-journal",
+    "title": "Ganglion Impar Neurolysis Enhances the Short-term Efficacy of Pudendal Nerve Pulsed Radiofrequency Treatment for Pudendal Neuralgia: A Retrospective Cohort Study",
+    "container-title": "Pain physician",
+    "volume": "29",
+    "issue": "3",
+    "page": "289-297",
+    "DOI": "",
+    "PMID": "42263315",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42263315/",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "Y"
+      },
+      {
+        "family": "Yang",
+        "given": "Y"
+      },
+      {
+        "family": "Li",
+        "given": "J"
+      },
+      {
+        "family": "Wu",
+        "given": "O"
+      },
+      {
+        "family": "Xie",
+        "given": "S"
+      },
+      {
+        "family": "Zhang",
+        "given": "T"
+      },
+      {
+        "family": "Feng",
+        "given": "Y"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de cohorte rétrospective comparative (*Pain Physician*, 2026, IF 3,1, 84 patientes) comparant le traitement isolé du nerf pudendal par radiofréquence pulsée (PRF, n = 40) à l'association PRF du nerf pudendal + neurolyse du ganglion impar (PRF + GIN, n = 44) : à 6 mois, le groupe combiné obtient une EVA significativement plus basse (2,09 vs 3,81, p < 0,05), un taux d'amélioration globale supérieur (73,7 % vs 56,1 %, p < 0,05) et une réduction marquée des scores d'anxiété-dépression (HADS) et de catastrophisme (PCS), sans complication.\n\n[ABSTRACT EN] Background Pudendal neuralgia (PN) lacks specific treatments and severely affects patients' quality of life. Although pudendal nerve pulsed radiofrequency (PRF) can alleviate symptoms, its overall efficacy is not satisfactory. Ganglion impar neurolysis (GIN) has been widely employed for perineal pain management. We hypothesize that combining PRF with GIN may enhance therapeutic outcomes for PN compared to PRF monotherapy. To the best of our knowledge, no relevant reports have been found. Objective To assess whether GIN improves PRF treatment efficacy for PN. Study design A retrospective cohort study. Setting This is a single-center retrospective study conducted at the Department of Pain Medicine, Peking University People's Hospital in Beijing, China. Methods We conducted a retrospective analysis of 84 women patients with PN treated from January 2020 through February 2024. The patients were divided into 2 groups: PRF Group (n = 40) received only pudendal nerve PRF; PRF + GIN Group (n = 44) received PRF combined with GIN. We recorded the posttreatment differences in Visual Analog Scale (VAS) scores, Overall Improvement in Pain (OIP) values, Hospital Anxiety and Depression Scales scores (anxiety: HADS-A; depression: HADS-D), and Pain Catastrophizing Scale scores (PCS) of the 2 groups at time points up to posttreatment month 6. Results At one, 2, 3, and 6 months posttreatment, the VAS scores in both groups were lower than pretreatment levels (P Limitations This single-center study has a small sample size, a short follow-up period, and lacks patients who are men. Conclusions GIN enhances short-term pudendal nerve PRF efficacy for PN, with no significant adverse reactions."
+  },
+  {
     "id": "pmid-41063397",
     "type": "article-journal",
     "title": "Efficacy and safety of genicular nerve ablation techniques for knee osteoarthritis: a systematic review and meta-analysis of sham-controlled randomized trials",
@@ -2566,6 +2735,49 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Méta-analyse d'essais randomisés contrôlés contre procédure fictive (*Pain Medicine*, avr. 2026, 8 ECR, 627 patients) confirmant l'efficacité antalgique à 12 semaines et fonctionnelle (WOMAC) à 24 semaines de la neurolyse des nerfs géniculés (radiofréquence et cryoneurolyse) dans la gonarthrose réfractaire.\n\n[ABSTRACT EN] Objective To evaluate the efficacy and safety of genicular neurolysis techniques, including radiofrequency ablation (RFA) and cryoneurolysis, versus sham procedures in adults with knee osteoarthritis (OA) ineligible for arthroplasty. Methods This systematic review and meta-analysis included randomized controlled trials (RCTs) comparing cooled, monopolar, or bipolar RFA, or cryoneurolysis, to sham treatment in adults with symptomatic knee OA. Studies with pulsed RFA, active comparators, or lacking pain or function outcomes were excluded. PubMed, Embase, and Cochrane CENTRAL were searched from inception to April 15, 2025, without language restriction. Risk of bias was assessed using the Cochrane RoB 2 tool. Random-effects meta-analysis calculated mean differences (MD) with 95% confidence intervals (CI). Heterogeneity was quantified with I2, and certainty of evidence was rated using GRADE. Trial Sequential Analysis (TSA) assessed conclusiveness. Results Eight RCTs (n = 627) met eligibility criteria. Compared with sham, ablative techniques significantly reduced pain at 12 weeks (MD -1.65; 95% CI, -2.57 to -0.74; I2 = 83%) and improved WOMAC function scores (MD -11.37; 95% CI, -18.83 to -3.91; I2 = 91%). Subgroup analysis favored conventional monopolar RFA over other modalities. TSA confirmed conclusive benefits for pain at 12 weeks and function at 24 weeks. No serious adverse events were reported. Limitations include high heterogeneity, variable protocols, and limited long-term data. Conclusions Genicular neurolysis, particularly conventional monopolar RFA, provides clinically meaningful pain and functional improvement in knee OA with a favorable safety profile. Standardization of techniques and further trials are needed to confirm long-term outcomes. Registration PROSPERO CRD420251044248."
+  },
+  {
+    "id": "pmid-42182575",
+    "type": "article-journal",
+    "title": "Treatment outcomes for cluneal neuropathy: a systematic review and meta-analysis",
+    "container-title": "Brain & spine",
+    "volume": "6",
+    "issue": "",
+    "page": "106062",
+    "DOI": "10.1016/j.bas.2026.106062",
+    "PMID": "42182575",
+    "PMCID": "PMC13195346",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42182575/",
+    "author": [
+      {
+        "family": "Catalano",
+        "given": "K"
+      },
+      {
+        "family": "Andereggen",
+        "given": "L"
+      },
+      {
+        "family": "Schubert",
+        "given": "GA"
+      },
+      {
+        "family": "Bruder",
+        "given": "M"
+      },
+      {
+        "family": "Jost",
+        "given": "JN"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue systématique et méta-analyse (*Brain & Spine*, avr. 2026, 26 bras thérapeutiques, 628 patients) démontrant un taux global de répondeurs (réduction douloureuse ≥ 50 %) de 78,3 % à ≥ 3 mois et de 82,9 % à ≥ 6 mois après traitement ciblé des névralgies clunéales supérieure et moyenne.\n\n[ABSTRACT EN] Background Cluneal nerve entrapment is an increasingly recognized but often overlooked cause of chronic low back pain. Various treatment strategies have been described, including surgical decompression, injection therapy, radiofrequency ablation (RFA), and peripheral nerve stimulation (PNS). However, pooled evidence on treatment outcomes remains limited. Objective This systematic review and meta-analysis aimed to evaluate pooled responder rates following different treatment modalities for cluneal nerve-related pain. Methods A systematic review and meta-analysis was performed of studies reporting dichotomous responder outcomes after treatment of superior or middle cluneal nerve entrapment. Responder status was defined as ≥50% pain reduction or study-defined clinical improvement. Random-effects meta-analysis of proportions with logit transformation was used to pool responder rates. The primary analysis included treatment arms with follow-up of ≥3 months, and a predefined sensitivity analysis was restricted to studies with follow-up of ≥6 months. Subgroup analyses were performed by treatment modality and by surgical versus non-surgical treatment strategy. Results A total of 26 treatment arms including 628 patients were analyzed. The pooled responder rate was 78.3% (95% CI 72.9-82.9) at ≥3 months and 82.9% (95% CI 75.3-88.6) at ≥6 months. Stratified by treatment modality, pooled responder rates were 93.1% (95% CI 84.9-97.0) for surgical decompression, 72.4% (95% CI 65.9-78.1) for injection therapy, 75.1% (95% CI 62.1-84.7) for radiofrequency ablation, and 80.1% (95% CI 58.5-92.0) for peripheral nerve stimulation. Conclusion Targeted treatment of cluneal nerve entrapment was associated with high pooled responder rates at both ≥3 and ≥ 6 months of follow-up. Surgical decompression was associated with the highest pooled responder proportion; however, differences between treatment modalities should be interpreted cautiously given the predominantly observational, non-comparative nature of the available evidence, heterogeneity in diagnostic criteria and outcome definitions, and the potential for confounding by indication. Prospective comparative studies using standardized diagnostic and outcome measures are needed."
   },
   {
     "id": "pmid-41999357",
@@ -2625,49 +2837,6 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude clinique rétrospective (*Am J Hosp Palliat Care*, avr. 2026, 30 patients) démontrant une réduction hautement significative de l'EVA douloureuse (jusqu'à 6 mois, p < 0,001) et de la consommation d'opioïdes après cryoneurolyse TDM du nerf pudendal, sans aucune complication.\n\n[ABSTRACT EN] BackgroundPelvic pain caused by malignant and non-malignant etiologies can be treated by cryoneurolysis of the pudendal nerve(s). The purpose of this report is to assess the efficacy and safety of CT-guided pudendal nerve cryoneurolysis. Additionally, treatment outcomes were compared between malignant and non-malignant pelvic pain etiologies.MethodsPatients who underwent CT-guided pudendal nerve cryoneurolysis for intractable pelvic pain were retrospectively reviewed. Pre-procedural and post-procedural pain scores, supplemental analgesic use, and complications were assessed.ResultsA total of 30 patients underwent CT-guided pudendal nerve cryoneurolysis. Pre-treatment Visual Analog Scale (VAS) pain scores were significantly improved at 1 week (3.9 ± 2.1, P P P P P = 0.04) and 1 month (17.5 (range:0-216), P = 0.032) post-treatment. Both malignant and non-malignant cohorts demonstrated significant improvement of VAS score at all time points; however, there was no significant difference in numeric improvement or percentage improvement in VAS score between the 2 cohorts. No adverse events were observed.ConclusionCT-guided pudendal nerve cryoneurolysis is an effective and safe treatment modality in patients with refractory pelvic pain from both malignant and non-malignant etiologies."
-  },
-  {
-    "id": "pmid-42182575",
-    "type": "article-journal",
-    "title": "Treatment outcomes for cluneal neuropathy: a systematic review and meta-analysis",
-    "container-title": "Brain & spine",
-    "volume": "6",
-    "issue": "",
-    "page": "106062",
-    "DOI": "10.1016/j.bas.2026.106062",
-    "PMID": "42182575",
-    "PMCID": "PMC13195346",
-    "URL": "https://pubmed.ncbi.nlm.nih.gov/42182575/",
-    "author": [
-      {
-        "family": "Catalano",
-        "given": "K"
-      },
-      {
-        "family": "Andereggen",
-        "given": "L"
-      },
-      {
-        "family": "Schubert",
-        "given": "GA"
-      },
-      {
-        "family": "Bruder",
-        "given": "M"
-      },
-      {
-        "family": "Jost",
-        "given": "JN"
-      }
-    ],
-    "issued": {
-      "date-parts": [
-        [
-          2026
-        ]
-      ]
-    },
-    "abstract": "[SYNTHÈSE FR] Revue systématique et méta-analyse (*Brain & Spine*, avr. 2026, 26 bras thérapeutiques, 628 patients) démontrant un taux global de répondeurs (réduction douloureuse ≥ 50 %) de 78,3 % à ≥ 3 mois et de 82,9 % à ≥ 6 mois après traitement ciblé des névralgies clunéales supérieure et moyenne.\n\n[ABSTRACT EN] Background Cluneal nerve entrapment is an increasingly recognized but often overlooked cause of chronic low back pain. Various treatment strategies have been described, including surgical decompression, injection therapy, radiofrequency ablation (RFA), and peripheral nerve stimulation (PNS). However, pooled evidence on treatment outcomes remains limited. Objective This systematic review and meta-analysis aimed to evaluate pooled responder rates following different treatment modalities for cluneal nerve-related pain. Methods A systematic review and meta-analysis was performed of studies reporting dichotomous responder outcomes after treatment of superior or middle cluneal nerve entrapment. Responder status was defined as ≥50% pain reduction or study-defined clinical improvement. Random-effects meta-analysis of proportions with logit transformation was used to pool responder rates. The primary analysis included treatment arms with follow-up of ≥3 months, and a predefined sensitivity analysis was restricted to studies with follow-up of ≥6 months. Subgroup analyses were performed by treatment modality and by surgical versus non-surgical treatment strategy. Results A total of 26 treatment arms including 628 patients were analyzed. The pooled responder rate was 78.3% (95% CI 72.9-82.9) at ≥3 months and 82.9% (95% CI 75.3-88.6) at ≥6 months. Stratified by treatment modality, pooled responder rates were 93.1% (95% CI 84.9-97.0) for surgical decompression, 72.4% (95% CI 65.9-78.1) for injection therapy, 75.1% (95% CI 62.1-84.7) for radiofrequency ablation, and 80.1% (95% CI 58.5-92.0) for peripheral nerve stimulation. Conclusion Targeted treatment of cluneal nerve entrapment was associated with high pooled responder rates at both ≥3 and ≥ 6 months of follow-up. Surgical decompression was associated with the highest pooled responder proportion; however, differences between treatment modalities should be interpreted cautiously given the predominantly observational, non-comparative nature of the available evidence, heterogeneity in diagnostic criteria and outcome definitions, and the potential for confounding by indication. Prospective comparative studies using standardized diagnostic and outcome measures are needed."
   },
   {
     "id": "pmid-41867110",
@@ -3059,6 +3228,65 @@
     "abstract": "[SYNTHÈSE FR] Étude prospective sur 20 patients suivis 30 mois (*Indian Journal of Orthopaedics*, janv./juil. 2026) évaluant l'association d'une sclérothérapie percutanée au polidocanol et d'une injection adjuvante de moelle osseuse autologue dans les kystes osseux anévrismaux : chute de l'EVA douleur de 6,2 à 0,3, réduction du volume kystique de 79,9 mL à 2,0 mL (p < 0,001) et seulement 5 % de récidive.\n\n[ABSTRACT EN] Purpose Aneurysmal bone cysts (ABCs) are benign bone lesions that exhibit localized destructive growth. Conventionally, most patients are treated with curettage and bone grafting. Alternatively, percutaneous treatment using selective arterial embolization and sclerotherapy had been successfully used with promising results. Adjuvant use of bone marrow injection alone or with other agents for treatment of bone cysts was previously used. The aim of this work is to assess the clinical outcome of polidocanol sclerotherapy with adjuvant autogenous bone marrow injection for management of ABCs. Methods The present prospective study was conducted on 20 patients with ABCs diagnosed on the basis of clinical and radiological findings. All patients were managed using polidocanol sclerotherapy followed by adjuvant autogenous bone marrow injection. Pain was evaluated using Visual Analog Scale (VAS). Radiographic evaluation was performed using plain radiographs. All patients were followed for 30 months after the last treatment session. Results The present study was conducted on 20 patients with an age of 10.2 ± 4.4 years (range: 3.0-20.0 years). They comprised 12 males and 8 females. VAS for pain improved from 6.2 ± 1.4 at baseline to 0.3 ± 0.5 ( p p Conclusion Use of polidocanol sclerotherapy followed by adjuvant autogenous bone marrow injection for management of ABCs is highly effective with adequate safety profile."
   },
   {
+    "id": "pmid-41594302",
+    "type": "article-journal",
+    "title": "MRI in Chronic Pudendal Neuralgia: Diagnostic Criteria and Associated Pathologies",
+    "container-title": "Diagnostics (Basel, Switzerland)",
+    "volume": "16",
+    "issue": "2",
+    "page": "326",
+    "DOI": "10.3390/diagnostics16020326",
+    "PMID": "41594302",
+    "PMCID": "PMC12840153",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/41594302/",
+    "author": [
+      {
+        "family": "Gaeta",
+        "given": "M"
+      },
+      {
+        "family": "Turturici",
+        "given": "S"
+      },
+      {
+        "family": "Galletta",
+        "given": "K"
+      },
+      {
+        "family": "Geremia",
+        "given": "C"
+      },
+      {
+        "family": "Tuscano",
+        "given": "A"
+      },
+      {
+        "family": "Gaeta",
+        "given": "A"
+      },
+      {
+        "family": "Cavallaro",
+        "given": "M"
+      },
+      {
+        "family": "Silipigni",
+        "given": "S"
+      },
+      {
+        "family": "Granata",
+        "given": "F"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude radiologique sur 81 patients atteints de névralgie pudendale chronique (*Diagnostics*, janv. 2026, IF 3,0, Open-Access) évaluant un protocole d'IRM pelvienne incluant une neurographie par séquence de diffusion EPI (valeurs b = 0, 100 et 600 s/mm²) : détection d'anomalies de signal du nerf pudendal chez 51,9 % des patients (42/81, unilatérales dans 78,6 % des cas) et identification d'une cause anatomique compressive ou extrinsèque dans 54,8 % des cas positifs.\n\n[ABSTRACT EN] Background/Objectives: Chronic pudendal neuralgia is a relatively rare condition in the general population, with an incidence of 1%. Although diagnosis of pudendal neuralgia is mainly clinical, Magnetic Resonance Imaging (MRI) is commonly performed to obtain further information. However, clear criteria and guidelines for MRI diagnosis and the clinical-radiological correlation are still not definite. Methods : We reviewed 81 patients with chronic pudendal neuralgia, studied by an MRI designed protocol for a pelvis and pelvic floor examination. A key element of the protocol was the use of a diffusion-weighted imaging (DWI) technique with echo planar imaging (EPI) sequence (b-values of 0, 100, and 600) for the neurographic evaluation of the nerve. Results: MRI examination revealed DWI abnormalities in 42/81 patients. Pudendal nerve abnormalities were unilateral in 33/42 patients and bilateral in 9/42. Moreover, in 23/42 patients, pathologies related to a high probability of neuropathy have been identified. Conclusions : This study highlights the role of pelvic MRI as a valuable imaging modality in the evaluation of patients with chronic pudendal neuralgia. In the study protocol we propose, an essential role is played by the DWI technique, which improves the visual definition of the pudendal nerve and related anatomical structures. By focusing on anatomical visualization and structured image interpretation, our work provides a practical imaging-oriented contribution to a field in which standardized MRI evaluation is still lacking."
+  },
+  {
     "id": "pmid-41473339",
     "type": "article-journal",
     "title": "Imaging Evaluation of Bone Tumors in the Cervical Spine: A Comprehensive Review",
@@ -3139,6 +3367,57 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Atlas didactique (*Diagn Interv Radiol*, déc. 2025) illustrant l'évolution temporelle en IRM (de 6 à 30 mois) des tumeurs desmoïdes traitées par cryoablation percutanée afin d'éviter de confondre les remaniements post-thérapeutiques attendus avec une récidive.\n\n[ABSTRACT EN] Desmoid tumors (DTs) are rare, locally aggressive soft tissue neoplasms with highly variable clinical behavior. Although benign, their infiltrative nature can lead to considerable morbidity. DTs present a major challenge due to their unpredictable behavior and potential for misdiagnosis. Recently, there has been a large shift in the treatment strategy for DTs, and the number of cases being followed up with imaging has increased. Cryoablation has emerged as a minimally invasive treatment option, yet post-procedural imaging features remain poorly characterized. This study illustrates the magnetic resonance imaging (MRI) evolution of DTs following percutaneous cryoablation, emphasizing key patterns across pre-treatment, intra-procedural, and follow-up studies. The available MRI follow-up ranged from 6 to 30 months. Through a pictorial approach, we aimed to provide radiologists with practical insights to avoid misinterpretation of expected post-treatment changes as recurrence and to improve clinical management."
+  },
+  {
+    "id": "pmid-41440950",
+    "type": "article-journal",
+    "title": "Cryoneurolysis: An Emerging Personalized Treatment Strategy for Significant Pelvic Pain",
+    "container-title": "Journal of personalized medicine",
+    "volume": "15",
+    "issue": "12",
+    "page": "587",
+    "DOI": "10.3390/jpm15120587",
+    "PMID": "41440950",
+    "PMCID": "PMC12734139",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/41440950/",
+    "author": [
+      {
+        "family": "Young",
+        "given": "S"
+      },
+      {
+        "family": "Abramyan",
+        "given": "A"
+      },
+      {
+        "family": "Vittoria De Martini",
+        "given": "I"
+      },
+      {
+        "family": "Hannallah",
+        "given": "J"
+      },
+      {
+        "family": "Woodhead",
+        "given": "G"
+      },
+      {
+        "family": "Struycken",
+        "given": "L"
+      },
+      {
+        "family": "Goldberg",
+        "given": "D"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue clinique et technique (*Journal of Personalized Medicine*, déc. 2025, IF 3,0, équipe J.D. Prologo) détaillant la neurobiologie de l'axonotmésis par le froid (-20°C à -100°C), la cartographie sémiologique des douleurs pelvi-périnéales et la technique de cryoneurolyse personnalisée du nerf pudendal et du ganglion impar en alternative d'épargne opioïde.\n\n[ABSTRACT EN] Significant pelvic pain is a fairly common malady in the United States. At the same time, the opioid epidemic has changed how pain is thought about and treated, resulting in a clear call for alternative treatment strategies. One of the promising techniques that has emerged over the last several years is cryoneurolysis. Cryoneurolysis allows for personalization of treatment through targeting of specific peripheral nerves, which correspond to a patient's pain. In the setting of pelvic pain, several viable targets, namely the pudendal nerve and impar ganglion, have been described. This review delineates the mechanism of action in cryoneurolysis, reviews the pertinent literature and describes patient workup and technique. Finally, future directions are discussed."
   },
   {
     "id": "pmid-41204964",
@@ -4218,6 +4497,49 @@
     "abstract": "[SYNTHÈSE FR] Essai prospectif multicentrique français de phase II (Kurtz, Buy, Deschamps et al.) évaluant la cryoablation percutanée chez 50 patients porteurs de tumeurs desmoïdes extra-abdominales progressives après traitement médical. À 12 mois, 85,6 % des patients n'ont aucune progression tumorale, avec une réduction marquée des douleurs et une amélioration fonctionnelle significative.\n\n[ABSTRACT EN] Background Desmoid tumours (DTs) are rare tumours originating from musculoaponeurotic structures. Although benign, they may be locally aggressive, leading to pain and disability. European Society for Medical Oncology (ESMO) guidelines recommend frontline watchful waiting and medical treatment in progressing tumours. Cryoablation is an interventional radiology technique that is suitable for DT patients (pts) on the basis of repeated cycles of freezing, leading to cell death. Methods CRYODESMO-01 (ClinicalTrials.gov Identifier: NCT02476305) is a prospective, open-label, non-randomised, non-comparative, multicenter study assessing cryoablation in non-abdominopelvic progressing DT. Inclusion criteria were: pts ≥18 y.o., confirmed DT accessible to cryoablation (≥90% destruction), measurable lesion conforming to modified response evaluation criteria in solid tumours (mRECIST), progressive disease after ≥2 lines of medical therapy or with functional symptoms/pain, adequate biological parameters, informed consent, and affiliation to a medical insurance scheme. The primary end-point was the non-progression rate at 12 months; secondary end-points included safety, quality of life (QoL), assessment of pain and functional status. Findings 50 pts were enrolled (78% female) from four French centres and all were treated. The mean age was 41 y.o. (19-73). The median number of prior treatments was 2.00 [1-4] including non-steroidal anti-inflammatory drugs (NSAIDs), hormone therapy, chemotherapy, and anti-angiogenics. Tumour location included limbs (36%), trunk (60%), and cervical area (4%). The median tumour largest diameter was 89 mm. The rate of non-progressing disease at +12 months was 86% [confidence level (CI) 95% 73-94%]. Median PFS was not reached at a median follow-up of 31 months. Grade 1 and 2 toxicity occurred in 32.8% and 44.5% of patients, grade 3-4 in 22% and no Grade 5 toxicity was observed. Cryoablation significantly improved functional status and pain scores. Interpretation Cryoablation demonstrated feasibility in progressive DT pts. The study met is primary end-point with 86% of non-progressive disease at +12 months, with reduced pain, better functional status, and encouraging long-term disease control."
   },
   {
+    "id": "pmid-32602380",
+    "type": "article-journal",
+    "title": "Percutaneous CT-Guided Cryoablation of the Bilateral Pudendal Nerves for Palliation of Intractable Pain Related to Pelvic Neoplasms",
+    "container-title": "The American journal of hospice & palliative care",
+    "volume": "37",
+    "issue": "8",
+    "page": "619-623",
+    "DOI": "10.1177/1049909119892003",
+    "PMID": "32602380",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/32602380/",
+    "author": [
+      {
+        "family": "Prologo",
+        "given": "JD"
+      },
+      {
+        "family": "Manyapu",
+        "given": "S"
+      },
+      {
+        "family": "Bercu",
+        "given": "ZL"
+      },
+      {
+        "family": "Mittal",
+        "given": "A"
+      },
+      {
+        "family": "Mitchell",
+        "given": "JW"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Série clinique (*Am J Hosp Palliat Care*, 2020, IF 1,9, équipe J.D. Prologo) évaluant la cryoablation percutanée bilatérale en un temps des nerfs pudendaux sous scanner chez des patients hospitalisés en crise hyperalgique pour cancer pelvien évolué : succès technique de 100 %, chute moyenne de 5,2 points sur l'échelle de douleur maximale (p = 0,003), sortie d'hospitalisation en 2,3 jours en moyenne et 0 % de complication sphinctérienne ou procédurale.\n\n[ABSTRACT EN] Objectives The purpose of this report is to describe the effect of computed tomography-guided bilateral pudendal nerve cryoablations on pain and time to discharge in the setting of acute hospitalizations secondary to refractory pelvic pain from cancer. Methods Investigators queried the medical record for patients who underwent pudendal nerve cryoablation using the Category III Current Procedural Technology code assignment 0442T or Category I code 64640 for cases prior to 2015. The resulting list was reviewed, and procedures performed on inpatients for intractable pelvic pain related to neoplasm were selected. The final cohort was then analyzed with regard to patient demographics, procedure details, technical success, safety, pain scores, and time to discharge. Results Ten patients underwent cryoablation by 3 operators for palliation of painful pelvic neoplasms between June 2014 and January 2019. All probes were satisfactorily positioned and freeze cycles undertaken without difficulty. There were no procedure-related complications or adverse events. The mean difference in pre- and posttreatment worst pain scores was significant (n = 5.20, P = .003). The mean time to discharge following the procedure was 2.3 days. Conclusion Computed tomography-guided percutaneous cryoablation of the bilateral pudendal nerves may represent a viable option in the setting of acute hospitalization secondary to intractable pain in patients with pelvic neoplasms."
+  },
+  {
     "id": "pmid-31601938",
     "type": "article-journal",
     "title": "Long-term efficacy of imatinib mesylate in patients with advanced Tenosynovial Giant Cell Tumor",
@@ -4433,6 +4755,45 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Série princeps de Deschamps, de Baère et Tselikas (*European Radiology*) démontrant l'efficacité et la fiabilité du vissage percutané guidé par scanner (seul ou associé à une cimentoplastie/ablation) pour stabiliser les fractures pathologiques ou post-radiques de l'anneau pelvien et du cotyle chez les patients atteints de cancer.\n\n[ABSTRACT EN] Purpose Screw fixation (osteosynthesis) can be performed percutaneously by interventional radiologists. We report our experience in cancer patients. Material/methods We retrospectively reviewed all cases of percutaneous osteosynthesis (PO) of the pelvic ring and proximal femur performed in our hospital. PO were performed for fracture palliation or for osteolytic metastases consolidation. Screws were inserted under CT- or cone-beam CT- guidance and general anaesthesia. Patients were followed-up with pelvic-CT and medical consultation at 1 month, then every 3 months. For fractures, the goal was pain palliation and for osteolytic metastases, pathologic fracture prevention. Results Between February 2010 and August 2014, 64 cancer patients were treated with PO. Twenty-one patients had PO alone for 33 painful fractures (13 bone-insufficiency, 20 pathologic fractures). The pain was significantly improved at 1 month (VAS score = 20/100 vs. 80/100). In addition, 43 cancer patients were preventively consolidated using PO plus cementoplasty for 45 impending pathologic fractures (10 iliac crests, 35 proximal femurs). For the iliac crests, no fracture occurred (median-FU = 75 days). For the proximal femurs, 2 pathological fractures occurred (fracture rate = 5.7 %, median-FU = 205 days). Conclusion PO is a new tool in the therapeutic arsenal of interventional radiologists for bone pain management. Key points • Screw fixation (osteosynthesis) can be performed percutaneously by interventional radiologists. • CT- or CBCT-guidance results in high technical success rates for screw placement. • This minimally invasive technique avoids extensive surgical exposure in bone cancer patients. • Osteosynthesis provides pain relief for bone-insufficiency fractures and for pathologic fractures. • Osteosynthesis plus cementoplasty provide prophylactic consolidation of impending pathological fractures."
+  },
+  {
+    "id": "pmid-25511935",
+    "type": "article-journal",
+    "title": "Percutaneous CT-guided cryoablation for the treatment of refractory pudendal neuralgia",
+    "container-title": "Skeletal radiology",
+    "volume": "44",
+    "issue": "5",
+    "page": "709-714",
+    "DOI": "10.1007/s00256-014-2075-3",
+    "PMID": "25511935",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/25511935/",
+    "author": [
+      {
+        "family": "Prologo",
+        "given": "JD"
+      },
+      {
+        "family": "Lin",
+        "given": "RC"
+      },
+      {
+        "family": "Williams",
+        "given": "R"
+      },
+      {
+        "family": "Corn",
+        "given": "D"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude pilote historique (*Skeletal Radiology*, 2015, IF 1,9, Prologo et al.) ayant établi le protocole de cryoablation percutanée TDM du nerf pudendal dans la névralgie pudendale réfractaire : chute spectaculaire de l'EVA douleur de 7,6/10 avant le geste à 2,6 dès 24 h, 3,5 à J45 et 3,1 à 6 mois (p < 0,005), sans aucune complication procédurale.\n\n[ABSTRACT EN] Purpose To evaluate the safety and efficacy of percutaneous CT-guided cryoablation of the pudendal nerve for the treatment of refractory pudendal neuralgia. Materials and methods Eleven patients were selected to undergo percutaneous CT-guided cryoablation of the pudendal nerve based on established diagnostic criteria. Brief Pain Inventory questionnaires were administered prior to the procedure, during the immediate 24 h post procedure, and 45 days and 6 months following the procedure. Results Prior to treatment, the average level of pain on a scale from 0 (no pain) to 10 (worst pain imaginable) was 7.6, with pain described as \"burning\" (80%), \"pulling\" (37.5%), \"crushing\" (50%), \"pressure\" (84.5%), \"throbbing\" (50%), \"knife-life\" (52%), and \"other\" (60%). At 24 h, 45 days, and 6 months post-treatment, pain intensity dropped to 2.6, 3.5, and 3.1, respectively (p Conclusions CT-guided percutaneous cryoablation may represent a safe and efficacious option for selected patients with refractory pudendal neuralgia."
   },
   {
     "id": "pmid-24838839",

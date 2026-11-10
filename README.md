@@ -24,10 +24,14 @@ Portail de veille bibliographique, de résumés cliniques structurés en frança
 6. **Radiologie Interventionnelle de la Douleur & Cryoneurolyse**
    - Cryoneurolyse sous anesthésie locale du **névrome de Morton** (3e espace inter-métatarsien).
    - Bloc test anesthésique sous échographie et radiofréquence des **nerfs géniculés** (gonarthrose).
-   - Cryoneurolyse des **nerfs intercostaux** (douleurs post-zona) et des douleurs neuropathiques post-amputation.
-7. **Biopsies Ostéo-Articulaires, Synoviales & Sarcomes (Scanner / Échographie)**
+   - Cryoneurolyse des **nerfs intercostaux** (douleurs post-zona) et des **nerfs clunéaux**.
+7. **Cryoneurolyse du Nerf Pudendal & Névralgie Pelvi-Périnéale**
+   - Cryoneurolyse percutanée sous scanner du **nerf pudendal** (pince ligamentaire sacro-épineuse / sacro-tubérale à l'épine ischiatique et canal d'Alcock).
+   - Bloc test anesthésique scanoguidé du nerf pudendal (critères de Nantes), radiofréquence pulsée et ciblage combiné du **ganglion impar** (Walther).
+   - Cryoneurolyse pudendale bilatérale antalgique dans les douleurs pelvi-périnéales oncologiques et non oncologiques réfractaires, neurographie IRM pelvienne (DWI).
+8. **Biopsies Ostéo-Articulaires, Synoviales & Sarcomes (Scanner / Échographie)**
    - Biopsies de masses des parties molles sous échographie (respect strict du fascia et des compartiments en concertation avec les chirurgiens orthopédistes de Cochin), biopsies synoviales (genou, chondromatose / SVN) et biopsies osseuses sous scanner (récidive de lymphome B, masse pré-sacrée / sacrum).
-8. **Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Thérapeutique**
+9. **Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Thérapeutique**
    - Sémiologie des tumeurs solitaires du rachis et du sacrum (équipe Cochin), IRM dynamique de l'ostéome ostéoïde, suivi IRM des tumeurs ténosynoviales à cellules géantes (**TTCG / SVN**) et contrôles IRM post-cryoablation.
 
 ---
