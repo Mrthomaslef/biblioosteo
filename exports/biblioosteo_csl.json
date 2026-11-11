@@ -1,5 +1,56 @@
 [
   {
+    "id": "pmid-42995340",
+    "type": "article-journal",
+    "title": "Determinants of fluoroscopy frequency and effect of standardized workflow optimization in robot-assisted pelvic channel screw placement: a single-center retrospective cohort study",
+    "container-title": "Journal of robotic surgery",
+    "volume": "20",
+    "issue": "1",
+    "page": "1180",
+    "DOI": "10.1007/s11701-026-04112-y",
+    "PMID": "42995340",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42995340/",
+    "author": [
+      {
+        "family": "Li",
+        "given": "J"
+      },
+      {
+        "family": "Zhang",
+        "given": "W"
+      },
+      {
+        "family": "Gong",
+        "given": "T"
+      },
+      {
+        "family": "Li",
+        "given": "X"
+      },
+      {
+        "family": "Yin",
+        "given": "K"
+      },
+      {
+        "family": "Zhang",
+        "given": "X"
+      },
+      {
+        "family": "Tai",
+        "given": "H"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Vaste cohorte rétrospective monocentrique (*Journal of Robotic Surgery*, nov. 2026, IF 2,2, 601 patients : 312 avant et 289 après optimisation) identifiant les 4 facteurs indépendants augmentant le recours à la scopie lors du vissage pelvien percutané (surface osseuse oblique au point d'entrée cortical IRR = 1,52, courbe d'apprentissage des 10 premiers cas IRR = 1,48, vissage du couloir S2 IRR = 1,26 et obésité IMC ≥ 30 IRR = 1,19) et démontrant qu'un protocole standardisé réduit de 27 % le nombre de clichés et le temps de scopie (16,2 s vs 21,8 s, p < 0,001) avec 98,7 % de précision intra-osseuse.\n\n[ABSTRACT EN] Robot-assisted percutaneous pelvic channel screw placement has been shown to significantly reduce intraoperative radiation exposure. However, even within the robot-assisted framework, fluoroscopy frequency still shows substantial within-group variation. Existing studies lack a systematic analysis of the determinants of fluoroscopy frequency and lack targeted workflow optimization strategies. To identify the independent determinants of fluoroscopy frequency in robot-assisted pelvic channel screw placement and to evaluate whether a standardized optimization protocol based on these factors can further reduce residual fluoroscopy exposure. We retrospectively enrolled patients with pelvic fractures who underwent robot-assisted percutaneous pelvic channel screw placement at Gansu Provincial Hospital between January 2020 and May 2025. Part A: The number of fluoroscopy sessions per case was the dependent variable. Multivariable negative binomial regression was used to analyze potential determinants, including surgeon experience stage, screw type, oblique bone surface at the entry point, BMI, and bone mineral density. Part B: Based on Part A results, we developed and implemented a standardized optimization protocol targeting modifiable factors, with December 2023 as the cutoff. We compared fluoroscopy frequency, fluoroscopy time, and screw accuracy between the pre-optimization group (n = 312) and the post-optimization group (n = 289). To address methodological time-trend confounding, we added interrupted time series analysis, propensity score matching, and a negative control subgroup analysis. This was a non-randomized, single-center, before-after design, and residual confounding cannot be completely excluded. Part A (n = 601): Multivariable negative binomial regression showed that oblique bone surface at the entry point (IRR = 1.52, 95% CI: 1.31-1.77, P 30 cases, IRR = 1.48, 95% CI: 1.25-1.75, P < 0.001), S2 screws (IRR = 1.26, 95% CI: 1.10-1.44, P = 0.001), and BMI ≥ 30 kg/m² (IRR = 1.19, 95% CI: 1.02-1.39, P = 0.026) were independent determinants of fluoroscopy frequency. Part B: The post-optimization group showed a significant reduction in fluoroscopy frequency compared with the pre-optimization group (9.8 ± 2.9 vs. 13.5 ± 3.7, P < 0.001). Fluoroscopy time also decreased (16.2 ± 5.4 s vs. 21.8 ± 6.9 s, P < 0.001). Screw accuracy showed no significant difference (98.7% vs. 98.1%, P = 0.52). The optimization effect was most pronounced in the oblique bone surface subgroup (31.5% reduction) and was 14.2% in the non-oblique subgroup. In the negative control subgroup (experienced surgeons, non-oblique, non-obese, S1 screws), fluoroscopy frequency did not change significantly before and after optimization (10.2 ± 2.6 vs. 10.5 ± 2.8, P = 0.41); however, post-hoc power for this subgroup was extremely low (approximately 0.10), so this null result should be regarded as inconclusive rather than as evidence of no effect. These findings suggest a possible risk-stratified specific effect of the optimization protocol, but time trends, the Hawthorne effect, and the unseparated multicomponent bundle cannot be excluded. In robot-assisted pelvic channel screw placement, oblique bone surface at the entry point, early surgeon experience stage, S2 screws, and obesity are independent determinants of fluoroscopy frequency. A standardized multicomponent optimization protocol targeting modifiable factors can safely reduce fluoroscopy frequency by approximately 27% without compromising screw accuracy. Optimization of fluoroscopy frequency should become a core indicator in robot-assisted surgical training and quality control. However, this was a non-randomized, single-center, before-after study; the optimization protocol was a multicomponent bundle whose individual contributions cannot be separated; and the oblique bone surface and negative control subgroups were underpowered. These findings require prospective validation."
+  },
+  {
     "id": "pmid-42998777",
     "type": "article-journal",
     "title": "Bleomycin-Induced Pulmonary Toxicity: A Systematic Review and Meta-Analysis of Incidence and Risk Factors",
@@ -1648,6 +1699,57 @@
     "abstract": "[SYNTHÈSE FR] Actes officiels du panel de consensus de la Society of Interventional Radiology (*JVIR*, août/nov. 2026) définissant les priorités cliniques et biologiques de la cryoablation chez le sujet jeune : comparaison prospective traitement systémique + cryoablation vs traitement systémique seul dans les tumeurs desmoïdes, et respect du cartilage articulaire et de conjugaison lors de la cryoablation des lésions osseuses bénignes.\n\n[ABSTRACT EN] While literature surrounding pediatric applications of cryoablation continues to grow and demonstrate potential benefits, evidence to date largely comprises small, retrospective, and uncontrolled series. To address this opportunity, a multidisciplinary panel of pediatric specialists convened virtually in a research consensus panel organized by the Society of Interventional Radiology (SIR); each panelist presented current data surrounding common applications of cryoablation in the pediatric population. A recurring theme throughout the discussion was the potential for cryoablation to increase quality of life in pediatric patients whether applied with curative or palliative intent. After presentations and discussions, research concepts were discussed and ranked on their potential impact, with the following 3 topics emerging as top priorities: (a) thoracic event-free survival and complication comparison between pulmonary metastasectomy and cryoablation of lesions amenable to either modality, (b) a prospective comparison of systemic therapy and cryoablation versus systemic therapy alone in the treatment of desmoid tumor, and (c) the biologic effects of cryoablation on healthy bone, cartilage, and growth plates as may be affected in the treatment of benign osseous lesions."
   },
   {
+    "id": "pmid-42563407",
+    "type": "article-journal",
+    "title": "Noninvasive treatment strategy for abdominal wall desmoid tumors applying high-intensity focused ultrasound",
+    "container-title": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group",
+    "volume": "43",
+    "issue": "1",
+    "page": "2662962",
+    "DOI": "10.1080/02656736.2026.2662962",
+    "PMID": "42563407",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42563407/",
+    "author": [
+      {
+        "family": "Hu",
+        "given": "C"
+      },
+      {
+        "family": "Ma",
+        "given": "G"
+      },
+      {
+        "family": "Wang",
+        "given": "L"
+      },
+      {
+        "family": "He",
+        "given": "L"
+      },
+      {
+        "family": "Shen",
+        "given": "H"
+      },
+      {
+        "family": "Hu",
+        "given": "X"
+      },
+      {
+        "family": "Huang",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Cohorte de 55 tumeurs desmoïdes de la paroi abdominale (46 primitives, 9 récidivantes après chirurgie) suivies pendant une médiane de 58 mois (*International Journal of Hyperthermia*, août/déc. 2026, IF 3,1) : taux de contrôle local (DCR) de 98 % (54/55) et taux de réponse objective (ORR) de 82 % (87 % chez les patients naïfs de chirurgie contre 56 % sur les récidives post-chirurgicales), confirmant la haute sensibilité des fibromatoses desmoïdes pariétales aux ablations thermiques guidées par l'image.\n\n[ABSTRACT EN] Background Desmoid tumor (DT) is a rare, locally invasive soft tissue tumor that does not metastasize but has a high recurrence rate after surgery. DTs can be divided into three types: abdominal wall, intra-abdominal and extra-abdominal DTs. The primary treatment options for abdominal wall DT include active surveillance (AS) and surgical resection. However, many patients experience progression during AS, whereas surgical resection carries a high risk of recurrence. Therefore, an effective, noninvasive and safe local treatment method is currently needed in clinical practice. Methods This study included all patients with abdominal wall DT treated by high-intensity focused ultrasound (HIFU) at the Oncology Department of the Second Affiliated Hospital of Zhejiang University School of Medicine from July 2015 to May 2023. Thermal ablation of the abdominal wall DT was conducted using focused ultrasound beams. Following tumor ablation, treatment outcomes were evaluated for all patients. Results A total of 55 abdominal wall DT cases underwent HIFU treatment, including 46 and 9 initial and recurrent tumors, respectively. The median follow-up time was 58 months. The median ablation rate for all patients after 1 month of HIFU treatment was 61%. The objective response rate (ORR) and disease control rate (DCR) were 82% (45/55) and 98% (54/55), respectively. Based on disease course, ORRs were 87% and 56% in treatment-naïve patients and re-treated patients, respectively. Conclusion HIFU demonstrates a high DCR for abdominal wall DT with few side effects, representing an effective treatment, especially for treatment-naïve patients."
+  },
+  {
     "id": "pmid-42618654",
     "type": "article-journal",
     "title": "Curative-Intent Cryoablation for Bone Metastases: Study Protocol for BOREALIS, a Prospective Multicentre Observational Investigation",
@@ -1729,6 +1831,112 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Présentation du registre prospectif multicentrique BOREALIS (*CVIR*, août 2026) évaluant la cryoablation percutanée à visée curative (éradication tumorale complète avec marges de sécurité) chez les patients oligométastatiques osseux.\n\n[ABSTRACT EN] Purpose Cryoablation (CA) is a well-established, safe and effective palliative treatment for painful bone metastases (BM). Data exploring its curative potential (i.e. radical clearing of the target lesion) is however very scarce, mostly coming from small retrospective studies. The BOne metastases REgistry for patients undergoing cryoAbLation with curatIve purpoSe (BOREALIS) aims to address this shortcoming by collecting prospective, multicentric real-world data on the outcomes of curative-intent CA for bone metastases. Methods BOREALIS is an observational cohort study designed to follow for 1 year up to 50 participants with BM ( Conclusion BOREALIS intends to provide insights into the effectiveness of curative-intent CA for BM to inform the development of future clinical guidelines. BOREALIS is registered on ClinicalTrial.gov (NCT06480955)."
+  },
+  {
+    "id": "pmid-42545485",
+    "type": "article-journal",
+    "title": "The role of repeat CT-guided biopsy in suspected infectious spondylodiscitis",
+    "container-title": "Skeletal radiology",
+    "volume": "55",
+    "issue": "11",
+    "page": "2897-2906",
+    "DOI": "10.1007/s00256-026-05323-y",
+    "PMID": "42545485",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42545485/",
+    "author": [
+      {
+        "family": "Bertolotti",
+        "given": "L"
+      },
+      {
+        "family": "Chamard-Champliaud",
+        "given": "U"
+      },
+      {
+        "family": "Stacoffe",
+        "given": "N"
+      },
+      {
+        "family": "Grange",
+        "given": "S"
+      },
+      {
+        "family": "Segui",
+        "given": "P"
+      },
+      {
+        "family": "Cyteval",
+        "given": "C"
+      },
+      {
+        "family": "Pastor",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude observationnelle en centre tertiaire (*Skeletal Radiology*, août/nov. 2026, IF 1,9, 93 biopsies chez 79 patients) évaluant la rentabilité microbiologique d'une seconde biopsie disco-vertébrale sous scanner après un premier prélèvement négatif : rendement initial de 53,2 % (42/79) et positivité de la seconde biopsie dans 35,7 % des cas (5/14), portant le taux d'identification global à 59,5 %, avec la CRP élevée comme principal facteur prédictif (médiane 40 vs 20 mg/L, p = 0,008 ; rendement de 80 % dans les spondylodiscites post-opératoires).\n\n[ABSTRACT EN] Objective This retrospective observational study assesses the diagnostic yield of CT-guided disc-vertebral biopsies in patients with suspected infectious spondylodiscitis. It focuses on the utility of a second biopsy after an initial negative result and evaluates factors associated with microbiological positivity. Materials and methods It included adult patients undergoing CT-guided biopsies between January 2019-June 2024 at a single tertiary care center. The exclusion criteria were as follows: non-infectious indications (e.g., metastases, primary bone tumors, and crystal deposition disease) or biopsy results inconsistent with infection. Results In total, 93 biopsies were analyzed in 79 patients: 79 first and 14 repeat biopsies. The microbiological yield of first biopsies was 53.2% (42/79; 95% CI 42.3-63.8), while repeat biopsies yielded positive results in 35.7% (5/14; 95% CI 16.3-61.2), increasing the overall diagnostic yield to 59.5% (47/79). The diagnostic yield of repeat biopsies did not significantly differ from first biopsies (p = 0.36). Higher C-reactive protein (CRP) levels were associated with positive results (median 40 vs 20 mg/L; p = 0.008; adjusted OR 1.57 per unit increase in log-transformed CRP, p = 0.043). No association was found with age, gender, or leukocyte count. Blood cultures were positive in 7.8% (7/90) and showed high concordance with biopsy findings (6/7 matching pathogens). In post-surgical infections, the diagnostic yield reached 80% (4/5). Conclusion A negative initial biopsy did not preclude microbiological identification on repeat sampling, supporting the role of repeat biopsy in selected patients with persistent suspicion of infection. Higher CRP levels were associated with biopsy positivity."
+  },
+  {
+    "id": "pmid-42698683",
+    "type": "article-journal",
+    "title": "Cooled radiofrequency ablation for patients with chronic postsurgical pain after total knee arthroplasty: Pilot clinical trial",
+    "container-title": "Asia-Pacific journal of sports medicine, arthroscopy, rehabilitation and technology",
+    "volume": "46",
+    "issue": "",
+    "page": "31-38",
+    "DOI": "10.1016/j.asmart.2026.06.002",
+    "PMID": "42698683",
+    "PMCID": "PMC13542492",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42698683/",
+    "author": [
+      {
+        "family": "Tsubosaka",
+        "given": "M"
+      },
+      {
+        "family": "Matsumoto",
+        "given": "T"
+      },
+      {
+        "family": "Nakano",
+        "given": "N"
+      },
+      {
+        "family": "Kamenaga",
+        "given": "T"
+      },
+      {
+        "family": "Kuroda",
+        "given": "Y"
+      },
+      {
+        "family": "Hayashi",
+        "given": "S"
+      },
+      {
+        "family": "Sakai",
+        "given": "H"
+      },
+      {
+        "family": "Kuroda",
+        "given": "R"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Essai clinique prospectif de phase I/IIa enregistré (*Asia-Pacific Journal of Sports Medicine, Arthroscopy, Rehabilitation and Technology*, août/oct. 2026, IF 1,7, Open-Access) évaluant la radiofréquence refroidie (Cooled RFA, système Coolief®) des nerfs géniculés chez des patients souffrant de douleur post-chirurgicale chronique réfractaire (NRS ≥ 5 depuis ≥ 6 mois) après prothèse totale de genou (PTG) et répondeurs à un bloc test géniculé (≥ 50 %) : réduction constante de la douleur et amélioration cliniquement pertinente à 6 mois avec 0 % d'événement indésirable ou d'infection péri-prothétique.\n\n[ABSTRACT EN] Introduction Total knee arthroplasty (TKA) generally provides substantial and durable relief in end-stage knee osteoarthritis, yet a proportion of patients develops chronic postsurgical pain (CPSP). Conventional analgesics often fail to adequately address this condition. Cooled radiofrequency ablation (CRFA) has shown effectiveness in knee osteoarthritis, but its utility for patients with CPSP after TKA has not been investigated. This study aimed to report a phase I/IIa clinical trial regarding CRFA for patients with CPSP after TKA. Materials and methods This prospective pilot study (jRCTs052230123) enrolled consecutive patients with CPSP between November 2023 and August 2025. Inclusion criteria included persistent pain ≥6 months after TKA, inadequate response to standard analgesics (NRS ≥5), and ≥50% pain reduction after diagnostic genicular nerve block. Following informed consent, participants underwent CRFA using the Coolief® system. The primary endpoint was the change in Numeric Rating Scale (NRS) pain score from baseline to 6 months. 2011 Knee Society Score (KSS) was also used for the efficacy evaluation. As for the safety evaluation, the occurrence and outcomes of any severe adverse events between the day of treatment and 6 months post-treatment were recorded. Results Of 15 screened patients, 5 met all criteria and completed the study. CRFA resulted in a consistent reduction in pain intensity; however, the change in NRS scores did not reach statistical significance at 6 months. Responder analyses demonstrated that a substantial proportion of patients achieved clinically meaningful improvements at 6 months. Although the 2011 KSS showed a trend toward improvement, the change was not statistically significant. No adverse events or complications occurred. Conclusions CRFA provided clinically meaningful pain relief without adverse events in patients with CPSP after TKA. These findings suggest that CRFA is a safe and potentially effective therapeutic option. Larger studies are needed to verify its clinical value."
   },
   {
     "id": "pmid-42667387",
@@ -2171,6 +2379,116 @@
     "abstract": "[SYNTHÈSE FR] Protocole de référence français (Gustave Roussy / AP-HP : Beunon, Bonnet, Tselikas et al., *JoVE*, juil. 2026, IF 1,2) décrivant un workflow reproductible de simulation 3D patient-spécifique du champ électrique (3D Slicer + module éléments finis AI4DEEP) pour l'ECT des métastases vertébrales : validation sur 9 procédures rachidiennes démontrant une concordance maximale avec la nécrose post-ECT en IRM injectée sur l'isodose 160–200 V/cm.\n\n[ABSTRACT EN] Electrochemotherapy (ECT) combines the administration of cytotoxic agents with high-voltage electric pulses that transiently permeabilize tumor cell membranes and enhance intracellular drug uptake. This minimally invasive, nonthermal technique is particularly suitable for tumors located near critical structures, where surgery, radiotherapy, or percutaneous thermal ablation may be limited. In the spine, ECT can provide pain relief, neural decompression, and local tumor control while preserving neural structures. However, its implementation remains challenging due to complex vertebral anatomy, limited understanding of electric field distribution, the absence of dedicated planning tools, and the risk of neural injury. This protocol describes a reproducible workflow for patient-specific electric field simulation in spinal ECT. Multimodal imaging combining CT and MRI enables reconstruction of tumoral, vertebral, neural, and soft-tissue anatomy using semi-automatic and manual segmentations performed within the open-source 3D Slicer platform. Tissue conductivities are assigned according to the IT'IS database, and linear finite-element simulations (constant conductivity) are performed with AI4DEEP, a dedicated 3D Slicer module, to compute 3D electric field maps across multiple isodose thresholds. Follow-up contrast-enhanced MRI is used for validation through Dice similarity coefficients comparing simulated isoelectric field volumes with post-ECT necrotic tumoral areas. Qualitative comparison of simulated electric field maps, follow-up MRI, and clinical outcomes was performed by expert interventional radiologists to evaluate the ability of the software to predict undertreated and overtreated regions. Nine ECT procedures were processed to assess the workflow. The highest concordance between simulated electric field and post-ECT necrosis was observed in the 160-200 V/cm range in this specific clinical and numerical setting. The workflow also identified regions of insufficient or excessive treatment, consistent with clinical and imaging follow-up. The described workflow lays the groundwork for reproducible ECT planning, supporting optimized electrode placement and parameter adjustment to improve safety and efficacy in complex spinal ECT procedures."
   },
   {
+    "id": "pmid-42570570",
+    "type": "article-journal",
+    "title": "Diagnostic yield of 8G versus 11G transpedicular vertebral biopsy needles in suspected tuberculous spondylitis: a prospective randomized controlled study",
+    "container-title": "Clinical radiology",
+    "volume": "101",
+    "issue": "",
+    "page": "107439",
+    "DOI": "10.1016/j.crad.2026.107439",
+    "PMID": "42570570",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42570570/",
+    "author": [
+      {
+        "family": "Pandey",
+        "given": "S"
+      },
+      {
+        "family": "Aggarwal",
+        "given": "P"
+      },
+      {
+        "family": "Srivastava",
+        "given": "DN"
+      },
+      {
+        "family": "Garg",
+        "given": "B"
+      },
+      {
+        "family": "Mridha",
+        "given": "AR"
+      },
+      {
+        "family": "Madhusudhan",
+        "given": "KS"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Essai prospectif randomisé contrôlé (*Clinical Radiology*, juil./oct. 2026, IF 2,1, 50 patients randomisés 1:1) comparant les trocarts de biopsie vertébrale transpédiculaire 8G (n = 25) et 11G (n = 25) dans les suspicions de spondylodiscite tuberculeuse : rendement diagnostique global équivalent (52 % vs 48 %, p = 0,62), positivité histologique (40 % vs 36 %, p = 0,88) et microbiologique GeneXpert/PCR/culture liquide (32 % vs 24 %, p > 0,05) non significativement différentes, avec 1 pneumothorax dans le groupe 8G contre 0 complication en 11G.\n\n[ABSTRACT EN] Aim To compare the diagnostic yield of 8G and 11G bone biopsy needles in tubercular spondylitis (TBS). Materials and methods 50 patients (mean age-40. years; males-27), suspected of TBS based on clinical and MRI features, underwent transpedicular biopsies under fluoroscopic guidance with 8G or 11G needles after randomization. The samples were evaluated on histology (chronic inflammation, granulomas, caseous necrosis and giant cells), GeneXpert, Polymerase Chain Reaction (PCR) and liquid cultures and categorised into diagnostic, non-specific and inadequate groups. Any procedure related complications (pneumothorax, puncture site infection, hematoma or increased pain) were recorded. Results There were 25 patients in each group. One patient in the 8G group experienced procedure-related pneumothorax. Of the three microbiological tests (GeneXpert, PCR, Liquid Culture), at least one test was found to be positive in 32% (n=8) of 8G group and 24% (n=6) of the 11G group samples (p>0.05). Histopathology was suggestive of tuberculosis for TB in 40% (n=10) of 8G group and 36% (n=9) of 11G group samples (p=0.88). Overall, the samples in 8G and 11G groups were diagnostic in 13 and 12 patients, non- specific in 10 and 9 patients, and inadequate in 2 and 4 patients respectively, with no statistically significant difference between groups (p=0.62). Conclusion The study showed no significant difference in complications and diagnostic yield of biopsies performed using 8G and 11G needles in patients with tuberculous spondylitis."
+  },
+  {
+    "id": "pmid-42530616",
+    "type": "article-journal",
+    "title": "Apparent diffusion coefficient metrics for treatment response assessment in soft tissue sarcoma: Reproducibility and prognostic value of whole-tumor and sub-regional analysis",
+    "container-title": "Skeletal radiology",
+    "volume": "55",
+    "issue": "11",
+    "page": "2845-2855",
+    "DOI": "10.1007/s00256-026-05318-9",
+    "PMID": "42530616",
+    "PMCID": "PMC13574881",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42530616/",
+    "author": [
+      {
+        "family": "van der Loo",
+        "given": "I"
+      },
+      {
+        "family": "Valentini",
+        "given": "V"
+      },
+      {
+        "family": "Chupetlovska",
+        "given": "K"
+      },
+      {
+        "family": "Ursprung",
+        "given": "S"
+      },
+      {
+        "family": "van Houdt",
+        "given": "PJ"
+      },
+      {
+        "family": "Bruining",
+        "given": "A"
+      },
+      {
+        "family": "Beets-Tan",
+        "given": "RGH"
+      },
+      {
+        "family": "Imholz",
+        "given": "ALT"
+      },
+      {
+        "family": "Pizzi",
+        "given": "AD"
+      },
+      {
+        "family": "Trebeschi",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude radio-histopathologique (*Skeletal Radiology*, juil./nov. 2026, IF 1,9, Open-Access) évaluant à 3 lecteurs indépendants la reproductibilité et la valeur prédictive de l'ADC (b = 200 et 800 s/mm²) dans les sarcomes des parties molles (STS) traités avant chirurgie : excellente reproductibilité inter-observateur de l'ADC tumoral moyen (ICC = 0,91–0,95) et distinction hautement significative des bons répondeurs histologiques (ADC médian post-traitement 2,39 vs 1,50 × 10⁻³ mm²/s chez les non-répondeurs, p = 0,02 ; OR = 20,3 à 33,1), avec corrélation inverse directe au pourcentage de cellules tumorales viables.\n\n[ABSTRACT EN] Objective To evaluate the inter-observer reproducibility and predictive value of apparent diffusion coefficient (ADC) metrics derived from diffusion-weighted MRI for assessing histopathologic response to neoadjuvant radiotherapy in soft tissue sarcoma (STS). Materials and methods This retrospective, single-institution cohort study included 23 patients with histologically proven STS treated with neoadjuvant radiotherapy. Patients underwent 1.5 T or 3.0 T MRI, including diffusion-weighted sequences (b = 200, 800 s/mm 2 ). Three independent radiologists measured mean tumor ADC, high-ADC, and low-ADC regions at baseline and post-radiotherapy. Reproducibility was assessed using the Intraclass Correlation Coefficient (ICC). Response prediction and clinicopathological associations were evaluated using Mann-Whitney U tests, logistic regression, and Spearman rank correlations. Results Single-timepoint ADC measurements demonstrated high inter-observer reproducibility, particularly for mean tumor ADC (ICC = 0.91-0.95). Reproducibility for ADC changes over time was lower; agreement for mean tumor ADC (ICC = 0.79) outperformed subregional values (ICC = 0.06-0.63). Post-treatment mean tumor ADC was significantly elevated in responders (median 2.39 × 10⁻ 3 mm 2 /s) versus non-responders (1.50 × 10⁻ 3 mm 2 /s, p = 0.02). High follow-up ADC values (mean and high-ADC subregions) were the strongest predictors of pathological response (OR = 20.3-33.1, all p Conclusion Post-treatment ADC measurements were highly reproducible and best predicted pathological response in our cohort. Longitudinal changes were less robust and require further research into the effect of standardized DWI protocols and more reliable techniques for sub-regional analysis."
+  },
+  {
     "id": "pmid-42527616",
     "type": "article-journal",
     "title": "Robotic-Assisted Computed Tomography-Guided Percutaneous Bone Procedures: A Prospective Multicenter Pilot Study",
@@ -2311,6 +2629,53 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude comparative (*CardioVascular and Interventional Radiology - CVIR*, juil. 2026, IF 2,8, 95 patients) évaluant l'utilité d'un bloc nerveux diagnostique préalable avant cryoneurolyse TDM abdomino-pelvienne : chute hautement significative de l'EVA (de 8,4 à 3,8 à 1 mois, p < 0,001) avec un taux de succès clinique équivalent avec ou sans bloc préalable (81,1 % vs 69,7 % à 1 mois, p = 0,40), suggérant que la cryoneurolyse directe d'emblée est légitime lorsque l'étiologie anatomique (notamment tumorale) est formellement identifiée.\n\n[ABSTRACT EN] Purpose To evaluate the impact of pre-cryoneurolysis blocks by comparing outcomes between patients who underwent cryoneurolysis without a pretreatment block and those who underwent cryoneurolysis following a diagnostic block. Materials and methods A retrospective single-center analysis was performed of patients who underwent CT-guided cryoneurolysis for intractable abdominopelvic pain. Patients were categorized according to whether a pre-cryoneurolysis diagnostic block was performed. Clinical success was defined as an improvement in Visual Analog Scale (VAS) pain score of ≥ 3 points. Pre- and post-procedural pain scores and adverse events (AEs) were assessed. Results For entire cohort, including 52 patients who received a pre-cryoneurolysis block and 43 patients who did not, mean VAS score improved from 8.4 ± 1.6 pre-procedurally to 3.9 ± 2.5 at 1 week (p Conclusion CT-guided cryoneurolysis provides significant pain relief for cancer- and non-cancer-related chronic abdominopelvic pain, with comparable pain improvement regardless of whether a pre-cryoneurolysis diagnostic block is performed. When the pain source is clearly identified, direct cryoneurolysis may be a reasonable option."
+  },
+  {
+    "id": "pmid-42491099",
+    "type": "article-journal",
+    "title": "Efficacy of microwave in situ ablation combined with intralesional curettage for locally aggressive benign bone tumors based on MSTS scores, bone healing time, and recurrence rate",
+    "container-title": "American journal of translational research",
+    "volume": "18",
+    "issue": "6",
+    "page": "5339-5353",
+    "DOI": "10.62347/ysxp9139",
+    "PMID": "42491099",
+    "PMCID": "PMC13376003",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42491099/",
+    "author": [
+      {
+        "family": "Liu",
+        "given": "L"
+      },
+      {
+        "family": "Li",
+        "given": "T"
+      },
+      {
+        "family": "Li",
+        "given": "J"
+      },
+      {
+        "family": "Gan",
+        "given": "Y"
+      },
+      {
+        "family": "Qi",
+        "given": "J"
+      },
+      {
+        "family": "Xue",
+        "given": "J"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Importante étude de cohorte comparative (*American Journal of Translational Research*, juin 2026, IF 1,7, Open-Access, 284 patients) comparant l'ablation thermique par micro-ondes (MWA) in situ associée au curetage (n = 156) au curetage seul (n = 128) dans les TCG, chondroblastomes et KOA : division par plus de deux du taux de récidive locale (7,1 % vs 18,0 %, p = 0,008 ; HR multivarié = 0,25, p < 0,001), consolidation osseuse accélérée (4,3 vs 5,0 mois, p < 0,001) et réduction par trois des retards de consolidation (5,8 % vs 18,8 %, p = 0,001).\n\n[ABSTRACT EN] Objective To compare the clinical efficacy of microwave in situ ablation (MWA) combined with intralesional curettage versus intralesional curettage alone for locally aggressive benign bone tumors, including giant cell tumor of bone, aneurysmal bone cyst, and chondroblastoma, with a focus on local recurrence control, limb function, and bone healing. Methods This retrospective cohort study included 284 patients who were divided into a combined group (MWA plus curettage, n=156) and a control group (curettage alone, n=128). Baseline characteristics, perioperative outcomes, complications, local recurrence, bone healing status, and Musculoskeletal Tumor Society (MSTS) scores were compared. Recurrence-free survival (RFS) was analyzed using Kaplan-Meier method, and independent risk factors were evaluated using Cox regression analysis. Subgroup analyses were performed based on pathologic type and lesion size. Results The combined group had a significantly lower local recurrence rate than the control group (7.1% vs. 18.0%, P=0.008) and an improved RFS HR=0.38, 95% CI: 0.19-0.79). MSTS scores were significantly higher in the combined group at all postoperative time points (all P>0.05). Bone healing time was shorter in the combined group (4.3±1.5 vs. 5.0±1.5 months, P 6 cm, and extensive cortical destruction were independent risk factors. Subgroup analyses showed consistent benefits in larger lesions. Conclusion MWA combined with intralesional curettage significantly reduces local recurrence, improves limb function, and accelerates bone healing compared to curettage alone. It represents a safe and effective limb-salvage strategy for locally aggressive benign bone tumors."
   },
   {
     "id": "pmid-42234093",
@@ -3183,7 +3548,7 @@
   {
     "id": "pmid-42483265",
     "type": "article-journal",
-    "title": "Polidocanol Sclerotherapy Plus Adjuvant Autogenous Bone Marrow Injection for Management of Aneurysmal Bone Cyst: A Prospective Study",
+    "title": "Polidocanol Sclerotherapy Plus Adjuvant Autogenous Bone Marrow Injection for Management of Aneurysmal Bone Cyst: A Prospective Study",
     "container-title": "Indian journal of orthopaedics",
     "volume": "60",
     "issue": "7",

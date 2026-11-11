@@ -1731,6 +1731,120 @@ CURATED_DATA = {
             "Aucune complication sphinctérienne, motrice ou cutanée rapportée."
         ],
         "tags": ["Étude princeps", "Cryoneurolyse", "Nerf pudendal", "Névralgie pudendale", "Prologo", "Skeletal Radiol 2015"]
+    },
+    "42995340": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Déterminants du nombre d'acquisitions fluoroscopiques et optimisation standardisée du workflow lors du vissage pelvien percutané assisté par robot (601 patients)",
+        "modality": "Fluoroscopie 2D/3D & Assistance Robotique / Navigation",
+        "intervention_type": "Vissage Percutané des Couloirs Osseux Pelviens (Ilio-Sacré S1/S2 & Colonnes)",
+        "cochin_link": "Directement applicable aux « Vissages percutanés du bassin (couloirs ilio-sacrés S1/S2 et colonnes acétabulaires) sous scopie Allura / guidage 3D » réalisés à l'Hôpital Cochin.",
+        "summary_fr_short": "Vaste cohorte rétrospective monocentrique (*Journal of Robotic Surgery*, nov. 2026, IF 2,2, 601 patients : 312 avant et 289 après optimisation) identifiant les 4 facteurs indépendants augmentant le recours à la scopie lors du vissage pelvien percutané (surface osseuse oblique au point d'entrée cortical IRR = 1,52, courbe d'apprentissage des 10 premiers cas IRR = 1,48, vissage du couloir S2 IRR = 1,26 et obésité IMC ≥ 30 IRR = 1,19) et démontrant qu'un protocole standardisé réduit de 27 % le nombre de clichés et le temps de scopie (16,2 s vs 21,8 s, p < 0,001) avec 98,7 % de précision intra-osseuse.",
+        "summary_fr_detailed": "Même avec une planification 3D ou une assistance robotique, l'exposition radique peropératoire varie fortement lors du vissage percutané des couloirs osseux du bassin. Sur 601 patients consécutifs, la régression binomiale négative multivariée (Partie A) démontre que le dérapage de la broche sur une corticale oblique au point d'entrée (IRR = 1,52, p < 0,001), le vissage du couloir S2 plus étroit (IRR = 1,26, p = 0,001), l'obésité (IRR = 1,19, p = 0,026) et l'expérience initiale de l'opérateur (IRR = 1,48, p < 0,001) sont les principaux déterminants de la surconsommation fluoroscopique. En introduisant un protocole d'optimisation ciblé (ancrage franc anti-dérapage sur corticale oblique, standardisation des incidences inlet/outlet/profil avant insertion), l'équipe réduit de 27 % la fréquence fluoroscopique (9,8 vs 13,5 tirs, p < 0,001) et de 31,5 % dans le sous-groupe à entrée corticale oblique, tout en maintenant un taux d'excellence de trajectoire de 98,7 %.",
+        "protocol_fr": "Repérage pré-procédural de l'obliquité de la table externe iliaque au point d'entrée (couloirs S1, S2, rétrograde/antérograde de colonne antérieure) • Utilisation d'une canule biseautée crantée ou d'un pré-forage cortical perpendiculaire pour prévenir le glissement tangentiel de la broche-guide (bénéfice maximal : -31,5 % de scopie) • Acquisition séquentielle standardisée des vues fluoroscopiques de contrôle (inlet, outlet, profil sacré strict / obturateur-iliaque) • Vérification particulière de la sécurité foraminale sur le corridor S2.",
+        "key_points_fr": [
+            "Plus grande série analysant quantitativement les facteurs de difficulté technique du vissage pelvien percutané (601 patients, 98,7 % de précision).",
+            "L'obliquité corticale au point d'entrée (IRR 1,52) et le corridor S2 (IRR 1,26) sont les deux défis anatomiques majeurs majorant le temps de scopie.",
+            "Un protocole anti-dérapage au point d'entrée cortical réduit de 31,5 % le nombre de clichés sur les surfaces obliques et abaisse le temps de scopie moyen à 16,2 secondes.",
+            "Enseignements techniques directement transposables au vissage pelvien percutané sous scopie/scanner pratiqué à Cochin."
+        ],
+        "tags": ["Vissage pelvien percutané", "Couloir S1 S2", "Radioprotection", "Fluoroscopie", "Assistance robotique", "J Robot Surg 2026"]
+    },
+    "42545485": {
+        "category_id": "msk_biopsy",
+        "title_fr": "Rôle et rentabilité d'une seconde biopsie disco-vertébrale guidée par scanner après un premier prélèvement négatif dans les suspicions de spondylodiscite infectieuse",
+        "modality": "Scanner Interventionnel (TDM)",
+        "intervention_type": "Biopsie Disco-Vertébrale Percutanée & Re-Biopsie sous Scanner",
+        "cochin_link": "Répond directement aux demandes de « Seconde biopsie disco-vertébrale sous scanner après une première biopsie négative » fréquemment discutées avec l'infectiologie et la rhumatologie à Cochin.",
+        "summary_fr_short": "Étude observationnelle en centre tertiaire (*Skeletal Radiology*, août/nov. 2026, IF 1,9, 93 biopsies chez 79 patients) évaluant la rentabilité microbiologique d'une seconde biopsie disco-vertébrale sous scanner après un premier prélèvement négatif : rendement initial de 53,2 % (42/79) et positivité de la seconde biopsie dans 35,7 % des cas (5/14), portant le taux d'identification global à 59,5 %, avec la CRP élevée comme principal facteur prédictif (médiane 40 vs 20 mg/L, p = 0,008 ; rendement de 80 % dans les spondylodiscites post-opératoires).",
+        "summary_fr_detailed": "Lorsqu'une première biopsie disco-vertébrale sous scanner revient stérile chez un patient présentant une forte suspicion clinique et IRM de spondylodiscite infectieuse, l'utilité d'un second prélèvement percutané est souvent débattue. Sur 79 patients consécutifs (93 biopsies après exclusion des tumeurs et arthropathies microcristallines), la première biopsie TDM identifie le germe dans 53,2 % des cas (IC 95 % : 42,3–63,8 %). Parmi les 14 patients ayant bénéficié d'une seconde biopsie TDM, 5 (35,7 %, p = 0,36 par rapport à la 1re biopsie) ont permis d'isoler l'agent pathogène, élevant le rendement cumulé à 59,5 %. Un taux élevé de CRP au moment du geste est indépendamment associé à la positivité microbiologique (OR ajusté = 1,57 par unité log-CRP, p = 0,043), et le rendement atteint 80 % (4/5) dans les infections rachidiennes post-chirurgicales.",
+        "protocol_fr": "Vérification préalable des hémocultures (concordantes dans 85,7 % des cas lorsqu'elles sont positives) et dosage de la CRP • En cas de 1re biopsie négative avec suspicion persistante ou échec probabiliste : re-biopsie sous scanner en modifiant la cible (ciblage controlatéral ou d'une collection épidurale/paravertébrale/psoas nouvellement organisée, carottage sous-chondral des deux plateaux + aspiration discale) • Envoi couplé en bactériologie prolongée, mycobactériologie, anatomopathologie et PCR ARN 16S.",
+        "key_points_fr": [
+            "Une seconde biopsie disco-vertébrale sous scanner est positive dans plus d'un tiers des cas (35,7 %) après un premier prélèvement négatif, faisant passer le diagnostic microbiologique global de 53,2 % à 59,5 %.",
+            "Un syndrome inflammatoire biologique marqué (CRP médiane ≥ 40 mg/L vs 20 mg/L, p = 0,008) et un contexte post-chirurgical (80 % de positivité) prédisent fortement le succès du prélèvement.",
+            "Justifie pleinement la réalisation d'une 2e biopsie sous scanner à Cochin en cas de négativité initiale lorsque les hémocultures sont stériles et la suspicion clinique persistante."
+        ],
+        "tags": ["Spondylodiscite", "Seconde biopsie", "Biopsie disco-vertébrale", "Scanner interventionnel", "CRP", "Skeletal Radiol 2026"]
+    },
+    "42530616": {
+        "category_id": "msk_imaging",
+        "title_fr": "Métriques du coefficient de diffusion apparent (ADC) en IRM pour évaluer la réponse histopathologique des sarcomes des parties molles : reproductibilité et valeur pronostique",
+        "modality": "IRM Multiparamétrique (1,5T / 3T) & Diffusion (DWI / ADC)",
+        "intervention_type": "Bilan IRM de Réponse Thérapeutique & Planification de Biopsie Ciblée des Sarcomes",
+        "cochin_link": "Outil clé pour l'interprétation des « IRM de suivi de sarcomes des parties molles sous traitement néoadjuvant et le ciblage des zones de bas ADC (haute cellularité résiduelle) lors des biopsies sous scanner/écho » à Cochin.",
+        "summary_fr_short": "Étude radio-histopathologique (*Skeletal Radiology*, juil./nov. 2026, IF 1,9, Open-Access) évaluant à 3 lecteurs indépendants la reproductibilité et la valeur prédictive de l'ADC (b = 200 et 800 s/mm²) dans les sarcomes des parties molles (STS) traités avant chirurgie : excellente reproductibilité inter-observateur de l'ADC tumoral moyen (ICC = 0,91–0,95) et distinction hautement significative des bons répondeurs histologiques (ADC médian post-traitement 2,39 vs 1,50 × 10⁻³ mm²/s chez les non-répondeurs, p = 0,02 ; OR = 20,3 à 33,1), avec corrélation inverse directe au pourcentage de cellules tumorales viables.",
+        "summary_fr_detailed": "Dans les sarcomes des parties molles (STS), les critères dimensionnels RECIST sous-estiment fréquemment la réponse histologique en raison de la nécrose hémorragique, de la fibrose ou de la dégénérescence myxoïde induites par la radiothérapie ou les traitements focaux. Trois radiologues ostéo-articulaires indépendants ont mesuré l'ADC tumoral global et sous-régional (zones de haut ADC nécrotiques et zones de bas ADC hypercellulaires) sur l'IRM de diffusion (b = 200, 800 s/mm²) avant et après traitement néoadjuvant, avec corrélation à la pièce d'exérèse chirurgicale. La mesure de l'ADC moyen sur un temps donné présente une reproductibilité quasi parfaite (ICC = 0,91–0,95). Après traitement, un ADC moyen élevé (médiane 2,39 × 10⁻³ mm²/s contre 1,50 × 10⁻³ mm²/s, p = 0,02) est le meilleur facteur prédictif de réponse histopathologique majeure (OR = 20,3 à 33,1, p < 0,05) et corrèle inversement au contingent cellulaire viable résiduel.",
+        "protocol_fr": "IRM des parties molles 1,5T ou 3T incluant une séquence de diffusion DWI (valeurs b = 200 et 800 s/mm² permettant d'éliminer l'effet de microperfusion capillaire à bas b) • Cartographie ADC quantitative sur le volume tumoral global (plus reproductible que le delta longitudinal sous-régional, ICC 0,91–0,95) • Repérage des nodules résiduels de bas ADC (< 1,5 × 10⁻³ mm²/s) correspondant aux foyers de cellules sarcomateuses viables pour guider une biopsie percutanée ou un complément d'ablation.",
+        "key_points_fr": [
+            "Excellente reproductibilité inter-observateur de l'ADC tumoral moyen (ICC = 0,91–0,95) avec le couple de valeurs b = 200 et 800 s/mm².",
+            "Seuil discriminant net après traitement : ADC médian de 2,39 × 10⁻³ mm²/s chez les répondeurs histologiques contre 1,50 × 10⁻³ mm²/s chez les non-répondeurs (OR > 20).",
+            "Corrélation inverse directe entre la valeur d'ADC et le pourcentage de cellules tumorales viables sur la pièce opératoire.",
+            "Indispensable en RCP Sarcomes à Cochin tant pour évaluer la réponse néoadjuvante que pour cibler les zones viables (bas ADC) lors des biopsies."
+        ],
+        "tags": ["Sarcome des parties molles", "IRM de diffusion", "ADC", "Réponse thérapeutique", "Reproductibilité", "Skeletal Radiol 2026"]
+    },
+    "42570570": {
+        "category_id": "msk_biopsy",
+        "title_fr": "Essai randomisé contrôlé comparant le rendement diagnostique et la sécurité des trocarts de biopsie vertébrale transpédiculaire 8G versus 11G dans les spondylodiscites tuberculeuses (50 patients)",
+        "modality": "Fluoroscopie / Scanner Interventionnel",
+        "intervention_type": "Biopsie Osseuse Vertébrale Transpédiculaire (Choix du Calibre 8G vs 11G)",
+        "cochin_link": "Guide directement le choix du matériel (« Trocart osseux 11G vs 8G en biopsie vertébrale transpédiculaire ») au scanner interventionnel de Cochin.",
+        "summary_fr_short": "Essai prospectif randomisé contrôlé (*Clinical Radiology*, juil./oct. 2026, IF 2,1, 50 patients randomisés 1:1) comparant les trocarts de biopsie vertébrale transpédiculaire 8G (n = 25) et 11G (n = 25) dans les suspicions de spondylodiscite tuberculeuse : rendement diagnostique global équivalent (52 % vs 48 %, p = 0,62), positivité histologique (40 % vs 36 %, p = 0,88) et microbiologique GeneXpert/PCR/culture liquide (32 % vs 24 %, p > 0,05) non significativement différentes, avec 1 pneumothorax dans le groupe 8G contre 0 complication en 11G.",
+        "summary_fr_detailed": "Le choix du calibre du trocart lors d'une biopsie vertébrale transpédiculaire doit concilier la taille de la carotte ostéo-médullaire et le risque traumatique pédiculaire ou pleural. Cet essai randomisé compare deux calibres usuels (8 Gauge de gros calibre versus 11 Gauge intermédiaire) chez 50 patients consécutifs suspects de mal de Pott rachidien, évalués conjointement par histopathologie (granulomes épithélioïdes et giganto-cellulaires avec nécrose caséeuse), test moléculaire rapide GeneXpert MTB/RIF, PCR et culture en milieu liquide. Le taux de prélèvements contributifs ne diffère pas significativement entre 8G et 11G (13/25 vs 12/25 diagnostics formels, p = 0,62 ; échantillons inadéquats : 2/25 vs 4/25), tandis que le seul événement indésirable (pneumothorax) est survenu dans le bras 8G.",
+        "protocol_fr": "Abord transpédiculaire sous guidage imagerie • Le trocart 11G offre le meilleur compromis sécurité/rendement (particulièrement à l'étage thoracique ou sur des pédicules étroits), permettant des prélèvements multiples par déflexion angulaire sans sur-risque cortical ou pleural • Association systématique sur les carottes osseuses de l'histopathologie, du test moléculaire rapide (GeneXpert / PCR) et des cultures spécifiques.",
+        "key_points_fr": [
+            "Premier essai randomisé contrôlé face-à-face démontrant qu'un trocart 11G fait aussi bien qu'un trocart 8G pour le diagnostic histologique et moléculaire des spondylodiscites granulomateuses (p = 0,62).",
+            "L'association histologie + biologie moléculaire (GeneXpert/PCR) est indispensable car la microbiologie seule n'est positive que dans 24 à 32 % des formes paucibacillaires.",
+            "Conforte l'utilisation préférentielle des systèmes coaxiaux 11G–13G en biopsie rachidienne transpédiculaire sous scanner à Cochin, alliant rendement élevé et sécurité maximale."
+        ],
+        "tags": ["Biopsie vertébrale", "Abord transpédiculaire", "Calibre 8G vs 11G", "Essai randomisé", "Spondylodiscite tuberculeuse", "Clin Radiol 2026"]
+    },
+    "42563407": {
+        "category_id": "desmoid_soft_tissue",
+        "title_fr": "Traitement ablatif non invasif des tumeurs desmoïdes de la paroi abdominale par ultrasons focalisés de haute intensité (HIFU) : résultats à long terme sur 55 patients",
+        "modality": "Ultrasons Focalisés de Haute Intensité (HIFU) / Imagerie de Suivi IRM",
+        "intervention_type": "Ablation Thermique Ciblée des Tumeurs Desmoïdes de la Paroi Abdominale",
+        "cochin_link": "Complète la discussion de RCP Sarcomes / Tumeurs Desmoïdes à Cochin (« Cryoablation percutanée vs autres modalités d'ablation thermique des tumeurs desmoïdes pariétales abdominales »).",
+        "summary_fr_short": "Cohorte de 55 tumeurs desmoïdes de la paroi abdominale (46 primitives, 9 récidivantes après chirurgie) suivies pendant une médiane de 58 mois (*International Journal of Hyperthermia*, août/déc. 2026, IF 3,1) : taux de contrôle local (DCR) de 98 % (54/55) et taux de réponse objective (ORR) de 82 % (87 % chez les patients naïfs de chirurgie contre 56 % sur les récidives post-chirurgicales), confirmant la haute sensibilité des fibromatoses desmoïdes pariétales aux ablations thermiques guidées par l'image.",
+        "summary_fr_detailed": "Les tumeurs desmoïdes de la paroi abdominale surviennent fréquemment chez la femme jeune (notamment en post-partum ou sur cicatrice de césarienne) et progressent régulièrement sous surveillance active, tandis que l'exérèse chirurgicale pariétale expose à des récidives locales fréquentes et à des éventrations prothétiques. Sur 55 patientes suivies près de 5 ans (médiane 58 mois), l'ablation thermique par HIFU obtient une nécrose volumique médiane de 61 % dès 1 mois, un taux de réponse objective (ORR) de 82 % (45/55) et un contrôle de la maladie (DCR) de 98 % (54/55). Point stratégique majeur : le taux de réponse objective est nettement supérieur lorsque l'ablation thermique est réalisée en première ligne sur une tumeur naïve (87 %) plutôt qu'en rattrapage sur une récidive post-chirurgicale remaniée par la fibrose cicatricielle (56 %).",
+        "protocol_fr": "IRM pariétale abdominale pré-thérapeutique avec séquences T2 (évaluation de l'hypercellularité en hypersignal T2) et T1 gadolinium • Ablation thermique guidée par l'image (à Cochin : cryoablation percutanée sous scanner/échographie avec visualisation directe de l'iceball et hydrodissection péritonéale/cutanée ; ou HIFU selon plateau) • Évaluation IRM à 1, 3, 6 et 12 mois selon les critères mRECIST (volume dévascularisé non rehaussé).",
+        "key_points_fr": [
+            "Contrôle tumoral durable de 98 % à près de 5 ans de suivi médian (58 mois) sur 55 tumeurs desmoïdes de la paroi abdominale.",
+            "Efficacité supérieure en première intention chez les patients naïfs de chirurgie (ORR 87 %) par rapport aux récidives post-opératoires (ORR 56 %), plaidant pour une ablation guidée par l'image précoce dès progression sous surveillance active.",
+            "Renforce les arguments en RCP Sarcomes pour proposer une ablation focale (cryoablation percutanée à Cochin) plutôt qu'une chirurgie pariétale délabrante."
+        ],
+        "tags": ["Tumeur desmoïde", "Paroi abdominale", "Ablation thermique", "HIFU", "Contrôle local à long terme", "Int J Hyperthermia 2026"]
+    },
+    "42491099": {
+        "category_id": "ablation_benign",
+        "title_fr": "Efficacité de l'ablation par micro-ondes (MWA) in situ combinée au curetage intralésionnel pour les tumeurs osseuses bénignes localement agressives (TCG, KOA, chondroblastome) : étude comparative sur 284 patients",
+        "modality": "Ablation par Micro-Ondes (MWA) / Guidage Imagerie & Chirurgie Conservatrice",
+        "intervention_type": "Thermoablation par Micro-Ondes (MWA) des Tumeurs à Cellules Géantes, Chondroblastomes & KOA",
+        "cochin_link": "En lien direct avec la prise en charge des « Tumeurs osseuses bénignes localement agressives (chondroblastome, tumeur à cellules géantes TCG, KOA) par thermoablation » à l'Hôpital Cochin.",
+        "summary_fr_short": "Importante étude de cohorte comparative (*American Journal of Translational Research*, juin 2026, IF 1,7, Open-Access, 284 patients) comparant l'ablation thermique par micro-ondes (MWA) in situ associée au curetage (n = 156) au curetage seul (n = 128) dans les TCG, chondroblastomes et KOA : division par plus de deux du taux de récidive locale (7,1 % vs 18,0 %, p = 0,008 ; HR multivarié = 0,25, p < 0,001), consolidation osseuse accélérée (4,3 vs 5,0 mois, p < 0,001) et réduction par trois des retards de consolidation (5,8 % vs 18,8 %, p = 0,001).",
+        "summary_fr_detailed": "Les tumeurs osseuses bénignes localement agressives (tumeurs à cellules géantes de l'os [TCG], chondroblastomes épiphysaires et kystes osseux anévrismaux [KOA]) présentent un taux élevé de récidive locale après simple curetage mécanique (18 % dans cette série). Sur 284 patients, l'inactivation thermique préalable in situ par antennes micro-ondes (MWA) réduit drastiquement le taux de récidive locale à 7,1 % (contre 18,0 %, p = 0,008 ; survie sans récidive HR = 0,38). En analyse de Cox multivariée, la thermoablation par micro-ondes est un facteur protecteur indépendant majeur contre la récidive (HR = 0,25, p < 0,001), tandis qu'un diamètre > 6 cm, une destruction corticale étendue et un envahissement des parties molles sont les principaux facteurs de risque. Le bénéfice de la thermoablation est particulièrement marqué dans les lésions volumineuses.",
+        "protocol_fr": "Insertion d'antennes de micro-ondes (ou sondes de RF/cryoablation en percutané exclusif à Cochin pour les chondroblastomes et récidives de TCG accessibles) au sein de la cavité tumorale • Inactivation thermique contrôlée des berges spongieuses contenant les nids microscopiques de cellules géantes/chondroblastiques tout en protégeant le cartilage sous-chondral par refroidissement continu au sérum physiologique glacé • Comblement cavitaire reconstructeur.",
+        "key_points_fr": [
+            "Série majeure (284 patients) démontrant que l'adjonction d'une thermoablation (MWA) divise par 4 le risque indépendant de récidive locale (HR = 0,25 ; taux de récidive abaissé de 18,0 % à 7,1 %).",
+            "Identifie les 3 facteurs pronostiques de récidive à rechercher sur l'IRM/TDM pré-thérapeutique : diamètre > 6 cm, rupture corticale étendue et extension aux parties molles.",
+            "Accélère significativement la consolidation osseuse (4,3 mois vs 5,0 mois) avec un excellent score fonctionnel MSTS."
+        ],
+        "tags": ["Ablation micro-ondes", "MWA", "Tumeur à cellules géantes", "Chondroblastome", "Kyste osseux anévrismal", "Récidive locale", "2026"]
+    },
+    "42698683": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Radiofréquence refroidie (Cooled RFA) des nerfs géniculés pour les douleurs chroniques post-chirurgicales persistantes après prothèse totale de genou (PTG) : essai clinique pilote de phase I/IIa",
+        "modality": "Échographie / Fluoroscopie Interventionnelle",
+        "intervention_type": "Radiofréquence Refroidie (Coolief®) des Nerfs Géniculés sur Genou Prothésé (PTG)",
+        "cochin_link": "Correspond directement aux indications de « Test anesthésique sous écho + Radiofréquence / Cryoneurolyse des nerfs géniculés sur genou prothésé douloureux chronique » de l'Agenda Cochin.",
+        "summary_fr_short": "Essai clinique prospectif de phase I/IIa enregistré (*Asia-Pacific Journal of Sports Medicine, Arthroscopy, Rehabilitation and Technology*, août/oct. 2026, IF 1,7, Open-Access) évaluant la radiofréquence refroidie (Cooled RFA, système Coolief®) des nerfs géniculés chez des patients souffrant de douleur post-chirurgicale chronique réfractaire (NRS ≥ 5 depuis ≥ 6 mois) après prothèse totale de genou (PTG) et répondeurs à un bloc test géniculé (≥ 50 %) : réduction constante de la douleur et amélioration cliniquement pertinente à 6 mois avec 0 % d'événement indésirable ou d'infection péri-prothétique.",
+        "summary_fr_detailed": "Jusqu'à 15 à 20 % des patients opérés d'une prothèse totale de genou (PTG) développent des douleurs chroniques post-chirurgicales (CPSP) sans descellement mécanique ni infection, réfractaires aux antalgiques. Cet essai clinique prospectif de phase I/IIa (jRCTs052230123) évalue de manière rigoureuse la sécurité et l'efficacité à 6 mois de la radiofréquence refroidie (CRFA, Coolief®) ciblant les nerfs géniculés chez des patients présentant un NRS ≥ 5 persistant plus de 6 mois après PTG et ayant répondu positivement (baisse ≥ 50 %) à un bloc diagnostique préalable des nerfs géniculés. L'étude confirme une tolérance parfaite (aucun événement indésirable, aucune complication cutanée ou infectieuse au voisinage des implants prothétiques) et une réduction cliniquement significative de la douleur avec tendance à l'amélioration du Knee Society Score (KSS 2011) à 6 mois.",
+        "protocol_fr": "Élimination préalable d'un descellement septique ou mécanique de la PTG • Bloc anesthésique diagnostique sous échographie des nerfs géniculés supéro-médial (SMGN), supéro-latéral (SLGN) et inféro-médial (IMGN) exigeant ≥ 50 % de soulagement • Asepsie chirurgicale stricte (présence de matériel prothétique) • Radiofréquence refroidie (sondes Coolief® 17G à circulation d'eau interne, température de consigne 60°C générant une température tissulaire de ~80°C et une lésion sphérique large couvrant la variabilité anatomique post-chirurgicale des branches géniculées).",
+        "key_points_fr": [
+            "Valide prospectivement la sécurité absolue (0 % de complication ou d'infection péri-prothétique) de la radiofréquence refroidie des nerfs géniculés sur genou porteur de PTG.",
+            "Souligne l'importance d'un bloc diagnostique positif (≥ 50 % de réduction du NRS) pour sélectionner les douleurs neuropathiques/nociceptives capsulaires post-PTG.",
+            "La géométrie sphérique élargie de la radiofréquence refroidie (ou de l'iceball en cryoneurolyse) est particulièrement adaptée aux remaniements fibreux péri-prothétiques après PTG."
+        ],
+        "tags": ["Nerfs géniculés", "Radiofréquence refroidie", "Prothèse totale de genou", "Douleur post-chirurgicale", "Coolief", "2026"]
     }
 }
 
@@ -1907,6 +2021,9 @@ JOURNAL_IMPACT_FACTORS = {
     "frontiers in surgery": (1.8, "Front Surg"),
     "cancers": (4.5, "Cancers"),
     "journal of personalized medicine": (3.0, "J Pers Med"),
+    "clinical radiology": (2.1, "Clin Radiol"),
+    "american journal of translational research": (1.7, "Am J Transl Res"),
+    "asia-pacific journal of sports medicine": (1.7, "Asia Pac J Sports Med"),
 }
 
 
@@ -2019,70 +2136,80 @@ def main():
         except Exception as e:
             print(f"[Metadata] Europe PMC unavailable ({e}), falling back to PubMed MEDLINE for missing PMIDs")
 
-    # Fetch any still-missing PMIDs from PubMed MEDLINE format
+    # Fetch any still-missing PMIDs from NCBI E-utilities efetch XML (or PubMed MEDLINE fallback)
     missing_pmids = [p for p in pmids if p not in by_pmid or not by_pmid[p].get("title")]
     if missing_pmids:
         try:
-            import html as htmllib
-            pm_url = "https://pubmed.ncbi.nlm.nih.gov/?term=" + "+OR+".join(f"{p}[uid]" for p in missing_pmids) + "&format=pubmed&size=50"
-            pm_req = urllib.request.Request(pm_url, headers={"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"})
-            with urllib.request.urlopen(pm_req, timeout=20) as pm_resp:
-                pm_html = pm_resp.read().decode("utf-8", errors="ignore")
-            chunks = re.findall(r'<pre class="search-results-chunk"[^>]*>(.*?)</pre>', pm_html, re.S)
-            raw_medline = "\n".join(chunks) if chunks else pm_html
-            chunk_txt = htmllib.unescape(raw_medline).replace("\r\n", "\n")
+            import xml.etree.ElementTree as ET
+            ef_url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?" + urllib.parse.urlencode({
+                "db": "pubmed",
+                "id": ",".join(missing_pmids),
+                "retmode": "xml",
+            })
+            ef_req = urllib.request.Request(ef_url, headers={"User-Agent": "BiblioOsteo-Cochin/1.0"})
+            with urllib.request.urlopen(ef_req, timeout=20) as ef_resp:
+                ef_root = ET.fromstring(ef_resp.read())
             month_map = {"Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6, "Jul": 7, "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12}
-            for rec in re.split(r"\n(?=PMID-\s+)", "\n" + chunk_txt.strip()):
-                fields = {}
-                cur = None
-                for l in rec.split("\n"):
-                    if len(l) >= 6 and l[4:6] == "- ":
-                        cur = l[:4].strip()
-                        fields.setdefault(cur, []).append(l[6:].strip())
-                    elif cur and l.startswith("      "):
-                        fields[cur][-1] += " " + l.strip()
-                p_id = fields.get("PMID", [""])[0]
+            for pa in ef_root.findall(".//PubmedArticle"):
+                p_id = (pa.findtext(".//MedlineCitation/PMID") or "").strip()
                 if not p_id:
                     continue
-                dp = fields.get("DP", ["2026"])[0]
-                dep = fields.get("DEP", [""])[0]
-                fpd = ""
-                if len(dep) >= 6 and dep[:6].isdigit():
-                    fpd = f"{dep[:4]}-{dep[4:6]}-{dep[6:8] if len(dep)>=8 else '01'}"
-                else:
-                    m_dp = re.match(r"(\d{4})\s+([A-Za-z]{3})", dp)
-                    if m_dp:
-                        fpd = f"{m_dp.group(1)}-{month_map.get(m_dp.group(2)[:3].title(), 1):02d}-01"
-                aids = fields.get("AID", []) + fields.get("LID", [])
+                ti_el = pa.find(".//ArticleTitle")
+                ti_txt = "".join(ti_el.itertext()).strip() if ti_el is not None else ""
+                j_title = pa.findtext(".//Journal/Title") or pa.findtext(".//Journal/ISOAbbreviation") or ""
+                vol = pa.findtext(".//JournalIssue/Volume") or ""
+                iss = pa.findtext(".//JournalIssue/Issue") or ""
+                pg = pa.findtext(".//Pagination/MedlinePgn") or ""
+                yr_str = pa.findtext(".//JournalIssue/PubDate/Year") or (pa.findtext(".//JournalIssue/PubDate/MedlineDate") or "2026")[:4]
+                mo_str = pa.findtext(".//JournalIssue/PubDate/Month") or ""
+                ep_yr = pa.findtext(".//Article/ArticleDate/Year") or ""
+                ep_mo = pa.findtext(".//Article/ArticleDate/Month") or ""
+                m_int = int(ep_mo) if ep_mo.isdigit() else (int(mo_str) if mo_str.isdigit() else month_map.get(mo_str[:3].title(), 1))
+                y_int = int(ep_yr) if ep_yr.isdigit() else (int(yr_str) if yr_str[:4].isdigit() else 2026)
+                fpd = f"{y_int}-{m_int:02d}-01"
+                ab_elems = pa.findall(".//Abstract/AbstractText")
+                ab_txt = " ".join("".join(e.itertext()).strip() for e in ab_elems if "".join(e.itertext()).strip()) or "Abstract non disponible."
                 doi_val = ""
-                for a_id in aids:
-                    if "[doi]" in a_id:
-                        doi_val = a_id.replace("[doi]", "").strip()
-                        break
+                pmc_val = ""
+                for aid in pa.findall(".//PubmedData/ArticleIdList/ArticleId"):
+                    if aid.attrib.get("IdType") == "doi" and aid.text:
+                        doi_val = aid.text.strip()
+                    elif aid.attrib.get("IdType") == "pmc" and aid.text:
+                        pmc_val = aid.text.strip()
+                authors = []
+                for au in pa.findall(".//AuthorList/Author"):
+                    ln = au.findtext("LastName") or au.findtext("CollectiveName") or ""
+                    ini = au.findtext("Initials") or ""
+                    full = f"{ln} {ini}".strip()
+                    if full:
+                        authors.append({"fullName": full})
                 by_pmid[p_id] = {
                     "pmid": p_id,
-                    "title": fields.get("TI", [""])[0],
-                    "pubYear": dp[:4] if dp[:4].isdigit() else "2026",
+                    "title": ti_txt,
+                    "pubYear": str(y_int),
                     "firstPublicationDate": fpd,
                     "journalInfo": {
-                        "volume": fields.get("VI", [""])[0],
-                        "issue": fields.get("IP", [""])[0],
-                        "yearOfPublication": int(dp[:4]) if dp[:4].isdigit() else 2026,
-                        "journal": {"title": fields.get("JT", fields.get("TA", [""]))[0]},
+                        "volume": vol,
+                        "issue": iss,
+                        "yearOfPublication": y_int,
+                        "monthOfPublication": m_int,
+                        "journal": {"title": j_title},
                     },
-                    "pageInfo": fields.get("PG", [""])[0],
+                    "pageInfo": pg,
                     "doi": doi_val,
-                    "pmcid": fields.get("PMC", [""])[0],
-                    "abstractText": " ".join(fields.get("AB", ["Abstract non disponible."])),
-                    "authorList": {"author": [{"fullName": au} for au in fields.get("AU", [])]},
+                    "pmcid": pmc_val,
+                    "abstractText": ab_txt,
+                    "authorList": {"author": authors},
                 }
         except Exception as e:
-            print(f"[Metadata] PubMed MEDLINE fallback error: {e}")
+            print(f"[Metadata] NCBI efetch XML fallback error: {e}")
     articles = []
 
+    import html as htmllib
     for pmid, cdata in CURATED_DATA.items():
         r = by_pmid.get(pmid, {})
-        title = r.get("title", "").rstrip(".")
+        title_raw = htmllib.unescape(r.get("title", ""))
+        title = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", title_raw)).strip().rstrip(".")
         journal_info = r.get("journalInfo", {})
         journal = journal_info.get("journal", {}).get("title", "")
         raw_year = str(r.get("pubYear", "2024"))
@@ -2094,7 +2221,7 @@ def main():
         pages = str(r.get("pageInfo", ""))
         doi = str(r.get("doi", ""))
         pmcid = str(r.get("pmcid", ""))
-        abstract_raw = r.get("abstractText", "Abstract non disponible.")
+        abstract_raw = htmllib.unescape(r.get("abstractText", "Abstract non disponible."))
         abstract_clean = re.sub(r"<[^>]+>", " ", abstract_raw)
         abstract_clean = re.sub(r"\s+", " ", abstract_clean).strip()
 
