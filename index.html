@@ -61,10 +61,12 @@
     }
 
     html, body {
-      overflow-y: auto;
       overflow-x: hidden;
-      overscroll-behavior-y: contain;
       touch-action: manipulation;
+    }
+    /* Touch screens only: on Mac (Safari), contain on html blocks trackpad scrolling */
+    @media (hover: none) and (pointer: coarse) {
+      html, body { overscroll-behavior-y: contain; }
     }
     body {
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
