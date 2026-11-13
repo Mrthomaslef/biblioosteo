@@ -1990,6 +1990,134 @@ CURATED_DATA = {
             "Survie sans retraitement de 99,8 % à 12 mois et 96,9 % à 20 mois, avec 0 % de complication majeure."
         ],
         "tags": ["Nerfs géniculés", "Radiofréquence refroidie", "Échographie interventionnelle", "Gonarthrose", "Technique MDNT", "J Pain Res 2026"]
+    },
+    "42128267": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "Radiologie interventionnelle des métastases osseuses : concepts actuels, stabilisation hybride (ostéosynthèse + cimentoplastie), cryoablation et effet abscopal (Joint Bone Spine 2026)",
+        "modality": "Scanner TDM / Fluoroscopie / Guidage Multimodal",
+        "intervention_type": "Ablation Thermique (Cryoablation / RF / MWA) & Stabilisation Hybride (Vissage + Cimentoplastie)",
+        "cochin_link": "Synthèse française de référence (*Revue du Rhumatisme / Joint Bone Spine*) correspondant directement au parcours multidisciplinaire « Thermoablation + Vissage percutané / Ostéosynthèse cimentée des métastases osseuses » de l'Hôpital Cochin.",
+        "summary_fr_short": "Mise au point de référence (*Joint Bone Spine*, mai 2026, IF 3,8) positionnant la radiologie interventionnelle (RI) comme le « 4e pilier » de l'oncologie osseuse aux côtés de la radiothérapie, de la chirurgie et des traitements systémiques : intégration proactive des biopsies guidées pour profilage moléculaire, de la stabilisation biomécanique hybride (vissage percutané + cimentoplastie) et de l'ablation thermique curative/palliative (cryoablation, RF, micro-ondes), avec analyse de l'effet immunomodulateur « vaccin in situ » et abscopal de la cryoablation combinée aux inhibiteurs de points de contrôle immunitaire (ICI).",
+        "summary_fr_detailed": "La prise en charge des métastases osseuses a évolué d'une approche purement palliative vers une stratégie proactive intégrée à l'oncologie de précision. Cette revue détaille l'arsenal interventionnel moderne : (1) prélèvements biopsiques scanoguidés à haut rendement pour séquençage génomique (NGS) sur os décalcifié doux, (2) consolidation mécanique immédiate par ostéosynthèse percutanée cimentée (vissage + cimentoplastie) prévenant les fractures pathologiques en zone portante (cotyle, col fémoral, sacrum, rachis selon les scores SINS et Mirels), (3) destruction tumorale locale à visée curative chez le patient oligométastatique par cryoablation ou thermoablation, et (4) potentiel immuno-oncologique de la cryoablation qui préserve la structure native des antigènes tumoraux et libère des signaux de danger (DAMPs), favorisant une synergie systémique avec l'immunothérapie.",
+        "protocol_fr": "Évaluation multidisciplinaire (RCP Métastases Osseuses : score SINS rachidien, score de Mirels appendiculaire, statut oligométastatique) • Biopsie coaxiale première si besoin de re-profilage moléculaire • Ablation thermique (cryoablation privilégiée sur les lésions ostéocondensantes, volumineuses ou péri-nerveuses avec suivi TDM de l'iceball et thermoprotection) • Stabilisation hybride immédiate dans le même temps par vissage canulé et cimentoplastie PMMA en zone de contrainte mécanique • Articulation coordonnée avec la radiothérapie stéréotaxique (SBRT) et l'immunothérapie.",
+        "key_points_fr": [
+            "Consacre la radiologie interventionnelle comme le « 4e pilier » de l'oncologie musculosquelettique, passant du dernier recours palliatif au contrôle local précoce et curatif des oligométastases.",
+            "La stabilisation hybride (vissage percutané + cimentoplastie) restaure immédiatement la résistance aux forces de torsion/cisaillement et de compression sans retarder les thérapies systémiques.",
+            "Contrairement aux ablations hyperthermiques qui dénaturent les protéines, la cryoablation préserve les néo-antigènes tumoraux et agit comme un vaccin in situ potentiel en synergie avec l'immunothérapie."
+        ],
+        "tags": ["Métastases osseuses", "Cryoablation", "Stabilisation hybride", "Vissage cimenté", "Effet abscopal", "Joint Bone Spine 2026"]
+    },
+    "42167590": {
+        "category_id": "ect_mets",
+        "title_fr": "Électroporation irréversible (IRE) des tumeurs vertébrales sous guidage scanner : efficacité tumoricide et profil de neurotoxicité médullaire/radiculaire (JVIR 2026)",
+        "modality": "Scanner TDM Interventionnel & IRM de Suivi",
+        "intervention_type": "Électroporation Bipolaire (IRE / ECT) des Tumeurs du Rachis & Épidurales",
+        "cochin_link": "Éclaire directement les paramètres électriques et les marges de sécurité neurologique lors des procédures d'« Électrochimiothérapie (ECT) / Électroporation des métastases rachidiennes et épidurales » réalisées au scanner de Cochin.",
+        "summary_fr_short": "Étude préclinique sur gros animal (*Journal of Vascular and Interventional Radiology — JVIR*, mai 2026, IF 2,6) évaluant l'ablation bipolaire par électroporation irréversible (IRE) sous guidage TDM sur 11 tumeurs vertébrales thoraco-lombaires (champ électrique moyen 526,1 ± 53,8 V/cm) : succès technique de 100 %, nécrose histologique constatée sur tous les niveaux traités, réponse IRM à 30 jours dans 86 % des tumeurs (6/7), aucun déficit neurologique moteur post-procédural et lésions médullaires limitées à un grade histologique ≤ 2, mais dégénérescence wallérienne de grade ≥ 3 observée sur 22 % (4/18) des racines nerveuses émergentes.",
+        "summary_fr_detailed": "L'ablation des tumeurs rachidiennes à extension épidurale ou foraminale est limitée par la thermosensibilité extrême de la moelle épinière et des racines nerveuses. L'électroporation (réversible sous forme d'électrochimiothérapie [ECT] à la bléomycine, ou irréversible [IRE] à champ électrique plus élevé) repose sur des impulsions électriques microsecondes non thermiques. Dans ce modèle de tumeurs vertébrales thoraco-lombaires implantées (1,5 cm) traitées sous guidage TDM par électrodes bipolaires (champ moyen ~526 V/cm), aucun animal survivant à 30 jours n'a développé de parésie ou de déficit clinique et la moelle épinière a été préservée (modifications histologiques ≤ Grade 2). Toutefois, 22 % des racines nerveuses émergentes situées au contact direct du champ d'électroporation irréversible ont présenté une dégénérescence wallérienne histologique de grade 3, démontrant pourquoi l'électrochimiothérapie réversible (ECT, seuil ~400 V/cm avec bléomycine) reste plus sûre que l'IRE pure au contact immédiat des racines foraminales.",
+        "protocol_fr": "Planification TDM et modélisation du champ électrique vertébral • Positionnement transpédiculaire ou paravertébral des électrodes sous scanner • Au voisinage immédiat du cordon médullaire et des foramens radiculaires : privilégier à Cochin les paramètres d'électroporation réversible (ECT + bléomycine IV 15 000 UI/m²) plutôt qu'un surdosage en électroporation irréversible (> 500–600 V/cm) afin de prévenir toute dégénérescence wallérienne radiculaire • Contrôle IRM à 1 mois.",
+        "key_points_fr": [
+            "Démontre une réponse IRM de 86 % à 30 jours et l'absence complète de déficit moteur médullaire après électroporation bipolaire scanoguidée de tumeurs vertébrales.",
+            "La moelle épinière tolère remarquablement le champ électrique (lésions histologiques ≤ Grade 2), mais 22 % des racines émergentes présentent une dégénérescence wallérienne de grade 3 sous IRE à 526 V/cm.",
+            "Confirme l'intérêt supérieur de l'électrochimiothérapie réversible (ECT à la bléomycine) à Cochin pour traiter les extensions épidurales et foraminales en préservant les racines nerveuses."
+        ],
+        "tags": ["Électroporation", "IRE", "Électrochimiothérapie", "Tumeur vertébrale", "Neurotoxicité radiculaire", "JVIR 2026"]
+    },
+    "42809929": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Vissage percutané postérieur de l'anneau pelvien par vis trans-sacrées et ilio-sacrées multiples de gros diamètre (≥ 7 mm) en décubitus dorsal : faisabilité, balistique S1/S2 et résultats sur 149 vis (Injury 2026)",
+        "modality": "Fluoroscopie Biplan (Inlet / Outlet / Profil Sacré) & Contrôle TDM",
+        "intervention_type": "Vissage Percutané Trans-Sacré (TSS) & Ilio-Sacré (ISS) Multiple du Bassin",
+        "cochin_link": "Directement applicable aux procédures de « Vissage percutané du bassin postérieur (vis ilio-sacrées et trans-sacrées S1/S2) » réalisées à l'Hôpital Cochin.",
+        "summary_fr_short": "Étude de cohorte sur 69 patients consécutifs (149 vis canulées de gros diamètre ≥ 7 mm : 123 vis trans-sacrées [TSS] et 26 vis ilio-sacrées [ISS]) traités en décubitus dorsal avec suivi moyen de 19,5 mois (*Injury*, sept. 2026, IF 2,2) : 100 % de trajet strictement intra-osseux au scanner post-opératoire, 0 % de complication neurovasculaire ou infectieuse, 0 % de descellement et 0 % de pseudarthrose (1 seul bris de vis S2 asymptomatique, soit 0,67 %).",
+        "summary_fr_detailed": "Lors du vissage percutané de l'anneau pelvien postérieur en décubitus dorsal, le rebord de la table d'examen gêne fréquemment l'inclinaison postéro-antérieure nécessaire aux vis ilio-sacrées (ISS) obliques, exposant au risque d'effraction corticale antérieure ou foraminale sacrée, en particulier lorsqu'un montage à vis multiples est requis pour stabiliser durablement le sacrum. Cette série de 149 vis de gros calibre (≥ 7 mm) codifie les combinaisons de vissage trans-sacré (TSS, traversant les deux articulations sacro-iliaques de part en part selon un axe strictement transversal non gêné par la table) et ilio-sacré en fonction du morphotype du couloir osseux transversal de S1 et S2. Le contrôle TDM systématique confirme 100 % de positionnement intra-osseux sans effraction foraminale ni canalaire, et une consolidation complète chez tous les patients suivis en moyenne 19,5 mois.",
+        "protocol_fr": "Analyse TDM pré-opératoire de la largeur antéro-postérieure du couloir osseux transversal de S1 (sacrum normal vs sacrum dysmorphique) et de S2 • Installation en décubitus dorsal surélevé • Combinaison de vis canulées ≥ 7,0–7,3 mm : privilégier les vis trans-sacrées (TSS) S1 et/ou S2 (trajectoire horizontale pure évitant le conflit avec la table) associées à une vis ilio-sacrée (ISS) selon la géométrie de S1 • Contrôle fluoroscopique strict (vues Inlet, Outlet et profil sacré vrai alignant les grandes échancrures sciatiques) ou guidage TDM.",
+        "key_points_fr": [
+            "100 % de précision intra-osseuse au scanner sur 149 vis pelviennes postérieures de gros diamètre (123 trans-sacrées et 26 ilio-sacrées) posées en décubitus dorsal.",
+            "Le vissage trans-sacré (TSS) bi-cortical ilio-sacro-iliaque neutralise le conflit d'angulation avec la table en décubitus dorsal et offre une tenue mécanique supérieure.",
+            "Zéro descellement, zéro pseudarthrose et 0 % de lésion radiculaire sacrée sur un suivi moyen de près de 20 mois."
+        ],
+        "tags": ["Vissage percutané du bassin", "Vis trans-sacrée", "Vis ilio-sacrée", "Anneau pelvien postérieur", "Sacrum", "Injury 2026"]
+    },
+    "42801267": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Neuromodulation percutanée du nerf obturateur par radiofréquence pulsée (PRF) sous guidage scanner dans la coxarthrose réfractaire : résultats à 12 mois selon le grade de Kellgren-Lawrence (Hip International 2026)",
+        "modality": "Scanner TDM Interventionnel",
+        "intervention_type": "Radiofréquence Pulsée (PRF) / Neurolyse Percutanée Scanoguidée du Nerf Obturateur (Hanche Douloureuse)",
+        "cochin_link": "Ouvre et documente directement les procédures de « Radiofréquence / Cryoneurolyse percutanée sous scanner des branches articulaires de la hanche (nerf obturateur et nerf fémoral) pour coxarthrose réfractaire ou inopérable » à Cochin.",
+        "summary_fr_short": "Étude clinique (*Hip International*, sept. 2026, IF 1,6) évaluant la radiofréquence pulsée (PRF pendant 12 minutes) du nerf obturateur sous guidage scanner sur 33 hanches (30 patients, âge moyen 69 ans, coxarthrose Kellgren-Lawrence grades 2 à 4) avec suivi jusqu'à 12 mois : chute immédiate majeure de l'EVA (~9 points), maintien durable du soulagement dans les coxarthroses légères à modérées (baisse moyenne de -6 points d'EVA à 6 mois et -4 points à 12 mois), contre un effet transitoire (~3 mois) dans les coxarthroses terminales de stade 4, avec 0 % de complication CIRSE.",
+        "summary_fr_detailed": "L'innervation nociceptive de la capsule antéro-médiale et inféro-médiale de l'articulation coxo-fémorale dépend principalement des rameaux articulaires du nerf obturateur (responsables des douleurs inguinales irradiant à la face médiale de la cuisse et du genou). Sur 33 hanches réfractaires au traitement médical traitées par radiofréquence pulsée (PRF, 12 minutes) ciblant le nerf obturateur sous contrôle tomodensitométrique, aucune complication motrice (parésie des adducteurs) ou vasculaire n'est survenue (0 % selon la classification CIRSE). L'efficacité antalgique à moyen et long terme dépend étroitement du stade radiographique initial : alors que les grades Kellgren-Lawrence 2–3 conservent un bénéfice cliniquement majeur à 6 mois (-6 points d'EVA) et 12 mois (-4 points), les stades 4 avec destruction articulaire complète présentent une récidive douloureuse moyenne dès 3 mois.",
+        "protocol_fr": "Patient en décubitus dorsal au scanner • Repérage TDM du foramen obturé et de la gouttière sous-pubienne (bord antéro-latéral du foramen obturé / jonction branche ilio-pubienne et ischio-pubienne pour cibler les rameaux articulaires du nerf obturateur tout en épargnant le tronc moteur destiné aux adducteurs) • Confirmation par stimulation sensitive (< 0,5 V reproduisant la douleur inguinale) et vérification de l'absence de contraction des adducteurs en stimulation motrice • Radiofréquence pulsée (42°C, 12 minutes) ou radiofréquence/cryoneurolyse des rameaux articulaires.",
+        "key_points_fr": [
+            "Sécurité parfaite (0 % de complication CIRSE, aucune faiblesse des adducteurs) grâce à la précision du guidage scanner sur le repère osseux sous-pubien/obturateur.",
+            "Excellente durabilité antalgique jusqu'à 12 mois dans les coxarthroses de grade Kellgren-Lawrence 2 et 3 (-6 points d'EVA à 6 mois, -4 points à 12 mois).",
+            "Dans la coxarthrose destructrice terminale (KL grade 4), l'effet de la PRF seule s'épuise vers 3 mois, orientant vers une dénervation thermique/cryoneurolyse élargie (rameaux articulaires obturateurs + fémoraux) chez les patients contre-indiqués à la PTH."
+        ],
+        "tags": ["Nerf obturateur", "Coxarthrose", "Radiofréquence pulsée", "Guidage scanner", "Douleur de hanche", "Hip Int 2026"]
+    },
+    "42677326": {
+        "category_id": "pudendal_cryoneurolysis",
+        "title_fr": "Radiofréquence pulsée haute tension longue durée (HV-LD PRF) combinée à l'ozonothérapie dans la névralgie pudendale réfractaire : série clinique avec suivi en aveugle à 6 mois (Journal of Pain Research 2026)",
+        "modality": "Scanner TDM / Guidage Imagerie + Neurostimulation",
+        "intervention_type": "Radiofréquence Pulsée Haute Tension Longue Durée (HV-LD PRF) du Nerf Pudendal",
+        "cochin_link": "Complète directement l'arsenal de « Prise en charge interventionnelle de la névralgie pudendale réfractaire (bloc test scanoguidé, cryoneurolyse pudendale et radiofréquence pulsée haute tension) » à l'Hôpital Cochin.",
+        "summary_fr_short": "Étude clinique rétrospective avec évaluation indépendante en aveugle (*Journal of Pain Research*, août 2026, IF 2,5, Open-Access) chez des patients souffrant de névralgie pudendale réfractaire confirmée par les critères de Nantes et un bloc diagnostique positif : taux de succès primaire (réduction ≥ 50 % de l'EVA) de 93,3 % (14/15) à 12 semaines et maintien d'une réponse favorable chez 80,0 % (12/15) des patients à 24 semaines (6 mois), avec amélioration significative des scores d'anxiété/dépression (HAMA/HAMD), du sommeil (PSQI) et de la qualité de vie (SF-36), sans aucun événement indésirable grave.",
+        "summary_fr_detailed": "Lorsque les infiltrations cortisoniques scanoguidées du nerf pudendal n'apportent qu'un soulagement transitoire, la neuromodulation par radiofréquence pulsée à haute tension et longue durée (HV-LD PRF, délivrant un champ électrique accru sans dépasser le seuil thermique neurodestructeur de 42°C) constitue une option conservatrice vis-à-vis de la fonction sphinctérienne et motrice. Dans cette série évaluée jusqu'à 24 semaines par un examinateur indépendant en aveugle, 93,3 % des patients atteignent au moins 50 % de réduction douloureuse à 3 mois et 80,0 % maintiennent ce bénéfice à 6 mois (3 patients ayant présenté une récidive vers la 20e semaine). Aucune complication sphinctérienne, motrice ou infectieuse n'a été observée.",
+        "protocol_fr": "Sélection rigoureuse selon les critères de Nantes et positivité du bloc anesthésique diagnostique du nerf pudendal • Ciblage guidé par l'image du nerf pudendal (épine ischiatique / pince ligamentaire sacro-épineuse et sacro-tubérale ou canal d'Alcock) • Confirmation électrophysiologique sensitive (< 0,5 V reproduisant la douleur périnéale concordante) • Application de radiofréquence pulsée haute tension (60–80 V) longue durée (900 s) à température contrôlée ≤ 42°C (ou cryoneurolyse pudendale sous scanner à Cochin en cas d'échec ou de douleur oncologique/neuropathique sévère).",
+        "key_points_fr": [
+            "Taux de réponse clinique (baisse ≥ 50 % de l'EVA) de 93,3 % à 3 mois et 80,0 % à 6 mois dans la névralgie pudendale réfractaire.",
+            "Amélioration globale démontrée sur le sommeil (PSQI), le retentissement thymique (HAMD/HAMA) et la qualité de vie (SF-36).",
+            "Positionne la PRF haute tension longue durée et la cryoneurolyse scanoguidée comme les deux piliers percutanés après échec des infiltrations pudendales simples."
+        ],
+        "tags": ["Névralgie pudendale", "Nerf pudendal", "Radiofréquence pulsée haute tension", "Douleur pelvi-périnéale", "J Pain Res 2026"]
+    },
+    "40664401": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Controverses actuelles dans l'ablation par radiofréquence des nerfs géniculés pour gonarthrose chronique : mise au point critique en 6 questions clés (Regional Anesthesia & Pain Medicine 2026)",
+        "modality": "Échographie & Fluoroscopie Interventionnelles",
+        "intervention_type": "Radiofréquence / Cryoneurolyse des Nerfs Géniculés (Standardisation Technique & Sélection)",
+        "cochin_link": "Référentiel méthodologique majeur pour optimiser nos protocoles de « Test anesthésique sous écho + Radiofréquence / Cryoneurolyse des nerfs géniculés (natif ou post-PTG) » à l'Hôpital Cochin.",
+        "summary_fr_short": "Mise au point critique de référence (*Regional Anesthesia and Pain Medicine*, oct. 2026, IF 5,1) analysant les 6 controverses expliquant les résultats discordants des essais randomisés sur la radiofréquence des nerfs géniculés : (1) valeur pronostique des blocs tests préalables, (2) positionnement optimal des canules sur les cibles classiques, (3) nombre de branches nerveuses à cibler (au-delà de la triade classique SMGN/SLGN/IMGN), (4) avantages comparés du guidage échographique, fluoroscopique ou combiné, (5) place de la radiofréquence pulsée (PRF), et (6) indications après prothèse totale de genou (PTG).",
+        "summary_fr_detailed": "Alors que de nombreuses études observationnelles et essais cliniques montrent un soulagement durable jusqu'à 12 mois après radiofréquence des nerfs géniculés, certains essais contrôlés récents ont rapporté des résultats mitigés en raison de protocoles techniques obsolètes (ciblage limité à 3 nerfs avec de petites électrodes monopolaires à distance de la diaphyse/épiphyse). Cet article de synthèse publié dans *Regional Anesthesia & Pain Medicine* démontre que le succès clinique dépend directement de l'évolution anatomique du ciblage : inclusion de cibles nerveuses additionnelles (nerf géniculé médial récurrent, nerf du vaste intermédiaire, nerf infrapatellaire, nerf géniculé inféro-latéral en respectant le nerf fibulaire commun), positionnement plus postérieur et plus proche de la jonction diaphyso-métaphysaire fémorale, utilisation d'un guidage combiné échographique + fluoroscopique (ou de sondes refroidies / cryoneurolyse à large zone d'ablation), et intérêt confirmé dans les douleurs persistantes post-PTG.",
+        "protocol_fr": "Stratégie optimisée à Cochin : (1) Bloc test diagnostique sous échographie à faible volume d'anesthésique local (≤ 0,5–1 mL par nerf pour éviter la diffusion intra-articulaire faussement positive) • (2) Ciblage anatomique élargi adapté à la topographie douloureuse (SMGN, SLGN, IMGN + branche supra-patellaire / nerf du vaste intermédiaire ou rameau infrapatellaire) • (3) Utilisation d'un guidage échographique/TDM ou biplan permettant de visualiser directement les pédicules artério-nerveux géniculés et d'élargir la géométrie d'ablation (radiofréquence refroidie, lésions bipolaires en palissade ou cryoneurolyse).",
+        "key_points_fr": [
+            "Explique pourquoi les essais utilisant l'ancien protocole à 3 cibles monopolaires étroites sous-performant par rapport aux protocoles élargis (5 à 7 branches articulaires ou sondes refroidies/cryoneurolyse).",
+            "Un volume excessif lors du bloc test (> 1 mL par site) diffuse dans l'articulation ou les loges musculaires et diminue la spécificité prédictive du test pré-RFA.",
+            "Valide l'approche combinée (repérage échographique direct des pédicules + contrôle osseux) et confirme la pertinence du geste sur les genoux prothésés (post-PTG) douloureux."
+        ],
+        "tags": ["Nerfs géniculés", "Radiofréquence", "Gonarthrose", "Bloc pronostique", "Anatomie nerveuse", "Reg Anesth Pain Med 2026"]
+    },
+    "42925628": {
+        "category_id": "msk_imaging",
+        "title_fr": "Lésions médullaires rachidiennes fortuites en hyposignal T1 en IRM : application rétrospective de la classification Bone-RADS sur 256 989 IRM du rachis (Clinical Imaging 2026)",
+        "modality": "IRM du Rachis (Séquences T1, T2, Fat-Sat / Dixon & Scanner Complémentaire)",
+        "intervention_type": "Classification Bone-RADS des Lésions Osseuses Vertébrales Fortuites & Triage avant Biopsie",
+        "cochin_link": "Outil décisionnel direct pour le « Triage IRM des lésions vertébrales fortuites en hyposignal T1 (Bone-RADS 1 vs Bone-RADS 2/3/4) afin d'éviter les IRM de contrôle et biopsies rachidiennes inutiles » à Cochin.",
+        "summary_fr_short": "Étude de cohorte rétrospective (*Clinical Imaging*, oct. 2026, IF 1,8) issue de l'analyse de 256 989 comptes rendus d'IRM rachidiennes (6 709 mentionnant une lésion en hyposignal T1, 212 lésions solitaires suivies analysées selon le système Bone-RADS 2022 de la Society of Skeletal Radiology) : 87,7 % (186/212) des lésions solitaires étaient classables d'emblée en Bone-RADS 1 (« leave-alone » bénin certain) mais avaient pourtant généré 295 examens d'imagerie de suivi inutiles ; aucune lésion Bone-RADS 1 n'a évolué vers la malignité ni nécessité de biopsie sur le suivi.",
+        "summary_fr_detailed": "La découverte fortuite d'un nodule médullaire vertébral en hyposignal T1 sur une IRM du rachis est un motif extrêmement fréquent de demande de contrôle IRM ou d'avis en staff de radiologie interventionnelle pour biopsie osseuse. En appliquant l'algorithme Bone-RADS de la Society of Skeletal Radiology (basé sur la présence de graisse intralésionnelle macroscopique ou microscopique en Dixon, l'intensité T2, le rehaussement et le contexte oncologique) à 212 lésions solitaires ayant fait l'objet d'un suivi, les auteurs montrent que 186 lésions (87,7 %) répondaient dès l'IRM initiale aux critères Bone-RADS 1 (hémangiome atypique, îlot de moelle rouge focale, énostose : abstention de tout suivi). L'application stricte de Bone-RADS aurait permis d'économiser 295 IRM/TDM de contrôle sans manquer aucune lésion maligne (0 % de transformation agressive ou de biopsie secondaire).",
+        "protocol_fr": "Devant toute lésion vertébrale solitaire en hyposignal T1 à Cochin : (1) Rechercher un signal hyperintense en T1 par rapport au disque ou au muscle et une chute de signal ≥ 20–29 % en séquence Chemical-Shift Dixon non injectée → si présents sans signe agressif : classer **Bone-RADS 1** (bénin certain : moelle rouge focale ou hémangiome lipidique pauvre, aucun suivi ni biopsie) • (2) Si hyposignal T1 ET hyposignal T2 franc sans prise de contraste : vérifier l'ostéocondensation homogène en TDM (énostose / îlot condensant bénin = Bone-RADS 1) • (3) Réserver le suivi court (Bone-RADS 3) ou la biopsie transpédiculaire sous scanner (Bone-RADS 4) aux lésions hyperintenses en T2/STIR ou rehaussées sans chute de signal en Dixon, a fortiori en contexte oncologique.",
+        "key_points_fr": [
+            "Sur 212 lésions rachidiennes solitaires en hyposignal T1 suivies en imagerie, 87,7 % (186/212) étaient en réalité des lésions bénignes Bone-RADS 1 ne nécessitant aucun contrôle.",
+            "Aucune lésion classée Bone-RADS 1 n'a développé de critère d'agressivité ni requis de biopsie osseuse au cours du suivi.",
+            "L'intégration du score Bone-RADS dans les comptes rendus d'IRM rachidienne à Cochin sécurise l'abstention et filtre efficacement les indications de biopsie vertébrale scanoguidée."
+        ],
+        "tags": ["Bone-RADS", "Lésion vertébrale fortuite", "Hyposignal T1", "IRM rachis", "Pertinence des soins", "Clin Imaging 2026"]
+    },
+    "42861351": {
+        "category_id": "desmoid_soft_tissue",
+        "title_fr": "Cryoablation guidée par IRM d'une tumeur desmoïde récidivante de la main au contact des tendons extenseurs : suivi longitudinal sur 5 ans (Radiology Case Reports 2026)",
+        "modality": "IRM Interventionnelle & Suivi IRM Multiparamétrique",
+        "intervention_type": "Cryoablation Percutanée Ciblée des Tumeurs Desmoïdes des Extrémités (Main / Poignet)",
+        "cochin_link": "Illustre la faisabilité et la sécurité des « Cryoablations percutanées itératives à la demande pour les tumeurs desmoïdes récidivantes des extrémités au contact immédiat des tendons et pédicules vasculo-nerveux » discutées en RCP Sarcomes à Cochin.",
+        "summary_fr_short": "Étude longitudinale sur 5 ans (*Radiology Case Reports*, sept. 2026, IF 1,0, Open-Access) d'une tumeur desmoïde dorsale de la main multi-récidivante après 5 exérèses chirurgicales chez une adolescente de 14 ans, engainant l'appareil extenseur des 2e et 3e rayons : la réalisation de 4 séances ciblées de cryoablation percutanée guidée par IRM sur 5 ans (ciblant sélectivement les foyers d'hypersignal T2 évolutifs et douloureux pendant le pic de croissance pubertaire) a permis un contrôle local durable, une disparition des douleurs et une préservation fonctionnelle complète des tendons extenseurs de la main sans recours à la radiothérapie ni à l'amputation.",
+        "summary_fr_detailed": "Les tumeurs desmoïdes de la main sont exceptionnelles (< 20 cas rapportés) et posent un défi majeur d'épargne fonctionnelle en raison de la contiguïté immédiate du derme, des tendons extenseurs/fléchisseurs et des nerfs collatéraux digitaux. Après 5 récidives post-chirurgicales entraînant une hyperextension douloureuse des 2e et 3e doigts, la patiente a été traitée par cryoablations percutanées ciblées sous guidage IRM (choisi pour son contraste tissus mous supérieur au scanner sur cette lésion de la face dorsale de la main). Quatre procédures focales réparties sur 5 ans ont permis de détruire sélectivement les bourgeons actifs tout en protégeant la peau et le coulissement tendineux, confirmant que les tendons matures riches en collagène tolèrent le gel cryogénique et que des séances de cryoablation « à la demande » permettent de franchir la période d'activité biologique maximale de la fibromatose.",
+        "protocol_fr": "Planification IRM haute résolution (T2 Fat-Sat et T1 Gado pour distinguer les plages hypercellulaires actives en hypersignal T2 de la fibrose cicatricielle en hyposignal T2) • Insertion de cryosondes de petit calibre parallèlement aux gaines tendineuses • Hydrodissection sous-cutanée et réchauffement cutané actif continu par gant d'eau tiède (indispensable à la face dorsale de la main où l'espace dermo-tumoral est millimétrique) • Suivi IRM longitudinal et retraitement focal ciblé uniquement en cas de nodule symptomatique progressif.",
+        "key_points_fr": [
+            "Confirme que la matrice collagénique des tendons de la main résiste à la cryoablation sans rupture tendineuse secondaire, contrairement aux ablations hyperthermiques (RF/MWA).",
+            "Valide la stratégie de cryoablations focales répétées « à la demande » sur les seuls foyers évolutifs en hypersignal T2 pour préserver la fonction fine de la main.",
+            "Alternative conservatrice précieuse évitant la radiothérapie (toxique chez le sujet jeune) ou la chirurgie mutilante des extrémités."
+        ],
+        "tags": ["Tumeur desmoïde", "Main", "Cryoablation", "Guidage IRM", "Préservation tendineuse", "Radiol Case Rep 2026"]
     }
 }
 
@@ -2110,6 +2238,7 @@ MONTHS_FR = {
 JOURNAL_IMPACT_FACTORS = {
     "radiology": (12.1, "Radiology"),
     "radiographics": (5.2, "RadioGraphics"),
+    "regional anesthesia and pain medicine": (5.1, "Reg Anesth Pain Med"),
     "european journal of cancer": (7.6, "Eur J Cancer"),
     "european radiology experimental": (3.7, "Eur Radiol Exp"),
     "european radiology": (4.7, "Eur Radiol"),
@@ -2117,6 +2246,7 @@ JOURNAL_IMPACT_FACTORS = {
     "insights into imaging": (4.1, "Insights Imaging"),
     "current treatment options in oncology": (4.1, "Curr Treat Options Oncol"),
     "neurosurgery": (3.9, "Neurosurgery"),
+    "joint bone spine": (3.8, "Joint Bone Spine"),
     "skeletal radiology": (1.9, "Skeletal Radiol"),
     "cardiovascular and interventional radiology": (2.8, "CVIR"),
     "journal of vascular and interventional radiology": (2.6, "JVIR"),
@@ -2143,13 +2273,16 @@ JOURNAL_IMPACT_FACTORS = {
     "pediatric radiology": (2.1, "Pediatr Radiol"),
     "brain & spine": (1.9, "Brain Spine"),
     "american journal of hospice & palliative care": (1.9, "Am J Hosp Palliat Care"),
+    "clinical imaging": (1.8, "Clin Imaging"),
     "sicot-j": (1.8, "SICOT-J"),
     "seminars in musculoskeletal radiology": (1.8, "Semin Musculoskelet Radiol"),
     "journal of medical imaging and radiation oncology": (1.8, "J Med Imaging Radiat Oncol"),
+    "hip international": (1.6, "Hip Int"),
     "acta radiologica": (1.5, "Acta Radiol"),
     "european journal of orthopaedic surgery": (1.5, "Eur J Orthop Surg Traumatol"),
     "journal of ultrasonography": (1.6, "J Ultrason"),
     "bjr open": (1.3, "BJR Open"),
+    "radiology case reports": (1.0, "Radiol Case Rep"),
     "la radiologia medica": (8.9, "Radiol Med"),
     "radiologia medica": (8.9, "Radiol Med"),
     "medicina": (2.4, "Medicina (Kaunas)"),
