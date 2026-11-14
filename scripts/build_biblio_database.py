@@ -2118,6 +2118,134 @@ CURATED_DATA = {
             "Alternative conservatrice précieuse évitant la radiothérapie (toxique chez le sujet jeune) ou la chirurgie mutilante des extrémités."
         ],
         "tags": ["Tumeur desmoïde", "Main", "Cryoablation", "Guidage IRM", "Préservation tendineuse", "Radiol Case Rep 2026"]
+    },
+    "42592941": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Fractures et disjonctions verticalement instables de l'anneau pelvien : impact majeur du vissage percutané trans-sacré multi-étagé (S1 + S2) sur le taux d'échec mécanique (Journal of Orthopaedic Trauma 2026)",
+        "modality": "Fluoroscopie Biplan / Scanner TDM Interventionnel",
+        "intervention_type": "Vissage Percutané Trans-Sacré Multi-Étagé (MAT) vs Vissage Ilio-Sacré Simple (SS) du Bassin",
+        "cochin_link": "Référence biomécanique et clinique directe pour les « Vissages percutanés du bassin postérieur (choix d'un montage trans-sacré multi-étagé S1+S2 vs vis sacro-iliaque isolée) » réalisés à l'Hôpital Cochin.",
+        "summary_fr_short": "Étude de cohorte en centre de traumatologie de niveau I (*Journal of Orthopaedic Trauma*, juil./déc. 2026, IF 2,3, 67 patients avec lésion pelvienne verticalement instable OTA/AO 61C déplacée ≥ 10 mm) comparant le vissage percutané combinant fixation sacrée multi-étagée et au moins 1 vis trans-sacrée (groupe MAT, n = 38) au vissage mono-étagé ou par vis sacro-iliaques seules (groupe SS, n = 29) : chute spectaculaire du taux d'échec mécanique avec déplacement secondaire ≥ 10 mm (2,6 % dans le groupe MAT contre 48,3 % dans le groupe SS, p < 0,001) et division par 12 du taux de reprise chirurgicale (2,6 % vs 31,0 %, p = 0,002).",
+        "summary_fr_detailed": "La stabilisation purement percutanée des lésions postérieures verticalement instables de l'anneau pelvien (fractures sacrées longitudinales [53,7 %], fractures-luxations sacro-iliaques [25,3 %] et disjonctions sacro-iliaques complètes [20,9 %]) expose à un risque élevé de déplacement secondaire par cisaillement vertical lorsque l'ancrage mécanique est insuffisant. Sur 67 patients consécutifs, les auteurs démontrent que les montages associant une fixation sur plusieurs étages sacrés (S1 et S2) et au moins une vis trans-sacrée (TS, prenant appui dans les trois corticales ilio-sacro-iliaques jusqu'à l'ilion controlatéral) réduisent le taux de faillite mécanique à seulement 2,6 % (1/38), contre 48,3 % (14/29) lorsque seules des vis sacro-iliaques courtes (arrêtées dans le corps de S1) ou un seul niveau sacré sont utilisés (p < 0,001). Le taux de réintervention chirurgicale chute parallèlement de 31,0 % à 2,6 % (p = 0,002).",
+        "protocol_fr": "Analyse TDM pré-opératoire systématique des couloirs osseux transversaux de S1 et S2 (dépistage d'un sacrum dysmorphique) • En présence d'une instabilité verticale ou à fort cisaillement postérieur : proscrire le vissage ilio-sacré court mono-étagé isolé • Réaliser un montage percutané **MAT (Multilevel And Transsacral)** associant deux niveaux sacrés (S1 + S2) dont au moins une vis trans-sacrée (TSS) traversant les deux articulations sacro-iliaques pour s'ancrer dans la corticale externe de l'ilion controlatéral.",
+        "key_points_fr": [
+            "Démonstration majeure : le vissage percutané multi-étagé incluant au moins une vis trans-sacrée (MAT) abaisse le taux de faillite mécanique de 48,3 % à 2,6 % (p < 0,001).",
+            "Divise par 12 le taux de reprise chirurgicale (2,6 % vs 31,0 %, p = 0,002) dans les lésions postérieures instables de l'anneau pelvien.",
+            "Confirme que l'ancrage tri-cortical/quadri-cortical d'une vis trans-sacrée (S1 et/ou S2) est indispensable pour neutraliser les contraintes de cisaillement vertical."
+        ],
+        "tags": ["Vissage percutané du bassin", "Vis trans-sacrée", "Fixation multi-étagée", "S1-S2", "Instabilité pelvienne", "J Orthop Trauma 2026"]
+    },
+    "42999649": {
+        "category_id": "consolidation_screw_cement",
+        "title_fr": "Radiofréquence concomitante du nerf basivertébral (BVN RFA) et cimentoplastie vertébrale dans le traitement palliatif multimodal des fractures vertébrales pathologiques tumorales (Interventional Pain Medicine 2026)",
+        "modality": "Fluoroscopie Biplan / Scanner TDM Interventionnel",
+        "intervention_type": "Ablation par Radiofréquence du Nerf Basivertébral (BVN RFA) + Cimentoplastie Vertébrale",
+        "cochin_link": "En lien direct avec les procédures combinées de « Thermoablation / Radiofréquence + Cimentoplastie / Vertébroplastie / Kyphoplastie pour fracture vertébrale tumorale douloureuse » réalisées à Cochin.",
+        "summary_fr_short": "Série clinique innovante (*Interventional Pain Medicine*, oct. 2026, IF 1,8, Open-Access) évaluant l'association dans le même temps opératoire d'une ablation par radiofréquence ciblée du nerf basivertébral (BVN RFA) et d'une cimentoplastie d'augmentation vertébrale (VA) chez des patients présentant une fracture vertébrale par compression pathologique d'origine tumorale : réduction immédiate et soutenue de la douleur rachidienne avec amélioration fonctionnelle chez 100 % des patients et 0 % de complication péri- ou post-procédurale.",
+        "summary_fr_detailed": "Bien que la vertébroplastie / kyphoplastie stabilise mécaniquement les fractures vertébrales pathologiques secondaires aux métastases rachidiennes, certains patients conservent des douleurs résiduelles liées à la transmission nociceptive des plateaux vertébraux fracturés via le nerf basivertébral (BVN, branche du nerf sinu-vertébral pénétrant par le foramen basivertébral postérieur et arborisant au centre du corps vertébral). En ciblant électivement le tronc du nerf basivertébral par radiofréquence thermique (au tiers postéro-central du corps vertébral, à 30–50 % de la paroi postérieure) immédiatement avant l'injection de ciment PMMA par la même canule transpédiculaire, cette approche réalise une dénervation complète des plateaux vertébraux associée à la stabilisation mécanique, sans allonger significativement la procédure ni induire de complication neurologique.",
+        "protocol_fr": "Abord transpédiculaire unipédiculaire ou bipédiculaire sous guidage scopique biplan ou scanner • Positionnement initial de l'électrode de radiofréquence bipolaire au confluent du nerf basivertébral (centre du corps vertébral dans le plan coronal, entre les 30 % et 50 % postérieurs dans le plan sagittal, à distance de sécurité du mur postérieur) • Thermoablation du nerf basivertébral (85°C pendant 15 min ou protocole RF tumoral dédié) • Par le même introducteur coaxial : vertébroplastie / kyphoplastie au ciment PMMA haute viscosité sous contrôle fluoroscopique continu.",
+        "key_points_fr": [
+            "Synergie antalgique directe entre la dénervation thermique du nerf basivertébral (suppression de la nociception des plateaux vertébraux fracturés) et la consolidation mécanique par cimentoplastie PMMA.",
+            "Réalisable en un seul temps opératoire par le même abord transpédiculaire coaxial sans sur-risque procédural (0 % de complication).",
+            "Particulièrement pertinent à Cochin lors des cimentoplasties oncologiques avec atteinte douloureuse prédominante des plateaux vertébraux."
+        ],
+        "tags": ["Nerf basivertébral", "Radiofréquence", "Cimentoplastie", "Vertébroplastie", "Fracture vertébrale pathologique", "Interv Pain Med 2026"]
+    },
+    "41694550": {
+        "category_id": "pudendal_cryoneurolysis",
+        "title_fr": "Essai randomisé contrôlé comparant la radiofréquence pulsée bilatérale des racines sacrées S2–S4 et la neurolyse chimique du ganglion Impar pour les douleurs périnéales oncologiques sévères (Pain Reports 2026)",
+        "modality": "Fluoroscopie / Scanner Interventionnel + Neurostimulation",
+        "intervention_type": "Radiofréquence Pulsée Sélective Bilatérale des Racines Sacrées (S2–S4) vs Neurolyse du Ganglion Impar",
+        "cochin_link": "Référence comparative directe pour le choix de la cible lors des « Procédures antalgiques pelvi-périnéales oncologiques et réfractaires (nerf pudendal / racines sacrées S2–S4 vs ganglion Impar) » à l'Hôpital Cochin.",
+        "summary_fr_short": "Essai prospectif randomisé contrôlé (*Pain Reports*, févr. 2026, IF 3,4, Open-Access, 40 patients avec douleur cancéreuse périnéale ou périanale sévère EVA ≥ 7 randomisés 1:1) comparant la radiofréquence pulsée (PRF) sélective bilatérale des racines sacrées S2–S4 (n = 20) à la neurolyse chimique au phénol 6 % du ganglion Impar (GIN, n = 20) : baisse significative de l'EVA jusqu'à 12 semaines dans les deux bras (p < 0,001), mais supériorité statistiquement significative du groupe PRF S2–S4 sur le soulagement douloureux en salle de réveil et à 1, 4 et 8 semaines (p < 0,05), moindre consommation d'oxycodone et de prégabaline, et meilleurs scores de qualité de vie et de satisfaction des patients.",
+        "summary_fr_detailed": "Les douleurs périnéales et périanales d'origine oncologique (cancers pelviens, rectaux, gynécologiques ou sacrés) combinent une composante sympathique viscérale (relayée par le ganglion Impar pré-sacro-coccygien) et une composante somatique/neuropathique majeure véhiculée par le nerf pudendal issu des racines sacrées S2, S3 et S4. Cet essai randomisé compare face-à-face la neurolyse chimique du ganglion Impar (phénol 6 %) et la radiofréquence pulsée (PRF) sélective bilatérale des racines sacrées S2–S4 (origine directe du nerf pudendal). Bien que les deux techniques diminuent significativement l'EVA jusqu'à 3 mois, le ciblage direct des afférences somatiques S2–S4/pudendales procure une analgésie significativement plus puissante à 1, 4 et 8 semaines, réduit la consommation d'opioïdes forts (oxycodone) et de gabapentinoïdes (prégabaline), et améliore significativement la qualité de vie sans induire de déficit sphinctérien.",
+        "protocol_fr": "Repérage fluoroscopique ou TDM des foramens sacrés postérieurs S2, S3 et S4 bilatéraux (et/ou du nerf pudendal à l'épine ischiatique / canal d'Alcock et de l'interligne sacro-coccygien pour le ganglion Impar) • Confirmation par stimulation sensitive (< 0,5 V reproduisant les paresthésies dans le territoire périnéal douloureux) et motrice • Radiofréquence pulsée (42°C) bilatérale S2–S4 ou cryoneurolyse pudendale sélective sous scanner à Cochin • Possibilité d'associer en un temps un bloc/neurolyse du ganglion Impar en cas de composante ténesmoïde/sympathique rectale prédominante.",
+        "key_points_fr": [
+            "Premier essai randomisé contrôlé démontrant que la neuromodulation des racines sacrées S2–S4 (contingent pudendal) surpasse la neurolyse isolée du ganglion Impar sur les douleurs périnéales cancéreuses sévères (EVA ≥ 7).",
+            "Réduit significativement les besoins en oxycodone et prégabaline tout en améliorant la qualité de vie globale.",
+            "Confirme que les douleurs pelvi-périnéales oncologiques nécessitent de cibler prioritairement la voie somatique pudendale / S2–S4 (par PRF ou cryoneurolyse scanoguidée à Cochin), éventuellement couplée au ganglion Impar."
+        ],
+        "tags": ["Douleur périnéale oncologique", "Racines sacrées S2-S4", "Ganglion Impar", "Nerf pudendal", "Radiofréquence pulsée", "Essai randomisé", "Pain Rep 2026"]
+    },
+    "42803616": {
+        "category_id": "pain_cryoneurolysis",
+        "title_fr": "Radiofréquence pulsée échoguidée des nerfs supra-scapulaire et axillaire pour épaule douloureuse chronique réfractaire : étude comparative en double aveugle du voltage de sortie (45 V vs 85 V, 80 patients, Pain Management 2026)",
+        "modality": "Échographie Interventionnelle + Neurostimulation",
+        "intervention_type": "Radiofréquence Pulsée (PRF) Échoguidée Combinée des Nerfs Supra-Scapulaire & Axillaire",
+        "cochin_link": "Directement applicable aux procédures de « Radiofréquence / Cryoneurolyse de nerfs superficiels et articulaires de l'épaule (nerf supra-scapulaire et nerf axillaire) » réalisées à Cochin.",
+        "summary_fr_short": "Étude prospective comparative en double aveugle (*Pain Management*, sept. 2026, IF 2,0) portant sur 80 patients souffrant d'épaule douloureuse chronique réfractaire traités par radiofréquence pulsée (PRF) combinée sous guidage échographique des nerfs supra-scapulaire et axillaire à tension standard (45 V, n = 40) versus haute tension (85 V, n = 40) avec suivi à 6 mois : amélioration fonctionnelle et antalgique dans les deux groupes sans différence significative sur l'EVA à 6 mois entre 45 V et 85 V (5,89 vs 5,47, p = 0,137), mais interaction temps × groupe significative en faveur du 85 V sur le score fonctionnel QuickDASH (49,86 vs 53,84, p = 0,018) et tolérance parfaite dans les deux bras.",
+        "summary_fr_detailed": "Le nerf supra-scapulaire assure environ 70 % de l'innervation sensitive de l'articulation gléno-humérale (capsule postéro-supérieure et coiffe des rotateurs), tandis que le nerf axillaire (circonflexe) innerve le contingent capsulaire inféro-postérieur. Cette étude prospective en double insu portant sur 80 patients évalue le double ciblage échoguidé (nerf supra-scapulaire dans l'échancrure scapulaire/fosse supra-épineuse + nerf axillaire au col chirurgical postérieur de l'humérus dans l'espace quadrilatère) en comparant deux niveaux de tension de sortie (45 V vs 85 V à température maximale contrôlée ≤ 42°C). L'augmentation du voltage à 85 V est parfaitement sûre sans aucune parésie motrice du supra-/infra-épineux ni du deltoïde, et s'accompagne d'une cinétique de récupération fonctionnelle QuickDASH significativement plus favorable au cours du suivi (p = 0,018), bien que l'EVA moyenne à 6 mois reste proche entre les deux réglages.",
+        "protocol_fr": "Guidage échographique haute fréquence : (1) Ciblage du nerf supra-scapulaire dans la fosse supra-épineuse / échancrure coracoïdienne sous le ligament transverse supérieur de la scapula (en repérant l'artère supra-scapulaire au Doppler couleur) • (2) Ciblage des rameaux articulaires du nerf axillaire à la face postérieure du col chirurgical de l'humérus (au voisinage de l'artère circonflexe postérieure de l'humérus) • Confirmation électrophysiologique sensitive (< 0,5 V) • Radiofréquence pulsée (45 à 85 V, maintien thermique ≤ 42°C) préservant intégralement la fonction motrice de la coiffe et du deltoïde.",
+        "key_points_fr": [
+            "Valide sur 80 patients le double ciblage échoguidé associant le nerf supra-scapulaire (70 % de l'innervation capsulaire) et le nerf axillaire (contingent inférieur) dans les omalgies chroniques réfractaires.",
+            "Sécurité motrice absolue (0 % de déficit du deltoïde ou des rotateurs) y compris à haut voltage (85 V) tant que le plafond thermique non destructeur (≤ 42°C) est respecté.",
+            "Alternative précieuse en cas d'échec des infiltrations/arthro-infiltrations gléno-humérales ou sous-acromiales chez les patients inopérables."
+        ],
+        "tags": ["Nerf supra-scapulaire", "Nerf axillaire", "Radiofréquence pulsée", "Épaule douloureuse chronique", "Échographie interventionnelle", "Pain Manag 2026"]
+    },
+    "42562224": {
+        "category_id": "desmoid_soft_tissue",
+        "title_fr": "Sclérothérapie percutanée des malformations veineuses des parties molles : modélisation longitudinale du soulagement douloureux et mise en évidence d'un effet plateau après 3 séances (Annals of Vascular Surgery 2026)",
+        "modality": "Échographie Doppler & Fluoroscopie Interventionnelle",
+        "intervention_type": "Sclérothérapie Percutanée Itérative des Malformations Veineuses Douloureuses (Règle des 3 Séances)",
+        "cochin_link": "Fournit un repère décisionnel concret pour planifier le nombre de séances de « Sclérothérapie percutanée et bascule vers la cryoablation/chirurgie dans les malformations veineuses douloureuses des parties molles » à Cochin.",
+        "summary_fr_short": "Analyse longitudinale par modèle linéaire à effets mixtes (*Annals of Vascular Surgery*, août/déc. 2026, IF 1,5) caractérisant la cinétique de réponse antalgique au fil des séances successives de sclérothérapie percutanée des malformations veineuses (MV) : taux d'efficacité globale de 83,4 % avec réduction hautement significative de l'EVA et de la vascularisation Doppler (p < 0,001) et 0 % de complication majeure, mais démonstration mathématique d'un **effet plateau après la 3e séance de sclérothérapie**, justifiant une réévaluation formelle après 3 séances plutôt que la multiplication infinie des injections.",
+        "summary_fr_detailed": "Les malformations veineuses (MV) des parties molles nécessitent fréquemment plusieurs séances de sclérothérapie percutanée, mais le nombre optimal de séances au-delà duquel le bénéfice antalgique marginal devient minime restait mal défini. En modélisant longitudinalement les scores EVA et le flux résiduel en écho-Doppler à travers les séances successives (modèle mixte expliquant 68 % de la variance), cette étude démontre que l'essentiel du gain antalgique est acquis au cours des 3 premières séances de sclérothérapie (efficacité globale de 83,4 %), après quoi la courbe de réponse atteint un plateau net. Un jeune âge (p = 0,03) et un score douloureux initial modéré (p < 0,001) prédisent une meilleure réponse finale, tandis que le volume lésionnel initial et l'intervalle entre les séances n'altèrent pas significativement la trajectoire.",
+        "protocol_fr": "Programme structuré en 3 séances de sclérothérapie percutanée sous guidage échographique et scopique • À l'issue de la 3e séance : réévaluation clinique (EVA) et IRM/écho-Doppler systématique • En cas de douleur résiduelle malgré l'atteinte du plateau de sclérothérapie (souvent liée à une composante fibro-thrombotique tissulaire ou des phlébolithes enchâssés non accessibles au sclérosant endoluminal), discuter à Cochin un relais par **cryoablation percutanée** de la malformation veineuse résiduelle.",
+        "key_points_fr": [
+            "Taux d'efficacité antalgique global de 83,4 % sans aucune complication majeure après sclérothérapie percutanée guidée par échographie.",
+            "Identification d'un effet plateau franc après la 3e séance de sclérothérapie : au-delà de 3 séances, le bénéfice antalgique supplémentaire d'injections répétées devient limité.",
+            "Valide un protocole standardisé de réévaluation après 3 séances à Cochin pour décider soit de l'arrêt thérapeutique (succès), soit d'un relais par cryoablation percutanée sur le contingent tissulaire résiduel."
+        ],
+        "tags": ["Malformation veineuse", "Sclérothérapie percutanée", "Effet plateau", "Douleur chronique", "Échographie Doppler", "Ann Vasc Surg 2026"]
+    },
+    "42896215": {
+        "category_id": "desmoid_soft_tissue",
+        "title_fr": "Sclérothérapie percutanée des malformations vasculaires à flux lent : enquête internationale ISSVA des pratiques (choix du sclérosant, gestion de la coagulation et prévention des complications, Vascular Medicine 2026)",
+        "modality": "Échographie & Fluoroscopie Interventionnelles",
+        "intervention_type": "Sclérothérapie Percutanée des Malformations Vasculaires à Flux Lent (Éthanol, Bléomycine, Polidocanol)",
+        "cochin_link": "Référentiel international des pratiques pour les séances de « Sclérothérapie percutanée (Polidocanol / Bléomycine / Éthanol) et gestion péri-procédurale de la coagulation des malformations vasculaires » à Cochin.",
+        "summary_fr_short": "Enquête internationale multicentrique du réseau ISSVA (*Vascular Medicine*, oct. 2026, IF 2,2, 52 spécialistes de 16 pays dont 90 % en CHU et 92 % en RCP dédiée) détaillant les standards pratiques de sclérothérapie des malformations vasculaires à flux lent (veineuses et lymphatiques) : prédominance du trio éthanol (67 %), bléomycine (58 %) et polidocanol (52 %), l'éthanol étant unanimement classé comme l'agent le plus efficace mais le plus à risque de nécrose cutanée (94 %) et de lésion nerveuse (75 %), justifiant l'essor de la mousse de polidocanol, de la bléomycine et de l'éthanol gélifié en zones sensibles.",
+        "summary_fr_detailed": "Cette enquête internationale menée auprès des centres experts de l'ISSVA (International Society for the Study of Vascular Anomalies) dresse la cartographie complète des pratiques de radiologie interventionnelle dans les malformations vasculaires à flux lent (SFVM). Dans 92 % des centres universitaires, l'indication est posée en réunion de concertation pluridisciplinaire (RCP). Si l'éthanol absolu reste disponible dans 67 % des centres, sa toxicité locale (nécrose cutanée rapportée comme risque majeur par 94 % des opérateurs, neuropathie périphérique par 75 %) et systémique (collapsus cardiovasculaire / spasme artériel pulmonaire) conduit à privilégier la mousse de polidocanol (52 %) ou la bléomycine (58 %) pour les lésions superficielles, distales ou juxta-nerveuses. Chez l'adulte, près de la moitié des procédures sont réalisées sous anesthésie locale/sédation (41–49 %) lorsque des agents non douloureux (polidocanol, bléomycine) sont utilisés, contre une anesthésie générale quasi systématique sous éthanol pur.",
+        "protocol_fr": "Sélection raisonnée de l'agent sclérosant selon la topographie : (1) Lésions superficielles sous-cutanées ou proches d'un tronc nerveux : mousse de polidocanol (1–2 %) ou bléomycine (sans œdème majeur post-procédural) • (2) Lésions intramusculaires profondes à distance des nerfs : éthanol gélifié radio-opaque ou mousse de polidocanol avec contrôle de stase • Bilan d'hémostase pré-procédural (D-dimères, fibrinogène, plaquettes) dans les malformations veineuses étendues pour dépister une coagulopathie intravasculaire localisée (LIC) et encadrer le geste par HBPM préventive/curative si fibrinogène bas.",
+        "key_points_fr": [
+            "Dans 92 % des centres experts internationaux (ISSVA), la prise en charge des malformations vasculaires à flux lent repose sur une décision de RCP multidisciplinaire.",
+            "Hiérarchise clairement le profil de sécurité des 3 sclérosants majeurs : polidocanol et bléomycine permettent des traitements sous anesthésie locale avec un risque cutané et nerveux réduit par rapport à l'éthanol liquide.",
+            "Rappelle l'importance du dépistage de la coagulopathie intravasculaire localisée (fibrinogène, D-dimères) avant sclérothérapie des malformations veineuses volumineuses."
+        ],
+        "tags": ["Malformation vasculaire à flux lent", "ISSVA", "Sclérothérapie", "Polidocanol", "Bléomycine", "Coagulopathie intravasculaire localisée", "Vasc Med 2026"]
+    },
+    "42849255": {
+        "category_id": "msk_imaging",
+        "title_fr": "IRM pelvienne oncologique de routine (quantification de graisse Dixon IDEAL-IQ PDFF, R2* et radiomique T1) pour prédire l'ostéoporose rachidienne définie en QCT chez les patients suivis pour cancer (European Journal of Radiology 2026)",
+        "modality": "IRM Pelvienne 3T (Séquence Multi-Écho Chemical-Shift IDEAL-IQ : PDFF & R2*) & QCT Lombaire",
+        "intervention_type": "Dépistage Opportuniste IRM de la Fragilité Osseuse Trabéculaire avant Geste ou Radiothérapie Pelvienne",
+        "cochin_link": "Directement utile lors de la lecture des « IRM pelviennes et rachidiennes oncologiques à Cochin pour évaluer la qualité osseuse trabéculaire et le risque de fracture par insuffisance sacrée/vertébrale avant radiothérapie ou vissage/cimentoplastie ».",
+        "summary_fr_short": "Étude prospective sur 123 patients oncologiques (*European Journal of Radiology*, oct. 2026, IF 3,2) corrélant les biomarqueurs médullaires extraits de l'IRM pelvienne de surveillance (fraction graisseuse en densité de protons PDFF et relaxométrie R2* sur séquence Dixon multi-écho IDEAL-IQ au col fémoral, à la tête fémorale et à l'ilion, ainsi que la radiomique T1) à la densité minérale osseuse volumique (vBMD T12–L2) mesurée par QCT : augmentation significative de la PDFF médullaire et baisse du R2* avec la dégradation de la densité osseuse sur tous les sites (p < 0,05), excellente reproductibilité inter-lecteurs (ICC = 0,903–0,996) et bonne capacité discriminante pour identifier l'ostéoporose (AUC = 0,73–0,78) sans examen irradiant supplémentaire.",
+        "summary_fr_detailed": "Les patients suivis pour cancer pelvien (prostate, col utérin, rectum, sarcomes) présentent un risque élevé d'ostéoporose secondaire (hormonothérapie, chimiothérapie, radiothérapie pelvienne) et de fractures par insuffisance du sacrum ou des corps vertébraux. Sur 123 patients ayant bénéficié à la fois d'une IRM pelvienne incluant une séquence chimique multi-écho (IDEAL-IQ) et d'un scanner quantitatif lombaire (QCT T12–L2), les auteurs montrent que l'adiposité médullaire mesurée par la PDFF (Proton Density Fat Fraction) augmente significativement tandis que le R2* (sensible à la susceptibilité magnétique des travées osseuses minéralisées) diminue lorsque la densité minérale osseuse chute vers l'ostéoporose (p < 0,05). La reproductibilité inter-observateur de la mesure sur la tête fémorale, le col fémoral et l'aile iliaque est remarquable (ICC moyen de 3 lecteurs : 0,903 à 0,996), permettant un repérage opportuniste fiable des patients ostéoporotiques à haut risque fracturaire directement sur leur IRM oncologique de routine.",
+        "protocol_fr": "Sur les IRM du bassin et du rachis réalisées chez les patients oncologiques à Cochin : exploiter les séquences Dixon quantitatives (PDFF / Fat Fraction) et l'analyse du signal T1 sur l'aile iliaque et le fémur proximal • Une élévation marquée de la fraction graisseuse médullaire (PDFF élevée) couplée à une chute du R2* signale une raréfaction trabéculaire ostéoporotique sévère • En tenir compte avant radiothérapie pelvienne (prévention des fractures sacrées) et lors des gestes de stabilisation percutanée (indication préférentielle d'augmentation cimentée des vis ou de sacroplastie/cimentoplastie préventive).",
+        "key_points_fr": [
+            "Excellente reproductibilité inter-lecteurs (ICC = 0,903–0,996) de la mesure de la fraction graisseuse médullaire (PDFF) et du R2* sur le fémur proximal et l'ilion en IRM pelvienne.",
+            "Corrélation physiopathologique directe avec le QCT lombaire : la perte osseuse trabéculaire s'accompagne d'une conversion adipeuse médullaire (hausse de la PDFF) et d'une perte d'effet de susceptibilité trabéculaire (baisse du R2*).",
+            "Permet un dépistage opportuniste sans irradiation additionnelle de la fragilité osseuse chez les patients cancéreux candidats à une ostéosynthèse percutanée ou exposés aux fractures par insuffisance sacrée."
+        ],
+        "tags": ["IRM pelvienne", "Dixon quantitatif", "PDFF", "Ostéoporose oncologique", "Moelle osseuse", "Eur J Radiol 2026"]
+    },
+    "42720734": {
+        "category_id": "percutaneous_ablation_general",
+        "title_fr": "Ablation percutanée guidée par l'image des tumeurs solides malignes pédiatriques et de l'adolescent (sarcomes osseux, sarcomes des parties molles, oligométastases) : revue des modalités et indications (Pediatric Radiology 2026)",
+        "modality": "Scanner TDM / Échographie / IRM Interventionnelle",
+        "intervention_type": "Ablation Percutanée Multimodale (Cryoablation, RFA, MWA, IRE, ECT) des Sarcomes & Oligométastases du Sujet Jeune",
+        "cochin_link": "Utile pour les discussions de RCP Sarcomes / AJA (Adolescents et Jeunes Adultes) à Cochin concernant « L'ablation percutanée par cryoablation, RF, micro-ondes ou électrochimiothérapie des récidives locales ou oligométastases de sarcomes osseux et des parties molles ».",
+        "summary_fr_short": "Synthèse exhaustive de 30 ans de littérature (*Pediatric Radiology*, sept. 2026, IF 2,1) évaluant les 5 modalités d'ablation percutanée guidée par l'image — radiofréquence (RFA), cryoablation, micro-ondes (MWA), électroporation irréversible (IRE) et électrochimiothérapie (ECT) — dans les tumeurs malignes solides de l'enfant et de l'adolescent (dont les ostéosarcomes, sarcomes d'Ewing et sarcomes des parties molles où la survie globale à 5 ans stagne autour de 60 %) : précise les indications validées en situation de récidive locale, de maladie oligométastatique ou de limitation chirurgicale.",
+        "summary_fr_detailed": "Chez l'adolescent et le jeune adulte (AJA) atteint d'ostéosarcome, de sarcome d'Ewing ou de sarcome des parties molles non rhabdomyosarcomateux, la chirurgie d'exérèse carcinologique associée à la chimiothérapie demeure le traitement de première ligne, mais les récidives locales en territoire irradié ou multi-opéré et les progressions oligométastatiques (osseuses, pulmonaires ou des parties molles) posent des difficultés majeures d'épargne fonctionnelle. Cette revue compare les profils biophysiques des 5 énergies ablatives : la cryoablation (visualisation directe de l'iceball, préservation de la trame collagénique et moindre douleur péri-opératoire), la RFA et la MWA (destruction thermique rapide des cibles intra-osseuses ou parenchymateuses à distance des nerfs), ainsi que l'IRE et l'ECT (ablation non thermique respectant les axes vasculo-nerveux et le canal rachidien).",
+        "protocol_fr": "Indication validée en RCP Sarcomes spécialisée pour les lésions récidivantes, réfractaires ou oligométastatiques lorsque la reprise chirurgicale serait mutilante • Choix de l'énergie selon l'environnement anatomique : Cryoablation pour les masses des parties molles, la paroi thoracique/pelvienne et les métastases osseuses ostéocondensantes ; ECT/IRE en contiguïté immédiate d'un plexus nerveux majeur ou de l'espace épidural ; MWA/RFA pour les cibles intra-osseuses ou pulmonaires profondes • Thermoprotection active systématique (hydrodissection, carbodissection, neuromonitoring).",
+        "key_points_fr": [
+            "Synthétise les indications comparées des 5 technologies ablatives (Cryoablation, RFA, MWA, IRE, ECT) dans les sarcomes osseux et des parties molles en rechute ou oligométastatiques.",
+            "Rappelle que la chirurgie et le traitement systémique restent le standard de 1re ligne, l'ablation percutanée constituant une arme d'épargne fonctionnelle majeure en rechute locale ou oligométastatique.",
+            "Souligne la complémentarité entre cryoablation (suivi visuel de l'iceball) et électroporation réversible/irréversible (ECT/IRE) au contact des structures neurovasculaires critiques."
+        ],
+        "tags": ["Sarcome osseux", "Sarcome des parties molles", "Oligométastases", "Cryoablation", "Électrochimiothérapie", "Pediatr Radiol 2026"]
     }
 }
 
@@ -2247,6 +2375,7 @@ JOURNAL_IMPACT_FACTORS = {
     "current treatment options in oncology": (4.1, "Curr Treat Options Oncol"),
     "neurosurgery": (3.9, "Neurosurgery"),
     "joint bone spine": (3.8, "Joint Bone Spine"),
+    "pain reports": (3.4, "Pain Rep"),
     "skeletal radiology": (1.9, "Skeletal Radiol"),
     "cardiovascular and interventional radiology": (2.8, "CVIR"),
     "journal of vascular and interventional radiology": (2.6, "JVIR"),
@@ -2268,16 +2397,20 @@ JOURNAL_IMPACT_FACTORS = {
     "european spine journal": (2.6, "Eur Spine J"),
     "bone & joint open": (2.5, "Bone Jt Open"),
     "journal of pain research": (2.5, "J Pain Res"),
+    "journal of orthopaedic trauma": (2.3, "J Orthop Trauma"),
+    "vascular medicine": (2.2, "Vasc Med"),
     "international orthopaedics": (2.0, "Int Orthop"),
     "international journal of general medicine": (2.1, "Int J Gen Med"),
     "pediatric radiology": (2.1, "Pediatr Radiol"),
     "brain & spine": (1.9, "Brain Spine"),
     "american journal of hospice & palliative care": (1.9, "Am J Hosp Palliat Care"),
+    "interventional pain medicine": (1.8, "Interv Pain Med"),
     "clinical imaging": (1.8, "Clin Imaging"),
     "sicot-j": (1.8, "SICOT-J"),
     "seminars in musculoskeletal radiology": (1.8, "Semin Musculoskelet Radiol"),
     "journal of medical imaging and radiation oncology": (1.8, "J Med Imaging Radiat Oncol"),
     "hip international": (1.6, "Hip Int"),
+    "annals of vascular surgery": (1.5, "Ann Vasc Surg"),
     "acta radiologica": (1.5, "Acta Radiol"),
     "european journal of orthopaedic surgery": (1.5, "Eur J Orthop Surg Traumatol"),
     "journal of ultrasonography": (1.6, "J Ultrason"),

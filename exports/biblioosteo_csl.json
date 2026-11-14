@@ -1,5 +1,52 @@
 [
   {
+    "id": "pmid-42592941",
+    "type": "article-journal",
+    "title": "Vertically Unstable Pelvic Ring Injuries: Impact of Multilevel and Transsacral Fixation Strategy on Failure Rate",
+    "container-title": "Journal of orthopaedic trauma",
+    "volume": "40",
+    "issue": "12",
+    "page": "645-652",
+    "DOI": "10.1097/bot.0000000000003260",
+    "PMID": "42592941",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42592941/",
+    "author": [
+      {
+        "family": "Luther",
+        "given": "L"
+      },
+      {
+        "family": "Maxson",
+        "given": "R"
+      },
+      {
+        "family": "Moreno-Diaz",
+        "given": "AF"
+      },
+      {
+        "family": "Chenard",
+        "given": "SW"
+      },
+      {
+        "family": "Tatman",
+        "given": "LM"
+      },
+      {
+        "family": "Mitchell",
+        "given": "PM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de cohorte en centre de traumatologie de niveau I (*Journal of Orthopaedic Trauma*, juil./déc. 2026, IF 2,3, 67 patients avec lésion pelvienne verticalement instable OTA/AO 61C déplacée ≥ 10 mm) comparant le vissage percutané combinant fixation sacrée multi-étagée et au moins 1 vis trans-sacrée (groupe MAT, n = 38) au vissage mono-étagé ou par vis sacro-iliaques seules (groupe SS, n = 29) : chute spectaculaire du taux d'échec mécanique avec déplacement secondaire ≥ 10 mm (2,6 % dans le groupe MAT contre 48,3 % dans le groupe SS, p < 0,001) et division par 12 du taux de reprise chirurgicale (2,6 % vs 31,0 %, p = 0,002).\n\n[ABSTRACT EN] Objectives To evaluate outcomes of percutaneous pelvic fixation in the treatment of displaced vertically unstable pelvic ring injuries and identify fixation constructs that predict success. Methods Design Retrospective cohort study. Setting Level I trauma center. Patient selection criteria Patients ≥18 years old who underwent operative management of a vertically unstable pelvic ring injury (OTA/AO 61C.1-3) displaced ≥10 millimeters (mm) with sacroiliac (SI) or transsacral (TS) screws over a 24-year period. Exclusion criteria were spinopelvic dissociation, pathologic fracture, treatment with spinopelvic fixation or plate fixation of the posterior pelvic ring, and less than 6-month follow-up. Outcome measures and comparisons The primary outcome was treatment failure, defined as ≥10 mm of radiographic displacement compared with initial postoperative imaging. Secondary outcomes included failure rates stratified by posterior pelvic ring injury type and rates of revision surgery. Outcomes were compared between constructs that included both multilevel sacral fixation and transsacral fixation (MAT) versus constructs that lacked 1 or both of these features; that is, constructs with either single-level fixation or only SI screws (SS). Results The cohort meeting inclusion criteria comprised 67 patients: MAT fixation N = 38 (71% male; median age 37 years, IQR 33-53) and SS fixation N = 29 (62% male; median age 39 years, IQR 34-47). The posterior ring injury patterns included sacral fractures (n = 36, 53.7%), sacroiliac fracture dislocations (n = 17, 25.3%), and sacroiliac dislocations (n = 14, 20.9%). MAT fixation had a significantly lower rate of treatment failure compared with SS fixation (2.6% vs. 48.3%, P Conclusions In this cohort of vertically unstable pelvic ring injuries, fixation at multiple sacral levels with at least 1 TS screw was associated with a significantly lower treatment failure rate (2.6%) compared with single-level fixation or SI screw-only fixation (48.3%). When multilevel transsacral fixation cannot be achieved because of patient anatomy or injury, adjunctive fixation strategies should be considered. Level of evidence Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence."
+  },
+  {
     "id": "pmid-42995340",
     "type": "article-journal",
     "title": "Determinants of fluoroscopy frequency and effect of standardized workflow optimization in robot-assisted pelvic channel screw placement: a single-center retrospective cohort study",
@@ -510,6 +557,57 @@
     "abstract": "[SYNTHÈSE FR] Vaste cohorte oncologique (*Neurosurgery*, oct. 2026, IF 3,9) de 240 patients (241 interventions) traités par vissage pédiculaire percutané augmenté au ciment (cement-augmented PPSF) pour fracture vertébrale par compression pathologique d'origine métastatique, avec un suivi médian de 5,0 ans chez les survivants : taux de défaillance mécanique nécessitant une reprise chirurgicale exceptionnellement bas de 2,1 % (5/240), amélioration significative et durable de la douleur et du statut fonctionnel/neurologique.\n\n[ABSTRACT EN] Background and objectives Pathological vertebral compression fractures (VCFs) are a common and debilitating complication of metastatic cancer. Percutaneous pedicle screw fixation (PPSF) with cement augmentation is increasingly used to stabilize these fractures, but long-term construct durability and associated clinical outcomes remain incompletely defined. We sought to characterize the long-term mechanical durability of cement-augmented PPSF for oncological VCFs, evaluate outcomes, and explore factors associated with revision surgery. Methods We conducted a retrospective review of patients with cancer who underwent cement-augmented PPSF at a tertiary cancer center between 2015 and 2020. The primary outcome was implant failure requiring return to the operating room for revision stabilization. Cumulative incidence of revision was estimated. Associations between clinical and radiographic variables and revision were evaluated using univariable competing-risks regression. Secondary outcomes included pain scores, functional status, strength, and neurological measures assessed pre- and post-operatively. Results A total of 240 patients with 241 surgeries were included (mean age 62.8 years). Median follow-up among surviving patients was 5.0 years. Five patients (2.1%) required revision surgery. Increasing age was associated with higher risk of revision in the univariable analysis (hazard ratio 1.12, 95% CI: 1.01-1.24, P = .046), while other investigated factors were not significantly associated with failure requiring revision. Significant improvements in pain and functional status were observed. Conclusion Cement-augmented PPSF demonstrated long-term durability for stabilization of oncological VCFs, with a low rate of revision surgery. Mechanical stability was accompanied by improvements in pain and functional status. Increasing age demonstrated an association with increased revision rates, although the low number of events limits definitive identification of predictors of failure."
   },
   {
+    "id": "pmid-42999649",
+    "type": "article-journal",
+    "title": "Concurrent basivertebral nerve radiofrequency ablation and vertebral augmentation as part of a multimodal palliative plan for pathological vertebral compression fracture from spine tumor: A case series of three patients",
+    "container-title": "Interventional pain medicine",
+    "volume": "5",
+    "issue": "4",
+    "page": "100830",
+    "DOI": "10.1016/j.inpm.2026.100830",
+    "PMID": "42999649",
+    "PMCID": "PMC13744287",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42999649/",
+    "author": [
+      {
+        "family": "Dwyer",
+        "given": "S"
+      },
+      {
+        "family": "Kouche",
+        "given": "A"
+      },
+      {
+        "family": "Chen",
+        "given": "YT"
+      },
+      {
+        "family": "Wen",
+        "given": "J"
+      },
+      {
+        "family": "Alam",
+        "given": "A"
+      },
+      {
+        "family": "Silva",
+        "given": "J"
+      },
+      {
+        "family": "Elahi",
+        "given": "F"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Série clinique innovante (*Interventional Pain Medicine*, oct. 2026, IF 1,8, Open-Access) évaluant l'association dans le même temps opératoire d'une ablation par radiofréquence ciblée du nerf basivertébral (BVN RFA) et d'une cimentoplastie d'augmentation vertébrale (VA) chez des patients présentant une fracture vertébrale par compression pathologique d'origine tumorale : réduction immédiate et soutenue de la douleur rachidienne avec amélioration fonctionnelle chez 100 % des patients et 0 % de complication péri- ou post-procédurale.\n\n[ABSTRACT EN] Introduction Pathological vertebral compression fractures from spinal tumors are a source of severe back pain and functional disability. Vertebral augmentation (VA) has been utilized for mechanical stabilization; however, pain may persist due to nociceptive signaling from the basivertebral nerve (BVN). BVN radiofrequency ablation (BVNRFA) has shown efficacy for vertebrogenic back pain associated with Modic changes, but its efficacy for oncologic/pathologic fractures remains an area of exploration. Case presentation We present a case series of three patients with pathological vertebral compression fractures secondary to spinal tumors who underwent concurrent BVNRFA and VA. All three patients experienced immediate and sustained pain reduction with improvements in function. No peri- or post-procedural complications were observed at one-month follow-up. Conclusion Concurrent BVNRFA and VA is a novel and synergistic approach that may provide an additional option for select patients with pathological vertebral compression fractures from a spinal tumor within palliative and interventional pain settings. Larger studies are required to clarify ideal patient selection, duration of benefit, and safety."
+  },
+  {
     "id": "pmid-42955498",
     "type": "article-journal",
     "title": "Image-Guided Ablative Options for Desmoid Fibromatosis: Contemporary Evidence and Guideline Integration",
@@ -555,6 +653,49 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Mise au point de référence (*Curr Treat Options Oncol*, oct. 2026) détaillant l'intégration de la cryoablation percutanée dans l'algorithme multidisciplinaire des tumeurs desmoïdes symptomatiques ou progressives, incluant les stratégies d'ablation subtotale délibérée à proximité des nerfs critiques.\n\n[ABSTRACT EN] Opinion statement Most patients with a newly diagnosed desmoid tumor should begin with multidisciplinary evaluation and active surveillance rather than immediate intervention, provided that symptoms are limited and further growth is unlikely to create irreversible morbidity. Treatment should be initiated when pain, functional limitation, sustained progression, or threatened critical structures make continued observation unacceptable. Percutaneous cryoablation is generally favored because the ice ball can be monitored directly, treatment can be personalized/tailored with the synergistic benefit of multiple probes, and the procedure can be repeated or staged when a complete margin would be unsafe. Complete ablation should be targeted when the entire tumor can be covered without jeopardizing skin, nerves, bowel, or other vulnerable structures; deliberate subtotal ablation is appropriate when the principal goal is pain relief or functional improvement and a safe circumferential margin is not achievable. Hydrodissection, skin warming, neural protection, and conservative treatment near critical anatomy are essential. Magnetic resonance-guided focused ultrasound is an attractive incisionless alternative for tumors with a favorable acoustic window. Microwave or radiofrequency ablation should be reserved for carefully selected lesions and experienced operators; electrochemotherapy and chemical ablation remain investigational with some promising early evidence. Embolization can be useful for hypervascular tumors that are poorly suited to direct percutaneous treatment. Local and systemic therapy should not be viewed as mutually exclusive: systemic treatment is often preferable for diffuse, intra-abdominal, or anatomically hazardous disease, while ablation can address a dominant symptomatic focus, residual viable tumor, or focal progression. Further study into the benefits and sequencing of combining local therapy with systemic or targeted options will be helpful in the multi-disciplinary evaluation of this complex patient cohort."
+  },
+  {
+    "id": "pmid-42896215",
+    "type": "article-journal",
+    "title": "Sclerotherapy for slow-flow vascular malformations: An international survey of practice patterns and periprocedural management",
+    "container-title": "Vascular medicine (London, England)",
+    "volume": "",
+    "issue": "",
+    "page": "1358863X261485221",
+    "DOI": "10.1177/1358863x261485221",
+    "PMID": "42896215",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42896215/",
+    "author": [
+      {
+        "family": "Donnard",
+        "given": "B"
+      },
+      {
+        "family": "Herbreteau",
+        "given": "D"
+      },
+      {
+        "family": "Joly",
+        "given": "A"
+      },
+      {
+        "family": "Maruani",
+        "given": "A"
+      },
+      {
+        "family": "Boulouis",
+        "given": "G"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Enquête internationale multicentrique du réseau ISSVA (*Vascular Medicine*, oct. 2026, IF 2,2, 52 spécialistes de 16 pays dont 90 % en CHU et 92 % en RCP dédiée) détaillant les standards pratiques de sclérothérapie des malformations vasculaires à flux lent (veineuses et lymphatiques) : prédominance du trio éthanol (67 %), bléomycine (58 %) et polidocanol (52 %), l'éthanol étant unanimement classé comme l'agent le plus efficace mais le plus à risque de nécrose cutanée (94 %) et de lésion nerveuse (75 %), justifiant l'essor de la mousse de polidocanol, de la bléomycine et de l'éthanol gélifié en zones sensibles.\n\n[ABSTRACT EN] Background Slow-flow vascular malformations (SFVMs) are rare congenital anomalies that cause significant morbidity. Currently, no evidence-based therapy exists to improve SFVM symptoms and reduce its relapse in the long-term. Sclerotherapy is central to management and widely practiced, yet comprehensive international data are limited and no standardized guidelines exist. We aimed to evaluate current practice patterns, focusing on sclerotherapy and multidisciplinary care. Methods An international cross-sectional survey was distributed to experts in the International Society for the Study of Vascular Anomalies (ISSVA) network. The questionnaire addressed treatment indications, sclerosant use and availability, anesthesia, coagulation management, risk communication, and case-based decision-making. Responses were analyzed descriptively. Results Fifty-two physicians from 16 countries completed the survey. Respondents included interventional radiologists (69%), vascular medicine specialists (15%), and pediatric surgeons (8%) in academic centers (90%). Multidisciplinary consultation was reported by 92% of participants. Ethanol (67%), bleomycin (58%), and polidocanol (52%) were the most accessible, although ethanol was consistently rated as the most dangerous. Sclerosant choice varied by lesion type and scenario. The risks most frequently communicated were skin necrosis (92% for lymphatic malformations and 94% for venous malformations, respectively), pigmentary changes (70% and 75%), and nerve injury (68% and 75%), whereas systemic complications such as cardiovascular collapse (16% and 22%) or death (14% and 22%) were less often discussed. In children, general anesthesia was preferred (90% and 86%), whereas adults received local (49% and 41%) or general anesthesia (47% and 43%). Preprocedural coagulation testing and anticoagulation strategies showed marked heterogeneity, especially for venous malformations. Conclusions This survey demonstrates substantial variability in SFVM management, particularly regarding sclerosant selection, anesthesia, coagulation, periprocedural care, and risk communication, and identifies areas where future prospective and collaborative research will be needed before evidence-based recommendations can be developed."
   },
   {
     "id": "pmid-42874309",
@@ -841,6 +982,69 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude de cohorte rétrospective (*Clinical Imaging*, oct. 2026, IF 1,8) issue de l'analyse de 256 989 comptes rendus d'IRM rachidiennes (6 709 mentionnant une lésion en hyposignal T1, 212 lésions solitaires suivies analysées selon le système Bone-RADS 2022 de la Society of Skeletal Radiology) : 87,7 % (186/212) des lésions solitaires étaient classables d'emblée en Bone-RADS 1 (« leave-alone » bénin certain) mais avaient pourtant généré 295 examens d'imagerie de suivi inutiles ; aucune lésion Bone-RADS 1 n'a évolué vers la malignité ni nécessité de biopsie sur le suivi.\n\n[ABSTRACT EN] Purpose Incidental T1-hypointense bone lesions on spinal MRI frequently prompt follow-up. We retrospectively applied the 2022 Society of Skeletal Radiology Bone Reporting and Data System (Bone-RADS) framework to a historical cohort to assess concordance between observed lesion outcomes and Bone-RADS expectations and quantify imaging that would not have been recommended under the framework. Methods This retrospective cohort study was approved by the institutional Research Ethics Board with waiver of informed consent. Spine MRI reports from May 2013 to May 2023 were reviewed. Of 256,989 spine MRI examinations, 6709 reports contained the term \"T1-hypointense,\" and 276 patients with recommended and completed lesion-directed follow-up met inclusion criteria. Bone-RADS was applied retrospectively to this follow-up-enriched cohort; no histopathological reference standard was available. Results Among 276 patients with incidental T1-hypointense bone lesions, 212 had solitary lesions eligible for retrospective Bone-RADS classification and 64 had multiple lesions, which were not classified. Of the 212, 186 were classified as Bone-RADS 1 and 26 as Bone-RADS 2/3. The 186 Bone-RADS 1 patients underwent 295 lesion-directed follow-up examinations that would not have been recommended under retrospective application of Bone-RADS. No lesion developed aggressive features or required biopsy or intervention. Median follow-up for Bone-RADS 1 lesions was 5.5 months (interquartile range, 3.0-21.5 months). Conclusion Observed outcomes were concordant with Bone-RADS expectations but do not constitute validation of the framework. Retrospective application identified follow-up examinations beyond Bone-RADS recommendations for lesions classified as Bone-RADS 1. Prospective multicenter evaluation against histopathological or long-term clinical reference standards is required."
+  },
+  {
+    "id": "pmid-42849255",
+    "type": "article-journal",
+    "title": "Routine pelvic MRI-derived marrow markers for predicting lumbar QCT-defined bone status using chemical shift-encoded fat quantification and radiomics",
+    "container-title": "European journal of radiology",
+    "volume": "205",
+    "issue": "",
+    "page": "113284",
+    "DOI": "10.1016/j.ejrad.2026.113284",
+    "PMID": "42849255",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42849255/",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Q"
+      },
+      {
+        "family": "Dai",
+        "given": "X"
+      },
+      {
+        "family": "Li",
+        "given": "Y"
+      },
+      {
+        "family": "Xu",
+        "given": "K"
+      },
+      {
+        "family": "Xu",
+        "given": "J"
+      },
+      {
+        "family": "Chen",
+        "given": "Y"
+      },
+      {
+        "family": "Ji",
+        "given": "X"
+      },
+      {
+        "family": "Feng",
+        "given": "L"
+      },
+      {
+        "family": "Zhang",
+        "given": "Y"
+      },
+      {
+        "family": "Lang",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude prospective sur 123 patients oncologiques (*European Journal of Radiology*, oct. 2026, IF 3,2) corrélant les biomarqueurs médullaires extraits de l'IRM pelvienne de surveillance (fraction graisseuse en densité de protons PDFF et relaxométrie R2* sur séquence Dixon multi-écho IDEAL-IQ au col fémoral, à la tête fémorale et à l'ilion, ainsi que la radiomique T1) à la densité minérale osseuse volumique (vBMD T12–L2) mesurée par QCT : augmentation significative de la PDFF médullaire et baisse du R2* avec la dégradation de la densité osseuse sur tous les sites (p < 0,05), excellente reproductibilité inter-lecteurs (ICC = 0,903–0,996) et bonne capacité discriminante pour identifier l'ostéoporose (AUC = 0,73–0,78) sans examen irradiant supplémentaire.\n\n[ABSTRACT EN] Objectives To evaluate whether pelvic MRI-derived IDEAL-IQ parameters and T1-weighted radiomics can predict lumbar QCT-defined bone status in cancer survivors undergoing routine pelvic oncologic MRI. Materials & methods This secondary analysis within a prospective surveillance cohort included 123 patients with pelvic malignancies who underwent MRI (with IDEAL-IQ) and lumbar QCT within three months. QCT-derived volumetric BMD at T12-L2 served as the reference standard to classify subjects as normal, osteopenia, or osteoporotic. Pelvic MRI-derived PDFF and R2* were measured at the femoral head, femoral neck, and ilium; a radiomics pipeline was built on T1-weighted images. Inter-reader reliability used absolute-agreement intraclass correlation coefficients (ICCs). Discrimination was evaluated with one-vs-rest ROC analysis, and clinical utility was assessed by decision-curve analysis using out-of-fold probabilities from five-fold internal validation for two decisions: osteoporosis versus non-osteoporosis and low bone mass versus normal bone status. Results PDFF increased and R2* decreased with worsening BMD at all sites (P Conclusion Pelvic MRI-derived IDEAL-IQ and radiomics markers showed modest and comparable performance for predicting lumbar QCT-defined bone status. Their discrimination was mainly driven by separation between normal bone status and osteoporosis, whereas osteopenia remained poorly distinguished. These findings support exploratory opportunistic risk flagging rather than complete three-class risk stratification."
   },
   {
     "id": "pmid-42942556",
@@ -1702,6 +1906,45 @@
     "abstract": "[SYNTHÈSE FR] Étude clinique (*Hip International*, sept. 2026, IF 1,6) évaluant la radiofréquence pulsée (PRF pendant 12 minutes) du nerf obturateur sous guidage scanner sur 33 hanches (30 patients, âge moyen 69 ans, coxarthrose Kellgren-Lawrence grades 2 à 4) avec suivi jusqu'à 12 mois : chute immédiate majeure de l'EVA (~9 points), maintien durable du soulagement dans les coxarthroses légères à modérées (baisse moyenne de -6 points d'EVA à 6 mois et -4 points à 12 mois), contre un effet transitoire (~3 mois) dans les coxarthroses terminales de stade 4, avec 0 % de complication CIRSE.\n\n[ABSTRACT EN] Introduction The effectiveness of percutaneous neuromodulation of the obturator nerve using pulsed radiofrequency ablation (PRF) in patients with hip osteoarthritis refractory to conservative treatment should be evaluated. Methods 33 hips in 30 patients with radiographically confirmed hip osteoarthritis (Kellgren-Lawrence grades 2-4), underwent CT-guided pulsed radiofrequency ablation (PRF), targeting the obturator nerve. The mean age of patients was 69 (range 25-90) years. PRF was applied for 12 minutes. The effectiveness of the procedure was evaluated retrospectively based on a pain analog scale (VAS) prior and 1 week, 1, 3, 6 and 12 months post PRF. Paired samples t- test analysis was used to compare baseline and follow-up VAS scores. CIRSE classification system was used for complication reportingResults:A marked reduction in pain intensity was observed immediately following the procedure, with a mean decrease of approximately 9 points on the VAS scale. Patients with mild osteoarthritis seem to benefit more from the procedure with a reduction in pain scale of an average of 6 points at 6 months and an average of 4 points at 12 months. Cases with end-stage osteoarthritis (stage 4) had recurred pain at an average of 3 months post intervention. No complications were reported during or after the procedure. Conclusions Percutaneous neuromodulation of the obturator nerve with the use of PRF ablation is an effective and safe procedure with durable pain relief in patients with mild-to-moderate osteoarthritis up to 12 months, whereas in severe disease (grade 4) disease the effect is predominantly short-term, with recurrence of pain after approximately 3 months."
   },
   {
+    "id": "pmid-42803616",
+    "type": "article-journal",
+    "title": "Does output voltage influence the clinical effects of pulsed radiofrequency of the suprascapular and axillary nerves in chronic shoulder pain? A double-masked, non-randomized comparative study",
+    "container-title": "Pain management",
+    "volume": "",
+    "issue": "",
+    "page": "1-8",
+    "DOI": "10.1080/17581869.2026.2741365",
+    "PMID": "42803616",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42803616/",
+    "author": [
+      {
+        "family": "Asensio-Samper",
+        "given": "JM"
+      },
+      {
+        "family": "De Andrés",
+        "given": "J"
+      },
+      {
+        "family": "Monsalve-Dolz",
+        "given": "V"
+      },
+      {
+        "family": "Fabregat-Cid",
+        "given": "G"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude prospective comparative en double aveugle (*Pain Management*, sept. 2026, IF 2,0) portant sur 80 patients souffrant d'épaule douloureuse chronique réfractaire traités par radiofréquence pulsée (PRF) combinée sous guidage échographique des nerfs supra-scapulaire et axillaire à tension standard (45 V, n = 40) versus haute tension (85 V, n = 40) avec suivi à 6 mois : amélioration fonctionnelle et antalgique dans les deux groupes sans différence significative sur l'EVA à 6 mois entre 45 V et 85 V (5,89 vs 5,47, p = 0,137), mais interaction temps × groupe significative en faveur du 85 V sur le score fonctionnel QuickDASH (49,86 vs 53,84, p = 0,018) et tolérance parfaite dans les deux bras.\n\n[ABSTRACT EN] Aims Chronic shoulder pain can cause substantial disability. This study evaluated whether increasing pulsed radiofrequency (PRF) output voltage from 45 V to 85 V provides additional benefit when treating the suprascapular and axillary nerves. Patients and methods In this prospective, double-masked, non-randomized comparative study, 80 patients (40 per group) with refractory chronic shoulder pain underwent ultrasound-guided PRF at 45 V or 85 V using otherwise identical parameters. The primary outcome was pain intensity (visual analog scale [VAS]); secondary outcomes included QuickDASH, SF-12, HADS, patient global improvement, analgesic use, and safety. Outcomes were assessed over 6 months using a repeated-measures general linear model. Results At 6 months, estimated marginal mean VAS scores were 5.89 (95% CI 5.18-6.59) with 45 V and 5.47 (95% CI 4.92-6.02) with 85 V. Neither the group effect ( p = 0.137) nor group-by-time interaction ( p = 0.815) was significant. QuickDASH scores were 53.84 (95% CI 48.02-59.66) and 49.86 (95% CI 44.30-55.42), respectively, with a significant group-by-time interaction ( p = 0.018). Conclusions Increasing PRF voltage from 45 V to 85 V was not associated with a significant difference in pain trajectories, although small differences in secondary outcomes cannot be excluded."
+  },
+  {
     "id": "pmid-42782915",
     "type": "article-journal",
     "title": "Pre-Spondylectomy Radiofrequency Ablation for Spinal Chordoma: An Illustrative Case and Systematic Review of Clinical Applications and Outcomes",
@@ -1771,6 +2014,49 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Revue systématique (*Current Oncology*, sept. 2026, 13 études / 33 patients / 34 sites de chordomes rachidiens ou sacrés traités par cryoablation [n=21] ou radiofréquence [n=11]) et cas illustratif de chordome L4 traité par RFA + vertébroplastie scanoguidée avant spondylectomie en bloc, sans déficit neurologique ni récidive à 18 mois.\n\n[ABSTRACT EN] Chordomas are rare, locally aggressive spinal tumors. En bloc resection may improve local control but can cause substantial morbidity. Thermal ablation may provide a less invasive adjunct or alternative in selected cases. We systematically reviewed reports of radiofrequency ablation (RFA), cryoablation, laser interstitial thermal therapy, high-intensity focused ultrasound, and similar thermal techniques for spinal or sacral chordoma to characterize their clinical applications and reported clinical and radiographic outcomes across pre-resection, primary non-operative, and palliative settings. Eligible studies reported at least one ablation-related clinical or radiographic outcome. Data were descriptively synthesized, and risk of bias was assessed using the Joanna Briggs Institute criteria. Thirteen studies including 33 patients and 34 ablated sites were identified. Cryoablation was used in 21 patients, RFA in 11 patients, and laser interstitial thermal therapy in one patient. Ablation was used as a pre-resection adjunct, primary treatment for unresectable disease, or palliation for recurrent or metastatic lesions. Most reports described pain improvement, short-term local stability, and few major complications. We also report an L4 chordoma treated with CT-guided RFA and vertebroplasty before staged en bloc spondylectomy, without a new neurologic deficit or local recurrence at 18 months. Thermal ablation may be a technically feasible adjunct, primary non-operative option, or palliative strategy for carefully selected spinal and sacral chordomas. In the presented mobile-spine case, planned pre-spondylectomy RFA was feasible before staged en bloc resection; however, limited follow-up and sparse heterogeneous literature preclude conclusions regarding long-term local control, recurrence reduction, survival, or routine use. Ablation should not replace oncologically appropriate en bloc resection when that procedure can be safely achieved and should be considered selectively within multidisciplinary chordoma care."
+  },
+  {
+    "id": "pmid-42720734",
+    "type": "article-journal",
+    "title": "Image-guided ablation for pediatric malignant solid tumors: a review of modalities, evidence, and clinical applications",
+    "container-title": "Pediatric radiology",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "DOI": "10.1007/s00247-026-06781-1",
+    "PMID": "42720734",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42720734/",
+    "author": [
+      {
+        "family": "Shashi",
+        "given": "K"
+      },
+      {
+        "family": "Sabado",
+        "given": "J"
+      },
+      {
+        "family": "Chewning",
+        "given": "R"
+      },
+      {
+        "family": "Shahin",
+        "given": "M"
+      },
+      {
+        "family": "Shaikh",
+        "given": "R"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Synthèse exhaustive de 30 ans de littérature (*Pediatric Radiology*, sept. 2026, IF 2,1) évaluant les 5 modalités d'ablation percutanée guidée par l'image — radiofréquence (RFA), cryoablation, micro-ondes (MWA), électroporation irréversible (IRE) et électrochimiothérapie (ECT) — dans les tumeurs malignes solides de l'enfant et de l'adolescent (dont les ostéosarcomes, sarcomes d'Ewing et sarcomes des parties molles où la survie globale à 5 ans stagne autour de 60 %) : précise les indications validées en situation de récidive locale, de maladie oligométastatique ou de limitation chirurgicale.\n\n[ABSTRACT EN] Image-guided percutaneous ablation has evolved into an increasingly utilized approach in selected pediatric oncologic indications. The evidence base remains thinner than clinical adoption would suggest. Most published series are small, retrospective, and limited to single institutional experiences. This review synthesizes evidence from 1995 through early 2025 on radiofrequency ablation (RFA), cryoablation, microwave ablation (MWA), irreversible electroporation (IRE), and electrochemotherapy across malignant solid tumors in patients aged 18 years or younger. Hepatoblastoma has shown the steepest rising incidence among ablation-relevant solid tumors with an annual percent change of +2.17%. Five-year survival for bone tumors and soft tissue sarcomas remains near 60%. For malignant solid tumors, the evidence remains limited to small retrospective series with heterogeneous populations and short follow-up, precluding conclusions about survival benefit. Surgical resection and systemic chemotherapy remain the primary treatment for all malignant solid tumors discussed; ablation is reserved for relapsed, refractory, or surgically limited scenarios. A coordinated multicenter registry with standardized survival endpoints remains the most urgent unmet need in the field."
   },
   {
     "id": "pmid-42671500",
@@ -2144,6 +2430,57 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Cohorte de 55 tumeurs desmoïdes de la paroi abdominale (46 primitives, 9 récidivantes après chirurgie) suivies pendant une médiane de 58 mois (*International Journal of Hyperthermia*, août/déc. 2026, IF 3,1) : taux de contrôle local (DCR) de 98 % (54/55) et taux de réponse objective (ORR) de 82 % (87 % chez les patients naïfs de chirurgie contre 56 % sur les récidives post-chirurgicales), confirmant la haute sensibilité des fibromatoses desmoïdes pariétales aux ablations thermiques guidées par l'image.\n\n[ABSTRACT EN] Background Desmoid tumor (DT) is a rare, locally invasive soft tissue tumor that does not metastasize but has a high recurrence rate after surgery. DTs can be divided into three types: abdominal wall, intra-abdominal and extra-abdominal DTs. The primary treatment options for abdominal wall DT include active surveillance (AS) and surgical resection. However, many patients experience progression during AS, whereas surgical resection carries a high risk of recurrence. Therefore, an effective, noninvasive and safe local treatment method is currently needed in clinical practice. Methods This study included all patients with abdominal wall DT treated by high-intensity focused ultrasound (HIFU) at the Oncology Department of the Second Affiliated Hospital of Zhejiang University School of Medicine from July 2015 to May 2023. Thermal ablation of the abdominal wall DT was conducted using focused ultrasound beams. Following tumor ablation, treatment outcomes were evaluated for all patients. Results A total of 55 abdominal wall DT cases underwent HIFU treatment, including 46 and 9 initial and recurrent tumors, respectively. The median follow-up time was 58 months. The median ablation rate for all patients after 1 month of HIFU treatment was 61%. The objective response rate (ORR) and disease control rate (DCR) were 82% (45/55) and 98% (54/55), respectively. Based on disease course, ORRs were 87% and 56% in treatment-naïve patients and re-treated patients, respectively. Conclusion HIFU demonstrates a high DCR for abdominal wall DT with few side effects, representing an effective treatment, especially for treatment-naïve patients."
+  },
+  {
+    "id": "pmid-42562224",
+    "type": "article-journal",
+    "title": "Optimizing Percutaneous Sclerotherapy in Venous Malformations: A Longitudinal Analysis of Pain Relief and Treatment Plateau Effect",
+    "container-title": "Annals of vascular surgery",
+    "volume": "133",
+    "issue": "",
+    "page": "214-222",
+    "DOI": "10.1016/j.avsg.2026.07.041",
+    "PMID": "42562224",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42562224/",
+    "author": [
+      {
+        "family": "Tang",
+        "given": "FQ"
+      },
+      {
+        "family": "Yang",
+        "given": "ZB"
+      },
+      {
+        "family": "Zheng",
+        "given": "X"
+      },
+      {
+        "family": "Huang",
+        "given": "TY"
+      },
+      {
+        "family": "Zhang",
+        "given": "XE"
+      },
+      {
+        "family": "Xie",
+        "given": "XY"
+      },
+      {
+        "family": "Xu",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Analyse longitudinale par modèle linéaire à effets mixtes (*Annals of Vascular Surgery*, août/déc. 2026, IF 1,5) caractérisant la cinétique de réponse antalgique au fil des séances successives de sclérothérapie percutanée des malformations veineuses (MV) : taux d'efficacité globale de 83,4 % avec réduction hautement significative de l'EVA et de la vascularisation Doppler (p < 0,001) et 0 % de complication majeure, mais démonstration mathématique d'un **effet plateau après la 3e séance de sclérothérapie**, justifiant une réévaluation formelle après 3 séances plutôt que la multiplication infinie des injections.\n\n[ABSTRACT EN] Background To characterize the longitudinal pain relief pattern across successive pingyangmycin-based percutaneous sclerotherapy (PYM-PS) sessions in patients with venous malformations (VMs), and to evaluate whether treatment efficacy exhibits a plateau effect. Methods A linear mixed-effects model (LMM) was applied to analyze visual analogue scale (VAS) pain scores across successive PYM-PS sessions. Fixed effects included treatment session, baseline pain VAS score, age, lesion volume, and treatment interval, with patient-specific variability as random effect. Pretreatment and post treatment pain VAS scores and ultrasound (US) blood supply levels were compared, and complications were documented. Results A plateau effect in pain relief was observed after the third treatment session, with further sessions not completely ineffective yet offering limited therapeutic benefits. Fixed effects explained 46% of VAS score variance, rising to 68% when including random effect. Significant predictors of favorable clinical outcomes included increasing number of treatment sessions (P = 0.04), lower baseline pain score (P Conclusion PYM-PS effectively and safely relieves pain in VM patients, with a plateau effect emerging after about 3 treatment sessions. These findings support a standardized protocol of 3 PYM-PS sessions as a reevaluation time point for optimizing individualized treatment planning."
   },
   {
     "id": "pmid-42618654",
@@ -4344,6 +4681,61 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Revue d'état de l'art (*Semin Musculoskelet Radiol*, févr. 2026) détaillant les indications établies (ostéome ostéoïde, palliation antalgique et contrôle oligométastatique osseux) et émergentes (chondroblastome, tumeurs desmoïdes, anomalies vasculaires, endométriose pariétale, récidives locales de sarcomes) de la cryoablation percutanée.\n\n[ABSTRACT EN] Image-guided percutaneous cryoablation plays an increasingly important role in managing bone and soft tissue tumors. Well-established indications include the treatment of osteoid osteoma, palliation of painful skeletal metastases, and local control of oligometastatic disease. Emerging indications are now a variety of painful benign bone tumors beyond osteoid osteoma, symptomatic soft tissue lesions (such as desmoid fibromatosis, vascular anomalies, abdominal wall endometriosis), as well as local recurrences of bone and soft tissue sarcoma. This state-of-the-art review describes the percutaneous cryoablation technique including current strategies to prevent complications. We also discuss the expanding range of clinical indications, as well as future directions of this promising technology in the musculoskeletal system."
+  },
+  {
+    "id": "pmid-41694550",
+    "type": "article-journal",
+    "title": "Pulsed radiofrequency of S2-4 nerve roots vs ganglion impar neurolysis for severe perineal cancer pain",
+    "container-title": "Pain reports",
+    "volume": "11",
+    "issue": "2",
+    "page": "e1393",
+    "DOI": "10.1097/pr9.0000000000001393",
+    "PMID": "41694550",
+    "PMCID": "PMC12900185",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/41694550/",
+    "author": [
+      {
+        "family": "Abed",
+        "given": "SM"
+      },
+      {
+        "family": "Thabet",
+        "given": "TS"
+      },
+      {
+        "family": "Ibrahim",
+        "given": "MA"
+      },
+      {
+        "family": "Gad",
+        "given": "AF"
+      },
+      {
+        "family": "Elshamy",
+        "given": "FH"
+      },
+      {
+        "family": "Eltwab",
+        "given": "DA"
+      },
+      {
+        "family": "Wadod",
+        "given": "MA"
+      },
+      {
+        "family": "Elsabeeny",
+        "given": "WY"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Essai prospectif randomisé contrôlé (*Pain Reports*, févr. 2026, IF 3,4, Open-Access, 40 patients avec douleur cancéreuse périnéale ou périanale sévère EVA ≥ 7 randomisés 1:1) comparant la radiofréquence pulsée (PRF) sélective bilatérale des racines sacrées S2–S4 (n = 20) à la neurolyse chimique au phénol 6 % du ganglion Impar (GIN, n = 20) : baisse significative de l'EVA jusqu'à 12 semaines dans les deux bras (p < 0,001), mais supériorité statistiquement significative du groupe PRF S2–S4 sur le soulagement douloureux en salle de réveil et à 1, 4 et 8 semaines (p < 0,05), moindre consommation d'oxycodone et de prégabaline, et meilleurs scores de qualité de vie et de satisfaction des patients.\n\n[ABSTRACT EN] Introduction Perianal and perineal-related cancer pain is deemed severe in most patients with cancer, and its management poses a significant challenge due to rich innervation of this region. Objectives This study compared the analgesic efficacy of bilateral selective pulsed radiofrequency (PRF) of sacral nerve roots (S2-S4) with ganglion impar neurolysis (GIN) in patients experiencing severe perianal and perineal cancer pain. Methods Forty patients with severe perineal or perianal cancer pain, defined by a visual analogue scale (VAS) score ≥7, were randomized to 1 of 2 groups. Both procedures were performed under fluoroscopic guidance: the PRF group received bilateral selective PRF of sacral nerve roots (S2-S4), whereas the GIN group underwent ganglion impar neurolysis using a 6% phenol in saline injection. The primary outcome was the VAS score at 4 weeks. Results Both groups showed significant reductions in VAS scores up to 12 weeks post-treatment compared to baseline ( P P P Conclusion Bilateral PRF of sacral nerve roots (S2-S4) resulted in more analgesic efficacy and improved quality-of-life compared to GIN in patients with severe perineal and perianal cancer pain, despite higher rate of injection site discomfort."
   },
   {
     "id": "pmid-41568883",
