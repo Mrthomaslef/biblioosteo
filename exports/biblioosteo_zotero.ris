@@ -50,6 +50,38 @@ KW  - J Robot Surg 2026
 ER  - 
 
 TY  - JOUR
+TI  - Intraoperative visualization with 3D fluoroscopy for posterior pelvic fixation is associated with lower cumulative imaging-related radiation exposure
+AU  - Tse S
+AU  - Chinweze RO
+AU  - Velasco-Castro J
+AU  - Andring N
+AU  - Jbeily E
+AU  - Robinson C
+AU  - Saade A
+AU  - Simister S
+AU  - Campbell ST
+AU  - Fitzpatrick E
+AU  - Lee MA
+AU  - Saiz AM
+AU  - Soles GL
+JO  - Injury
+PY  - 2026
+VL  - 57
+IS  - 12
+SP  - 113886
+DO  - 10.1016/j.injury.2026.113886
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude comparative sur 245 patients (*Injury*, nov. 2026, IF 2,2) opérés d'un vissage percutané de l'anneau pelvien postérieur entre 2014 et 2023 sous fluoroscopie 3D per-opératoire (3DF, n = 89) versus fluoroscopie 2D conventionnelle + scanner post-opératoire (2DF, n = 156) : réduction par 3 de la dose d'irradiation cumulée totale (179,2 mGy vs 526,1 mGy, p < 0,001), réduction par 4 de la dose per-opératoire seule (médiane 79,1 mGy vs 318,0 mGy, p < 0,001) et baisse significative du taux de réintervention chirurgicale à moyen terme (9,5 % vs 31,2 %, p = 0,012). | Points clés : Divise par 3 la dose d'irradiation cumulée (179,2 mGy vs 526,1 mGy, p < 0,001) et par 4 la dose per-opératoire seule (79,1 vs 318,0 mGy, p < 0,001) par rapport à la fluoroscopie 2D classique. ; Réduit significativement le taux de reprise chirurgicale secondaire (9,5 % vs 31,2 %, p = 0,012) grâce au contrôle tridimensionnel immédiat des couloirs osseux sacrés. ; Confirme la supériorité dosimétrique et clinique du guidage TDM / Cone-Beam 3D utilisé en radiologie interventionnelle à Cochin pour le vissage pelvien. | Pratique Cochin : Directement lié aux procédures de « Vissage percutané du bassin postérieur et sacro-iliaque sous guidage scanner / CBCT 3D » réalisées à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Introduction Achieving optimal screw positioning in posterior pelvic ring (PR) fracture fixation is critical for fracture stability and safety. Formerly, our institution used intraoperative plain-film fluoroscopy followed by postoperative computed tomography (CT) to assess fracture reduction and screw placement. Introduction of the 3D mobile C-arm enables immediate volumetric intraoperative assessment, may improve intraoperative visualization, and may alter conventional imaging requirements. This study compared cumulative imaging-related radiation exposure between cases performed with intraoperative 3D fluoroscopy (3DF) against standard intraoperative plain-film fluoroscopy (2DF), including postoperative CT utilization. Methods A retrospective review was conducted on patients treated for posterior PR fractures at a level 1 trauma center between 2014 and 2023. Utilization of 3DF or plain-film fluoroscopy, and any intraoperative screw changes were documented. Rates and details of postoperative complications and subsequent reoperations were recorded for patients with > 3 months follow-up. Radiation doses for 3DF, 2DF, and postoperative CT were extracted from radiology reports. Results Among 245 patients (mean age 47.2, 52.2% male) undergoing fixation for posterior PR fractures, 89 (36.3%) had 3DF intraoperatively, while 156 (63.7%) had 2DF. 27 patients (8 3DF, 19 2DF, p = 0.443) had screws changed intraoperatively, primarily to modify screw path (n = 16, 59.3%), to achieve better purchase/reduction (n = 5, 18.5%), to modify screw size (n = 3, 11.1%), to change screw type (n = 2, 7.4%), and failure to advance screw (n = 1, 3.7%). Mean radiation dose for the 3DF group was significantly lower (179.2 mGy vs 526.1 mGy, p 3 months follow-up, reoperation was less frequent with 3DF (9.5% vs 31.2%, p = 0.012), predominantly for symptomatic implant removal. Discussion and conclusion Intraoperative 3DF was associated with lower cumulative radiation exposure compared to traditional fluoroscopy with routine postoperative CT, and intraoperative dose alone was also lower. Reoperation was less frequent in the 3DF group, but most reoperations were implant removals for symptomatic or planned indications. These findings highlight the potential of 3DF as a practical radiation efficient quality assurance tool in posterior pelvic fixation.
+N1  - PMID: 43019680 | PMCID:  | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
+UR  - https://pubmed.ncbi.nlm.nih.gov/43019680/
+KW  - Vissage pelvien percutané
+KW  - Fluoroscopie 3D
+KW  - CBCT
+KW  - Radioprotection
+KW  - Anneau pelvien postérieur
+KW  - Injury 2026
+ER  - 
+
+TY  - JOUR
 TI  - Bleomycin-Induced Pulmonary Toxicity: A Systematic Review and Meta-Analysis of Incidence and Risk Factors
 AU  - Tolstrup M
 AU  - Lonkvist CK
@@ -420,6 +452,37 @@ KW  - World J Radiol 2026
 ER  - 
 
 TY  - JOUR
+TI  - Safety, tissue adequacy, and diagnostic contribution of ultrasound-guided synovial biopsy: a retrospective multicenter observational study in a heterogeneous rheumatology cohort
+AU  - Apaydın H
+AU  - Deniz R
+AU  - Yılmaz GÇ
+AU  - Erdoğan M
+AU  - Kapaklı GE
+AU  - Üner H
+AU  - Erdoğan N
+AU  - Karavin EÇ
+AU  - Turköz K
+AU  - Bes C
+AU  - Gül A
+AU  - İnanç N
+JO  - Rheumatology international
+PY  - 2026
+VL  - 46
+IS  - 11
+SP  - 295
+DO  - 10.1007/s00296-026-06340-9
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude observationnelle multicentrique (*Rheumatology International*, oct. 2026, IF 3,2) portant sur 87 patients ayant bénéficié d'une biopsie synoviale échoguidée (UGSB, principalement au genou dans 69 % des cas) : obtention d'un tissu synovial histologiquement adéquat dans 90 % des procédures, corrélation significative entre le grade de synovite échographique et le score histologique de Krenn (p = 0,036), réduction significative de la douleur et du gonflement post-geste (p < 0,001), 0 % de complication grave (aucune hémarthrose ni infection) et diminution de plus de moitié de la proportion d'arthrites indifférenciées (de 31,0 % à 13,8 %). | Points clés : Taux d'adéquation histologique de 90 % et réduction de plus de moitié des arthrites indifférenciées (de 31,0 % à 13,8 %) grâce à l'intégration histo-microbiologique. ; Sécurité procédurale remarquable : 0 % d'infection, d'hémarthrose ou de lésion tendineuse/vasculaire sur 87 biopsies synoviales échoguidées. ; Corrélation démontrée entre la sévérité échographique (mode B et épanchement) et le score histologique de synovite de Krenn (p = 0,001 à 0,036). | Pratique Cochin : En lien direct avec les vacations de « Biopsie synoviale sous échographie ou scanner pour monoarthrite/oligoarthrite indifférenciée, suspicion d'arthrite septique indolente ou de synovite villonodulaire » réalisées à Cochin. || [ABSTRACT ORIGINAL - EN] To evaluate procedural safety as the primary outcome of ultrasound-guided synovial biopsy (UGSB) in a real-world, multicenter rheumatology setting. Secondary outcomes included technical tissue adequacy, histopathological yield, patient-reported outcomes, willingness to undergo repeat biopsy, clinical indications, and diagnostic contribution. This retrospective multicenter observational study included 87 patients who underwent UGSB for diagnostic or clinical indications. Demographic and clinical data, indication, biopsied joint, ultrasonographic findings, adverse events, and patient-reported outcomes using a Visual Analogue Scale (VAS 0-10) for pain, swelling, and limitation of motion were collected pre- and post-procedure. Adverse events and willingness to undergo repeat biopsy were recorded. Diagnoses were classified as rheumatoid arthritis (RA), undifferentiated arthritis, or other rheumatologic diseases. Of the 87 patients (57.5% female; median age 46 years, IQR 17), 47.1% were diagnosed with RA, 31.0% had undifferentiated arthritis, and 21.8% had other rheumatologic conditions. The knee was the most frequently biopsied joint (69.0%). Ultrasonographic grade ≥ 2 synovitis was detected in 83.3% and power Doppler signal in 33.3% of the 54 patients with available US data. Adequate synovial tissue for histopathological evaluation was obtained in 90% of procedures. Post-procedural VAS scores demonstrated significant reductions in pain, swelling, and limitation of motion compared with pre-biopsy assessments (p < 0.001 for all). Ultrasonographic synovitis severity correlated with the histological Krenn synovitis score (greyscale ρ = 0.31, p = 0.036; effusion ρ = 0.48, p = 0.001). Adverse events were infrequent and predominantly mild; transient pain was the most common complication (19.5%). Sensory impairment and vasovagal reactions each occurred in one patient (1.1%). No tendon, vascular, ligament, or muscle injury, hemarthrosis, infection, or thromboembolic complications were observed. Sixty-seven patients (77.0%) reported willingness to undergo repeat biopsy if clinically indicated. Following completion of the overall diagnostic work-up-integrating clinical, laboratory, imaging, microbiological, and histopathological findings-the proportion classified as having undifferentiated arthritis decreased from 31.0% to 13.8%. UGSB is a safe, feasible, and well-tolerated minimally invasive procedure with high patient acceptability and a high rate of adequate tissue acquisition across a broad spectrum of rheumatologic diseases. In selected patients with diagnostically challenging arthritis, synovial tissue analysis may provide histopathological or microbiological information that contributes to diagnostic clarification when integrated with the broader clinical work-up. These findings support the feasibility of UGSB in appropriately selected clinical settings and provide a basis for future prospective studies with standardized protocols.
+N1  - PMID: 42927519 | PMCID:  | Catégorie: Biopsies Ostéo-Articulaires, Synoviales & Sarcomes
+UR  - https://pubmed.ncbi.nlm.nih.gov/42927519/
+KW  - Biopsie synoviale
+KW  - Échographie interventionnelle
+KW  - Arthrite indifférenciée
+KW  - Score de Krenn
+KW  - Rendement diagnostique
+KW  - Rheumatol Int 2026
+ER  - 
+
+TY  - JOUR
 TI  - Current Role of Radiomics for Management of Soft Tissue Sarcoma
 AU  - Chang YC
 AU  - McGowan N
@@ -522,6 +585,29 @@ KW  - Eur J Radiol 2026
 ER  - 
 
 TY  - JOUR
+TI  - Quantitative assessment of vertebral bone marrow adipose tissue using photon-counting CT compared with MRI
+AU  - Shu D
+AU  - Wang J
+AU  - Liang D
+AU  - Zhao L
+AU  - Zhao Z
+JO  - European journal of radiology
+PY  - 2026
+VL  - 205
+SP  - 113281
+DO  - 10.1016/j.ejrad.2026.113281
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude prospective comparative (*European Journal of Radiology*, oct./déc. 2026, IF 3,2) portant sur 73 patients (339 corps vertébraux analysés) ayant bénéficié à la fois d'un scanner lombaire à comptage photonique (PCCT) et d'une IRM quantitative 6-échos q-Dixon (mesurant la fraction graisseuse en densité de protons PDFF de référence) : la fraction graisseuse dérivée des cartes virtuelles sans calcium du scanner à comptage photonique (**VNCa CTFF**) présente une très forte corrélation positive avec la PDFF IRM tant à l'échelle vertébrale ($r = 0,863$) qu'à l'échelle du patient ($r = 0,895$), tandis que les valeurs d'atténuation VNCa en UH montrent une forte corrélation négative ($r = -0,858$ à $-0,888$). | Points clés : Validation prospective sur 339 vertèbres (73 patients) de la quantification de la graisse médullaire par scanner à comptage photonique (PCCT) face au gold standard IRM q-Dixon 6-échos. ; Corrélation excellente de la fraction graisseuse VNCa-CTFF avec l'IRM PDFF à l'échelle vertébrale ($r = 0,863$) et individuelle ($r = 0,895$). ; Montre que les valeurs standard à 70 keV sont confondues par la trame calcique trabéculaire, alors que la décomposition spectrale VNCa isole spécifiquement le compartiment médullaire. | Pratique Cochin : En lien direct avec le développement de l'imagerie spectrale / comptage photonique et des séquences Dixon rachidiennes à Cochin pour « Caractériser la moelle osseuse vertébrale, dépister l'infiltration tumorale et évaluer la trophique osseuse avant cimentoplastie ». || [ABSTRACT ORIGINAL - EN] Rationale and objectives To evaluate the feasibility and accuracy of photon-counting CT (PCCT)-derived parameters for quantifying vertebral bone marrow adipose tissue (BMAT), using MRI proton density fat fraction (PDFF) as the reference standard. Materials and methods Adult participants with low back pain were prospectively recruited to undergo both PCCT and MRI. PCCT-derived parameters, including virtual non-calcium (VNCa) CT values, VNCa CT fat fraction (CTFF), and standardized 70 keV CT values, were obtained. MRI PDFF maps were generated using a 6-echo q-Dixon sequence. Correlation and agreement between PCCT-derived parameters and MRI PDFF were assessed at both vertebral and subject levels. Results A total of 73 participants were included, and 339 vertebral bodies were analyzed. VNCa CTFF showed strong positive correlation with MRI PDFF at both vertebral (r = 0.863) and subject (r = 0.895) levels. In contrast, VNCa CT values (r = -0.858 to -0.888) and standardized 70 keV CT values (r = -0.791 to -0.833) showed significant negative correlations with MRI PDFF. Bland-Altman plots showed small mean differences but relatively wide limits of agreement between calibrated VNCa CTFF and MRI PDFF. Conclusions PCCT-derived VNCa CTFF showed strong correlation with MRI PDFF, and linear calibration reduced the mean difference between the two measurements, although the limits of agreement remained relatively wide. Standardized 70 keV CT values were also correlated with MRI PDFF, but should be interpreted cautiously as attenuation-based surrogates influenced by both trabecular mineral content and marrow fat.
+N1  - PMID: 42843083 | PMCID:  | Catégorie: Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Geste
+UR  - https://pubmed.ncbi.nlm.nih.gov/42843083/
+KW  - Scanner à comptage photonique
+KW  - PCCT
+KW  - Virtual Non-Calcium
+KW  - IRM Dixon PDFF
+KW  - Moelle osseuse vertébrale
+KW  - Eur J Radiol 2026
+ER  - 
+
+TY  - JOUR
 TI  - Intraoperative Neurophysiological Monitoring During Continuous Radiofrequency Treatment of Morton's Neuroma: Complete Ablation
 AU  - Camuñas-Nieves G
 AU  - Fernández-Gibello A
@@ -569,6 +655,28 @@ KW  - Gonarthrose
 KW  - Bloc pronostique
 KW  - Anatomie nerveuse
 KW  - Reg Anesth Pain Med 2026
+ER  - 
+
+TY  - JOUR
+TI  - Post-procedure MRI lesion size after 7-min basivertebral nerve ablation
+AU  - Stephens AR
+AU  - El-Hassan R
+AU  - Aktas AF
+JO  - Interventional pain medicine
+PY  - 2026
+VL  - 5
+IS  - 4
+SP  - 100829
+DO  - 10.1016/j.inpm.2026.100829
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude d'imagerie post-procédurale (*Interventional Pain Medicine*, oct./déc. 2026, IF 1,8, Open-Access) mesurant par deux lecteurs indépendants sur l'IRM sagittale la taille réelle de la zone de nécrose thermique après ablation par radiofréquence du nerf basivertébral (BVNA) réalisée selon le nouveau protocole raccourci de **7 minutes** : hauteur lésionnelle moyenne de **11,6 ± 1,2 mm** et largeur moyenne de **10,9 ± 1,4 mm** (soit ~1,1 cm de diamètre), strictement superposable au diamètre sphérique de 1,0 cm historiquement obtenu avec le protocole de 15 minutes. | Points clés : Démontre en IRM que le protocole raccourci de 7 minutes génère une lésion thermique moyenne de 11,6 mm de hauteur sur 10,9 mm de largeur (~1,1 cm), identique au protocole historique de 15 minutes. ; Permet de réduire de moitié le temps de chauffe par étage vertébral (particulièrement précieux lors des procédures multi-étagées L3–S1) sans compromis sur le volume de dénervation. ; Fournit la sémiologie IRM de référence post-BVNA pour éviter de confondre la zone d'ablation attendue (~11 mm) avec une spondylite infectieuse ou une progression lésionnelle. | Pratique Cochin : Apporte un repère technique et radiologique essentiel pour nos « Radiofréquences basivertébrales (réglage de la durée d'ablation 7 min vs 15 min) et l'interprétation des IRM rachidiennes de contrôle post-ablation » à Cochin. || [ABSTRACT ORIGINAL - EN] Background Chronic vertebrogenic low back pain can be successfully treated with basivertebral nerve ablation (BVNA). Initial studies reported the effectiveness of BVNA using a 15-min ablation protocol. Recently, industry has sponsored adopting 7-min ablations for appropriately placed probes. The effectiveness of 7-min ablations has been called into question. For 15-min ablations, lesion size has been reported to be approximately 1 cm in diameter. There are no literature reporting lesion sizes for 7-min ablations. Objective The purpose of this study was to evaluate MRI lesion size for patients who underwent 7-min BVNA. Methods A retrospective cohort study was conducted of patients who underwent BVNA and had post-procedure MRI available for review. All MRIs were obtained for patients who failed to improve after BVNA or developed new symptoms. On the sagittal post-procedure MRI, the BVNA lesion height and width size were measured by two independent reviewers. Interobserver reproducibility was assessed using intraclass correlations and Bland-Altmann analysis. The average height and width of the lesion was calculated with standard deviations. Results A total of 10 out of 57 patients who underwent BVNA during the study timeframe had post-procedure MRI. There was acceptable reproducibility between MRI reviewers. The average lesion height size was 11.6 mm (±1.2 mm), and the average width was 10.9 mm (±1.4 mm). Conclusions Our study demonstrated that patients who received an MRI due to treatment failure or new symptoms after treatment with 7-min BVNA had average height and width lesion sizes of approximately 1.1 cm. This is within range of the lesion size of historically accepted 15-min BVNA lesion sizes.
+N1  - PMID: 42997541 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
+UR  - https://pubmed.ncbi.nlm.nih.gov/42997541/
+KW  - Nerf basivertébral
+KW  - Radiofréquence
+KW  - Modic 1 et 2
+KW  - IRM post-ablation
+KW  - Taille lésionnelle
+KW  - Interv Pain Med 2026
 ER  - 
 
 TY  - JOUR
@@ -806,6 +914,30 @@ KW  - Antibiothérapie préalable
 KW  - Scanner interventionnel
 KW  - Microbiologie
 KW  - Diagn Interv Radiol 2026
+ER  - 
+
+TY  - JOUR
+TI  - A Simple Needle Disc Puncture in the Cervical Spine is a Safe and Efficient Alternative to Disc/Vertebral Biopsy: Ten Years' Experience in a Reference Centre
+AU  - Heurtault C
+AU  - Robin F
+AU  - Cadiou S
+AU  - Ract I
+AU  - Tattevin P
+AU  - Guillin R
+JO  - World neurosurgery
+PY  - 2026
+VL  - 215
+SP  - 125343
+DO  - 10.1016/j.wneu.2026.125343
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Retour d'expérience sur 10 ans d'un centre de référence (*World Neurosurgery*, sept./nov. 2026, IF 2,0) évaluant la ponction-aspiration discale cervicale simple à l'aiguille fine sous guidage TDM et anesthésie locale (CTFNP, avant toute antibiothérapie probabiliste) chez les patients présentant une spondylodiscite cervicale à hémocultures négatives : positivité microbiologique dans **90 % des cas (9/10)** (avec prédominance du groupe *Streptococcus anginosus* chez les patients aux antécédents ORL/radiothérapie cervicale), durée moyenne de procédure de 20 minutes, délai médian de réalisation de 1,5 jour et **0 % de complication majeure**. | Points clés : Taux d'identification microbiologique de 90 % (9/10) par simple ponction discale cervicale à l'aiguille fine sous TDM lorsqu'elle est réalisée avant antibiothérapie. ; Faisabilité sous anesthésie locale pure en 20 minutes en moyenne, évitant le délai d'accès à une anesthésie générale et réduisant le délai médian de prise en charge à 1,5 jour. ; L'absence d'hypersignal liquidien intradiscal franc en IRM (absent dans 70 % des cas) ne préjuge pas d'une ponction blanche et ne doit pas faire récuser le geste. | Pratique Cochin : Fournit une technique précieuse et rapide pour les demandes urgentes de « Ponction-biopsie discale / vertébrale cervicale sous scanner pour spondylodiscite infectieuse à hémocultures négatives » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Background Disc/vertebral infection (DVI) often requires invasive sampling for microbiological diagnosis when blood cultures are negative. CT-guided disc/vertebral biopsy is the standard diagnostic procedure but is technically challenging and associated with neurological risks in the cervical region. The technique requires sedation or general anaesthesia. These factors may cause organizational complexity, longer processing times and further delay treatment. This study assesses the diagnostic value of simple CT-guided fine-needle disc puncture (CTFNP) under local anaesthesia as an alternative in suspected cervical DVI. Methods This retrospective study included patients managed for DVI between 2015 and 2025 at a single referral centre. All patients underwent CTFNP under local anaesthesia for suspected cervical DVI after a recent MRI and without prior empiric antibiotic therapy. Culture positivity was assessed for each case. Data were collected and correlated with microbiological findings. Results Ten patients were included. Microbiological cultures were positive in 9 of 10 cases. Five patients had a history of head and neck cancer or neck irradiation. In this subgroup, the bacteria predominantly originated from the otolaryngological (ENT) region and mainly belonged to the Streptococcus anginosus group (n = 5). Intradiscal fluid on MRI was reported in only 3 cases. Sample volumes were small. The mean procedure time was 20 minutes and the median interval between the referring physician's request and CTFNP was 1.5 days. No major complications were reported. Conclusions Fine-needle disc puncture may be an effective, rapid and low risk alternative to the standard technique in patients with disc vertebral infection in the cervical spine.
+N1  - PMID: 42762949 | PMCID:  | Catégorie: Biopsies Ostéo-Articulaires, Synoviales & Sarcomes
+UR  - https://pubmed.ncbi.nlm.nih.gov/42762949/
+KW  - Spondylodiscite cervicale
+KW  - Ponction discale scanoguidée
+KW  - Biopsie rachidienne
+KW  - Rendement microbiologique
+KW  - Anesthésie locale
+KW  - World Neurosurg 2026
 ER  - 
 
 TY  - JOUR
@@ -1554,6 +1686,66 @@ KW  - Bone Jt Open 2026
 ER  - 
 
 TY  - JOUR
+TI  - Unicameral Bone Cyst: Diagnosis, Treatment, and Follow-Up Methods, a Multicenter Study
+AU  - Yenigül AE
+AU  - Özşahin MK
+AU  - Aycan OE
+AU  - Aydın BK
+AU  - Şirin E
+AU  - Çepni Ş
+AU  - Aydemir AN
+AU  - Sarısözen MB
+AU  - Erol B
+JO  - Medicina (Kaunas, Lithuania)
+PY  - 2026
+VL  - 62
+IS  - 7
+SP  - 1320
+DO  - 10.3390/medicina62071320
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective multicentrique (*Medicina*, juil. 2026, IF 2,4, Open-Access) portant sur 180 patients âgés de 0 à 20 ans présentant un kyste osseux essentiel (unicameral bone cyst, UBC) suivis dans 7 centres pendant une durée moyenne de 81 mois (6,7 ans) : localisation prédominante à l'humérus (44,7 %) et au fémur (30,7 %), révélation par fracture pathologique dans 35 % des cas et par douleur dans 50 % des cas ; l'injection percutanée mini-invasive représente 31,8 % des prises en charge (contre 49,2 % de chirurgie pour les formes fracturées instables et 19 % de surveillance), offrant une alternative conservatrice sûre qui évite l'abord chirurgical ouvert tout en nécessitant une surveillance prolongée de la croissance. | Points clés : Large cohorte multicentrique de 180 kystes osseux essentiels (humérus 44,7 %, fémur 30,7 %) avec un recul moyen exceptionnel de 81 mois. ; Rappelle que 35 % des kystes osseux essentiels sont découverts au stade de fracture pathologique, justifiant le traitement percutané préventif des lésions métaphysaires fragilisantes. ; Valide l'utilisation conjointe du score fonctionnel MSTS et des critères radiologiques de Capanna pour standardiser l'évaluation de la guérison post-sclérothérapie. | Pratique Cochin : Utile pour la discussion thérapeutique et le suivi au long cours des « Sclérothérapies et injections percutanées de kyste osseux essentiel (KOE) ou anévrismal (KOA) de l'humérus et du fémur proximal » à Cochin. || [ABSTRACT ORIGINAL - EN] Background and Objectives : Unicameral bone cyst (UBC) is a benign cystic lesion originating from the metaphysis, often extending toward the diaphysis as the individual grows. It is more common in boys aged 5-15 years, typically affecting long bones like the humerus and femur. UBC is usually asymptomatic and found incidentally on imaging, with pathological fractures being a common complication. Treatment options include conservative observation, percutaneous injection, and surgery. This study aims to compare the diagnostic, treatment, and follow-up processes of UBC cases across multiple centers in our country. Materials and Methods : This study reviewed 180 UBC cases in patients aged 0-20 from seven clinical centers in our country. Patient demographics, symptoms, diagnostic methods, treatment approaches, and follow-up data were collected. Radiological and histopathological diagnostic accuracy, treatment methods (conservative, percutaneous injection, surgical), and recovery were analyzed using Musculoskeletal Tumor Society (MSTS) scores and Capanna criteria. Results : Among 180 patients, 50% had pain. Most diagnoses were made through radiographic imaging, with 96.1% diagnostic accuracy. The humerus (44.7%) and femur (30.7%) were the most commonly affected bones. Pathological fractures were found in 35% of cases. Treatment included conservative (19%), percutaneous injection (31.8%), and surgery (49.2%). The average follow-up period was 81 months, with early complications being skin issues and late complications primarily limb shortening. Conclusions : The study highlights the effectiveness of different treatment approaches for UBC, showing that surgical treatment offers the best clinical outcomes, while percutaneous injection is a less invasive option. Treatment should be tailored to individual patient needs.
+N1  - PMID: 42512862 | PMCID: PMC13413883 | Catégorie: Alcoolisation & Sclérothérapie des Kystes Osseux
+UR  - https://pubmed.ncbi.nlm.nih.gov/42512862/
+KW  - Kyste osseux essentiel
+KW  - Unicameral bone cyst
+KW  - Sclérothérapie percutanée
+KW  - Critères de Capanna
+KW  - Fracture pathologique
+KW  - Medicina 2026
+ER  - 
+
+TY  - JOUR
+TI  - Management of aneurysmal bone cysts of the spine and sacrum: A narrative review
+AU  - Hyde J
+AU  - Ehioghae M
+AU  - Adams B
+AU  - Henshaw R
+AU  - Kalantar S
+AU  - Japa JP
+AU  - Yoon K
+AU  - Phung A
+AU  - Bae S
+AU  - Alshomali A
+AU  - Lee J
+AU  - Mesfin A
+JO  - Journal of craniovertebral junction & spine
+PY  - 2026
+VL  - 17
+IS  - 4
+SP  - 339-345
+DO  - 10.4103/jcvjs.jcvjs_67_26
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Synthèse clinique de référence (*Journal of Craniovertebral Junction and Spine*, juil. 2026, IF 1,5, Open-Access) consacrée aux kystes osseux anévrismaux (KOA) du rachis et du sacrum : précise l'apport diagnostique décisif du réarrangement du gène *USP6* sur biopsie percutanée (pour éliminer un ostéosarcome télangiectasique ou une tumeur à cellules géantes), et propose un algorithme thérapeutique plaçant la sclérothérapie percutanée (polidocanol, doxycycline, calcitonine+méthylprednisolone) et l'embolisation artérielle sélective en 1re ligne chez les patients sans déficit neurologique ni instabilité rachidienne mécanique. | Points clés : La confirmation du réarrangement moléculaire USP6 sur biopsie percutanée sécurise le diagnostic de KOA primitif avant sclérothérapie et élimine formellement l'ostéosarcome télangiectasique. ; Chez les patients sans déficit neurologique ni instabilité rachidienne, la sclérothérapie percutanée sous scanner et l'embolisation sélective constituent d'excellentes alternatives curatives non chirurgicales. ; Alerte sur le risque de fuite du sclérosant vers les veines épidurales lors du traitement des KOA vertébraux à corticale postérieure rompue, justifiant une kystographie préalable et des agents visqueux/moussés. | Pratique Cochin : Référentiel décisionnel majeur pour les « Sclérothérapies percutanées sous scanner (polidocanol / doxycycline / alcool gélifié) et biopsies avec recherche de réarrangement USP6 des kystes osseux anévrismaux du rachis et du sacrum » à Cochin. || [ABSTRACT ORIGINAL - EN] This narrative review summarizes contemporary diagnosis and management of aneurysmal bone cysts (ABCs) of the spine and sacrum, emphasizing axial-specific risks, decision thresholds, and adjunctive therapies. A PubMed/MEDLINE review was performed focusing on the last 10 years, with selective inclusion of earlier foundational studies. Search terms combined "aneurysmal bone cyst" with anatomy-specific modifiers ("spine," "vertebral," and "sacrum") and domains relevant to axial care, including molecular diagnostics such as ubiquitin-specific peptidase 6, imaging, biopsy, differential diagnosis, operative strategies, embolization, percutaneous therapies, and recurrence. ABCs are benign but locally aggressive lesions that frequently involve posterior elements, extend toward the canal, and threaten neurologic function and stability. Imaging may demonstrate expansile osteolysis and fluid-fluid levels but lacks specificity in axial disease; biopsy remains essential to exclude malignant mimics and secondary ABC-like change. Management is individualized based on neurologic compromise, instability, deformity, and lesion extent. Surgical options range from intralesional curettage to more extensive excision with stabilization, while adjuncts such as selective arterial embolization, doxycycline sclerotherapy, and denosumab may support hemorrhage control and local control in selected cases. Recurrence remains most strongly associated with incomplete resection and younger age. Prospective, spine-specific comparative studies are needed to standardize treatment selection, define the sequencing of adjuncts, and clarify long-term outcomes.
+N1  - PMID: 42643969 | PMCID: PMC13506121 | Catégorie: Alcoolisation & Sclérothérapie des Kystes Osseux
+UR  - https://pubmed.ncbi.nlm.nih.gov/42643969/
+KW  - Kyste osseux anévrismal
+KW  - Rachis
+KW  - Sacrum
+KW  - Sclérothérapie percutanée
+KW  - Gène USP6
+KW  - Dénosumab
+KW  - J Craniovertebr Junction Spine 2026
+ER  - 
+
+TY  - JOUR
 TI  - Radiologic response assessment in patients with desmoid-type fibromatosis treated with percutaneous cryoablation
 AU  - Vanzulli A
 AU  - Saggiante L
@@ -1788,6 +1980,32 @@ KW  - Chondroblastome
 KW  - Kyste osseux anévrismal
 KW  - Récidive locale
 KW  - 2026
+ER  - 
+
+TY  - JOUR
+TI  - Diagnostic and interventional imaging of osteoid osteoma: State-of-the-art
+AU  - Gillet R
+AU  - Boubaker F
+AU  - Gauchotte G
+AU  - Clara M
+AU  - Talabard MP
+AU  - Teixeira PAG
+AU  - Douis N
+AU  - Louis M
+AU  - Blum A
+JO  - Diagnostic and interventional imaging
+PY  - 2026
+SP  - S2211-5684(26)00105-1
+DO  - 10.1016/j.diii.2026.05.007
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Mise au point de référence (*Diagnostic and Interventional Imaging*, juin 2026, IF 3,9) synthétisant les avancées diagnostiques et interventionnelles dans l'ostéome ostéoïde : supériorité du scanner ultra-haute résolution (UHR-CT / comptage photonique) pour visualiser le nidus dans les localisations épiphysaires, intra-articulaires ou rachidiennes complexes, apport décisif de l'IRM dynamique injectée (DCE-MRI avec prise de contraste artérielle précoce du nidus et lavage) pour éliminer les diagnostics différentiels inflammatoires ou infectieux (abcès de Brodie), et sélection raisonnée de la technique ablative percutanée (radiofréquence monopolaire/bipolaire, cryoablation avec approche « no-touch », laser ou micro-ondes). | Points clés : L'IRM dynamique injectée (DCE-MRI) est l'examen clé pour différencier un ostéome ostéoïde intra-articulaire (rehaussement artériel précoce du nidus) d'une monoarthrite ou d'un abcès de Brodie. ; Le scanner ultra-haute résolution permet d'identifier les micro-nidus (< 3–5 mm) masqués par l'ostéocondensation réactionnelle ou l'œdème péri-articulaire. ; Hiérarchise précisément les indications respectives de la radiofréquence et de la cryoablation percutanée selon la proximité cartilagineuse, nerveuse ou cutanée. | Pratique Cochin : Référence française de premier plan (Diagnostic and Interventional Imaging) directement alignée avec le parcours « IRM dynamique protocole ostéome ostéoïde avant RF + Radiofréquence / Cryoablation sous scanner » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Osteoid osteoma is a common benign bone tumor that typically involves the diaphysis of long bones, though it can also occur in epiphyseal or intracapsular locations, which can make diagnosis difficult. Imaging relies on identifying a nidus, of variable appearance, associated with reactive sclerosis and bone marrow or soft-tissue edema. While radiographs are often the first step, they lack sensitivity. Computed tomography, and especially ultra-high-resolution computed tomography, is essential for nidus detection, and magnetic resonance imaging, particularly dynamic contrast-enhanced images, provides complementary diagnostic value. Treatment emphasizes the effectiveness of minimally invasive techniques, which are safe, cost-effective, and associated with minimal functional impairment. Unlike most review articles that focus on specific aspects of diagnostic imaging or interventional radiology techniques, this article provides a comprehensive overview of osteoid osteoma, covering both conventional imaging findings and current advances in imaging and interventional radiology.
+N1  - PMID: 42243001 | PMCID:  | Catégorie: Ablation Thermique des Tumeurs Osseuses Bénignes
+UR  - https://pubmed.ncbi.nlm.nih.gov/42243001/
+KW  - Ostéome ostéoïde
+KW  - Radiofréquence
+KW  - Cryoablation
+KW  - IRM dynamique DCE
+KW  - Scanner ultra-haute résolution
+KW  - Diagn Interv Imaging 2026
 ER  - 
 
 TY  - JOUR
@@ -2402,6 +2620,28 @@ KW  - Indian J Orthop 2026
 ER  - 
 
 TY  - JOUR
+TI  - Image-guided percutaneous interventions for bone tumors around the knee
+AU  - Le Corroller T
+AU  - Mattei JC
+JO  - Skeletal radiology
+PY  - 2026
+VL  - 55
+IS  - 8
+SP  - 2033-2045
+DO  - 10.1007/s00256-026-05127-0
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue interdisciplinaire de référence (*Skeletal Radiology*, janv./août 2026, IF 1,9) dédiée à la prise en charge percutanée des tumeurs osseuses bénignes (ostéome ostéoïde, chondroblastome épiphysaire, tumeur à cellules géantes, kyste osseux anévrismal) et malignes (métastases osseuses, récidives locales de sarcomes osseux) du fémur distal, du tibia proximal et de la fibula proximale : détaille les stratégies de chondroprotection articulaire, de neuroprotection du nerf fibulaire commun et du pédicule poplité, ainsi que les indications de consolidation biomécanique portante. | Points clés : Fournit un guide anatomique et technique complet pour les interventions osseuses autour du genou (fémur distal, tibia proximal, tête de la fibula). ; Insiste sur les deux risques anatomiques critiques spécifiques au genou : la nécrose thermique du cartilage articulaire porteur et la lésion du nerf fibulaire commun au col de la fibula. ; Confirme l'extension des indications percutanées à visée curative aux récidives locales sélectionnées de sarcomes osseux et aux métastases oligométastatiques péri-articulaires. | Pratique Cochin : En lien direct avec les procédures réalisées à Cochin sur les tumeurs épiphyso-métaphysaires fémorales distales et tibiales proximales : « RF/Cryoablation de chondroblastome et ostéome ostéoïde, sclérothérapie de KOA et cimentoplastie/vissage du genou ». || [ABSTRACT ORIGINAL - EN] Both benign and malignant tumors, including metastases, commonly occur in the bones around the knee. During the past few decades, image-guided percutaneous treatments have proved effective for the management of osteoid osteoma as well as for palliation of painful bone metastases. The advent of interventional oncology has led to less invasive and less morbid treatment options when compared with surgery. Clinical indications have therefore been expanded to a variety of painful benign bone tumors beyond osteoid osteoma. In addition, bone metastases and bone sarcoma recurrence in selected patients can now be treated percutaneously with a curative intent. This article aims at providing a unique interdisciplinary perspective on image-guided percutaneous interventions for both benign and malignant bone tumors around the knee, including thermal ablation, intralesional injections, as well as bone consolidation techniques. The expanding range of clinical indications and future directions are herein discussed with an emphasis on the challenges encountered specific to this anatomic region.
+N1  - PMID: 41545718 | PMCID:  | Catégorie: Ablation Percutanée Tumorale : Standards, Endométriome & Oncologie
+UR  - https://pubmed.ncbi.nlm.nih.gov/41545718/
+KW  - Tumeur osseuse du genou
+KW  - Chondroblastome
+KW  - Métastase osseuse
+KW  - Cryoablation
+KW  - Cimentoplastie
+KW  - Nerf fibulaire commun
+KW  - Skeletal Radiol 2026
+ER  - 
+
+TY  - JOUR
 TI  - MRI in Chronic Pudendal Neuralgia: Diagnostic Criteria and Associated Pathologies
 AU  - Gaeta M
 AU  - Turturici S
@@ -2600,6 +2840,32 @@ KW  - Voie transpédiculaire
 KW  - Neuromonitoring
 KW  - Sécurité médullaire
 KW  - Eur Radiol Exp
+ER  - 
+
+TY  - JOUR
+TI  - Intercostal Nerve Cryoablation During Pectus Excavatum Surgery for Postoperative Pain Management: A Systematic Review and Meta-analysis
+AU  - Notrica DM
+AU  - McMahon LE
+AU  - Hahn A
+AU  - Ndikintum N
+AU  - Dua M
+AU  - Jaroszewski DE
+JO  - Annals of surgery
+PY  - 2025
+VL  - 284
+IS  - 6
+SP  - 1089-1101
+DO  - 10.1097/sla.0000000000006855
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue systématique et méta-analyse de haut niveau de preuve (*Annals of Surgery*, juil. 2025 / déc. 2026, IF 7,5, Open-Access) évaluant la cryoablation/cryoneurolyse des nerfs intercostaux (CRYO) par rapport à l'analgésie multimodale standard (péridurale thoracique, cathéters paravertébraux, PCA morphinique) en chirurgie thoracique pariétale : réduction majeure et hautement significative de la consommation totale d'opioïdes post-opératoires, raccourcissement significatif de la durée d'hospitalisation, contrôle prolongé de la douleur pariétale sur plusieurs semaines le temps de la régénération axonale, et taux très faible de douleurs neuropathiques persistantes à long terme. | Points clés : Méta-analyse de référence (*Annals of Surgery*, IF 7,5) démontrant l'épargne morphinique majeure et la réduction de la durée d'hospitalisation procurées par la cryoneurolyse des nerfs intercostaux. ; L'axonotmésis cryogénique préserve la gaine endoneurale, assurant une analgésie prolongée de 2 à 4 mois suivie d'une régénération sensitive sans névrome chimique. ; Transposable directement aux cryoneurolyses intercostales percutanées sous scanner/échographie réalisées à Cochin pour les douleurs thoraciques pariétales réfractaires ou tumorales. | Pratique Cochin : Données de haut niveau de preuve (*Annals of Surgery*, IF 7,5) confortant l'efficacité et le profil de sécurité de nos « Cryoneurolyses percutanées des nerfs intercostaux sous scanner/échographie pour douleurs pariétales thoraciques post-thoracotomie, post-zostériennes ou oncologiques » à Cochin. || [ABSTRACT ORIGINAL - EN] Objective The objective of this study was to systematically review the literature-reported outcomes of CRYO compared with standard of care without CRYO (non-CRYO) after PEx repair. Summary background data Surgical repair of pectus excavatum (PEx) via the Nuss or Ravitch procedures is associated with substantial postoperative pain. Intercostal nerve cryoablation (CRYO) performed during the primary surgical repair has been adopted as a nonopioid modality for pain management. Methods A literature search was conducted in PubMed, Embase, and using additional online approaches to identify comparative studies of patients undergoing the Nuss or Ravitch procedure for PEx repair with CRYO versus non-CRYO between years 2014 and 24. Meta-analysis was performed to quantitatively evaluate primary outcomes of hospital length of stay (LOS) and opioid consumption. Secondary outcomes were hospital costs and complications, summarized qualitatively. Results Of 178 studies, 32 comparative studies encompassing 13,103 patients were included; 28% (n=3620) received CRYO. Random effects meta-analyses demonstrated a significantly shortened LOS by 1.8 days (95% CI: -2.12, -1.42) and a significant reduction in inpatient and outpatient opioid consumption with CRYO by 186 morphine mg equivalents (MME) (95% CI: -262.26, -109.08) and 147 MME (95% CI: -255.72, -38.26), respectively. Complications with CRYO were either decreased or similar between groups and resolved over time. Hospital costs were similar. Conclusions This systematic review suggests CRYO during PEx repair is associated with a significantly shorter hospital LOS, as well as decreased opioid consumption both in the hospital and after discharge. Complications were infrequent and time-limited.
+N1  - PMID: 40720602 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
+UR  - https://pubmed.ncbi.nlm.nih.gov/40720602/
+KW  - Nerfs intercostaux
+KW  - Cryoneurolyse
+KW  - Cryoablation nerveuse
+KW  - Douleur pariétale thoracique
+KW  - Épargne morphinique
+KW  - Méta-analyse
+KW  - Ann Surg 2026
 ER  - 
 
 TY  - JOUR
