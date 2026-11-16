@@ -173,6 +173,119 @@
     "abstract": "[SYNTHÈSE FR] Étude comparative sur 245 patients (*Injury*, nov. 2026, IF 2,2) opérés d'un vissage percutané de l'anneau pelvien postérieur entre 2014 et 2023 sous fluoroscopie 3D per-opératoire (3DF, n = 89) versus fluoroscopie 2D conventionnelle + scanner post-opératoire (2DF, n = 156) : réduction par 3 de la dose d'irradiation cumulée totale (179,2 mGy vs 526,1 mGy, p < 0,001), réduction par 4 de la dose per-opératoire seule (médiane 79,1 mGy vs 318,0 mGy, p < 0,001) et baisse significative du taux de réintervention chirurgicale à moyen terme (9,5 % vs 31,2 %, p = 0,012).\n\n[ABSTRACT EN] Introduction Achieving optimal screw positioning in posterior pelvic ring (PR) fracture fixation is critical for fracture stability and safety. Formerly, our institution used intraoperative plain-film fluoroscopy followed by postoperative computed tomography (CT) to assess fracture reduction and screw placement. Introduction of the 3D mobile C-arm enables immediate volumetric intraoperative assessment, may improve intraoperative visualization, and may alter conventional imaging requirements. This study compared cumulative imaging-related radiation exposure between cases performed with intraoperative 3D fluoroscopy (3DF) against standard intraoperative plain-film fluoroscopy (2DF), including postoperative CT utilization. Methods A retrospective review was conducted on patients treated for posterior PR fractures at a level 1 trauma center between 2014 and 2023. Utilization of 3DF or plain-film fluoroscopy, and any intraoperative screw changes were documented. Rates and details of postoperative complications and subsequent reoperations were recorded for patients with > 3 months follow-up. Radiation doses for 3DF, 2DF, and postoperative CT were extracted from radiology reports. Results Among 245 patients (mean age 47.2, 52.2% male) undergoing fixation for posterior PR fractures, 89 (36.3%) had 3DF intraoperatively, while 156 (63.7%) had 2DF. 27 patients (8 3DF, 19 2DF, p = 0.443) had screws changed intraoperatively, primarily to modify screw path (n = 16, 59.3%), to achieve better purchase/reduction (n = 5, 18.5%), to modify screw size (n = 3, 11.1%), to change screw type (n = 2, 7.4%), and failure to advance screw (n = 1, 3.7%). Mean radiation dose for the 3DF group was significantly lower (179.2 mGy vs 526.1 mGy, p 3 months follow-up, reoperation was less frequent with 3DF (9.5% vs 31.2%, p = 0.012), predominantly for symptomatic implant removal. Discussion and conclusion Intraoperative 3DF was associated with lower cumulative radiation exposure compared to traditional fluoroscopy with routine postoperative CT, and intraoperative dose alone was also lower. Reoperation was less frequent in the 3DF group, but most reoperations were implant removals for symptomatic or planned indications. These findings highlight the potential of 3DF as a practical radiation efficient quality assurance tool in posterior pelvic fixation."
   },
   {
+    "id": "pmid-42200532",
+    "type": "article-journal",
+    "title": "Technical Tricks to Improve Iliosacral Screw Safety Using Three-dimensional Computed Tomography Imaging",
+    "container-title": "Journal of orthopaedic trauma",
+    "volume": "40",
+    "issue": "11",
+    "page": "e249-e254",
+    "DOI": "10.1097/bot.0000000000003231",
+    "PMID": "42200532",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42200532/",
+    "author": [
+      {
+        "family": "Zuelzer",
+        "given": "DA"
+      },
+      {
+        "family": "Routt",
+        "given": "MLC"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Note technique de référence (*Journal of Orthopaedic Trauma*, nov. 2026, IF 2,3) décrivant l'utilisation de reconstructions TDM 3D volumétriques pré-opératoires orientées dans les plans exacts d'Inlet (superposition de la corticale antérieure du corps de S1) et d'Outlet (tunnel foraminal S1 vu de face) pour guider le vissage ilio-sacré percutané : permet d'identifier avec certitude quelle ligne dense corticale correspond à la limite antérieure réelle de S1 en se calant sur la morphologie de l'anneau pelvien antérieur et l'obliquité des trous obturateurs, sécurisant le geste face aux variations anatomiques fréquentes (sacrum dysmorphique, récessus corticaux alaires profonds, ostéophytes marginaux ou pente sacrée extrême).\n\n[ABSTRACT EN] Summary This technical note describes a method used to facilitate iliosacral screw fixation with three-dimensional (3D) computed tomography (CT) imaging. Preoperative pelvis CT scans were used to generate 3D reconstructions, which were then manipulated into inlet and outlet orientations. The inlet position for S1 was achieved when the anterior cortex of the S1 body became superimposed on itself; the outlet position was when the S1 nerve root tunnel was viewed en face. On the fluoroscopic inlet view of S1, multiple cortical densities were often visible and could be difficult to distinguish as S1 versus other sacral segments. 3D CT helped distinguish the position and shape of the anterior cortical limit of S1 by referencing preoperative 3D CT inlet images that were reproduced intraoperatively on fluoroscopy using the appearance of the anterior pelvic ring and the relative obliquity of the obturator foramen. This technique was especially valuable in the setting of common posterior pelvic anatomic variations-including asymmetry, degenerative osteophytes, severe sacral slope, and dramatic cortical recesses of the upper sacral segment. These variations were often difficult to anticipate with conventional plain film or standard CT imaging alone, underscoring the potential clinical utility of this technique."
+  },
+  {
+    "id": "pmid-42987922",
+    "type": "article-journal",
+    "title": "Intervertebral Disc Abnormalities on MRI in Thoracolumbar High-Energy and Fragility Fractures Treated With the SpineJack®-System: A Secondary Analysis of a Single-Centre Cohort",
+    "container-title": "Global spine journal",
+    "volume": "",
+    "issue": "",
+    "page": "21925682261505813",
+    "DOI": "10.1177/21925682261505813",
+    "PMID": "42987922",
+    "PMCID": "PMC13739877",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42987922/",
+    "author": [
+      {
+        "family": "Scherer",
+        "given": "J"
+      },
+      {
+        "family": "Karner",
+        "given": "M"
+      },
+      {
+        "family": "Osterhoff",
+        "given": "G"
+      },
+      {
+        "family": "Sprengel",
+        "given": "K"
+      },
+      {
+        "family": "Pape",
+        "given": "HC"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Analyse rétrospective de 204 fractures vertébrales thoraco-lombaires (176 patients, 119 fractures ostéoporotiques OVF d'âge moyen 72,5 ans et 85 fractures traumatiques à haute énergie VCF d'âge moyen 50,0 ans) traitées par implants d'expansion titane **SpineJack®** (*Global Spine Journal*, nov. 2026, IF 2,6, Open-Access) avec IRM pré-opératoire : prévalence élevée des lésions discales adjacentes (disque supérieur 68,1 %, disque inférieur 58,3 %, combinées 53,9 % selon la classification de Sander), la sévérité de l'atteinte discale n'étant pas prédite par la seule classification osseuse AOSpine/OF et n'empêchant pas la restauration anatomique par SpineJack.\n\n[ABSTRACT EN] Study DesignRetrospective secondary analysis.ObjectivesTo describe the frequency of concomitant disc abnormality on preoperative MRI in SpineJack®-treated thoracolumbar fractures and its association with fracture type and clinical parameters.MethodsFrom our published SpineJack® cohort (310 fractures, 2014-2022), 204 fractures in 176 patients with preoperative MRI were analyzed. Discs were graded (Sander et al.) by two readers independently, then by consensus; fractures by AOSpine or OF type. Analyses used exact tests, Spearman correlation and Firth logistic regression; the OVF-versus-VCF comparison was adjusted for age and sex. Other analyses were exploratory.Results119 fractures (58.3%) were OVFs (mean age 72.5 years) and 85 were VCFs (50.0 years). Superior, inferior and combined disc abnormality occurred in 68.1%, 58.3% and 53.9%. Superior abnormality was more frequent in OVFs than VCFs (73.9% vs 60.0%; crude OR 1.89, 95% CI 1.04-3.44), but not after adjustment (OR 1.29, 0.57-2.91). AOSpine type correlated with inferior disc grade in VCFs (ρ=0.247, p=0.023); OF type did not correlate with disc grade. Exploratory: higher inferior disc grade was associated with neurological deficit (7 events; OR per grade 1.93, 1.01-4.18) and less cement leakage (OR 0.59, 0.36-0.90).ConclusionsDisc abnormality is frequent in SpineJack®-treated thoracolumbar fractures. The higher frequency in OVFs is largely explained by age. Associations with neurological deficit and cement leakage are exploratory. Fracture classification alone does not predict disc abnormality severity."
+  },
+  {
+    "id": "pmid-43033237",
+    "type": "article-journal",
+    "title": "Image-guided ablation treatment of Desmoid tumors: an approach for management and integration into the national comprehensive cancer network ® guidelines",
+    "container-title": "Skeletal radiology",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "DOI": "10.1007/s00256-026-05436-4",
+    "PMID": "43033237",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/43033237/",
+    "author": [
+      {
+        "family": "Burke",
+        "given": "CJ"
+      },
+      {
+        "family": "Block",
+        "given": "JJ"
+      },
+      {
+        "family": "Ingham",
+        "given": "M"
+      },
+      {
+        "family": "Samim",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Mise au point de référence (*Skeletal Radiology*, nov. 2026, IF 1,9) consacrée à l'intégration officielle de l'ablation percutanée guidée par l'image — et tout particulièrement de la **cryoablation percutanée** — dans l'arbre décisionnel du National Comprehensive Cancer Network (NCCN) pour les tumeurs desmoïdes (fibromatoses agressives) : détaille les critères de passage de la surveillance active au traitement ablatif local, les avantages biophysiques de la cryoablation (contrôle visuel de l'iceball, préservation de la matrice collagénique, régression volumétrique prolongée et sédation douloureuse rapide) face aux traitements systémiques et à la chirurgie.\n\n[ABSTRACT EN] Desmoid tumors are proliferative mesenchymal tumors arising from musculoaponeurotic structures. Although lacking the ability to metastasize, these neoplasms have a propensity to locally invade and recur, resulting in significant morbidity and reduced quality of life. This variable natural history and unpredictable biologic behavior can complicate clinical management. Active surveillance may be appropriate as initial management, with systemic, surgical and other local treatment options considered depending on the extent of disease progression, in accordance with the current National Comprehensive Cancer Network guidelines. Notably, image-guided percutaneous cryoablation has emerged as an effective treatment option for rapid local control and sustained lesion regression. The efficacy of cryoablation in the management of these tumors is now supported by an increasing body of literature. This article will review the pathophysiology and natural history of desmoid tumors, together with treatment indications and national cancer guidelines. Image-guided ablation techniques will be described as well as how these options can fit into clinical paradigms and management pathways."
+  },
+  {
     "id": "pmid-42998777",
     "type": "article-journal",
     "title": "Bleomycin-Induced Pulmonary Toxicity: A Systematic Review and Meta-Analysis of Incidence and Risk Factors",
@@ -257,6 +370,73 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude rétrospective sur 261 patients (*Insights into Imaging*, nov. 2026 : 128 fasciites nodulaires et 133 sarcomes des tissus mous en IRM 3T) démontrant que l'ADC moyen et le signe de la queue fasciale combinés aux biomarqueurs histopathologiques distinguent fasciite nodulaire et sarcome avec une AUC de 0,96.\n\n[ABSTRACT EN] Objectives To investigate associations between key magnetic resonance imaging features of nodular fasciitis (NF) and quantitative histopathologic biomarkers, and to evaluate whether their integration provides complementary information for differentiating NF from soft tissue sarcoma (STS) in diagnostically equivocal settings. Materials and methods This retrospective study included 128 patients with NF and 133 with STS who underwent preoperative 3-T MRI between May 2023 and June 2025. Two blinded musculoskeletal radiologists independently evaluated predefined imaging features, including fascial tail sign, T2 heterogeneity score, enhancement pattern, perilesional edema, and mean/minimum apparent diffusion coefficient (ADC). Histopathology quantified cellular density, collagen content, and myxoid degeneration. Imaging-pathology correlations were assessed using Spearman analysis and multivariable regression. Diagnostic performance of MRI-only, pathology-only, and combined models was evaluated using logistic regression, receiver operating characteristic (ROC), area under the curve (AUC) analysis, calibration, decision curve analysis, and bootstrap validation. Results T2 heterogeneity correlated positively with myxoid degeneration (ρ = 0.52) and negatively with collagen content (ρ = -0.28) (p Conclusion Imaging features of NF were associated with underlying stromal and cellular substrates. Integrating imaging features with quantitative pathology biomarkers may support radiology-pathology concordance assessment in selected diagnostically equivocal cases. Key points Question How can we improve radiology-pathology concordance and reduce interpretative variability for NF cases presenting with suspicious, diagnostically equivocal magnetic resonance imaging findings? Findings T2 heterogeneity and diffusion measurements are associated with stromal composition and cellularity, while predefined MRI features demonstrated substantial-to-excellent inter-reader agreement. Critical relevance statement Embedding explicit AHA criteria in the prompt let an 8B model approach 671B-model agreement (38.91-81.52%), supporting standardized text-based workflows without fine-tuning."
+  },
+  {
+    "id": "pmid-42993443",
+    "type": "article-journal",
+    "title": "MRI-based virtual radiographs of the pelvis for assessment of acetabular morphology",
+    "container-title": "European radiology experimental",
+    "volume": "10",
+    "issue": "1",
+    "page": "173",
+    "DOI": "10.1186/s41747-026-00835-7",
+    "PMID": "42993443",
+    "PMCID": "PMC13743690",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42993443/",
+    "author": [
+      {
+        "family": "Roshardt",
+        "given": "JA"
+      },
+      {
+        "family": "Hirt",
+        "given": "J"
+      },
+      {
+        "family": "Meier",
+        "given": "MK"
+      },
+      {
+        "family": "Lerch",
+        "given": "TD"
+      },
+      {
+        "family": "Heimann",
+        "given": "AF"
+      },
+      {
+        "family": "Tannast",
+        "given": "M"
+      },
+      {
+        "family": "Hoch",
+        "given": "A"
+      },
+      {
+        "family": "Sommer",
+        "given": "S"
+      },
+      {
+        "family": "Sutter",
+        "given": "R"
+      },
+      {
+        "family": "Steppacher",
+        "given": "SD"
+      },
+      {
+        "family": "Schmaranzer",
+        "given": "F"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de validation sur 103 sujets (50 patients symptomatiques explorés pour conflit fémoro-acétabulaire ou dysplasie de hanche et 53 sujets asymptomatiques, *European Radiology Experimental*, nov. 2026, IF 3,7, Open-Access) évaluant la génération de radiographies virtuelles (VR) de bassin de face à partir d'une séquence IRM 3D T1 VIBE Dixon (via segmentation osseuse 3D nnU-Net, synthèse de pseudo-scanner et projection conique) : biais quasi nul sur l'angle de couverture latérale de Wiberg LCE ($-0,2^\\circ \\pm 2,5^\\circ$, $p = 0,663$), reproductibilité inter-lecteurs élevée ($\text{ICC}/\\kappa = 0,60\\text{–}0,94$) et concordance diagnostique substantielle avec la radiographie standard ($\\kappa = 0,62$, équivalente à la concordance inter-lecteurs de la radiographie $\\kappa = 0,70$).\n\n[ABSTRACT EN] Objectives We generated magnetic resonance imaging (MRI)-based virtual radiographs (VRs) from hips with/without intra-articular contrast and compared them with conventional anteroposterior pelvic radiographs (CR) regarding measurement bias, interobserver and intraobserver agreement, and diagnosis of acetabular deformities; we also assessed hip deformity prevalence on VR in asymptomatic participants. Materials and methods Retrospective study of 50 patients (100 hips; mean age 34 years) with femoroacetabular impingement or hip dysplasia undergoing CR and unilateral magnetic resonance arthrography. Additionally, 53 asymptomatic participants underwent noncontrast MRI. Segmentation of the osseous pelvis was performed on T1-weighted volume interpolated breathhold examination (VIBE) Dixon MRI using 3D nnU-Net, pseudo-computed tomography generation, and cone-beam projection to generate VR. Acetabular coverage (lateral center edge angle (LCE), acetabular index (AI), anterior/posterior coverage, extrusion index (EI)), and acetabular version were compared between CR and VR. Interobserver agreement was assessed using intraclass correlation coefficients (ICC) and κ statistics; bias with Bland-Altman analysis. Results Interobserver agreement for VR ranged from moderate to almost perfect (ICC/κ 0.60-0.94), except for the AI. LCE showed no significant bias with ( - 0.2° ± 2.5, p = 0.663) or without contrast ( - 0.2° ± 2.2, p = 0.530). Systematic differences occurred for AI, EI, anterior/posterior coverage, and ischial spine sign; 57-75% of discrepancies were within CR interobserver variation. Diagnostic classification showed substantial agreement between CR and VR (κ = 0.62), comparable to CR interobserver agreement (κ = 0.70). In asymptomatic participants, 13% had acetabular dysplasia, 68% normal coverage, and 19% overcoverage. Conclusion MRI-based VR provides acetabular morphology assessment comparable to CR and enables radiation-free evaluation in symptomatic patients and asymptomatic populations. Key points Question Can MRI-based virtual radiographs reproduce conventional radiographic measurements of acetabular morphology, enabling radiation-free two-dimensional assessment in symptomatic patients and asymptomatic populations? Findings The lateral center-edge angle showed no significant bias between virtual and conventional radiographs; diagnostic classification of acetabular deformities agreed substantially (κ = 0.62), comparable to conventional radiograph interobserver agreement. Relevance Statement MRI-derived virtual radiographs can provide acetabular measurements comparable to conventional radiographs without ionizing radiation, supporting integration into three-dimensional surgical planning and enabling assessment in young patients and population-based cohorts where repeated radiographs are undesirable."
   },
   {
     "id": "pmid-42977533",
@@ -771,6 +951,49 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Enquête internationale multicentrique du réseau ISSVA (*Vascular Medicine*, oct. 2026, IF 2,2, 52 spécialistes de 16 pays dont 90 % en CHU et 92 % en RCP dédiée) détaillant les standards pratiques de sclérothérapie des malformations vasculaires à flux lent (veineuses et lymphatiques) : prédominance du trio éthanol (67 %), bléomycine (58 %) et polidocanol (52 %), l'éthanol étant unanimement classé comme l'agent le plus efficace mais le plus à risque de nécrose cutanée (94 %) et de lésion nerveuse (75 %), justifiant l'essor de la mousse de polidocanol, de la bléomycine et de l'éthanol gélifié en zones sensibles.\n\n[ABSTRACT EN] Background Slow-flow vascular malformations (SFVMs) are rare congenital anomalies that cause significant morbidity. Currently, no evidence-based therapy exists to improve SFVM symptoms and reduce its relapse in the long-term. Sclerotherapy is central to management and widely practiced, yet comprehensive international data are limited and no standardized guidelines exist. We aimed to evaluate current practice patterns, focusing on sclerotherapy and multidisciplinary care. Methods An international cross-sectional survey was distributed to experts in the International Society for the Study of Vascular Anomalies (ISSVA) network. The questionnaire addressed treatment indications, sclerosant use and availability, anesthesia, coagulation management, risk communication, and case-based decision-making. Responses were analyzed descriptively. Results Fifty-two physicians from 16 countries completed the survey. Respondents included interventional radiologists (69%), vascular medicine specialists (15%), and pediatric surgeons (8%) in academic centers (90%). Multidisciplinary consultation was reported by 92% of participants. Ethanol (67%), bleomycin (58%), and polidocanol (52%) were the most accessible, although ethanol was consistently rated as the most dangerous. Sclerosant choice varied by lesion type and scenario. The risks most frequently communicated were skin necrosis (92% for lymphatic malformations and 94% for venous malformations, respectively), pigmentary changes (70% and 75%), and nerve injury (68% and 75%), whereas systemic complications such as cardiovascular collapse (16% and 22%) or death (14% and 22%) were less often discussed. In children, general anesthesia was preferred (90% and 86%), whereas adults received local (49% and 41%) or general anesthesia (47% and 43%). Preprocedural coagulation testing and anticoagulation strategies showed marked heterogeneity, especially for venous malformations. Conclusions This survey demonstrates substantial variability in SFVM management, particularly regarding sclerosant selection, anesthesia, coagulation, periprocedural care, and risk communication, and identifies areas where future prospective and collaborative research will be needed before evidence-based recommendations can be developed."
+  },
+  {
+    "id": "pmid-42918570",
+    "type": "article-journal",
+    "title": "Feasibility, Safety, and Effectiveness of Bleomycin Electrosclerotherapy in Patients with \"Giant Hepatic Hemangiomas\"",
+    "container-title": "Journal of vascular and interventional radiology : JVIR",
+    "volume": "",
+    "issue": "",
+    "page": "109157",
+    "DOI": "10.1016/j.jvir.2026.109157",
+    "PMID": "42918570",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42918570/",
+    "author": [
+      {
+        "family": "Yerdelen",
+        "given": "SS"
+      },
+      {
+        "family": "Becker",
+        "given": "LS"
+      },
+      {
+        "family": "Jakob van Beekum",
+        "given": "C"
+      },
+      {
+        "family": "Wacker",
+        "given": "FK"
+      },
+      {
+        "family": "von Falck",
+        "given": "C"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude clinique (*Journal of Vascular and Interventional Radiology - JVIR*, oct. 2026, IF 2,6) évaluant la faisabilité, la sécurité et l'efficacité de l'électrosclérothérapie à la bléomycine (BEST — couplage d'une injection de bléomycine et d'impulsions d'électroporation réversible) dans les lésions vasculaires géantes à flux lent : succès technique de 100 %, réduction volumétrique et clinique hautement significative et absence de toxicité systémique ou pulmonaire liée à la bléomycine grâce à la potentialisation cellulaire par le champ électrique.\n\n[ABSTRACT EN] This retrospective study evaluated the feasibility, safety, and effectiveness of bleomycin electrosclerotherapy (BEST) in nine patients with symptomatic, size-progressive \"giant hepatic hemangiomas\" unsuitable for surgery. BEST was performed under general anesthesia using six CT-guided needle electrodes. Bleomycin was administered intravenously in three patients and intralesionally in six (3,000-16,430 IU). Follow-up MRI was recommended three months after treatment. Median volume reduction at first follow-up was 18.3% (IQR, 2.7%-36.2%; P = .020) at a median of 77 days (IQR, 44-117 days). Extended follow-up in eight patients demonstrated a median volume reduction of 47.0% (IQR, 17.5%-73.2%; P = .016) at 299 days (IQR, 256-739 days). Six of nine patients reported symptom improvement during follow-up. No major complications occurred; adverse events included three asymptomatic perihepatic hematomas and one intercostal neuralgia requiring prolonged analgesic treatment. BEST was feasible and associated with lesion volume reduction and symptom improvement in this cohort. LEVEL OF EVIDENCE: Level 4, Case Series."
   },
   {
     "id": "pmid-42874309",
@@ -1404,6 +1627,61 @@
     "abstract": "[SYNTHÈSE FR] Série monocentrique de référence (*Skeletal Radiology*, oct. 2026, équipe de R. Botchu, 48 patients) évaluant la cryoablation percutanée des tumeurs musculo-squelettiques (métastases, tumeurs cartilagineuses et tumeurs osseuses primitives/bénignes), avec 73 % de réponse clinique (58 % complète/bonne, 15 % partielle), une baisse de densité TDM (UH) dans 94 % des cas et aucune complication majeure CIRSE.\n\n[ABSTRACT EN] Objectives Cryoablation is an image-guided, minimally invasive treatment technique that uses extreme cold to induce tumour destruction. Its role in musculoskeletal oncology has expanded in recent years, although large clinical series remain limited. This study reports a large single-centre experience of percutaneous cryoablation for musculoskeletal tumours, including metastatic lesions, benign and cartilaginous tumours, and primary bone tumours. Materials and methods This was a single-centre retrospective cohort study conducted at a tertiary musculoskeletal oncology centre. All procedures were performed by a single specialist musculoskeletal interventional radiologist with over 20 years of experience. The study included patients who underwent percutaneous cryoablation for musculoskeletal tumours between June 2021 and December 2025. Clinical response, radiological response, recurrence, and complications were assessed over a median follow-up of 3 months (mean 8.7 months; range 0-48 months). Radiological response was assessed using pre-treatment and post-treatment Hounsfield Unit (HU) measurements on CT; this is not a validated radiological scoring system and is reported as a complementary, exploratory marker alongside standard clinical response assessment. Complications were graded using the CIRSE classification system. Results A total of 48 patients underwent percutaneous cryoablation during the study period. The cohort included 26 males and 22 females, with a median age of 40 years. A good or complete response was achieved in 28 patients, representing 58% of the total cohort. A partial response was achieved in seven patients, representing 15% of the total cohort. HU reduction was observed in 45 of 48 patients, representing 94% of the cohort. The overall complication rate was 6.3%, with three complications recorded among 48 procedures. No major complications or procedure-related deaths were observed. Conclusions Cryoablation appears to be a safe and effective minimally invasive treatment for selected musculoskeletal tumours. Most patients achieved a good, complete, or partial response, with a low complication rate. Hounsfield Unit reduction after treatment may provide a useful, though as yet non-validated, marker of radiological response. Further prospective studies with longer follow-up, standardised response criteria and validated complication grading are needed to confirm these findings."
   },
   {
+    "id": "pmid-42810435",
+    "type": "article-journal",
+    "title": "Bisphosphonates in osteoid osteoma with difficult location in children",
+    "container-title": "Orthopaedics & traumatology, surgery & research : OTSR",
+    "volume": "",
+    "issue": "",
+    "page": "104911",
+    "DOI": "10.1016/j.otsr.2026.104911",
+    "PMID": "42810435",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42810435/",
+    "author": [
+      {
+        "family": "Mignon",
+        "given": "O"
+      },
+      {
+        "family": "Jeantet",
+        "given": "RE"
+      },
+      {
+        "family": "Delpont",
+        "given": "M"
+      },
+      {
+        "family": "Fron",
+        "given": "D"
+      },
+      {
+        "family": "Bousson",
+        "given": "V"
+      },
+      {
+        "family": "Lecigne",
+        "given": "R"
+      },
+      {
+        "family": "Robin",
+        "given": "F"
+      },
+      {
+        "family": "Violas",
+        "given": "P"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude rétrospective multicentrique française (*Orthopaedics & Traumatology: Surgery & Research - OTSR*, sept. 2026, IF 2,3) incluant 11 enfants/adolescents (âge moyen 13,5 ans) présentant un ostéome ostéoïde situé au contact immédiat de structures nerveuses, médullaires ou cartilagineuses contre-indiquant la thermoablation percutanée et la chirurgie, traités par 3 à 6 perfusions mensuelles d'acide zolédronique : chute de l'EVA moyenne de **70,6/100 à 30,4/100**, baisse de la prise d'AINS de **91 % à 36 %**, et **disparition complète du nidus et de l'œdème médullaire en imagerie chez 73 % des patients**.\n\n[ABSTRACT EN] Introduction Osteoid osteoma is a benign bone tumor that may cause severe pain. Although percutaneous thermoablation is commonly performed and effective in approximately 90% of cases by rapidly relieving symptoms and avoiding surgery, this procedure may carry significant risks when lesions are located near sensitive anatomical structures such as neural, medullary, or cartilaginous tissues. In these situations, bisphosphonates (BP) may represent a less invasive therapeutic alternative by biologically reducing abnormal bone activity and inflammatory pain. Previous studies have demonstrated the efficacy of zoledronic acid in osteoid osteoma, but pediatric data remain scarce. Hypothesis Bisphosphonates may represent an alternative therapeutic option for osteoid osteomas located in anatomically challenging areas unsuitable for conventional treatments. Material and methods This multicenter retrospective study included 11 pediatric patients with osteoid osteoma located close to neural or cartilaginous structures contraindicating surgical treatment or thermoablation and treated with bisphosphonates. Patients received 3-6 monthly infusions of zoledronic acid. Clinical pain assessment, NSAID and analgesic consumption, imaging outcomes, and treatment-related adverse events were collected before and after treatment. Results Eleven patients (3 girls and 8 boys) were included between 2012 and 2024. Mean age was 13.5 years (range, 8-17 years). Mean baseline Visual Analog Scale (VAS) score was 70.6/100 (30-90). NSAID and analgesic consumption was reported in 91% of patients, while all patients presented with a visible nidus and reactive bone marrow edema on imaging. Mean duration of symptoms before BP treatment was 12.7 months (2-26). The mean number of infusions was 3.8 (3-6). Only one patient developed anterior uveitis, which did not require treatment discontinuation. At final follow-up, mean VAS score decreased to 30.4/100 (0-80), while NSAID and analgesic consumption decreased to 36%. Complete disappearance of both nidus and bone marrow edema was observed in 73% of patients. Mean follow-up duration was 7.2 months. Conclusion Zoledronic acid appears to be a promising therapeutic alternative for osteoid osteomas located in anatomically challenging areas in children. Its efficacy is reflected by nidus disappearance, pain reduction, and decreased NSAID consumption. Further studies with larger cohorts and longer follow-up are required to strengthen the level of evidence. Level of evidence IV; retrospective study."
+  },
+  {
     "id": "pmid-42780331",
     "type": "article-journal",
     "title": "Complications of vertebral augmentation in metastatic spinal fractures: a systematic review of multiple study designs",
@@ -1952,6 +2230,69 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude prospective sur 70 sarcomes des tissus mous en IRM 3T (*Quantitative Imaging in Medicine and Surgery*, nov. 2026) avec co-alignement spatial coupe-à-coupe IRM/anatomopathologie, démontrant que les paramètres Ktrans (DCE-MRI) et D* (IVIM) corrèlent fortement avec l'expression de VEGF et la densité microvasculaire (MVD) avec une AUC de 0,86.\n\n[ABSTRACT EN] BACKGROUND: Vascular endothelial growth factor (VEGF) expression and microvessel density (MVD) are established markers of tumor angiogenesis and key targets for anti-angiogenic therapy in soft-tissue sarcomas (STSs). Dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) and intravoxel incoherent motion (IVIM) imaging are complementary magnetic resonance imaging (MRI) methods commonly used to assess angiogenesis in a variety of tumors. This study aimed to explore whether DCE-MRI and IVIM imaging could be used as non-invasive tools to evaluate tumor angiogenesis in STS based on MRI-pathology co-alignment. METHODS: In total, 70 patients with STS underwent 3.0-T DCE-MRI and IVIM imaging. The volume transfer constant (Ktrans), reflux rate constant (Kep), volume fraction of the extravascular extracellular space (Ve), true diffusion coefficient (D), pseudo-diffusion coefficient (D*), and perfusion fraction (f) were measured. Correlations between MRI parameters and VEGF expression or MVD were examined. Differences in MRI parameters between tumors with low and high VEGF expression were evaluated. Receiver operating characteristic (ROC) curves were generated, and interobserver reproducibility was assessed using the intraclass correlation coefficient (ICC). An MRI-pathology control protocol was implemented to verify the spatial correspondence between MRI slices and their corresponding histologic sections. RESULTS: Ktrans, Kep, D*, and f were positively correlated with VEGF expression (r=0.673, 0.573, 0.692, and 0.386, respectively) and MVD (r=0.662, 0.595, 0.619, and 0.344, respectively). Ktrans and D* were identified as independent factors associated with VEGF expression and MVD. No significant correlations were observed between Ve or D and either angiogenesis marker. Tumors with high VEGF expression exhibited higher Ktrans, Kep, D*, and f values than those with low VEGF expression. The areas under the ROC curves for the four parameters in differentiating between tumors with low and high VEGF expression were 0.861, 0.844, 0.860, and 0.720, respectively. CONCLUSIONS: The study demonstrated associations between DCE-MRI- and IVIM-derived perfusion metrics and VEGF expression and MVD in STSs."
+  },
+  {
+    "id": "pmid-42715658",
+    "type": "article-journal",
+    "title": "Validation of ST-RADS calculator: AI web tool for soft tissue-RADS implementation in de novo non-operated tumors and tumor-like lesions",
+    "container-title": "Clinical imaging",
+    "volume": "140",
+    "issue": "",
+    "page": "110950",
+    "DOI": "10.1016/j.clinimag.2026.110950",
+    "PMID": "42715658",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42715658/",
+    "author": [
+      {
+        "family": "Ramachandran",
+        "given": "S"
+      },
+      {
+        "family": "Chhabra",
+        "given": "R"
+      },
+      {
+        "family": "Kharbat",
+        "given": "Y"
+      },
+      {
+        "family": "Lodhi",
+        "given": "S"
+      },
+      {
+        "family": "Xi",
+        "given": "Y"
+      },
+      {
+        "family": "Amini",
+        "given": "B"
+      },
+      {
+        "family": "Ahlawat",
+        "given": "S"
+      },
+      {
+        "family": "Subhawong",
+        "given": "T"
+      },
+      {
+        "family": "Samet",
+        "given": "J"
+      },
+      {
+        "family": "Chhabra",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de validation sur 134 tumeurs des parties molles de novo non opérées confirmées par l'histopathologie (*Clinical Imaging*, sept./déc. 2026, IF 1,8) évaluant le système de stratification du risque IRM **ACR Soft Tissue-RADS (ST-RADS)** par 4 radiologues ostéo-articulaires seniors et par un calculateur algorithmique structuré : sensibilité de **85 %** et spécificité de **76,5 %** des radiologues MSK pour discriminer les lésions bénignes (ST-RADS 1 à 3) des tumeurs malignes/sarcomes (ST-RADS 4 et 5), le calculateur basé sur les descripteurs sémiologiques structurés atteignant une performance diagnostique équivalente aux experts (précision dichotomisée de 72 % vs 71 %, p = 0,46).\n\n[ABSTRACT EN] Purpose Soft-tissue RADS (ST-RADS) is an ACR-sponsored MRI-based scoring system for risk-stratification of soft tissue tumors and tumor-like lesions. Despite strong interobserver agreement and diagnostic accuracy, clinical adoption is limited by reader fatigue and workflow burden. We developed and validated an AI-based web tool (ST-RADS calculator) using ST-RADS algorithms and GPT API to facilitate routine implementation. Methods The ST-RADS calculator offers three input modes: image-only, text features-only, and combined. A retrospective study of 134 histopathology-confirmed soft tissue tumors compared ST-RADS scores from four fellowship-trained musculoskeletal (MSK) radiologists against the calculator using all three approaches. Sensitivity and specificity were compared using generalized estimating equations with pairwise contrasts. Results Sensitivity was similar across all methods: 85% for radiologists, 86% for image-only, 81% for text features-only, and 86% for combined (p > 0.90). Specificity differed significantly: 76.5% for radiologists, 69.4% for text features-only, 61.2% for combined, and 25.5% for image-only. Text features-only did not differ significantly from radiologists (p = 0.46). Dichotomized accuracy (benign 1-3 vs. malignant 4-5) was 71% for radiologists, 72% for text features-only, 61% for combined, and 42% for image-only. Full-scale accuracy ranged from 19% (image-only) to 52% (combined). Conclusion The ST-RADS calculator with text-based input achieved accuracy comparable to expert MSK radiologists, while image-only approaches require further refinement. This tool can support routine ST-RADS implementation in clinical practice."
   },
   {
     "id": "pmid-42803442",
@@ -3072,6 +3413,73 @@
     "abstract": "[SYNTHÈSE FR] Revue clinique du Karolinska Institutet (*Current Oncology*, août 2026, IF 2,8) synthétisant les indications, critères de sélection et résultats de la radiofréquence (RFA), de la cryoablation, de la cimentoplastie et des ultrasons focalisés (HIFU) dans les tumeurs osseuses bénignes (ostéome ostéoïde, chondroblastome), les tumeurs localement agressives (desmoïdes, TCG) et les métastases osseuses et des parties molles.\n\n[ABSTRACT EN] Background/Objectives: Primary benign and malignant musculoskeletal tumours are generally treated with surgical excision. Metastatic musculoskeletal disease may require both systemic and local treatment. This review focuses on the use of radiofrequency ablation (RFA), cryoablation, cementoplasty, and high-intensity focused ultrasound (HIFU) in primary musculoskeletal tumours and bone and soft-tissue metastases. Methods: We reviewed English-language studies addressing the indications, clinical outcomes, patient selection, and complications of these techniques in patients with primary musculoskeletal tumours or bone and soft-tissue metastases. Results: RFA is the preferred minimally invasive treatment for osteoid osteoma and may be considered for selected small intraosseous tumours. In symptomatic bone metastases, RFA may provide pain relief and can be combined with cementoplasty when structural support is needed. Cryoablation is used selectively for benign, locally aggressive, recurrent, and metastatic tumours, with the advantage of visualizing the ablation zone. Cementoplasty is mainly used to relieve mechanical pain and reinforce weakened bone. HIFU has been studied mainly for pain palliation in bone metastases, while evidence in primary malignant tumours remains limited. Conclusions: Image-guided interventions can complement surgery and radiotherapy in selected patients. Treatment choice depends on tumour type, location, treatment intent, skeletal stability, and proximity to critical structures."
   },
   {
+    "id": "pmid-42617973",
+    "type": "article-journal",
+    "title": "Long-Term Survival after Percutaneous Image-Guided Thermal Ablation of Oligometastatic Renal Cell Carcinoma",
+    "container-title": "Journal of vascular and interventional radiology : JVIR",
+    "volume": "37",
+    "issue": "11",
+    "page": "109040",
+    "DOI": "10.1016/j.jvir.2026.109040",
+    "PMID": "42617973",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42617973/",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "DH"
+      },
+      {
+        "family": "Keshavarz",
+        "given": "P"
+      },
+      {
+        "family": "Tibbe",
+        "given": "TD"
+      },
+      {
+        "family": "Suh",
+        "given": "RD"
+      },
+      {
+        "family": "Abtin",
+        "given": "F"
+      },
+      {
+        "family": "Genshaft",
+        "given": "SJ"
+      },
+      {
+        "family": "Drakaki",
+        "given": "A"
+      },
+      {
+        "family": "Shuch",
+        "given": "BM"
+      },
+      {
+        "family": "Pantuck",
+        "given": "AJ"
+      },
+      {
+        "family": "Lu",
+        "given": "DS"
+      },
+      {
+        "family": "Raman",
+        "given": "SS"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de cohorte longitudinale à très long terme (*Journal of Vascular and Interventional Radiology - JVIR*, août/nov. 2026, IF 2,6) portant sur 50 patients (100 métastases traitées au cours de 91 procédures par cryoablation, micro-ondes ou radiofréquence, suivi moyen de 8,0 ± 2,8 ans jusqu'à 10 ans) atteints de carcinome à cellules rénales oligométastatique (omRCC) : succès technique primaire de **99 %** (secondaire **100 %**), survie sans progression tumorale locale (LTPFS) à 10 ans de **87,6 %**, survie spécifique (CSS) à 10 ans de **75,5 %** et survie globale (OS) à 10 ans de **68,5 %**, sans aucune complication majeure (0 % grade SIR ≥ 3).\n\n[ABSTRACT EN] Purpose To evaluate the long-term overall survival (OS), cancer-specific survival (CSS), and local tumor progression-free survival (LTPFS) of patients who underwent percutaneous image-guided thermal ablation (TA) (cryoablation, microwave ablation, and radiofrequency ablation) of oligometastatic renal cell carcinoma (omRCC). Materials and methods This study cohort included 50 patients (age, 64.6 years [SD ± 13.1]; 78% [39/50] men and 22% [11/50] women) who underwent image-guided TA for omRCC between 2008 and 2019. Accounting for patient demographics, tumor characteristics, and technical outcomes, the OS, CSS, and LTPFS were derived by Kaplan-Meier analysis. Subgroup analyses were performed to assess the impact of outcomes by target lesion size, histology, location, and thermal energy using the log-rank test. All adverse events were categorized with the Society of Interventional Radiology (SIR) classification scheme. Results The study cohort comprised 100 omRCC lesions treated in 91 procedures, with a follow-up of up to 10 years (mean follow-up, 8.0 years [SD ± 2.8]). Primary and secondary technical success rates were 99% and 100%, respectively. The 10-year OS and CSS rates were 68.5% and 75.5%, respectively, with no significant difference between clear cell (P = .87) or nonclear cell (P = .52) histology. The 10-year LTPFS rate was 87.6% with no significant differences based on tumor histology (P = .47), size (P = .88), disease location (P = .72), or TA energy (P = .26). The adverse event rate of 9.9% (9/91) included 2 mild (2.2%) and 7 moderate (7.7%), mostly self-limited, events. Conclusions Image-guided TA of omRCC was safe and effective with excellent long-term OS, CSS, and LTPFS outcomes within 10 years."
+  },
+  {
     "id": "pmid-42677326",
     "type": "article-journal",
     "title": "Combined High-Voltage Long-Duration Pulsed Radiofrequency and Ozone Therapy in the Treatment of Pudendal Neuralgia: A Retrospective Case Series",
@@ -4126,6 +4534,85 @@
     "abstract": "[SYNTHÈSE FR] Étude prospective du Massachusetts General Hospital (*Skeletal Radiology*, juin/oct. 2026, équipe de C.Y. Chang) mesurant in vivo la pression intra-osseuse par le trocart de ponction lors des sclérothérapies scanoguidées de kystes osseux : mise en évidence d'une hyperpression systolique intrakystique significative (90 ± 18 mmHg vs 67 ± 23 mmHg dans la moelle normale, p = 0,01) indépendante de la pression artérielle systémique.\n\n[ABSTRACT EN] Objective To (1) measure intraosseous pressure (IOP) in cystic bone lesions and compare it with pressure values in normal bone marrow from a previous cohort; (2) to investigate the relationship between intralesional and systemic blood pressure. Materials and methods In this prospective HIPAA-compliant study, patients referred for CT-guided sclerotherapy of cystic bone lesions or CT-guided bone marrow biopsy between November 2020 and February 2022 were consecutively enrolled. IOP was recorded in vivo through the biopsy needle using a closed arterial pressure monitoring system for 5 min. Demographic variables and systemic blood pressure were collected. Continuous and categorical variables were compared using the Student t test and Fisher's exact test, respectively. Pearson correlation was used to assess the relationship between intraosseous and systemic blood pressure. A p value Results Seven patients with cystic bone lesions (CBL) and 45 patients with normal marrow histology were included. Participants with CBL were younger than those in the normal marrow group (20 ± 4 vs 55 ± 14 years; p 0.35). Conclusion Cystic bone lesions demonstrate elevated intraosseous pressures, particularly systolic parameters, compared with normal marrow. Intraosseous pressures appear independent of systemic blood pressure."
   },
   {
+    "id": "pmid-41955566",
+    "type": "article-journal",
+    "title": "The use of denosumab in rare bone diseases in adults: a systematic review from the ECTS Rare Bone Disease Action Group",
+    "container-title": "The Journal of clinical endocrinology and metabolism",
+    "volume": "111",
+    "issue": "7",
+    "page": "e1760-e1773",
+    "DOI": "10.1210/clinem/dgag154",
+    "PMID": "41955566",
+    "PMCID": "PMC13271786",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/41955566/",
+    "author": [
+      {
+        "family": "Bulaicon",
+        "given": "OO"
+      },
+      {
+        "family": "van Haalen",
+        "given": "FM"
+      },
+      {
+        "family": "Clunie",
+        "given": "GPR"
+      },
+      {
+        "family": "Grasemann",
+        "given": "C"
+      },
+      {
+        "family": "Lems",
+        "given": "WF"
+      },
+      {
+        "family": "Makras",
+        "given": "P"
+      },
+      {
+        "family": "Mortier",
+        "given": "G"
+      },
+      {
+        "family": "Oheim",
+        "given": "R"
+      },
+      {
+        "family": "Raimann",
+        "given": "A"
+      },
+      {
+        "family": "Siggelkow",
+        "given": "H"
+      },
+      {
+        "family": "Tabacco",
+        "given": "G"
+      },
+      {
+        "family": "van der Wal",
+        "given": "RJP"
+      },
+      {
+        "family": "de Witte",
+        "given": "PB"
+      },
+      {
+        "family": "Appelman-Dijkstra",
+        "given": "NM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue systématique officielle du groupe d'action Maladies Osseuses Rares de l'European Calcified Tissue Society (*Journal of Clinical Endocrinology & Metabolism - JCEM*, juin 2026, IF 5,0, Open-Access) évaluant le dénosumab (anticorps anti-RANKL, 120 mg/mois ou /3 mois pendant ~1 an) chez l'adulte atteint de lésions osseuses ostéolytiques rares à médiation ostéoclastique (kyste osseux anévrismal, dysplasie fibreuse, lésions à cellules géantes) : sédation douloureuse rapide et ré-ossification/réduction lésionnelle marquée, mais nécessité absolue d'anticiper l'effet rebond à l'arrêt du dénosumab par un relais par bisphosphonate IV (acide zolédronique).\n\n[ABSTRACT EN] Context Rare bone diseases (RBDs) may display a disrupted RANKL-RANK-osteoprotegerin pathway causing increased osteoclastogenesis and enhanced bone resorption. Although bisphosphonates are commonly used, they often fall short of desired outcomes. Denosumab, an anti-RANKL antibody, provides a promising alternative by swiftly and strongly suppressing bone turnover (faster and more potent suppression of bone resorption than bisphosphonates), though its effects are reversible on discontinuation. The use of denosumab has been highlighted, especially in pediatric cases, but not substantially in adults. Evidence acquisition A targeted evidence search was conducted to retrieve studies reporting denosumab use in RBDs in adults. Evidence synthesis Denosumab administration may lead to pain reduction, lesion reduction, or bone formation. Treatment dosage, schedules, and duration varied, however, a dose of 120 mg dosed monthly or every 3 months for almost 1 year reached the desired treatment effect in most patients. Denosumab is generally well tolerated in adults, with mild common side effects such as (asymptomatic) hypocalcemia and hypophosphatemia. Serious adverse effects such as osteonecrosis of the jaw or atypical femoral fractures are rarely reported. Main concerns regard rebound effect after denosumab discontinuation, with disease recurrence in some cases. Zoledronic acid after discontinuation of denosumab might be advisable, but is seldom reported. Conclusion Denosumab is a feasible treatment in adults with RBDs when managed by multidisciplinary teams with knowledge of both the underlying disease and potential surgeries as well as the medical site of treatment. Denosumab discontinuation management is paramount to prevent recurrence and severe complications. The paucity of data supports the need for data collection through rare disease registries for future pertinent evidence-based recommendations."
+  },
+  {
     "id": "pmid-42310038",
     "type": "article-journal",
     "title": "Predictors of short-term pain relief after polidocanol foam sclerotherapy for painful venous malformations",
@@ -4619,6 +5106,73 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude de cohorte (*Annals of Surgical Oncology*, mai 2026, 183 patients : 36 en surveillance active et 147 opérés) analysant le risque de dédifférenciation (8 % en surveillance, 20 % des récidives locales) et démontrant le caractère indispensable de la biopsie percutanée ciblée dès que l'IRM montre des signes atypiques.\n\n[ABSTRACT EN] Background Atypical lipomatous tumors (ALTs) can recur locally but do not metastasize. Surgical treatment risks morbidity, recurrence, and dedifferentiation. This study assessed the outcomes of initial surveillance or surgery for patients with ALT. Methods Patients with ALT diagnosed between 2005 and 2022 were retrospectively identified from surgical and radiologic databases. Adults with primary or locally recurrent (LR) ALT confirmed by imaging, histology, or both and managed with surveillance for 12 months or longer were included in the surveillance study cohort. The primary outcome was the development of dedifferentiation during surveillance. The secondary outcomes were tumor progression, imaging-histopathology concordance, motives for surgery, and surgical outcomes. A comparison cohort included patients who had ALT treated with upfront surgery. Results The 36 patients (median age, 63 years; IQR, 52-69 years) in this study underwent surveillance for a median of 26 months (IQR, 19-54 months). Most of the tumors were primary (81%) and located in the lower extremities (78%). Tumor progression (RECIST) occurred in 22 patients (61%). Three patients (8%) experienced dedifferentiation (2 with the diagnosis by imaging alone at baseline and 1 with an LR). No dedifferentiation occurred in the remaining 33 patients (92%). Magnetic resonance imaging suggested dedifferentiation in five cases, histologically confirmed in two cases. Among 147 patients initially treated surgically for ALT, 15 (10%) had LR, with 3 (20%) of these patients experiencing recurrence as dedifferentiated liposarcoma. No disease-related metastases or deaths occurred. Conclusion Initial surveillance for ALT appears feasible for selected patients. However, surgery remains the preferred treatment for many, and the short follow-up period and small cohort size limited definitive conclusions regarding long-term dedifferentiation risk. Histologic confirmation remains essential when MRI findings are atypical."
+  },
+  {
+    "id": "pmid-42189174",
+    "type": "article-journal",
+    "title": "Ultrasound-guided Drug Injection Combined With Suprascapular Nerve Pulsed Radiofrequency for Post-stroke Hemiplegic Shoulder Pain: A Randomized Controlled Trial",
+    "container-title": "American journal of physical medicine & rehabilitation",
+    "volume": "105",
+    "issue": "12",
+    "page": "1157-1164",
+    "DOI": "10.1097/phm.0000000000003041",
+    "PMID": "42189174",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42189174/",
+    "author": [
+      {
+        "family": "Rao",
+        "given": "Y"
+      },
+      {
+        "family": "Zhang",
+        "given": "Y"
+      },
+      {
+        "family": "Zhang",
+        "given": "W"
+      },
+      {
+        "family": "Chen",
+        "given": "H"
+      },
+      {
+        "family": "Liu",
+        "given": "C"
+      },
+      {
+        "family": "Zhang",
+        "given": "M"
+      },
+      {
+        "family": "Sun",
+        "given": "J"
+      },
+      {
+        "family": "Yin",
+        "given": "T"
+      },
+      {
+        "family": "Chen",
+        "given": "X"
+      },
+      {
+        "family": "Li",
+        "given": "X"
+      },
+      {
+        "family": "Chen",
+        "given": "S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Essai clinique prospectif randomisé contrôlé (*American Journal of Physical Medicine & Rehabilitation*, mai/déc. 2026, IF 2,2, 30 patients randomisés 1:1) comparant l'association d'une infiltration médicamenteuse échoguidée des lésions tendino-capsulaires et d'une radiofréquence pulsée (PRF) échoguidée du nerf supra-scapulaire (n = 15) à l'infiltration échoguidée seule (n = 15) dans l'épaule douloureuse hémiplégique : supériorité statistiquement significative du bras combiné avec PRF sur la réduction de la douleur (EVA), la récupération motrice du membre supérieur (score de Fugl-Meyer FMA) et l'autonomie fonctionnelle (indice de Barthel BI) à tous les temps de suivi (p < 0,05).\n\n[ABSTRACT EN] Objective Observation on the efficacy of ultrasound-guided drug injection combined with suprascapular nerve pulsed radiofrequency in treating soft tissue lesions in post-stroke hemiplegic shoulder pain. Design A total of 30 patients with post-stroke shoulder pain and soft tissue injury were enrolled and randomly divided into an experimental group and a control group, with 15 cases in each group. The experimental group received a single ultrasound-guided drug injection combined with pulsed radiofrequency therapy of the suprascapular nerve, while the control group received a single ultrasound-guided drug injection alone. Result The VAS, FMA, and BI scores of the experimental group and the control group at different time points all showed statistical significance ( P Conclusion The combined ultrasound-guided drug injection and suprascapular nerve pulsed radiofrequency shows superior efficacy to injection alone in treating hemiplegic shoulder pain."
   },
   {
     "id": "pmid-42128267",
