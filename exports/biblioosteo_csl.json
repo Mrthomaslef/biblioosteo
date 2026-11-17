@@ -47,6 +47,41 @@
     "abstract": "[SYNTHÈSE FR] Étude de cohorte en centre de traumatologie de niveau I (*Journal of Orthopaedic Trauma*, juil./déc. 2026, IF 2,3, 67 patients avec lésion pelvienne verticalement instable OTA/AO 61C déplacée ≥ 10 mm) comparant le vissage percutané combinant fixation sacrée multi-étagée et au moins 1 vis trans-sacrée (groupe MAT, n = 38) au vissage mono-étagé ou par vis sacro-iliaques seules (groupe SS, n = 29) : chute spectaculaire du taux d'échec mécanique avec déplacement secondaire ≥ 10 mm (2,6 % dans le groupe MAT contre 48,3 % dans le groupe SS, p < 0,001) et division par 12 du taux de reprise chirurgicale (2,6 % vs 31,0 %, p = 0,002).\n\n[ABSTRACT EN] Objectives To evaluate outcomes of percutaneous pelvic fixation in the treatment of displaced vertically unstable pelvic ring injuries and identify fixation constructs that predict success. Methods Design Retrospective cohort study. Setting Level I trauma center. Patient selection criteria Patients ≥18 years old who underwent operative management of a vertically unstable pelvic ring injury (OTA/AO 61C.1-3) displaced ≥10 millimeters (mm) with sacroiliac (SI) or transsacral (TS) screws over a 24-year period. Exclusion criteria were spinopelvic dissociation, pathologic fracture, treatment with spinopelvic fixation or plate fixation of the posterior pelvic ring, and less than 6-month follow-up. Outcome measures and comparisons The primary outcome was treatment failure, defined as ≥10 mm of radiographic displacement compared with initial postoperative imaging. Secondary outcomes included failure rates stratified by posterior pelvic ring injury type and rates of revision surgery. Outcomes were compared between constructs that included both multilevel sacral fixation and transsacral fixation (MAT) versus constructs that lacked 1 or both of these features; that is, constructs with either single-level fixation or only SI screws (SS). Results The cohort meeting inclusion criteria comprised 67 patients: MAT fixation N = 38 (71% male; median age 37 years, IQR 33-53) and SS fixation N = 29 (62% male; median age 39 years, IQR 34-47). The posterior ring injury patterns included sacral fractures (n = 36, 53.7%), sacroiliac fracture dislocations (n = 17, 25.3%), and sacroiliac dislocations (n = 14, 20.9%). MAT fixation had a significantly lower rate of treatment failure compared with SS fixation (2.6% vs. 48.3%, P Conclusions In this cohort of vertically unstable pelvic ring injuries, fixation at multiple sacral levels with at least 1 TS screw was associated with a significantly lower treatment failure rate (2.6%) compared with single-level fixation or SI screw-only fixation (48.3%). When multilevel transsacral fixation cannot be achieved because of patient anatomy or injury, adjunctive fixation strategies should be considered. Level of evidence Therapeutic Level III. See Instructions for Authors for a complete description of levels of evidence."
   },
   {
+    "id": "pmid-42826126",
+    "type": "article-journal",
+    "title": "Concordance of Microbiological and Histopathological Examination of Bone Biopsies in Diagnosing Diabetic Foot Osteomyelitis, a Systematic Review",
+    "container-title": "Journal of foot and ankle research",
+    "volume": "19",
+    "issue": "4",
+    "page": "e70223",
+    "DOI": "10.1002/jfa2.70223",
+    "PMID": "42826126",
+    "PMCID": "PMC13632924",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42826126/",
+    "author": [
+      {
+        "family": "Kadiri",
+        "given": "L"
+      },
+      {
+        "family": "Maher",
+        "given": "A"
+      },
+      {
+        "family": "Bridgen",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue systématique selon PRISMA (*Journal of Foot and Ankle Research*, déc. 2026, IF 2,8, Open-Access) portant sur 5 études et **308 patients** ayant bénéficié d'une biopsie osseuse avec double analyse microbiologique et histopathologique simultanée pour suspicion d'ostéomyélite du pied diabétique (DFO) : le taux moyen de **concordance positive entre culture et histologie n'est que de 43,4 %** (concordance négative de 10,8 %, concordance globale de 41 à 92,5 %) ; la **microbiologie offre une sensibilité supérieure (70 à 83,9 %)** indispensable au ciblage antibiotique, tandis que **l'histopathologie apporte une spécificité supérieure** (excluant les contaminations cutanées) et prédit le risque de reprise chirurgicale et d'antibiothérapie prolongée.\n\n[ABSTRACT EN] Background Diabetic foot osteomyelitis (DFO) is a serious complication of diabetic foot ulcers and is associated with increased risk of amputation, morbidity, and mortality. Bone biopsy remains the most definitive diagnostic modality, yet controversy persists over its diagnostic utility This study reviews the diagnostic concordance of histopathology and microbiology in bone biopsy specimens from patients with DFO and examines the clinical implications of the findings. Methods A systematic review was conducted using PubMed, Medline, CINHAL, Cochrane Library, and Google Scholar. Studies included adult patients with DFO in whom bone biopsy specimens underwent both histopathological and microbiological analysis. Five core studies met the eligibility criteria. Data on study design, setting, population, diagnostic methods, concordance rates, and outcomes were extracted and synthesized utilising a quantitative narrative synthesis. Results Across the five studies (n = 308 patients), histopathology and microbiology showed modest concordance, with mean rates of concordant positive results of 43.4% and common discordant findings. Histopathology demonstrated higher specificity, while microbiology had higher sensitivity, ranging from 70% to 83.9% but greater susceptibility to contamination. Positive histopathology was more strongly associated with the need for revision surgery or extended antibiotic therapy. Discussion Histopathology appears to offer superior diagnostic specificity, whereas microbiology provides valuable information for antimicrobial management. Frequent discordance underscores the importance of interpreting results in a clinical context. Further robust, prospective studies are needed to clarify the optimal diagnostic approach and standardise definitions."
+  },
+  {
     "id": "pmid-42995340",
     "type": "article-journal",
     "title": "Determinants of fluoroscopy frequency and effect of standardized workflow optimization in robot-assisted pelvic channel screw placement: a single-center retrospective cohort study",
@@ -245,6 +280,49 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Analyse rétrospective de 204 fractures vertébrales thoraco-lombaires (176 patients, 119 fractures ostéoporotiques OVF d'âge moyen 72,5 ans et 85 fractures traumatiques à haute énergie VCF d'âge moyen 50,0 ans) traitées par implants d'expansion titane **SpineJack®** (*Global Spine Journal*, nov. 2026, IF 2,6, Open-Access) avec IRM pré-opératoire : prévalence élevée des lésions discales adjacentes (disque supérieur 68,1 %, disque inférieur 58,3 %, combinées 53,9 % selon la classification de Sander), la sévérité de l'atteinte discale n'étant pas prédite par la seule classification osseuse AOSpine/OF et n'empêchant pas la restauration anatomique par SpineJack.\n\n[ABSTRACT EN] Study DesignRetrospective secondary analysis.ObjectivesTo describe the frequency of concomitant disc abnormality on preoperative MRI in SpineJack®-treated thoracolumbar fractures and its association with fracture type and clinical parameters.MethodsFrom our published SpineJack® cohort (310 fractures, 2014-2022), 204 fractures in 176 patients with preoperative MRI were analyzed. Discs were graded (Sander et al.) by two readers independently, then by consensus; fractures by AOSpine or OF type. Analyses used exact tests, Spearman correlation and Firth logistic regression; the OVF-versus-VCF comparison was adjusted for age and sex. Other analyses were exploratory.Results119 fractures (58.3%) were OVFs (mean age 72.5 years) and 85 were VCFs (50.0 years). Superior, inferior and combined disc abnormality occurred in 68.1%, 58.3% and 53.9%. Superior abnormality was more frequent in OVFs than VCFs (73.9% vs 60.0%; crude OR 1.89, 95% CI 1.04-3.44), but not after adjustment (OR 1.29, 0.57-2.91). AOSpine type correlated with inferior disc grade in VCFs (ρ=0.247, p=0.023); OF type did not correlate with disc grade. Exploratory: higher inferior disc grade was associated with neurological deficit (7 events; OR per grade 1.93, 1.01-4.18) and less cement leakage (OR 0.59, 0.36-0.90).ConclusionsDisc abnormality is frequent in SpineJack®-treated thoracolumbar fractures. The higher frequency in OVFs is largely explained by age. Associations with neurological deficit and cement leakage are exploratory. Fracture classification alone does not predict disc abnormality severity."
+  },
+  {
+    "id": "pmid-43036206",
+    "type": "article-journal",
+    "title": "Risk Factors for Bone Cement Leakage and Re-fracture Following PKP in Patients With Thoracolumbar Spine Fractures",
+    "container-title": "Annali italiani di chirurgia",
+    "volume": "97",
+    "issue": "11",
+    "page": "2009-2016",
+    "DOI": "10.62713/aic.4791",
+    "PMID": "43036206",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/43036206/",
+    "author": [
+      {
+        "family": "Li",
+        "given": "X"
+      },
+      {
+        "family": "Fu",
+        "given": "M"
+      },
+      {
+        "family": "Liu",
+        "given": "X"
+      },
+      {
+        "family": "E",
+        "given": "Z"
+      },
+      {
+        "family": "Wang",
+        "given": "C"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude rétrospective sur **115 patients** traités par cyphoplastie percutanée par ballonnet (PKP) pour fracture par tassement vertébral thoraco-lombaire (*Annali Italiani di Chirurgia*, nov. 2026, IF 1,5), analysant les déterminants multivariés des **fuites de ciment PMMA (18 cas, 15,7 %)** et des **refractures vertébrales post-opératoires (29 cas, 25,2 %)** : l'**interruption corticale des parois vertébrales** et l'**âge avancé** sont les deux facteurs de risque indépendants de fuite de ciment ($p < 0,05$), tandis que l'**âge**, la **sévérité du tassement initial** et la **rupture corticale** prédisent indépendamment le risque de nouvelle fracture vertébrale ($p < 0,05$), alors même que la PKP améliore hautement l'EVA, l'ODI, l'angle de Cobb et la hauteur vertébrale antérieure ($p < 0,001$).\n\n[ABSTRACT EN] Aim Thoracolumbar spine fractures are commonly treated with percutaneous kyphoplasty (PKP), but bone cement leakage and re-fracture remain major concerns. Identifying their risk factors is essential for improving prognosis but remains insufficiently characterized. This study was designed to explore the risk factors for bone cement leakage and re-fracture following PKP in patients with thoracolumbar spine fractures. Methods A retrospective analysis was conducted on 115 patients with thoracolumbar spine fractures who underwent PKP at Heilongjiang Provincial Hospital between April 2022 and February 2025 (leakage group: 18 patients with bone cement leakage; non-leakage group: 97 patients without leakage). Risk factors for bone cement leakage were analyzed. Patients were divided into re-fracture (29 cases with re-fractures) and non-re-fracture (86 cases without re-fractures) groups to identify risk factors for postoperative re-fracture. Results Logistic multivariate regression analysis identified age and vertebral wall destruction as independent risk factors for postoperative bone cement leakage ( p p Conclusions Age and vertebral wall destruction are independent predictors of cement leakage, and together with compression severity, also predict re-fracture. These findings support routine preoperative assessment of vertebral wall integrity using high-resolution computed tomography (CT), particularly in elderly patients, as vertebral wall destruction was independently associated with bone cement leakage."
   },
   {
     "id": "pmid-43033237",
@@ -531,6 +609,108 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Mise au point de référence publiée dans *European Radiology* (nov. 2026, IF 4,7, équipe de D. Filippiadis) structurant les indications, le mécanisme d'axonotmésis réversible (classification de Sunderland II) et les protocoles de cryoablation tumorale (ostéome ostéoïde, métastases osseuses, tumeurs des parties molles) et de cryoneurolyse périphérique (nerfs intercostaux, clunéaux, géniculés, névrome de Morton).\n\n[ABSTRACT EN] Despite advances in pain management, pain remains a major global health challenge in both oncological and non-oncological patients. Long-term pharmacological treatment is often restricted by insufficient therapeutic benefit and adverse events, highlighting the need for alternative approaches such as image-guided pain therapies. The idea of treating pain with cold has been recognized for centuries, and today cryotherapy has emerged as a valuable minimally invasive option for pain management. Cryoablation refers to the destruction of tissue with extreme cold and has an increasing role, especially in the treatment of benign (e.g., osteoid osteoma), malignant bone (i.e., metastases), and soft tissue tumors, either with a curative or palliative intent. Cryoneurolysis is a related but distinct application, focusing either on peripheral nerve modulation or nerve destruction. Cryoneurolysis may be highly effective for the treatment of acute or chronic pain, including sympathetic neurolysis in cancer and non-cancer-related pain syndromes. The general approach in patients with tumor-related pain depends on whether the lesion itself can be ablated or not. In non-oncologic patients, cryoneurolysis of the responsible nerve is typically performed following a positive response to a diagnostic nerve block. Potential indications for cryotherapy are constantly evolving; however, evidence, especially for cryoneurolysis, is still limited and based mostly on single-center case series and retrospective studies. Standardized ablation protocols are lacking, and for the duration of cycles, most experts rely on imaging visualization and validated protocols. Equally important, successful integration of cryoablation and cryoneurolysis into daily practice requires structured workflows across different patient pathways and interdisciplinary management. KEY POINTS: Question Pain management remains a major global health challenge and an unmet need in oncological and non-oncological patients. Findings Cryotherapy, in terms of cryoablation and cryoneurolysis, is increasingly incorporated in multimodal curative and palliative pain care concepts, for treatment of acute and chronic pain syndromes. Clinical relevance Advancement and validation of standardized treatment protocols are needed to strengthen evidence and further enhance clinical implementation in interventional radiology practice and interdisciplinary patient care."
+  },
+  {
+    "id": "pmid-42348241",
+    "type": "article-journal",
+    "title": "Considerations for cervical medial branch nerve radiofrequency at spinal motion segments adjacent to cervical fusion constructs: a technical note",
+    "container-title": "Pain medicine (Malden, Mass.)",
+    "volume": "27",
+    "issue": "11",
+    "page": "1289-1293",
+    "DOI": "10.1093/pm/pnag079",
+    "PMID": "42348241",
+    "PMCID": "PMC13725068",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42348241/",
+    "author": [
+      {
+        "family": "Truumees",
+        "given": "H"
+      },
+      {
+        "family": "Amick",
+        "given": "RM"
+      },
+      {
+        "family": "Turtle",
+        "given": "J"
+      },
+      {
+        "family": "Spina",
+        "given": "NT"
+      },
+      {
+        "family": "Hurley",
+        "given": "RW"
+      },
+      {
+        "family": "McCormick",
+        "given": "ZL"
+      },
+      {
+        "family": "Karamian",
+        "given": "BA"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Note technique et radio-anatomique de référence (*Pain Medicine*, nov. 2026, IF 2,9, Open-Access) analysant l'impact des montages d'arthrodèse cervicale antérieure (ACDF) et postérieure (vis de masses latérales ou vis pédiculaires) sur l'intégrité des **branches médiales cervicales (MBN)** lors de la prise en charge d'un syndrome facettaire du segment adjacent : alors que l'arthrodèse cervicale antérieure (ACDF) préserve intégralement les branches médiales postérieures, **l'instrumentation cervicale postérieure par vis de masses latérales ou vis pédiculaires interrompt presque systématiquement la branche médiale au niveau des vertèbres instrumentées**, ce qui permet d'adapter le nombre de nerfs à bloquer et à thermocoaguler sur le segment mobile adjacent.\n\n[ABSTRACT EN] Background Cervical fusion alters regional biomechanics and increases load transmission through adjacent facet joints, which may produce facet-mediated pain. Cervical medial branch blocks (MBBs) and radiofrequency ablation (RFA) remain highly useful diagnostic and therapeutic interventions; however, surgical approaches used in cervical fusion frequently disrupt the cervical medial branch nerves (MBNs) at treated levels. Identifying which MBNs remain anatomically intact is essential for accurate diagnostic and therapeutic targeting of relevant nerves (and sensate facet joints) and for avoiding unnecessary procedure levels or procedures altogether. Objective To present an approach to determining which cervical medial branches require management after fusion, drawing upon the surgical approach, anatomic landmarks, implant trajectory, and cross-sectional imaging. Design Technical note. Setting Cervical RFA following spinal fusion surgery. Conclusions A systematic, anatomy-based method improves diagnostic precision, reduces unnecessary procedures, and helps identify patients most likely to benefit from interventions. Posterior cervical fusion using modern screw-and-rod instrumentation will essentially always result in denervation of the MBN at the operated level(s). Anterior surgical approaches reliably preserve the MBNs, making them viable targets for cervical RFA."
+  },
+  {
+    "id": "pmid-43013146",
+    "type": "article-journal",
+    "title": "Local Control Options for Metastatic Disease in Sarcoma",
+    "container-title": "Current oncology reports",
+    "volume": "28",
+    "issue": "1",
+    "page": "125",
+    "DOI": "10.1007/s11912-026-01865-5",
+    "PMID": "43013146",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/43013146/",
+    "author": [
+      {
+        "family": "Foppele",
+        "given": "GF"
+      },
+      {
+        "family": "Gelderblom",
+        "given": "H"
+      },
+      {
+        "family": "van de Sande",
+        "given": "MAJ"
+      },
+      {
+        "family": "Tummers",
+        "given": "QRJG"
+      },
+      {
+        "family": "Hergaarden",
+        "given": "KFM"
+      },
+      {
+        "family": "Haas",
+        "given": "RL"
+      },
+      {
+        "family": "Wiltink",
+        "given": "LM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue de synthèse oncologique de référence (*Current Oncology Reports*, nov. 2026, IF 4,7) comparant les trois piliers du contrôle local des oligométastases de sarcomes des parties molles — métastasectomie chirurgicale, radiothérapie stéréotaxique (SBRT) et **ablation thermique percutanée guidée par l'image (RFA, cryoablation, MWA)** : les trois modalités offrent des taux élevés et comparables de contrôle local et de survie sans progression chez les patients oligométastatiques sélectionnés (intervalle libre prolongé, faible nombre de lésions, histologie léiomyosarcome ou liposarcome), l'ablation percutanée se distinguant par son caractère répétable, sa faible morbidité et sa synergie immunologique potentielle.\n\n[ABSTRACT EN] Purpose of review To review the current evidence on local treatment strategies for oligometastatic soft tissue sarcoma at pulmonary and extrapulmonary sites, and evaluate their impact on oncological outcomes. Recent findings Pulmonary metastasectomy remains the most established local treatment, with 5-year survival rates of 20-58%. Complete (R0) resection, a longer disease-free interval, and fewer metastases are associated with improved outcomes. Stereotactic radiotherapy achieves high local control rates with low toxicity, and a recent systematic review reported survival outcomes comparable to surgery. Image-guided thermal ablation also achieves high local control rates for lung metastases of 1 cm or smaller and offers a minimally invasive option for extrapulmonary metastases. For all modalities, current data are derived predominantly from retrospective studies, and direct comparisons are lacking. Local treatment offers promising outcomes for carefully selected patients with oligometastatic soft tissue sarcoma. Surgery, stereotactic radiotherapy, and thermal ablation should be considered complementary options, selected within a multidisciplinary tumor board according to lesion size, number, and location. Prospective studies are needed to define optimal patient selection and determine the comparative effectiveness of these modalities."
   },
   {
     "id": "pmid-42999001",
@@ -951,6 +1131,45 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Enquête internationale multicentrique du réseau ISSVA (*Vascular Medicine*, oct. 2026, IF 2,2, 52 spécialistes de 16 pays dont 90 % en CHU et 92 % en RCP dédiée) détaillant les standards pratiques de sclérothérapie des malformations vasculaires à flux lent (veineuses et lymphatiques) : prédominance du trio éthanol (67 %), bléomycine (58 %) et polidocanol (52 %), l'éthanol étant unanimement classé comme l'agent le plus efficace mais le plus à risque de nécrose cutanée (94 %) et de lésion nerveuse (75 %), justifiant l'essor de la mousse de polidocanol, de la bléomycine et de l'éthanol gélifié en zones sensibles.\n\n[ABSTRACT EN] Background Slow-flow vascular malformations (SFVMs) are rare congenital anomalies that cause significant morbidity. Currently, no evidence-based therapy exists to improve SFVM symptoms and reduce its relapse in the long-term. Sclerotherapy is central to management and widely practiced, yet comprehensive international data are limited and no standardized guidelines exist. We aimed to evaluate current practice patterns, focusing on sclerotherapy and multidisciplinary care. Methods An international cross-sectional survey was distributed to experts in the International Society for the Study of Vascular Anomalies (ISSVA) network. The questionnaire addressed treatment indications, sclerosant use and availability, anesthesia, coagulation management, risk communication, and case-based decision-making. Responses were analyzed descriptively. Results Fifty-two physicians from 16 countries completed the survey. Respondents included interventional radiologists (69%), vascular medicine specialists (15%), and pediatric surgeons (8%) in academic centers (90%). Multidisciplinary consultation was reported by 92% of participants. Ethanol (67%), bleomycin (58%), and polidocanol (52%) were the most accessible, although ethanol was consistently rated as the most dangerous. Sclerosant choice varied by lesion type and scenario. The risks most frequently communicated were skin necrosis (92% for lymphatic malformations and 94% for venous malformations, respectively), pigmentary changes (70% and 75%), and nerve injury (68% and 75%), whereas systemic complications such as cardiovascular collapse (16% and 22%) or death (14% and 22%) were less often discussed. In children, general anesthesia was preferred (90% and 86%), whereas adults received local (49% and 41%) or general anesthesia (47% and 43%). Preprocedural coagulation testing and anticoagulation strategies showed marked heterogeneity, especially for venous malformations. Conclusions This survey demonstrates substantial variability in SFVM management, particularly regarding sclerosant selection, anesthesia, coagulation, periprocedural care, and risk communication, and identifies areas where future prospective and collaborative research will be needed before evidence-based recommendations can be developed."
+  },
+  {
+    "id": "pmid-43001225",
+    "type": "article-journal",
+    "title": "Intraosseous venous malformation of the distal fibula treated with image-guided sclerotherapy and embolization",
+    "container-title": "Journal of vascular surgery cases and innovative techniques",
+    "volume": "13",
+    "issue": "1",
+    "page": "102515",
+    "DOI": "10.1016/j.jvscit.2026.102515",
+    "PMID": "43001225",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/43001225/",
+    "author": [
+      {
+        "family": "Sebastian Lopez-McCormick",
+        "given": "J"
+      },
+      {
+        "family": "Montoya",
+        "given": "C"
+      },
+      {
+        "family": "Kably",
+        "given": "I"
+      },
+      {
+        "family": "Almeida",
+        "given": "JI"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Observation technique détaillée (*Journal of Vascular Surgery Cases, Innovations and Techniques*, oct. 2026 / févr. 2027, IF 1,5, Open-Access) rapportant la prise en charge mini-invasive d'une malformation veineuse intra-osseuse primaire rare de la fibula distale droite chez une patiente de 51 ans présentant des douleurs chroniques invalidantes de la jambe : après échec du traitement conservateur et devant un drainage veineux dysplasique communiquant directement avec les veines fibulaires profondes à l'IRM et à la phlébographie, l'exclusion combinée par **sclérothérapie à la mousse et embolisation à la colle biologique (n-butyl cyanoacrylate, NBCA)** a permis une oblitération complète de la lésion et la sédation durable des douleurs sans chirurgie d'exérèse osseuse.\n\n[ABSTRACT EN] Intraosseous venous malformations are rare slow-flow vascular lesions in which involvement of lower-extremity long bones is uncommon. A 51-year-old woman with antithrombin III deficiency and post-thrombotic syndrome presented with focal left leg pain initially attributed to chronic venous disease. Computed tomography venography demonstrated a serpiginous intraosseous lesion within the distal fibula communicating with the peroneal venous system. Image-guided selective embolization was performed using foam sclerotherapy and n -butyl cyanoacrylate. Postprocedural imaging confirmed exclusion of the lesion. At follow-up, the patient reported resolution of focal bone pain without radiographic recurrence. This case illustrates diagnostic considerations and technical management of symptomatic lower-extremity intraosseous venous malformations."
   },
   {
     "id": "pmid-42918570",
@@ -1584,6 +1803,57 @@
     "abstract": "[SYNTHÈSE FR] Étude d'imagerie post-procédurale (*Interventional Pain Medicine*, oct./déc. 2026, IF 1,8, Open-Access) mesurant par deux lecteurs indépendants sur l'IRM sagittale la taille réelle de la zone de nécrose thermique après ablation par radiofréquence du nerf basivertébral (BVNA) réalisée selon le nouveau protocole raccourci de **7 minutes** : hauteur lésionnelle moyenne de **11,6 ± 1,2 mm** et largeur moyenne de **10,9 ± 1,4 mm** (soit ~1,1 cm de diamètre), strictement superposable au diamètre sphérique de 1,0 cm historiquement obtenu avec le protocole de 15 minutes.\n\n[ABSTRACT EN] Background Chronic vertebrogenic low back pain can be successfully treated with basivertebral nerve ablation (BVNA). Initial studies reported the effectiveness of BVNA using a 15-min ablation protocol. Recently, industry has sponsored adopting 7-min ablations for appropriately placed probes. The effectiveness of 7-min ablations has been called into question. For 15-min ablations, lesion size has been reported to be approximately 1 cm in diameter. There are no literature reporting lesion sizes for 7-min ablations. Objective The purpose of this study was to evaluate MRI lesion size for patients who underwent 7-min BVNA. Methods A retrospective cohort study was conducted of patients who underwent BVNA and had post-procedure MRI available for review. All MRIs were obtained for patients who failed to improve after BVNA or developed new symptoms. On the sagittal post-procedure MRI, the BVNA lesion height and width size were measured by two independent reviewers. Interobserver reproducibility was assessed using intraclass correlations and Bland-Altmann analysis. The average height and width of the lesion was calculated with standard deviations. Results A total of 10 out of 57 patients who underwent BVNA during the study timeframe had post-procedure MRI. There was acceptable reproducibility between MRI reviewers. The average lesion height size was 11.6 mm (±1.2 mm), and the average width was 10.9 mm (±1.4 mm). Conclusions Our study demonstrated that patients who received an MRI due to treatment failure or new symptoms after treatment with 7-min BVNA had average height and width lesion sizes of approximately 1.1 cm. This is within range of the lesion size of historically accepted 15-min BVNA lesion sizes."
   },
   {
+    "id": "pmid-42908078",
+    "type": "article-journal",
+    "title": "Clinical Outcomes of Conventional Versus Lateral-Deployment RF Cannulas in Lumbar Medial Branch Radiofrequency Ablation: A Prospective Randomized Study",
+    "container-title": "American journal of physical medicine & rehabilitation",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "DOI": "10.1097/phm.0000000000003187",
+    "PMID": "42908078",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42908078/",
+    "author": [
+      {
+        "family": "Kahraman",
+        "given": "E"
+      },
+      {
+        "family": "Çelenlioğlu",
+        "given": "AE"
+      },
+      {
+        "family": "Eksert",
+        "given": "S"
+      },
+      {
+        "family": "İnce",
+        "given": "ME"
+      },
+      {
+        "family": "Şimşek",
+        "given": "F"
+      },
+      {
+        "family": "Sir",
+        "given": "E"
+      },
+      {
+        "family": "Orhan",
+        "given": "ME"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Essai prospectif randomisé contrôlé en simple aveugle de supériorité sur **90 patients** (84 analysés à 6 mois, 42 par bras) atteints de lombalgie facettaire chronique confirmée par double bloc test positif ($\\ge 80\\%$) (*American Journal of Physical Medicine & Rehabilitation*, oct. 2026, IF 2,2), comparant les **canules de radiofréquence à déploiement latéral multi-ailettes (lateral-deployment RF cannulas)** aux canules monopolaires conventionnelles (80 °C pendant 90 s) : à 6 mois, la canule à déploiement latéral permet une **réduction deux fois plus importante de la douleur NRS ($-5,52 \\pm 2,61$ vs $-2,81 \\pm 2,84$, différence ajustée $-2,795$, $p < 0,001$)**, double quasiment le **taux de répondeurs $\\ge 50\\%$ (73,8 % vs 38,1 %, $\\text{RR} = 1,94$, $p = 0,001$)** et améliore significativement le handicap MODI ($-13,85$ points, $p < 0,001$) et la qualité de vie SF-12 PCS ($+7,40$, $p < 0,001$), sans aucun événement indésirable grave.\n\n[ABSTRACT EN] Objective To compare conventional monopolar and lateral-deployment RF cannulas for lumbar medial branch radiofrequency ablation (RFA) in chronic facet-mediated low back pain. Design Single-center, randomized, participant-blinded, two-arm superiority trial. Ninety participants were randomized 1:1; 84 with complete 6-month data were analyzed. The primary outcome was change in Numeric Rating Scale (NRS) pain intensity from baseline to 6 months. Secondary outcomes were changes in the Modified Oswestry Disability Index (MODI) and SF-12 Physical (PCS) and Mental (MCS) Component Scores. Results Mean NRS change was -2.81 points with the conventional cannula and -5.52 points with the lateral-deployment cannula. The age-adjusted between-group difference was -2.795 points (95% CI, -3.967 to -1.624; P Conclusion The lateral-deployment cannula was associated with greater 6-month improvements in pain, disability, and physical health and with more participants achieving substantial pain relief. Larger trials with intention-to-treat analyses are needed."
+  },
+  {
     "id": "pmid-42909541",
     "type": "article-journal",
     "title": "Percutaneous cryoablation of musculoskeletal tumours: the largest reported single-centre case series - outcomes, complications and subgroup analysis",
@@ -1829,6 +2099,69 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude de cohorte sur 69 patients consécutifs (149 vis canulées de gros diamètre ≥ 7 mm : 123 vis trans-sacrées [TSS] et 26 vis ilio-sacrées [ISS]) traités en décubitus dorsal avec suivi moyen de 19,5 mois (*Injury*, sept. 2026, IF 2,2) : 100 % de trajet strictement intra-osseux au scanner post-opératoire, 0 % de complication neurovasculaire ou infectieuse, 0 % de descellement et 0 % de pseudarthrose (1 seul bris de vis S2 asymptomatique, soit 0,67 %).\n\n[ABSTRACT EN] Introduction When patients are positioned supine for percutaneous screw insertion to achieve posterior pelvic ring fixation, the edge of the operating table can impede screw insertion trajectories, thereby increasing the risk of cortical perforation, especially during iliosacral screw (ISS) placement. Multiple screw insertion might also potentially increase the risk of cortical perforation. The aim of this study was to evaluate the feasibility, safety, and efficacy of inserting multiple (≥2) transsacral screw (TSS) and ISS in the supine position via the application of specific surgical strategies and techniques developed in our institution. Patients and methods Patients who underwent stabilization of posterior pelvic ring injuries via percutaneous insertion of multiple TSS and/or ISS in the supine position between May 2018 and December 2025 were included in this study. Distinct screw insertion combination patterns at different vertebral levels, which were primarily determined by the variable anterior-posterior width of the transverse osseous pathway at the first sacrum, were employed for posterior pelvic ring fixation. Wound infection and neurovascular complications associated with screws insertion procedure were recorded. Postoperative CT scans were performed to assess the position of the screws. At follow-up, radiographic evaluations were performed to evaluate the complications including screw loosening, screw breakage, and non-union. Results A total of 149 large-diameter (≥7 mm) screws, including 123 TSSs and 26 ISSs, were inserted in a total of 69 consecutive patients. No wound infection and neurovascular complication associated with the screw insertion procedure were found postoperatively. Postoperative CT imaging demonstrated that all inserted screws were intraosseous. All patients were followed for an average of 19.5 months (range, 6.6-38 months). Only one screw (S2 TSS) breakage was noted, and no screw loosening and no bone nonunion occurred. Conclusions Fluoroscopy-assisted percutaneous multiple large-diameter screws (TSS and ISS) insertion for posterior pelvic ring injuries with the patient positioned supine has been confirmed to be a feasible, safe, and effective surgical procedure."
+  },
+  {
+    "id": "pmid-42731149",
+    "type": "article-journal",
+    "title": "Robot-assisted fracture reduction and treatment outcomes in type III and IV fragility fractures of the pelvis: A retrospective cohort study",
+    "container-title": "Injury",
+    "volume": "57",
+    "issue": "11",
+    "page": "113703",
+    "DOI": "10.1016/j.injury.2026.113703",
+    "PMID": "42731149",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42731149/",
+    "author": [
+      {
+        "family": "Xiao",
+        "given": "H"
+      },
+      {
+        "family": "Zhao",
+        "given": "C"
+      },
+      {
+        "family": "Cao",
+        "given": "Q"
+      },
+      {
+        "family": "Sun",
+        "given": "Q"
+      },
+      {
+        "family": "Ma",
+        "given": "Y"
+      },
+      {
+        "family": "Jian",
+        "given": "Y"
+      },
+      {
+        "family": "Ming",
+        "given": "Y"
+      },
+      {
+        "family": "Wang",
+        "given": "Y"
+      },
+      {
+        "family": "Zhu",
+        "given": "G"
+      },
+      {
+        "family": "Wu",
+        "given": "X"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de cohorte rétrospective sur **115 patients âgés de $\\ge 60\\text{ ans}$** présentant une fracture de fragilité du bassin instable et déplacée de **type FFP III ou IV** (*Injury*, sept./nov. 2026, IF 2,2) comparant 3 stratégies : réduction fermée assistée par robot + vissage percutané ($n = 39$), réduction fermée manuelle + vissage percutané navigué ($n = 34$) et traitement conservateur non opératoire ($n = 42$) : la fixation percutanée surpasse significativement le traitement non opératoire à 1 an sur la douleur ($p < 0,05$), le score fonctionnel de Majeed ($p < 0,05$) et le score de mobilité de Parker ($p < 0,05$), avec une tendance à une **mortalité à 1 an réduite de moitié (8,6 % vs 21,1 %)**, tandis que l'assistance robotique améliore significativement la qualité anatomique de réduction selon Matta ($\\text{OR} = 0,139$, $p = 0,001$) et la mobilité à 1 an ($\\beta = 2,030$, $p < 0,001$).\n\n[ABSTRACT EN] Introduction This study compared robot-assisted fracture reduction (RAFR) with manual closed reduction followed by navigation-assisted fixation in surgically treated patients with fragility fractures of the pelvis (FFP) type III or IV. Outcomes after operative versus initial non-operative management were also examined. Patients and methods This retrospective cohort study included 115 patients aged ≥ 60 years treated between March 2021 and June 2025: 39 underwent RAFR, 34 manual closed reduction with navigation-assisted fixation, and 42 initial non-operative treatment. The primary outcome was postoperative reduction quality according to the Matta criteria. Secondary outcomes included 1-year functional scores, mortality, and surgery-related complications. Results RAFR was associated with lower odds of a worse postoperative Matta grade than manual closed reduction with navigation-assisted fixation (adjusted common OR=0.139, 95% CI 0.039-0.440; P = 0.001). Among 58 operated survivors with complete 1-year assessments, RAFR was associated with a higher Parker Mobility Score (β=2.030, 95% CI 1.093-2.966; P Conclusion RAFR was associated with better postoperative reduction quality and a higher 1-year Parker Mobility Score than manual reduction/navigation, whereas adjusted differences in Barthel Index, EQ-5D-5L, and NRS were not statistically significant. Operative treatment was associated with better 1-year functional and pain outcomes in exploratory analyses, but a survival advantage was not demonstrated."
   },
   {
     "id": "pmid-42731622",
@@ -3286,6 +3619,49 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Mise au point technique de référence (*Skeletal Radiology*, août 2026, IF 1,9, Open-Access) détaillant les solutions pratiques aux 3 grandes situations difficiles de biopsie osseuse scanoguidée : (1) lésions juxta-vasculaires ou juxta-nerveuses/rachidiennes (voies d'abord obliques sécurisées, hydrodissection protectrice, inclinaison du statif), (2) lésions densément ostéocondensantes (choix de tréphines dentelées motorisées ou manuelles, prélèvement préférentiel de la zone de transition périphérique moins minéralisée), et (3) lésions médullaires occultes en TDM (repérage anatomique millimétrique sur fusion mentale/logicielle IRM ou TEP-FDG).\n\n[ABSTRACT EN] Bone biopsies play a pivotal role in the diagnostic workup of a wide range of bone pathologies. In many cases, image-guided percutaneous biopsy is favored over surgical approaches because it is minimally invasive, highly accurate, cost-efficient, and associated with lower morbidity. Among the available imaging modalities, CT guidance offers superior spatial resolution and enables precise needle placement, but certain skeletal locations remain technically demanding even under CT guidance. This review focuses on challenging CT-guided bone biopsy scenarios, including lesions adjacent to critical neurovascular or spinal structures, densely sclerotic lesions, and lesions occult on CT, and illustrates practical decision-making through representative clinical cases."
+  },
+  {
+    "id": "pmid-42665718",
+    "type": "article-journal",
+    "title": "Dual-energy CT-generated bone marrow edema maps improve reader confidence without changing fracture detection rates in bony pelvis trauma",
+    "container-title": "Skeletal radiology",
+    "volume": "55",
+    "issue": "12",
+    "page": "3263-3269",
+    "DOI": "10.1007/s00256-026-05358-1",
+    "PMID": "42665718",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42665718/",
+    "author": [
+      {
+        "family": "Yarabe",
+        "given": "B"
+      },
+      {
+        "family": "Walter",
+        "given": "WR"
+      },
+      {
+        "family": "Neumann",
+        "given": "SG"
+      },
+      {
+        "family": "Park",
+        "given": "HG"
+      },
+      {
+        "family": "Jardon",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude rétrospective multi-lecteurs en crossover sur **92 patients consécutifs** explorés par scanner double énergie (DECT) pour traumatisme du bassin osseux (*Skeletal Radiology*, août/déc. 2026, IF 1,9), évaluée par 3 radiologues ostéo-articulaires sur 13 sites anatomiques pelviens (soit 3 588 régions analysées) : l'ajout des **cartographies d'œdème médullaire osseux par soustraction calcique virtuelle (VNCa)** au scanner standard augmente de façon statistiquement significative la **confiance diagnostique des lecteurs ($+0,19$ sur une échelle de Likert à 5 points, IC 95 % : $0,10\\text{–}0,27$, $p < 0,001$)**, tant sur os normal que sur os ostéoporotique ou en présence de variantes vasculaires/dégénératives, tout en maintenant un taux de détection fracturaire équivalent ($p = 0,21$).\n\n[ABSTRACT EN] Objective To retrospectively evaluate the diagnostic utility of dual-energy computed tomography (DECT) virtual non-calcium bone marrow edema (BME) maps in the assessment of osseous pelvic trauma compared to conventional CT. In addition to fracture detection rates, we sought to determine the DECT effect on reader diagnostic confidence and follow-up recommendations. Materials and methods Three radiologists performed independent retrospective reviews of 92 consecutive pelvic CTs for the presence of fractures, without the use of DECT-generated BME maps. Following a washout period of ≥ 4 weeks, the cases were re-reviewed with the addition of DECT BME maps. Comparison of fracture detection rates, frequency of \"indeterminate\" reads, reader confidence ratings, and follow-up imaging recommendations were performed using McNemar's test and mixed-effects logistic regressions. Mixed-effect models were utilized to assess the effect of DEXA-derived patient bone mineral density, when available, on fracture detection rates. Results The use of DECT BME maps resulted in higher pooled reader diagnostic confidence, with a mean 0.19 increase on a 5-point Likert scale (p Conclusion When interpreting pelvic CT for trauma, DECT-generated BME maps increased diagnostic confidence without changing detection rates."
   },
   {
     "id": "pmid-42698683",
@@ -5650,6 +6026,45 @@
     "abstract": "[SYNTHÈSE FR] Article de *European Radiology Experimental* (2026) montrant l'apport de l'imagerie spectrale / comptage photonique et de la corrélation IRM-TDM lors des biopsies osseuses sous scanner pour cibler les zones d'infiltration médullaire active (lymphome osseux, métastases médullaires) même en l'absence d'ostéolyse corticale franche.\n\n[ABSTRACT EN] Objective Computed tomography-guided biopsies are needed to diagnose bone lesions, but can sometimes be challenging. We evaluated the feasibility and usefulness of photon-counting computed tomography (PCCT)-guided bone biopsies, focusing on real-time bone marrow oedema (BME) mapping to optimise diagnostic yield. Materials and methods This retrospective single-centre study included procedures performed from September 2024 to May 2025 using a first-generation dual-source PCCT scanner with Quantum HD mode. Ten consecutive patients underwent PCCT-guided bone biopsy with real-time BME reconstructions. The reference standard was established using histopathology or microbiological confirmation when available; clinical and ≥ 3-month radiologic follow-up for nondiagnostic or discordant results. Statistical analysis included descriptive statistics, independent unpaired t-tests, and correlation analysis (SPSS v22.0, RStudio). Results Ten patients, five women and five men, aged 60.5 ± 13.5 years (mean ± standard deviation), were included in the final analysis. The overall diagnostic yield was 70% (7/10), with a diagnostic accuracy of 87.5% (7/8) for cases with a definitive reference standard. Final diagnoses comprised tumour bone metastases (n = 7, 70%), bone osteomyelitis (n = 1, 10%), and bone marrow deposition disease (n = 2, 20%). Mean radiation dose (dose-length product) was 644.5 ± 112.1 mGy·cm. Monoenergetic 70-keV imaging showed significant differences between mean HU values of lytic (42.6) and sclerotic lesions (476.2) (p = 0.009), with a strong negative correlation between lesion morphology (sclerotic versus lytic) and monoenergetic 70-keV attenuation values (r = -0.84; p = 0.002). Conclusion PCCT-guided bone biopsy with real-time BME mapping proved feasible and showed encouraging diagnostic performance in this small exploratory cohort. Larger validation studies are needed. Relevance statement By combining monoenergetic images and BME mapping, PCCT-guided bone biopsy improves lesion visualisation, operator confidence, procedural efficiency, and overall safety for diagnostic tissue sampling and active disease targeting. Key points Accurate targeting of active disease within complex bone lesions during CT-guided biopsy remains challenging sometimes. PCCT-guided biopsy with real-time BME mapping can enhance lesion targeting and procedural efficiency. PCCT-guided biopsy may improve safety, diagnostic accuracy, and operator confidence."
   },
   {
+    "id": "pmid-41798415",
+    "type": "article-journal",
+    "title": "Viscosity-Augmented Percutaneous Sclerotherapy for Recurrent Thoracic Spinal Aneurysmal Bone Cyst: A Technical Innovation to Mitigate Venous Washout",
+    "container-title": "Cureus",
+    "volume": "18",
+    "issue": "2",
+    "page": "e103014",
+    "DOI": "10.7759/cureus.103014",
+    "PMID": "41798415",
+    "PMCID": "PMC12966996",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/41798415/",
+    "author": [
+      {
+        "family": "Agrawal",
+        "given": "H"
+      },
+      {
+        "family": "Shanmuganathan",
+        "given": "S"
+      },
+      {
+        "family": "Kumar",
+        "given": "N"
+      },
+      {
+        "family": "Gopinathan",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Note technique innovante (*Cureus*, févr. 2026, IF 1,0, Open-Access) décrivant le traitement percutané d'un **kyste osseux anévrismal (KOA) rachidien thoracique (T7)** chez une adolescente de 13 ans en récidive lytique douloureuse 1 an après curetage-arthrodèse : devant un **lavage veineux rapide (rapid venous washout)** vers les plexus épiduraux et les veines intercostales rendant inefficace et dangereuse la sclérothérapie liquide standard, l'injection sous guidage TDM d'un **mélange à viscosité augmentée** associant **3 mL de tétradécyl sulfate de sodium (STS) à 3 %, 2 mL de bouillie d'éponge de gélatine résorbable (350–650 $\\mu\\text{m}$) et 2 mL de produit de contraste iodé** a permis une stase intra-lésionnelle immédiate, la disparition complète des dorsalgies à 3 mois et une **ossification trabéculaire dense stable à 2 ans** sans complication neurologique.\n\n[ABSTRACT EN] A 27-year-old male was operated on for a thoracic seven-vertebra aneurysmal bone cyst (ABC). On the six-year follow-up, he had radiological signs of recurrence. Treatment plan for recurrence was multiple sessions of percutaneous intralesional sclerotherapy with 3% of sodium tetradecyl sulphate (STS). The remarkable vascularity of the lesion resulted in rapid washout of the sclerosant mixture. Henceforth, an improvised technique was used in the third attempt. A thick sclerosant mixture injectate consisting of 3 ml of 3% STS mixed with 2 ml of gelatin sponge slurry (EG Gel 350-650 micron) and 2 ml of computed tomography (CT) contrast was used. At the six-month follow-up, there was new bone formation along the margins of the lytic lesion. The patient received two more sessions of the same injectate. At the two-year follow-up, the lesion showed no expansion of the lytic area with further increase in sclerosis. Modification of the injection technique with the use of a thick sclerosant mixture reduced the washout time. This case report describes the easy reproducibility of the technique and the simple logical problem-solving method, which is fundamental to Interventional radiology."
+  },
+  {
     "id": "pmid-41720112",
     "type": "article-journal",
     "title": "Percutaneous Cryoablation for the Management of Bone and Soft Tissue Tumors",
@@ -5695,6 +6110,77 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Revue d'état de l'art (*Semin Musculoskelet Radiol*, févr. 2026) détaillant les indications établies (ostéome ostéoïde, palliation antalgique et contrôle oligométastatique osseux) et émergentes (chondroblastome, tumeurs desmoïdes, anomalies vasculaires, endométriose pariétale, récidives locales de sarcomes) de la cryoablation percutanée.\n\n[ABSTRACT EN] Image-guided percutaneous cryoablation plays an increasingly important role in managing bone and soft tissue tumors. Well-established indications include the treatment of osteoid osteoma, palliation of painful skeletal metastases, and local control of oligometastatic disease. Emerging indications are now a variety of painful benign bone tumors beyond osteoid osteoma, symptomatic soft tissue lesions (such as desmoid fibromatosis, vascular anomalies, abdominal wall endometriosis), as well as local recurrences of bone and soft tissue sarcoma. This state-of-the-art review describes the percutaneous cryoablation technique including current strategies to prevent complications. We also discuss the expanding range of clinical indications, as well as future directions of this promising technology in the musculoskeletal system."
+  },
+  {
+    "id": "pmid-41622904",
+    "type": "article-journal",
+    "title": "Efficacy and safety of microwave ablation for the treatment of pulmonary osteosarcoma oligometastases",
+    "container-title": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group",
+    "volume": "43",
+    "issue": "1",
+    "page": "2620735",
+    "DOI": "10.1080/02656736.2026.2620735",
+    "PMID": "41622904",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/41622904/",
+    "author": [
+      {
+        "family": "Zhao",
+        "given": "Y"
+      },
+      {
+        "family": "Hong",
+        "given": "W"
+      },
+      {
+        "family": "Song",
+        "given": "B"
+      },
+      {
+        "family": "Xiao",
+        "given": "Q"
+      },
+      {
+        "family": "Cheng",
+        "given": "Z"
+      },
+      {
+        "family": "Zhou",
+        "given": "C"
+      },
+      {
+        "family": "Liu",
+        "given": "F"
+      },
+      {
+        "family": "Peng",
+        "given": "C"
+      },
+      {
+        "family": "Wang",
+        "given": "T"
+      },
+      {
+        "family": "Liu",
+        "given": "M"
+      },
+      {
+        "family": "Luo",
+        "given": "W"
+      },
+      {
+        "family": "Shi",
+        "given": "L"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude rétrospective sur 22 patients (âge médian 16 ans, extrêmes 8–56 ans) porteurs de 36 oligométastases pulmonaires d'ostéosarcome traitées en 27 séances d'ablation par micro-ondes (MWA) sous guidage TDM (*International Journal of Hyperthermia*, févr./déc. 2026, IF 3,1) : succès technique de **100 %**, taux de contrôle tumoral local de **96,9 % à 1 an**, **86,1 % à 2 ans** et **81,5 % à 3 ans** (sans différence entre les lésions $\\le 10\\text{ mm}$ et $> 10\\text{ mm}$, $p = 0,470$), survie sans progression médiane de **21,5 mois** et survie globale de **94,4 % à 3 et 5 ans**, sans aucune complication majeure (CTCAE grade $\\ge 3$ : 0 %).\n\n[ABSTRACT EN] Purpose Evaluate efficacy and safety of microwave ablation (MWA) for pulmonary osteosarcoma oligometastases. Methods Twenty-two patients (median age, 16 years [range, 9-41 years]; 15 male) with pulmonary osteosarcoma oligometastases who underwent MWA from January 2018 to December 2023 were included, with 27 MWA sessions for 36 lung metastases. Technical success and complications were evaluated in all 22 patients, while efficacy and survival were evaluated in 19 patients with 24 MWA sessions in treatment of 32 tumors. Technical success was assessed for each tumor. Local tumor control, progression-free survival (PFS) and overall survival (OS) were estimated using Kaplan-Meier method. Complications were classified using Common Terminology Criteria for Adverse Events version 5.0. Results Technical success was achieved in all 36 tumors (100.0%). Local tumor progression occurred in five of 32 tumors (15.6%). The estimated local tumor control rates at 12, 24 and 36 months were 96.9%, 86.1% and 81.5%, respectively. No significant difference in local control was found between tumors ≤ 10 mm and > 10 mm ( p = .470). Twelve of 19 patients (63.2%) developed new lung metastases outside the ablation area, including one with concurrent newly developed bone metastases and one with recurrence of primary osteosarcoma. The median PFS was 21.5 months. The estimated OS rates at 12, 24 and 60 months were 100.0%, 94.4% and 94.4%, respectively. Major complications occurred in five of 27 sessions (18.5%). Conclusions MWA preliminarily demonstrates a high technical success rate, notable local tumor control, promising overall survival and acceptable safety for pulmonary osteosarcoma oligometastases."
   },
   {
     "id": "pmid-41694550",
