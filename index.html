@@ -600,6 +600,18 @@
     .synth-sec.warn summary { color: #b4432a; }
     html.dark .synth-sec.warn { border-color: #7a3a2a; }
     html.dark .synth-sec.warn summary { color: #f2a48c; }
+    .pill-internes { border-color: #2563eb; }
+    .internes-intro { border-left: 4px solid #2563eb; }
+    .internes-why {
+      margin: 0.35rem 0 0.55rem; padding: 0.55rem 0.7rem; border-radius: 8px;
+      background: rgba(37, 99, 235, 0.09); border-left: 3px solid #2563eb;
+      font-size: 0.88rem; line-height: 1.45; color: var(--text-main);
+    }
+    .badge-internes {
+      display: inline-block; margin: 0.15rem 0 0.4rem; padding: 0.12rem 0.5rem; border-radius: 999px;
+      border: 1px solid #2563eb; background: rgba(37, 99, 235, 0.09); color: #2563eb;
+      font-size: 0.75rem; font-weight: 600; cursor: pointer; touch-action: manipulation;
+    }
     .ref-chip {
       display: inline-block; font-size: 0.66rem; font-weight: 700; padding: 0.03rem 0.32rem; margin-left: 0.2rem;
       border-radius: 4px; background: var(--bg-chip); color: var(--accent-text); border: 1px solid var(--border);
@@ -739,13 +751,16 @@
   </div>
 
   <!-- Données embarquées -->
-  <script src="data/embedded_data.js?v=20261110-syntheses"></script>
+  <script src="data/embedded_data.js?v=20261118-internes"></script>
+  <script src="data/internes.js?v=20261118-internes"></script>
 
   <script>
-    const CACHE_KEY = 'biblioosteo-v2026-11-10-syntheses';
+    const CACHE_KEY = 'biblioosteo-v2026-11-18-internes';
     let articles = window.BIBLIO_ARTICLES || [];
     let categories = window.BIBLIO_CATEGORIES || [];
     let syntheses = window.BIBLIO_SYNTHESES || [];
+    let internes = window.BIBLIO_INTERNES || [];
+    const INTERNES_ID = 'internes';
     let currentCategory = 'all';
 
     const SHORT_PILL_LABELS = {
@@ -764,14 +779,16 @@
     async function fetchLatestData() {
       try {
         const ts = Date.now();
-        const [artRes, catRes, synRes] = await Promise.all([
+        const [artRes, catRes, synRes, intRes] = await Promise.all([
           fetch(`data/articles.json?t=${ts}`, { cache: 'no-store' }),
           fetch(`data/categories.json?t=${ts}`, { cache: 'no-store' }),
-          fetch(`data/syntheses.json?t=${ts}`, { cache: 'no-store' })
+          fetch(`data/syntheses.json?t=${ts}`, { cache: 'no-store' }),
+          fetch(`data/internes.json?t=${ts}`, { cache: 'no-store' })
         ]);
         if (artRes.ok) articles = await artRes.json();
         if (catRes.ok) categories = await catRes.json();
         if (synRes.ok) syntheses = await synRes.json();
+        if (intRes.ok) internes = await intRes.json();
         renderPills();
         renderList();
       } catch (e) {
@@ -900,6 +917,9 @@
         <button class="pill ${currentCategory === 'all' ? 'active' : ''}" onclick="setCategory('all')">
           Tout (${articles.length})
         </button>
+        <button class="pill pill-internes ${currentCategory === INTERNES_ID ? 'active' : ''}" onclick="setCategory('${INTERNES_ID}')">
+          🎓 Internes (${internesArticles().length})
+        </button>
       `;
       for (const c of categories) {
         const count = articles.filter(a => a.category_id === c.id).length;
@@ -911,6 +931,26 @@
         `;
       }
       container.innerHTML = html;
+    }
+
+    function internesEntry(pmid) {
+      return internes.find(i => i.pmid === pmid);
+    }
+
+    function internesArticles() {
+      const byPmid = Object.fromEntries(articles.map(a => [a.pmid, a]));
+      return internes.map(i => byPmid[i.pmid]).filter(Boolean);
+    }
+
+    function renderInternesIntro(list) {
+      const nDiag = list.filter(a => (internesEntry(a.pmid) || {}).type === 'diag').length;
+      return `
+        <article class="card internes-intro">
+          <span class="synth-kicker">🎓 Recommandé pour les internes</span>
+          <h2 class="card-title">Articles à présenter au staff</h2>
+          <p class="synth-bottom">Sélection d'articles accessibles, au message clair, en lien direct avec l'activité du service. Pour chacun : pourquoi il vaut le coup d'être présenté.</p>
+          <div class="synth-evidence">🧲 ${nDiag} en imagerie diagnostique • 🎯 ${list.length - nDiag} en interventionnel</div>
+        </article>`;
     }
 
     function setCategory(id) {
@@ -985,8 +1025,10 @@
     function renderList() {
       const q = (document.getElementById('searchInput').value || '').trim().toLowerCase();
 
-      const filtered = articles.filter(a => {
-        if (currentCategory !== 'all' && a.category_id !== currentCategory) return false;
+      const isInternes = currentCategory === INTERNES_ID;
+      const pool = isInternes ? internesArticles() : articles;
+      const filtered = pool.filter(a => {
+        if (!isInternes && currentCategory !== 'all' && a.category_id !== currentCategory) return false;
         if (q) {
           const text = [
             a.title_fr, a.title, a.authors_short, a.journal, a.pmid,
@@ -1011,7 +1053,8 @@
         return;
       }
 
-      const synthHtml = (!q && currentCategory !== 'all') ? renderSynthesis(currentCategory) : '';
+      const synthHtml = q ? '' : (isInternes ? renderInternesIntro(filtered)
+        : (currentCategory !== 'all' ? renderSynthesis(currentCategory) : ''));
 
       listEl.innerHTML = synthHtml + filtered.map(a => {
         const kpList = (a.key_points_fr || []).map(k => `<li>${esc(k)}</li>`).join('');
@@ -1019,6 +1062,10 @@
         const pubDate = a.pub_date_fr || a.year;
         const jName = a.journal_short || a.journal;
         const ifBadge = a.impact_factor ? `<span class="badge-if">IF ${esc(a.impact_factor)}</span>` : '';
+        const rec = internesEntry(a.pmid);
+        const recHtml = !rec ? '' : (isInternes
+          ? `<div class="internes-why"><strong>${rec.type === 'diag' ? '🧲 Diagnostique' : '🎯 Interventionnel'} — pourquoi le présenter :</strong> ${esc(rec.pourquoi)}</div>`
+          : `<button class="badge-internes" onclick="setCategory('${INTERNES_ID}')" title="Recommandé pour les internes">🎓 Internes</button>`);
 
         return `
           <article class="card">
@@ -1028,6 +1075,7 @@
             </div>
 
             <h2 class="card-title">${esc(a.title_fr)}</h2>
+            ${recHtml}
 
             <div class="card-journal">
               <strong>${esc(jName)}</strong>

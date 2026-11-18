@@ -36,6 +36,18 @@ Portail de veille bibliographique, de résumés cliniques structurés en frança
 
 ---
 
+## 🎓 Recommandé pour les internes
+
+Onglet **🎓 Internes** (juste après « Tout ») : une sélection d'articles accessibles et intéressants à présenter au staff (imagerie diagnostique et interventionnelle), chacun avec un encart « pourquoi le présenter ». Les articles sélectionnés portent aussi un petit badge 🎓 dans les autres onglets.
+
+- Source éditable : `data/internes.json` (l'ordre du fichier = l'ordre d'affichage)
+- Gestion en ligne de commande (vérifie que le PMID existe dans la base et régénère `data/internes.js` pour le hors-ligne) :
+  ```bash
+  python3 scripts/internes.py list
+  python3 scripts/internes.py add <PMID> --type diag|ri --pourquoi "Pourquoi le présenter"
+  python3 scripts/internes.py remove <PMID>
+  ```
+
 ## 📊 Synthèse des preuves par technique (pseudo-méta-analyse)
 
 En tête de chaque filtre de technique, une carte **Synthèse des preuves** résume la littérature de la catégorie : message clé, 3–4 chiffres clés, niveau de preuve, indications, technique, ⚠️ sécurité et suivi. Chaque affirmation est reliée à ses PMID (toucher un PMID ouvre l'article).
