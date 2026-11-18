@@ -1,13 +1,13 @@
 {
-  "last_sync": "2026-11-17T07:15:21+01:00",
+  "last_sync": "2026-11-18T07:09:51+01:00",
   "user_id": 10722826,
   "username": "Mrthomaslef",
   "collection_key": "P8GXSZX2",
   "collection_name": "BiblioOstéo Cochin — RI & Imagerie",
-  "total_articles": 75,
+  "total_articles": 77,
   "subcollections": 10,
-  "pdfs_attached": 75,
-  "total_articles_synced": 156,
+  "pdfs_attached": 77,
+  "total_articles_synced": 166,
   "synced_pmids": [
     "42189174",
     "41955566",
@@ -164,6 +164,16 @@
     "42731149",
     "42665718",
     "41798415",
-    "41622904"
+    "41622904",
+    "43005484",
+    "42993412",
+    "42995262",
+    "42992005",
+    "42762254",
+    "42544951",
+    "42680441",
+    "42309134",
+    "41876693",
+    "41650978"
   ]
 }

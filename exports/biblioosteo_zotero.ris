@@ -174,6 +174,43 @@ KW  - Ann Ital Chir 2026
 ER  - 
 
 TY  - JOUR
+TI  - Development of a Multimodal Model Combining Imaging and Clinical Data to Predict Bone Cement Leakage During Vertebroplasty for Fresh Thoracolumbar Compression Fractures
+AU  - Choi W
+AU  - Chen J
+AU  - Qiu J
+AU  - Xie T
+AU  - Li Y
+AU  - Pan Z
+AU  - Zhang Z
+AU  - Huang G
+AU  - Liao N
+AU  - Lin Y
+AU  - Deng Z
+AU  - Qiu X
+AU  - Gao B
+AU  - Huang D
+AU  - Zhou H
+AU  - Wu Z
+AU  - Gao W
+JO  - JOR spine
+PY  - 2026
+VL  - 9
+IS  - 4
+SP  - e70227
+DO  - 10.1002/jsp2.70227
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude multicentrique avec validation externe et prospective portant sur **486 vertèbres fraîches traitées par vertébroplastie percutanée (PVP) chez 378 patients** (*JOR Spine*, nov./déc. 2026, IF 3,4, Open-Access) : l'analyse d'interprétabilité SHAP et la régression multivariée démontrent que la **destruction corticale**, l'**atteinte du mur postérieur**, le **volume de ciment injecté** et l'**IMC** sont les prédicteurs indépendants majeurs de fuite de ciment, le modèle multimodal combinant clinique, séméiologie TDM et radiomique atteignant une **AUC de 0,902–0,939 en test interne, 0,722–0,929 en validation externe et 0,834–0,925 en validation prospective**. | Points clés : Sur 486 vertèbres traitées dans 3 centres, l'analyse SHAP identifie la destruction corticale, l'atteinte du mur postérieur et le volume de ciment injecté comme les 3 déterminants majeurs des fuites de PMMA. ; Le modèle multimodal (clinique + TDM + radiomique) atteint une excellente discrimination en validation prospective (AUC = 0,834–0,925). ; Confirme que le volume de ciment injecté est le principal facteur de risque directement modifiable par le radiologue interventionnel en salle. | Pratique Cochin : Outil d'analyse pré-opératoire directe pour nos « Vertébroplasties et cimentoplasties thoraco-lombaires sous guidage TDM/scopique » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Background Bone cement leakage is a common complication of percutaneous vertebroplasty (PVP), but perioperative risk stratification remains challenging. Existing models based on single-source clinical or imaging features have limited performance. This study aimed to develop and validate multimodal artificial intelligence (AI) models integrating clinical, imaging, and radiomics features to predict bone cement leakage during PVP. Methods This multicenter study included 486 treated vertebrae from 378 patients at the North, South, and Shenshan campuses of our hospital. The treated vertebra was the prediction unit, while all vertebrae from the same patient were retained in the same dataset partition and cross-validation fold. Clinical variables, conventional CT imaging features, and CT-based radiomics features were extracted. Logistic regression identified independent risk factors. Six machine-learning algorithms were used to construct clinical, imaging, radiomics, and multimodal models. Performance was evaluated using the area under the receiver operating characteristic curve (AUC), accuracy, F1 score, and decision curve analysis. Independent external and prospective validations were performed, and SHapley Additive exPlanations (SHAP) were used for model interpretation. Results Among the 486 treated vertebrae, 215 (44.2%) had cement leakage. Higher body mass index (BMI), greater cement injection volume, cortical destruction, and posterior wall involvement were independently associated with leakage. Multimodal models generally achieved higher AUCs than the corresponding single-modality models, with AUCs of 0.902-0.939 in the internal test cohort, 0.722-0.929 in the external validation cohort, and 0.834-0.925 in the prospective validation cohort. Patient-level aggregation and one-vertebra-per-patient sensitivity analyses yielded broadly comparable discrimination. SHAP identified cortical destruction, cement injection volume, and posterior wall involvement as the most influential predictors. Conclusions The multimodal models demonstrated good and generally consistent discrimination across the internal test, external validation, and prospective validation cohorts and may support perioperative risk assessment and individualized cement injection planning during PVP.
+N1  - PMID: 43005484 | PMCID: PMC13745800 | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
+UR  - https://pubmed.ncbi.nlm.nih.gov/43005484/
+KW  - Vertébroplastie
+KW  - Fuite de ciment
+KW  - Mur postérieur
+KW  - Scanner
+KW  - Radiomique
+KW  - Fracture thoraco-lombaire
+KW  - JOR Spine 2026
+ER  - 
+
+TY  - JOUR
 TI  - Image-guided ablation treatment of Desmoid tumors: an approach for management and integration into the national comprehensive cancer network ® guidelines
 AU  - Burke CJ
 AU  - Block JJ
@@ -269,6 +306,60 @@ KW  - Conflit fémoro-acétabulaire
 KW  - Dysplasie de hanche
 KW  - Radioprotection
 KW  - Eur Radiol Exp 2026
+ER  - 
+
+TY  - JOUR
+TI  - Peripheral and soft-tissue vascular malformations in the 2025 ISSVA classification: a practical MRI approach
+AU  - Nagata S
+AU  - Kuhara A
+AU  - Kugiyama T
+AU  - Sawano M
+AU  - Mizushima S
+AU  - Koganemaru M
+AU  - Tanoue S
+JO  - Insights into imaging
+PY  - 2026
+VL  - 17
+IS  - 1
+SP  - 285
+DO  - 10.1186/s13244-026-02475-2
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Article didactique de référence (*Insights into Imaging*, nov. 2026, IF 4,1, Open-Access) traduisant la mise à jour **ISSVA 2025** en un **algorithme d'interprétation IRM pratique en 4 étapes** pour les malformations vasculaires périphériques et des parties molles : (1) **hémodynamique** en angio-IRM dynamique (flux lent vs flux rapide / shunt artério-veineux), (2) **composante vasculaire dominante** (veineuse, lymphatique macro/microkystique, capillaire ou combinée), (3) **composition tissulaire non vasculaire** (contingent fibro-adipeux de type FAVA, phlébolithes, thrombi) et (4) **extension anatomique critique** (envahissement musculaire, articulaire, osseux ou périnerveux conditionnant la faisabilité de la sclérothérapie ou de la cryoablation). | Points clés : Propose un cadre structuré en 4 étapes (hémodynamique, composante vasculaire dominante, composition tissulaire et extension anatomique) pour appliquer la classification ISSVA 2025 en IRM. ; Permet de différencier formellement en IRM les malformations veineuses cavitaires classiques des entités fibro-adipeuses (FAVA) relevant plutôt d'une cryoablation percutanée. ; Sécurise la planification pré-thérapeutique en cartographiant les veines de drainage profondes et les rapports avec les troncs nerveux. | Pratique Cochin : Grille de lecture directement applicable à nos « IRM de caractérisation et de suivi des malformations vasculaires des parties molles et intra-osseuses » avant traitement percutané à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] The 2025 update of the International Society for the Study of Vascular Anomalies (ISSVA) classification introduced several imaging-relevant changes, including the recognition of potentially unique vascular anomalies. Although the main framework for vascular tumors remains unchanged, with continued subdivision into benign, borderline, and malignant tumors, the most radiologically relevant structural changes concern vascular malformations, which were reorganized into fast-flow lesions, slow-flow lesions, and developmental anomalies of named vessels. These updates are important for radiologists because imaging plays a central role in assessing hemodynamic characteristics, defining lesion extent, and identifying findings relevant to procedural planning and multidisciplinary management. This educational review presents an author-derived four-step framework that organizes established MRI observations for peripheral and soft-tissue vascular malformations according to the structure and terminology of the 2025 ISSVA classification, including hemodynamic assessment, vascular components, tissue composition, lesion extent, and treatment-relevant anatomy. KEY POINTS: Question Imaging-relevant organizational and terminology changes in the 2025 ISSVA classification require practical guidance for consistent MRI assessment and reporting of peripheral and soft-tissue vascular malformations. Findings An author-derived four-step, flow-based framework organizes hemodynamics, dominant vascular components, tissue composition, lesion extent, and treatment-relevant anatomy into structured MRI assessment. Critical relevance statement The MRI-focused framework provides a practical way to apply the 2025 ISSVA classification consistently in image interpretation, terminology, and reporting of peripheral and soft-tissue vascular malformations.
+N1  - PMID: 42993412 | PMCID: PMC13743604 | Catégorie: Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Geste
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42993412.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42993412/
+KW  - IRM musculo-squelettique
+KW  - Malformation vasculaire
+KW  - ISSVA 2025
+KW  - Angio-IRM dynamique
+KW  - FAVA
+KW  - Parties molles
+KW  - Insights Imaging 2026
+ER  - 
+
+TY  - JOUR
+TI  - Diagnostic accuracy of 3D MRI rendering techniques for evaluation of hourglass-like constrictions in Parsonage-Turner syndrome
+AU  - Shakoor D
+AU  - McKinney EJ
+AU  - Queler SC
+AU  - Davis-Hayes C
+AU  - Hao M
+AU  - Baker A
+AU  - Wang SH
+AU  - Tan ET
+AU  - Sneag DB
+JO  - Skeletal radiology
+PY  - 2026
+DO  - 10.1007/s00256-026-05367-0
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective multi-lecteurs en aveugle sur **30 neurographies IRM 3 Tesla 3D isotropiques (1 mm)** du plexus brachial (20 syndromes de Parsonage-Turner avec atteinte du nerf supra-scapulaire et 10 témoins, *Skeletal Radiology*, nov. 2026, IF 1,9) évaluée par 4 radiologues ostéo-articulaires : les reconstructions **MIP (Maximum Intensity Projection)** et **cMPR (reformatage multiplanaire curviligne)** offrent une **excellente sensibilité (90–100 % en MIP et 85–100 % en cMPR)** et une concordance inter-lecteurs substantielle à quasi parfaite pour détecter la présence et le nombre de **constrictions en sablier (hourglass-like constrictions, HGC) sévères** ($\text{AC1} = 0,67\text{–}0,70$ ; $\text{ICC} = 0,65\text{–}0,79$), le MIP étant **3 fois plus rapide à interpréter (médiane 33 s vs 104 s, $p < 0,001$)**. | Points clés : Sur 30 neurographies IRM 3T 3D isotropiques (1 mm), la sensibilité de détection des constrictions en sablier (HGC) du nerf supra-scapulaire atteint 90–100 % en MIP et 85–100 % en cMPR. ; La concordance inter-lecteurs est substantielle à quasi parfaite pour la présence d'HGC (AC1 = 0,67–0,70) et pour le décompte des constrictions sévères (ICC = 0,65–0,88). ; Complémentarité optimale en routine clinique : le MIP assure un dépistage trois fois plus rapide (33 s vs 104 s, p < 0,001) et le cMPR caractérise finement la sévérité de la sténose fasciculaire. | Pratique Cochin : Optimisation directe de nos protocoles de « Neuro-IRM du plexus brachial et de l'épaule (syndrome de Parsonage-Turner, conflits du nerf supra-scapulaire) » réalisés à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Objective To evaluate inter-reader agreement and diagnostic accuracy of curved multiplanar reformatting (cMPR) and maximum intensity projection (MIP) techniques for detecting hourglass-like constrictions (HGCs). Materials and methods Thirty brachial plexus 3-Tesla, 3D, 1-mm isotropic MR neurography (MRN) datasets (10 patients without and 20 patients with Parsonage-Turner syndrome (PTS) affecting the suprascapular nerve (SSN)) were retrospectively analyzed by four musculoskeletal radiology fellows for the number and severity of HGCs using both post-processing views in a randomized, blinded fashion. An experienced, attending radiologist served as the reference standard. Inter-reader agreement was assessed using Gwet's AC1 and intraclass correlation (ICC). Image interpretation time was compared using Wilcoxon signed-rank test. Results Inter-reader agreement for HGC presence was substantial to almost perfect among fellows (cMPR AC1 = 0.7, MIP AC1 = 0.67) and when compared to the attending (cMPR AC1 = 0.67-0.83, MIP AC1 = 0.63-0.83). Agreement for severe HGC count was substantial to almost perfect (fellows: cMPR ICC = 0.65, MIP ICC = 0.79; vs. attending: ICC = 0.62-0.83, MIP ICC = 0.69-0.88), but poor to fair for mild HGCs (fellows: cMPR ICC = 0.23, MIP ICC = 0.26; vs. attending: ICC = 0-0.21, MIP ICC = 0-0.09). Sensitivity to HGC presence was excellent (cMPR, 85-100%; MIP, 90-100%), though specificity (cMPR, 50-100%; MIP, 40-90%) and diagnostic accuracy (cMPR, 80-90%; MIP, 76-90%) varied. The MIP method required significantly less interpretation time than cMPR (median: 33 vs. 104 s, p Conclusion High inter-reader agreement and sensitivity but variable specificity for HGC detection suggest both techniques are viable tools for MRN, with cMPR better suited for detailed HGC evaluation and MIP for initial screening.
+N1  - PMID: 42995262 | PMCID:  | Catégorie: Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Geste
+UR  - https://pubmed.ncbi.nlm.nih.gov/42995262/
+KW  - Neurographie IRM
+KW  - Syndrome de Parsonage-Turner
+KW  - Nerf supra-scapulaire
+KW  - Constriction en sablier
+KW  - IRM 3 Tesla
+KW  - Épaule
+KW  - Skeletal Radiol 2026
 ER  - 
 
 TY  - JOUR
@@ -523,6 +614,29 @@ KW  - Cimentoplastie
 KW  - Vertébroplastie
 KW  - Fracture vertébrale pathologique
 KW  - Interv Pain Med 2026
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of analgesic therapies in traumatic vertebral compression fractures: Vertebroplasty and kyphoplasty versus thermal facet ablation-a prospective randomized trial
+AU  - Tóth T
+AU  - Watfa K
+AU  - Balázsfi M
+AU  - Barzó P
+JO  - North American Spine Society journal
+PY  - 2026
+VL  - 28
+SP  - 100954
+DO  - 10.1016/j.xnsj.2026.100954
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Essai prospectif randomisé contrôlé monocentrique de grande envergure sur **535 patients** (290 traités par augmentation vertébrale — vertébroplastie ou cyphoplastie — et 245 par radiofréquence thermique facettaire) souffrant de fractures-tassements vertébraux réfractaires au traitement conservateur (*North American Spine Society Journal — NASSJ*, oct./déc. 2026, IF 2,1, Open-Access) : à 6 mois, les deux bras procurent une analgésie majeure et comparable (**réduction moyenne d'EVA de $-5,6$ [IC 95 % : $-5,9$ à $-5,3$] après cimentoplastie vs $-5,3$ [IC 95 % : $-5,6$ à $-5,0$] après RFA**), la cimentoplastie présentant 8 % de fuites de ciment (23 cas, dont 0,5 % de décompression) et une durée de séjour de 1,4 jour contre 0 % de complication et une prise en charge purement ambulatoire (0,0 jour) pour la RFA. | Points clés : Sur 535 patients randomisés, la cimentoplastie vertébrale (-5,6 points d'EVA à 6 mois) et la radiofréquence facettaire (-5,3 points) procurent toutes deux une analgésie puissante et durable. ; Le taux de fuite de ciment dans le bras augmentation vertébrale est limité à 8 % (avec 0,5 % de décompression chirurgicale), contre 0 % de complication dans le bras RFA ambulatoire. ; Valide le rôle clé de la radiofréquence facettaire pour traiter la composante postérieure des fractures vertébrales ou lorsque la cimentoplastie est contre-indiquée. | Pratique Cochin : Éclairage majeur pour nos « Cimentoplasties vertébrales et rhizolyses facettaires complémentaires » chez les patients souffrant de fractures-tassements vertébraux à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Background Vertebral augmentation techniques are common for painful vertebral compression fractures (VCFs). Radiofrequency thermal facet ablation (RFA) is a potential alternative analgesic therapy, but comparative data remains limited. Methods In this single-center, prospective randomized controlled trial, patients with painful VCFs refractory to conservative treatment were randomized to vertebral augmentation or RFA. Pre- and postoperative Visual Analogue Scale (VAS) for axial pain and procedure-related complications were evaluated over a 6-month period. Results Among 535 patients completing follow-up (290 augmentation, 245 RFA), both arms provided robust analgesia. Mean VAS reduction at 6 months was -5.3 (95% CI: -5.6 to -5.0) in the RFA group and -5.6 (95% CI: -5.9 to -5.3) in the augmentation group. The augmentation group had an 8% cement leakage rate (23 cases), with 2 patients (0.5%) requiring decompression, and a mean length of stay (LOS) of 1.4 days. The RFA arm demonstrated a zero-complication rate and allowed for same-day discharge (LOS 0.0 days). Conclusions RFA and vertebral augmentation are highly effective at providing significant pain relief for VCFs, with comparable reductions in pain scores. With a zero-complication rate and outpatient feasibility, RFA is a safe and resource-efficient first-line alternative to cement-based augmentation.
+N1  - PMID: 42992005 | PMCID: PMC13737415 | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
+UR  - https://pubmed.ncbi.nlm.nih.gov/42992005/
+KW  - Vertébroplastie
+KW  - Cyphoplastie
+KW  - Radiofréquence facettaire
+KW  - Fracture vertébrale
+KW  - Essai randomisé
+KW  - Douleur rachidienne
+KW  - NASSJ 2026
 ER  - 
 
 TY  - JOUR
@@ -1096,6 +1210,32 @@ KW  - Navigation
 KW  - Robotique
 KW  - Ostéoporose
 KW  - Injury 2026
+ER  - 
+
+TY  - JOUR
+TI  - Minimally invasive internal fixation versus symphyseal screws for unstable pelvic ring fractures
+AU  - Salama W
+AU  - El-Azab HM
+AU  - Essam M
+AU  - Faisal A
+AU  - Mousa E
+AU  - Hosny H
+JO  - International orthopaedics
+PY  - 2026
+VL  - 50
+IS  - 12
+SP  - 3281-3292
+DO  - 10.1007/s00264-026-07026-4
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude comparative rétrospective sur **50 patients** présentant une fracture instable de l'anneau pelvien (types Young-Burgess APC II–III et LC II–III, *International Orthopaedics*, sept. 2026, IF 2,0) comparant le **vissage percutané symphysaire ($n = 25$)** au fixateur interne sous-cutané antérieur INFIX ($n = 25$) avec 12 mois de suivi : le vissage percutané obtient une **consolidation osseuse plus rapide ($43,7 \pm 1,2\text{ jours}$ vs $44,9 \pm 1,8\text{ jours}$, $p = 0,008$)**, des **pertes sanguines et une longueur d'incision significativement inférieures ($p < 0,001$)** et **11 fois moins de complications post-opératoires (4 % vs 44 %, $p = 0,001$)**, tout en offrant un résultat fonctionnel de Majeed et une réduction de l'EVA ($p < 0,001$) équivalents. | Points clés : Réduction drastique du taux de complications post-opératoires avec le vissage percutané symphysaire (4 % contre 44 % avec le fixateur sous-cutané INFIX, p = 0,001). ; Diminution significative des pertes sanguines per-opératoires, de la taille d'incision (p < 0,001) et du délai de consolidation osseuse (43,7 vs 44,9 jours, p = 0,008). ; Confirmation d'une excellente récupération fonctionnelle (score de Majeed et EVA à 12 mois, p < 0,001) sans nécessité d'ablation secondaire systématique du matériel. | Pratique Cochin : Arguments cliniques directs en faveur du « Vissage percutané du cadre pelvien antérieur et de la symphyse pubienne sous guidage TDM/scopique » réalisé à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Introduction Stabilization of the anterior pelvic ring is crucial in the management of unstable pelvic ring fractures. Minimally invasive internal fixation (INFIX) has been proposed as an alternative to conventional symphyseal plate fixation; however, comparative clinical evidence remains limited. Objective To compare INFIX and percutaneous symphyseal screws fixation for unstable pelvic ring fractures in terms of perioperative parameters, complications, radiological outcomes, and functional results. Methods This retrospective comparative study included 50 patients with unstable pelvic ring fractures (APC II-III and LC II-III). Patients were allocated into two groups: INFIX fixation (n = 25) and symphyseal screw fixation (n = 25). Outcomes assessed included union time, operative details, blood loss, fluoroscopic exposure, postoperative complications, pain (Visual Analogue Scale), and functional outcome (Majeed score). Patients were followed for up to 12 months. Results Union time was slightly shorter in the screws group (43.7 ± 1.2 vs. 44.9 ± 1.8 days; p = 0.008). Intra-operative blood loss and incision length were significantly higher in the INFIX group (p Conclusion Both fixation techniques effectively achieved fracture union and pain relief. percutaneous symphyseal screws fixation was associated with lower perioperative morbidity and fewer complications, while INFIX required less fluoroscopic guidance. Fixation choice should be individualized based on patient and fracture characteristics.
+N1  - PMID: 42762254 | PMCID:  | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
+UR  - https://pubmed.ncbi.nlm.nih.gov/42762254/
+KW  - Anneau pelvien
+KW  - Vissage percutané
+KW  - Symphyse pubienne
+KW  - Fracture du bassin
+KW  - INFIX
+KW  - Ostéosynthèse percutanée
+KW  - Int Orthop 2026
 ER  - 
 
 TY  - JOUR
@@ -1719,6 +1859,35 @@ KW  - Effet plateau
 KW  - Douleur chronique
 KW  - Échographie Doppler
 KW  - Ann Vasc Surg 2026
+ER  - 
+
+TY  - JOUR
+TI  - Association between perioperative D-dimer dynamics and post-treatment localized intravascular coagulation in venous malformations
+AU  - Zhang R
+AU  - Luo H
+AU  - Jiang L
+AU  - Jiang C
+AU  - Cai T
+AU  - He J
+AU  - Chen K
+AU  - Chen D
+AU  - Zhan T
+JO  - Annals of medicine
+PY  - 2026
+VL  - 58
+IS  - 1
+SP  - 2711537
+DO  - 10.1080/07853890.2026.2711537
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte rétrospective sur **267 patients** pris en charge pour malformation veineuse (*Annals of Medicine*, août/déc. 2026, IF 4,4, Open-Access) évaluant la valeur prédictive de la variation péri-interventionnelle des D-dimères (**$\Delta\text{D-dimères}$**) vis-à-vis de la survenue d'une **coagulopathie intravasculaire localisée (LIC)** post-thérapeutique : l'élévation de $\Delta\text{D-dimères}$ est indépendamment associée au développement d'une LIC selon une relation dose-réponse significative, avec un seuil d'alerte exploratoire autour de **$4,8\text{ mg/L FEU}$** justifiant un monitorage rapproché de l'hémostase (D-dimères, fibrinogène) et une anticoagulation préventive par HBPM dans les malformations veineuses volumineuses. | Points clés : Sur 267 patients traités pour malformation veineuse, l'amplitude d'élévation péri-opératoire des D-dimères (ΔD-dimères) est un facteur prédictif indépendant de coagulopathie intravasculaire localisée (LIC) selon une relation dose-effet. ; Identifie un seuil d'inflexion exploratoire autour de ΔD-dimères = 4,8 mg/L FEU au-delà duquel le risque de LIC post-procédure augmente fortement. ; Conforte le dosage systématique du couple D-dimères / fibrinogène et la thromboprophylaxie par HBPM lors du traitement des malformations veineuses étendues. | Pratique Cochin : Recommandation biologique directement applicable au bilan pré- et post-procédure de nos « Sclérothérapies et ablations percutanées de malformations veineuses étendues des membres ou du tronc » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Objective To investigate the association between the change in D-dimer levels (ΔD-dimer) and the development of localized intravascular coagulation (LIC) following surgical intervention in patients with venous malformations. Methods This retrospective cohort study enrolled 267 patients with venous malformations who underwent surgical treatment at Fujian Maternity and Child Health Hospital between June 2021 and December 2025. The primary exposure variable was the preoperative-to-postoperative ΔD-dimer. The principal outcome was postoperative LIC. Multivariable logistic regression analysis was employed to estimate the effect size, adjusted for potential confounders. Results The incidence of LIC was 31.1% (83/267). Each unit increase in ΔD-dimer was significantly associated with a higher risk of LIC (adjusted odds ratio [aOR] = 2.51; 95% confidence interval [CI]: 1.93-3.26; p 0.001). This association was consistent across stratified subgroups, including sex, age, number of lesions, tissue layer involvement, lesion volume, lesion location, surgical approach, and anticoagulation status (all P for interaction > 0.05), with a borderline interaction by head/neck involvement (P for interaction = 0.054). ΔD-dimer is independently associated with postoperative LIC in patients with venous malformations, with a monotonic dose-response relationship. A threshold near 4.8 mg/L FEU is suggested by exploratory segmented analysis but requires external validation before any clinical use. Conclusion ΔD-dimer is independently associated with postoperative LIC in patients with venous malformations, demonstrating a significant dose-response relationship. Collectively, these findings suggest that ΔD-dimer is independently associated with postoperative LIC and may serve as a risk marker for perioperative coagulation monitoring.
+N1  - PMID: 42544951 | PMCID: PMC13435279 | Catégorie: Cryoablation des Tumeurs Desmoïdes & Parties Molles
+UR  - https://pubmed.ncbi.nlm.nih.gov/42544951/
+KW  - Malformation veineuse
+KW  - D-dimères
+KW  - Coagulopathie intravasculaire localisée
+KW  - LIC
+KW  - Hémostase
+KW  - Sclérothérapie
+KW  - Ann Med 2026
 ER  - 
 
 TY  - JOUR
@@ -2496,6 +2665,30 @@ KW  - Eur Radiol 2026
 ER  - 
 
 TY  - JOUR
+TI  - Interventional Radiology Management of Vascular Anomalies
+AU  - Chaudry G
+AU  - Amarneh M
+AU  - Shaikh R
+JO  - Clinics in plastic surgery
+PY  - 2026
+VL  - 53
+IS  - 4
+SP  - 503-515
+DO  - 10.1016/j.cps.2026.05.001
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue de synthèse clinique et technique (*Clinics in Plastic Surgery*, juil. 2026, IF 2,1) structurée selon la nouvelle **classification ISSVA 2025** des anomalies vasculaires : précise les indications et les preuves comparatives des agents sclérosants pour les malformations veineuses et lymphatiques, consacre le rôle de la **cryoablation percutanée dans les anomalies vasculaires fibro-adipeuses (FAVA)** douloureuses des membres, et détaille les techniques émergentes d'**électrosclérothérapie à la bléomycine (bleomycin electrosclerotherapy — BEST)** et d'**électroembolothérapie** qui décuplent l'efficacité endothéliale par électroporation réversible. | Points clés : Intègre la nouvelle classification ISSVA 2025 dans l'arbre décisionnel de radiologie interventionnelle des anomalies vasculaires. ; Confirme la cryoablation percutanée comme traitement mini-invasif de choix des anomalies vasculaires fibro-adipeuses (FAVA) intramusculaires douloureuses. ; Met en lumière l'essor de l'électrosclérothérapie à la bléomycine (BEST, combinant sclérothérapie et électroporation réversible) pour les malformations vasculaires complexes ou réfractaires. | Pratique Cochin : Référentiel thérapeutique direct pour nos « Sclérothérapies, cryoablations et électrochimiothérapies/électrosclérothérapies à la bléomycine des malformations vasculaires des parties molles » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Vascular anomalies span a wide biological spectrum, from self-involuting infantile hemangiomas to life-threatening arteriovenous malformations. This review focuses on the conditions most commonly managed by interventional radiology, organized within the 2025 International Society for the Study of Vascular Anomalies classification framework. It covers the principles and agents of sclerotherapy for venous and lymphatic malformations, including comparative evidence for sclerosing agents, and embolization strategies for arteriovenous malformations and hereditary hemorrhagic telangiectasia -related pulmonary arteriovenous malformations. Also reviewed is the role of cryoablation in fibroadipose vascular anomaly, complex lymphatic anomaly management and the emerging techniques of bleomycin electrosclerotherapy and bleomycin electroembolotherapy.
+N1  - PMID: 42680441 | PMCID:  | Catégorie: Cryoablation des Tumeurs Desmoïdes & Parties Molles
+UR  - https://pubmed.ncbi.nlm.nih.gov/42680441/
+KW  - Malformation vasculaire
+KW  - ISSVA 2025
+KW  - Sclérothérapie
+KW  - Cryoablation
+KW  - FAVA
+KW  - Électrosclérothérapie
+KW  - Bléomycine
+KW  - Clin Plast Surg 2026
+ER  - 
+
+TY  - JOUR
 TI  - Modified percutaneous vertebral body-intervertebral disc biopsy combined with genetic testing for the diagnosis of early-stage pyogenic spondylodiscitis: a retrospective cohort study
 AU  - Ji Y
 AU  - Yu Y
@@ -2543,6 +2736,32 @@ KW  - Échographie
 KW  - Bloc test anesthésique
 KW  - Radiofréquence
 KW  - Gonarthrose
+ER  - 
+
+TY  - JOUR
+TI  - Tibial Nerve Cryoneurolysis for Spastic Equinus and Equinovarus Foot
+AU  - Hashemi M
+AU  - MacRae F
+AU  - David R
+AU  - Boissonnault È
+AU  - Vincent D
+AU  - Winston P
+JO  - American journal of physical medicine & rehabilitation
+PY  - 2026
+VL  - 105
+IS  - 12
+SP  - 1165-1172
+DO  - 10.1097/phm.0000000000003042
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte prospective observationnelle enregistrée (NCT049072010, *American Journal of Physical Medicine & Rehabilitation*, juin 2026, IF 2,2) portant sur **44 adultes** (40 suivis jusqu'à 1 an complet) présentant un pied équin ou varus équin spastique réfractaire sélectionné par bloc nerveux diagnostique positif, traités par **cryoneurolyse percutanée du tronc du nerf tibial ou de ses branches motrices sélectives** : à 1 an, diminution hautement significative du ratio électrophysiologique **H/M (IC 95 % : $-0,38$ à $-0,14$, $p < 0,001$)** et du score de spasticité d'Ashworth modifié (**médiane passant de 4 à 2 en extension du genou et de 3 à 2 en flexion, $p < 0,001$**), avec un **gain durable d'amplitude passive de dorsiflexion de cheville ($+11,5^\circ$ genou tendu et $+10,4^\circ$ genou fléchi, $p < 0,001$)**. | Points clés : Prouve électrophysiologiquement sur 40 patients suivis 1 an que la cryoneurolyse percutanée réduit durablement l'hyperexcitabilité réflexe spinale (baisse du ratio H/M, p < 0,001). ; Réduit de moitié la médiane du score de spasticité de Modified Ashworth (de 4 à 2, p < 0,001) et améliore de plus de 10° l'amplitude de dorsiflexion de cheville à 12 mois. ; Confirme la durabilité clinique à 1 an d'une séance unique de cryoneurolyse guidée par échographie et neurostimulation après bloc test positif. | Pratique Cochin : Données prospectives à 1 an directement utiles pour nos « Cryoneurolyses percutanées échoguidées des nerfs périphériques (membres inférieurs, nerfs intercostaux, géniculés, névrome de Morton) » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Objective To quantify longitudinal electrophysiologic changes after cryoneurolysis in participants with spastic equinus and equinovarus foot (SEF). Design In this prospective, observational cohort study (NCT049072010), 44 adults with SEF due to upper motor neuron disorder for ≥6 months and a positive response to diagnostic nerve block were enrolled (February 2021 to October 2022; 40 completed 1-year follow-up) and received cryoneurolysis of the tibial nerve trunk or selected tibial motor nerve branches to individual muscles. Hoffmann reflex (H-reflex) amplitude and latency, H-reflex amplitude/motor response (M-wave) amplitude (H/M) ratio, spasticity severity, catch angle with fast movement (V3), and maximum passive range of motion (V1) for ankle dorsiflexion were assessed. Results From baseline to 1 year, H-reflex amplitude changed significantly (95% confidence interval [CI], -3.11, -0.44; P =0.01), H/M ratio significantly decreased (95% CI, -0.38, -0.14; P Conclusion Cryoneurolysis elicited long-lasting electrophysiologic changes and clinical improvements indicating decreased spasticity severity.
+N1  - PMID: 42309134 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
+UR  - https://pubmed.ncbi.nlm.nih.gov/42309134/
+KW  - Cryoneurolyse
+KW  - Nerf tibial
+KW  - Échographie interventionnelle
+KW  - Spasticité
+KW  - Neurolyse périphérique
+KW  - Électrophysiologie
+KW  - Am J Phys Med Rehabil 2026
 ER  - 
 
 TY  - JOUR
@@ -2927,6 +3146,31 @@ KW  - CVIR 2026
 ER  - 
 
 TY  - JOUR
+TI  - Musculoskeletal Intervention in Children: An Update
+AU  - Chandratilleke M
+AU  - Gnannt R
+AU  - Green J
+AU  - Rajeswaran S
+JO  - Cardiovascular and interventional radiology
+PY  - 2026
+VL  - 49
+IS  - 11
+SP  - 2260-2271
+DO  - 10.1007/s00270-026-04394-7
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue de référence européenne (*CardioVascular and Interventional Radiology — CVIR*, mars/avr. 2026, IF 2,8, Open-Access) synthétisant les standards actuels de la radiologie interventionnelle ostéo-articulaire chez l'enfant et l'adolescent : (1) **kystes osseux anévrismaux (KOA) et essentiels (KOE)** traités en première intention par sclérothérapie percutanée (doxycycline, polidocanol, STS) ou substituts osseux régénératifs ; (2) **tumeurs osseuses bénignes douloureuses (ostéome ostéoïde, ostéoblastome, chondroblastome épiphysaire)** où la radiofréquence (RFA), la cryoablation et les micro-ondes remplacent définitivement la chirurgie ouverte ; et (3) **infiltrations et neurolyses ciblées** à visée antalgique. | Points clés : Consacre la radiofréquence et la cryoablation percutanées comme traitements de référence de première intention de l'ostéome ostéoïde et du chondroblastome face au curetage chirurgical. ; Détaille les techniques de sclérothérapie percutanée et d'injection de substituts osseux régénératifs pour les kystes osseux anévrismaux (KOA) et essentiels (KOE). ; Met l'accent sur la radioprotection (protocoles TDM basse dose, cone-beam CT, fusion échographie/IRM) et la protection thermique des cartilages articulaires et physaires. | Pratique Cochin : Référence européenne directe (CVIR) pour nos « Thermo-ablations d'ostéomes ostéoïdes et de chondroblastomes de l'adolescent et de l'adulte jeune » et nos « Sclérothérapies de kystes osseux » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] This review outlines current interventional radiology literature for managing pediatric musculoskeletal conditions-specifically bone cysts, bone tumors, and pain management. With the advancements in regenerative bone grafts, ablative techniques and increased awareness from referring physicians, there has been a gradual shift from open surgical techniques to minimally invasive, image-guided procedures in the management of certain pediatric musculoskeletal conditions.
+N1  - PMID: 41876693 | PMCID: PMC13751817 | Catégorie: Ablation Thermique des Tumeurs Osseuses Bénignes
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_41876693.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/41876693/
+KW  - Ostéome ostéoïde
+KW  - Chondroblastome
+KW  - Kyste osseux anévrismal
+KW  - Radiofréquence
+KW  - Cryoablation
+KW  - Sclérothérapie
+KW  - CVIR 2026
+ER  - 
+
+TY  - JOUR
 TI  - The best solution is the simplest: advances in surgical and minimally invasive management of aneurysmal and simple bone cysts
 AU  - Alaseem A
 AU  - Addar A
@@ -3056,6 +3300,39 @@ KW  - MWA
 KW  - Ablation curative
 KW  - Sarcome osseux
 KW  - Int J Hyperthermia 2026
+ER  - 
+
+TY  - JOUR
+TI  - Radiologist-guided Analgosedation with Ketamine/Midazolam: A Feasible Strategy to Expand Percutaneous Tumor Ablation Capacity
+AU  - Beeskow AB
+AU  - Struck MF
+AU  - Elkilany A
+AU  - Meyer HJ
+AU  - Prasse G
+AU  - van Boemmel F
+AU  - Berg T
+AU  - Seehofer D
+AU  - Tautenhahn HM
+AU  - Denecke T
+AU  - Gößmann H
+AU  - Ebel S
+JO  - RoFo : Fortschritte auf dem Gebiete der Rontgenstrahlen und der Nuklearmedizin
+PY  - 2026
+VL  - 198
+IS  - 11
+SP  - 1437-1443
+DO  - 10.1055/a-2786-2622
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective monocentrique sur **140 ablations thermiques percutanées (MWA et RFA)** de tumeurs osseuses, rénales et hépatiques réalisées chez **115 patients** sous analgosédation intraveineuse par **midazolam et S-kétamine** (*RöFo*, févr. 2026, IF 1,9, Open-Access) : taux de réalisation et de succès technique avec marges complètes de **98,3 % (113/115)**, **0 % de complication majeure**, aucune défaillance respiratoire ou hémodynamique, réduction de plus de moitié du temps d'occupation de salle de scanner (**$42 \pm 34\text{ min}$ vs $98 \pm 42\text{ min}$** sous anesthésie générale, $p < 0,05$) et **triplement du volume mensuel d'ablations (de 2,1 à 6,3 procédures/mois, $p < 0,05$)**. | Points clés : Sur 140 ablations thermiques percutanées (RFA/MWA osseuses, rénales et hépatiques), l'analgosédation par S-kétamine/midazolam atteint 98,3 % de succès technique complet avec 0 % de complication grave. ; Réduit significativement le temps d'occupation de la salle de scanner interventionnel de 98 ± 42 min (anesthésie générale) à 42 ± 34 min (p < 0,05). ; A permis de tripler la capacité mensuelle d'ablation tumorale (de 2,1 à 6,3 procédures/mois, p < 0,05) sans compromettre les marges d'ablation ni la sécurité. | Pratique Cochin : Organisation et fluidification des vacations de « Thermo-ablation percutanée (radiofréquence, micro-ondes, cryoablation) des tumeurs osseuses et des parties molles » lorsque les créneaux d'anesthésie générale sont limités à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Purpose Percutaneous thermal tumor ablation is an established oncologic treatment, but rising case numbers and limited anesthesia resources increasingly restrict procedural capacity. Radiologist-guided analgosedation may offer a pragmatic alternative to general anesthesia for selected ablation procedures. This study evaluates the safety, technical success, and impact on procedural throughput of performing microwave (MWA) and radiofrequency ablation (RFA) of hepatic, renal, and osseous tumors under analgosedation with midazolam and S-ketamine. Materials and methods In this retrospective single-center study, 140 percutaneous tumor ablations performed in 115 patients under radiologist-guided analgosedation between January 2022 and July 2024 were analyzed. The primary endpoint was the occurrence of sedation-related complications. Secondary endpoints included technical success, ablation-related complications, and changes in procedural volume compared with ablations performed under general anesthesia. Technical success was defined as complete tumor ablation with an adequate safety margin. Results Of 115 planned patients, 113 (98.3%) were completed as intended. No major complications occurred. One minor complication (subcapsular hepatic hematoma, CIRSE grade 1) was observed. Four patients (3.5%) experienced transient post-interventional vomiting. No respiratory, cardiovascular, or anaphylactic adverse events were recorded. Transitioning from general anesthesia to analgosedation resulted in a significant increase in procedural volume from 2.1 to 6.3 ablations per month (p Conclusion Radiologist-guided analgosedation with midazolam and S-ketamine is a feasible and safe approach for percutaneous thermal ablation of liver, kidney, and bone tumors. It enables high technical success without increasing complication rates and can substantially expand procedural capacity where anesthesiology resources are limited. Adequate training, structured workflows, and robust emergency preparedness are essential for safe implementation. Key points · Given the limited resources available for anaesthesia and the increasing demand for minimally invasive therapeutic procedures, the question of alternative concepts arises.. · At present, there is a lack of scientific research on the feasibility of percutaneous thermal ablation under analgosedation.. · This study demonstrated that percutaneous thermal tumour ablation under analgosedation is an effective method of achieving complete tumour ablation without increasing the rate of complications.. · It was shown that the use of analgosedation with S-ketamine and midazolam could increase procedural number of percutaneous thermal ablation procedures and therefore could reduce waiting times.. Citation format · Beeskow AB, Struck MF, Elkilany A et al. Radiologist-guided Analgosedation with Ketamine/Midazolam: A Feasible Strategy to Expand Percutaneous Tumor Ablation Capacity. Rofo 2026; DOI 10.1055/a-2786-2622.
+N1  - PMID: 41650978 | PMCID: PMC13716518 | Catégorie: Ablation Percutanée Tumorale : Standards, Endométriome & Oncologie
+UR  - https://pubmed.ncbi.nlm.nih.gov/41650978/
+KW  - Ablation thermique
+KW  - Analgosédation
+KW  - S-kétamine
+KW  - Midazolam
+KW  - Radiofréquence
+KW  - Micro-ondes
+KW  - Tumeur osseuse
+KW  - RöFo 2026
 ER  - 
 
 TY  - JOUR
