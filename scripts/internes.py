@@ -18,6 +18,7 @@ from pathlib import Path
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 SRC = DATA_DIR / "internes.json"
 JS = DATA_DIR / "internes.js"
+ANNEE_MIN = 2024  # règle de Thomas : aucun article recommandé antérieur à 2024
 
 
 def load():
@@ -53,6 +54,10 @@ def main():
     if missing:
         print(f"⚠️  PMID absents de la base (ignorés à l'affichage) : {', '.join(missing)}")
 
+    old = [i["pmid"] for i in items if i["pmid"] in arts and (arts[i["pmid"]].get("year") or 0) < ANNEE_MIN]
+    if old:
+        print(f"⚠️  Articles antérieurs à {ANNEE_MIN} dans la liste : {', '.join(old)}")
+
     if args.cmd == "list":
         for n, i in enumerate(items, 1):
             t = arts.get(i["pmid"], {}).get("title_fr", "??")[:90]
@@ -62,6 +67,8 @@ def main():
     if args.cmd == "add":
         if args.pmid not in arts:
             sys.exit(f"❌ PMID {args.pmid} introuvable dans data/articles.json (l'ajouter d'abord avec add_article.py).")
+        if (arts[args.pmid].get("year") or 0) < ANNEE_MIN:
+            sys.exit(f"❌ Article de {arts[args.pmid].get('year')} : seuls les articles publiés à partir de {ANNEE_MIN} sont recommandés.")
         items = [i for i in items if i["pmid"] != args.pmid]
         items.append({"pmid": args.pmid, "type": args.type, "pourquoi": args.pourquoi})
         print(f"✅ Ajouté : {arts[args.pmid]['title_fr'][:90]}")

@@ -38,7 +38,7 @@ Portail de veille bibliographique, de résumés cliniques structurés en frança
 
 ## 🎓 Recommandé pour les internes
 
-Onglet **🎓 Internes** (juste après « Tout ») : une sélection d'articles accessibles et intéressants à présenter au staff (imagerie diagnostique et interventionnelle), chacun avec un encart « pourquoi le présenter ». Les articles sélectionnés portent aussi un petit badge 🎓 dans les autres onglets.
+Onglet **🎓 Internes** (juste après « Tout ») : une sélection d'articles accessibles et intéressants à présenter au staff (imagerie diagnostique et interventionnelle), chacun avec un encart « pourquoi le présenter ». Uniquement des articles publiés **à partir de 2024** (règle appliquée par le script). Les articles sélectionnés portent aussi un petit badge 🎓 dans les autres onglets.
 
 - Source éditable : `data/internes.json` (l'ordre du fichier = l'ordre d'affichage)
 - Gestion en ligne de commande (vérifie que le PMID existe dans la base et régénère `data/internes.js` pour le hors-ligne) :

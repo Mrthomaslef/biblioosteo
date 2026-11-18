@@ -25,24 +25,19 @@
     "pourquoi": "Scanner double énergie et cartographie d'œdème médullaire dans le traumatisme du bassin : utile en garde, avec des images faciles à montrer."
   },
   {
-    "pmid": "18635627",
+    "pmid": "41473339",
     "type": "diag",
-    "pourquoi": "Classique de l'équipe Cochin (RadioGraphics) : démarche devant une tumeur solitaire du rachis ou du sacrum. Une base à maîtriser avant la RCP."
+    "pourquoi": "Tumeurs osseuses du rachis cervical en TDM et IRM, bénignes et malignes, avec les repères anatomiques avant un geste. Revue iconographique très didactique, en accès libre."
   },
   {
-    "pmid": "34812672",
-    "type": "ri",
-    "pourquoi": "Cryoablation « no-touch » de l'ostéome ostéoïde chez l'adulte (Radiology) : 96 % de succès, 60 % sous anesthésie locale. Technique pratiquée au service."
+    "pmid": "41357250",
+    "type": "diag",
+    "pourquoi": "Atlas IRM après cryoablation des tumeurs desmoïdes (de 6 à 30 mois) : savoir distinguer les remaniements attendus d'une récidive. Très utile pour les contrôles faits au service."
   },
   {
     "pmid": "42128340",
     "type": "ri",
     "pourquoi": "Cryoablation vs radiofréquence pour l'ostéome ostéoïde (99 gestes) : comparaison directe et lisible, bonne base de discussion au staff."
-  },
-  {
-    "pmid": "33290994",
-    "type": "ri",
-    "pourquoi": "CRYODESMO-01 : essai français de phase II, 85,6 % sans progression à 12 mois. L'étude de référence pour les desmoïdes traitées au service."
   },
   {
     "pmid": "42992005",
@@ -63,5 +58,15 @@
     "pmid": "42736384",
     "type": "ri",
     "pourquoi": "Biopsie disco-vertébrale : une antibiothérapie préalable ne diminue pas le rendement (36 % vs 38 %). Question pratique quotidienne, message clair."
+  },
+  {
+    "pmid": "42731622",
+    "type": "ri",
+    "pourquoi": "Cryoablation des desmoïdes extra-abdominales (JVIR, 44 patients) : 81 % de succès clinique, 5 % de complications majeures. Fait suite à CRYODESMO-01, pour une activité phare du service."
+  },
+  {
+    "pmid": "39556172",
+    "type": "ri",
+    "pourquoi": "Revue pédagogique sur la cryoablation des parties molles : choix des patients, placement des cryosondes, prévention des complications. Idéale pour comprendre le geste avant d'y assister."
   }
 ]
