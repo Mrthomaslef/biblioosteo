@@ -296,6 +296,20 @@
       color: var(--accent-text);
     }
 
+    .card-modality {
+      font-size: 0.78rem; color: var(--text-muted); line-height: 1.35;
+      margin: -0.15rem 0 0.4rem;
+    }
+    .card-summary strong, .fold-body strong { color: var(--text-main); }
+    .card-summary sup, .fold-body sup { font-size: 0.7em; }
+    .fold-body code { font-size: 0.85em; padding: 0 0.25rem; border-radius: 4px; background: var(--bg-chip); }
+    .fold-h {
+      margin: 0.7rem 0 0.25rem; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em;
+      text-transform: uppercase; color: var(--accent-text);
+    }
+    .fold-h:first-child { margin-top: 0; }
+    .proto-list { margin: 0; padding-left: 1.2rem; }
+    .proto-list li { margin-bottom: 0.3rem; }
     .meta-year {
       font-size: 0.75rem;
       color: var(--text-muted);
@@ -751,11 +765,11 @@
   </div>
 
   <!-- Données embarquées -->
-  <script src="data/embedded_data.js?v=20261118-internes"></script>
-  <script src="data/internes.js?v=20261118-internes"></script>
+  <script src="data/embedded_data.js?v=20261118-lisible"></script>
+  <script src="data/internes.js?v=20261118-lisible"></script>
 
   <script>
-    const CACHE_KEY = 'biblioosteo-v2026-11-18-internes';
+    const CACHE_KEY = 'biblioosteo-v2026-11-18-lisible';
     let articles = window.BIBLIO_ARTICLES || [];
     let categories = window.BIBLIO_CATEGORIES || [];
     let syntheses = window.BIBLIO_SYNTHESES || [];
@@ -979,6 +993,34 @@
         .replace(/"/g, '&quot;');
     }
 
+    // Mise en forme lisible : LaTeX ($\ge 5\text{ mm}$) → Unicode, **gras**, *italique*, `code`
+    const TEX = { ge: '≥', geq: '≥', le: '≤', leq: '≤', pm: '±', times: '×', rightarrow: '→', to: '→', circ: '°',
+      Delta: 'Δ', delta: 'δ', kappa: 'κ', mu: 'µ', beta: 'β', alpha: 'α', gamma: 'γ', approx: '≈', sim: '~', cdot: '·', '%': '%' };
+    function tex(str) {
+      return str
+        .replace(/(?:\\|\t)ext\{([^}]*)\}/g, '$1')
+        .replace(/\^\\circ/g, '°')
+        .replace(/\\([A-Za-z]+|%)/g, (m, k) => TEX[k] !== undefined ? TEX[k] : k)
+        .replace(/\^\{([^}]*)\}|\^(\w)/g, (m, a, b) => `<sup>${a || b}</sup>`)
+        .replace(/_\{([^}]*)\}/g, '<sub>$1</sub>')
+        .replace(/\\\s/g, ' ')
+        .replace(/[{}]/g, '');
+    }
+    function fmt(str) {
+      return esc(str)
+        .replace(/\$([^$]{1,160})\$/g, (m, inner) => tex(inner))
+        .replace(/\\(ge|le|pm|times|rightarrow|circ|Delta|kappa|mu|beta|alpha)\b/g, (m, k) => TEX[k])
+        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+        .replace(/(^|[\s(«"'/])\*(?!\s)([^*]+?)\*(?=[\s).,;:!?»"'/]|$)/g, '$1<em>$2</em>')
+        .replace(/`([^`]+)`/g, '<code>$1</code>')
+        .replace(/\*\*|(?<=\s)\*(?=\s)/g, '');
+    }
+    function fmtList(str) {
+      const parts = String(str || '').split(/\s+•\s+/).map(x => x.trim().replace(/^\(?\d+[).]\s+/, '')).filter(Boolean);
+      if (parts.length < 2) return `<p>${fmt(str)}</p>`;
+      return `<ol class="proto-list">${parts.map(x => `<li>${fmt(x)}</li>`).join('')}</ol>`;
+    }
+
     function refChips(refs) {
       return (refs || []).map(r => `<button class="ref-chip" onclick="searchPmid('${esc(r)}')" title="Voir l'article PMID ${esc(r)}">${esc(r)}</button>`).join('');
     }
@@ -1000,12 +1042,12 @@
       const kpis = (s.kpis || []).map(k => `
         <div class="synth-kpi">
           <div class="synth-kpi-v">${esc(k.v)}</div>
-          <div class="synth-kpi-l">${esc(k.l)}${refChips(k.r)}</div>
+          <div class="synth-kpi-l">${fmt(k.l)}${refChips(k.r)}</div>
         </div>`).join('');
       const secs = (s.sections || []).map((sec, i) => `
         <details class="fold synth-sec ${sec.warn ? 'warn' : ''}" ${i === 0 || sec.warn ? 'open' : ''}>
           <summary>${sec.warn ? '⚠️ ' : ''}${esc(sec.title)}</summary>
-          <div class="fold-body"><ul>${(sec.items || []).map(it => `<li>${esc(it.t)}${refChips(it.r)}</li>`).join('')}</ul></div>
+          <div class="fold-body"><ul>${(sec.items || []).map(it => `<li>${fmt(it.t)}${refChips(it.r)}</li>`).join('')}</ul></div>
         </details>`).join('');
       return `
         <article class="card synth-card" style="--synth-color:${esc(cat.color || '')}">
@@ -1014,7 +1056,7 @@
             <span class="synth-stats">• ${catArticles.length} articles${yr ? ` • ${yr}` : ''}</span>
           </div>
           <h2 class="card-title">${esc(cat.label || '')}</h2>
-          <p class="synth-bottom">${esc(s.bottom_line)}</p>
+          <p class="synth-bottom">${fmt(s.bottom_line)}</p>
           <div class="synth-kpis">${kpis}</div>
           <div class="synth-evidence"><strong>Niveau de preuve :</strong> ${esc((s.evidence || '').replace(/^Niveau de preuve\s*/i, ''))}</div>
           <div class="details-group">${secs}</div>
@@ -1057,24 +1099,25 @@
         : (currentCategory !== 'all' ? renderSynthesis(currentCategory) : ''));
 
       listEl.innerHTML = synthHtml + filtered.map(a => {
-        const kpList = (a.key_points_fr || []).map(k => `<li>${esc(k)}</li>`).join('');
+        const kpList = (a.key_points_fr || []).map(k => `<li>${fmt(k)}</li>`).join('');
         const shortCat = SHORT_PILL_LABELS[a.category_id] || a.category_short;
         const pubDate = a.pub_date_fr || a.year;
         const jName = a.journal_short || a.journal;
         const ifBadge = a.impact_factor ? `<span class="badge-if">IF ${esc(a.impact_factor)}</span>` : '';
         const rec = internesEntry(a.pmid);
         const recHtml = !rec ? '' : (isInternes
-          ? `<div class="internes-why"><strong>${rec.type === 'diag' ? '🧲 Diagnostique' : '🎯 Interventionnel'} — pourquoi le présenter :</strong> ${esc(rec.pourquoi)}</div>`
+          ? `<div class="internes-why"><strong>${rec.type === 'diag' ? '🧲 Diagnostique' : '🎯 Interventionnel'} — pourquoi le présenter :</strong> ${fmt(rec.pourquoi)}</div>`
           : `<button class="badge-internes" onclick="setCategory('${INTERNES_ID}')" title="Recommandé pour les internes">🎓 Internes</button>`);
 
         return `
           <article class="card">
             <div class="card-meta">
-              <span class="badge-cat">${esc(shortCat)} • ${esc(a.modality)}</span>
+              <span class="badge-cat">${esc(shortCat)}</span>
               <span class="meta-year">📅 ${esc(pubDate)} • PMID ${a.pmid}</span>
             </div>
 
-            <h2 class="card-title">${esc(a.title_fr)}</h2>
+            <h2 class="card-title">${fmt(a.title_fr)}</h2>
+            ${a.modality ? `<div class="card-modality">🩻 ${fmt(a.modality)}</div>` : ''}
             ${recHtml}
 
             <div class="card-journal">
@@ -1083,27 +1126,29 @@
               <span>• ${esc(a.authors_short)}</span>
             </div>
 
-            <p class="card-summary">${esc(a.summary_fr_short)}</p>
+            <p class="card-summary">${fmt(a.summary_fr_short)}</p>
 
             <div class="cochin-tag">
-              <strong>Agenda Cochin :</strong> ${esc(a.cochin_link)}
+              <strong>Agenda Cochin :</strong> ${fmt(a.cochin_link)}
             </div>
 
             <div class="details-group">
               <details class="fold">
                 <summary>🔬 Protocole &amp; Points clés</summary>
                 <div class="fold-body">
-                  <p><strong>Protocole :</strong> ${esc(a.protocol_fr)}</p>
-                  <p style="margin-top:0.45rem;"><strong>Détails :</strong> ${esc(a.summary_fr_detailed)}</p>
-                  <ul>${kpList}</ul>
+                  <p class="fold-h">Protocole</p>
+                  ${fmtList(a.protocol_fr)}
+                  <p class="fold-h">Détails</p>
+                  <p>${fmt(a.summary_fr_detailed)}</p>
+                  ${kpList ? `<p class="fold-h">Points clés</p><ul>${kpList}</ul>` : ''}
                 </div>
               </details>
 
               <details class="fold">
                 <summary>🇬🇧 Abstract original (PubMed)</summary>
                 <div class="fold-body">
-                  <p style="font-style: italic; margin-bottom: 0.4rem; color: var(--text-main);">${esc(a.title)}</p>
-                  <p>${esc(a.abstract_en)}</p>
+                  <p style="font-style: italic; margin-bottom: 0.4rem; color: var(--text-main);">${fmt(a.title)}</p>
+                  <p>${fmt(a.abstract_en)}</p>
                 </div>
               </details>
             </div>
