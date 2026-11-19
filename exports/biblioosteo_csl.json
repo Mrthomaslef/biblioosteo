@@ -494,6 +494,69 @@
     "abstract": "[SYNTHÈSE FR] Méta-analyse PRISMA 2020 (*Critical Reviews in Oncology/Hematology*, nov. 2026, IF 5,5, équipe de J. Gehl, 65 études / 7 601 patients) évaluant l'incidence et les facteurs de risque de toxicité pulmonaire à la bléomycine IV : contrairement aux cures répétées de chimiothérapie systémique (incidence globale 18 % en oncologie médicale), l'injection unique ou pauciséquentielle d'ECT à faible dose cumulative reste dépourvue de surrisque lié à l'âge ou aux métastases pulmonaires.\n\n[ABSTRACT EN] Bleomycin remains an important component of curative regimens for malignancies such as germ cell tumors, Hodgkin lymphoma, and in the local treatment modality electrochemotherapy. A limiting toxicity is bleomycin-induced pulmonary toxicity (BIP), with considerable variance in reported incidence across studies. OBJECTIVE: To estimate the incidence of BIP after intravenous bleomycin treatment and investigate the influence of diagnostic definitions, patient characteristics, and treatment-related factors on reported incidence. METHODS: A systematic review and meta-analysis was conducted according to PRISMA 2020. MEDLINE, Embase, and Cochrane Library were searched through May 2026. Studies including patients aged ≥15 years treated with intravenous bleomycin were eligible. Risk of bias was assessed using the Joanna Briggs Institute Critical Appraisal Checklist for Prevalence Studies. Random-effects meta-analysis and prespecified subgroup analyses were performed. RESULTS: A total of 65 studies comprising 7601 patients were included. The pooled incidence of BIP was 18% (95% CI 15-21%) with substantial between-study heterogeneity (I(2) = 87.3%). Reported incidence varied by diagnostic definition, ranging from 42% in imaging-based studies to 16% in studies using symptom-based composite definitions. Diagnostic definition explained a substantial proportion of between-study heterogeneity (R(2)=28%). No significant study-level associations were found between reported BIP incidence and age, sex, year of publication, overall cumulative bleomycin dose, use of granulocyte colony-stimulating factor, smoking history, or lung metastases. CONCLUSIONS: Reported BIP incidence varies widely, largely due to differences in diagnostic definitions. Standardized, clinically meaningful diagnostic criteria are needed to improve comparability between studies and support evidence-based clinical decision-making. REGISTRATION: PROSPERO (CRDxxxxxxxxxx)."
   },
   {
+    "id": "pmid-43033832",
+    "type": "article-journal",
+    "title": "Intervertebral disc versus vertebral body as the percutaneous sample site for pyogenic spondylodiscitis: Which yields a higher microbiological diagnosis? A prospective study",
+    "container-title": "The spine journal : official journal of the North American Spine Society",
+    "volume": "",
+    "issue": "",
+    "page": "S1529-9430(26)00751-5",
+    "DOI": "10.1016/j.spinee.2026.11.004",
+    "PMID": "43033832",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/43033832/",
+    "author": [
+      {
+        "family": "Tang",
+        "given": "K"
+      },
+      {
+        "family": "Li",
+        "given": "Y"
+      },
+      {
+        "family": "He",
+        "given": "Y"
+      },
+      {
+        "family": "Fan",
+        "given": "J"
+      },
+      {
+        "family": "Yan",
+        "given": "G"
+      },
+      {
+        "family": "Li",
+        "given": "Y"
+      },
+      {
+        "family": "Wang",
+        "given": "H"
+      },
+      {
+        "family": "Zhu",
+        "given": "Q"
+      },
+      {
+        "family": "Lan",
+        "given": "T"
+      },
+      {
+        "family": "Dong",
+        "given": "W"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de cohorte prospective intra-patient de très haut niveau de preuve (*The Spine Journal*, nov. 2026, IF 4,9) portant sur **68 patients** (âge médian 64,0 ans) suspects de spondylodiscite à pyogènes sans collection abcédée liquidienne, chez qui une **biopsie percutanée simultanée du disque intervertébral ET du corps vertébral adjacent** a été réalisée : **le prélèvement du disque intervertébral offre un taux de positivité bactériologique significativement supérieur à celui du corps vertébral (51,5 % [35/68] vs 32,4 % [22/68], $p = 0,002$ au test apparié de McNemar)** ; en analyse multivariée GEE, le site discal, l'élévation de la VS, de la procalcitonine (PCT), de l'IL-6 et l'inflammation aiguë en histopathologie sont indépendamment associés à la positivité des cultures ($p < 0,05$).\n\n[ABSTRACT EN] Background context Pyogenic spondylodiscitis requires microbiological confirmation, yet percutaneous sample collection yield remains modest. The optimal sampling site in patients without drainable abscess is controversial. Retrospective studies suggest the disc may outperform the vertebral body, but evidence is limited by design biases, leaving the question unresolved. Purpose To determine whether the intervertebral disc or the vertebral body provides a better percutaneous biopsy site for microbiological diagnosis in patients with pyogenic spondylodiscitis. Study design Prospective cohort study conducted at a single spine center. Patient sample A total of 68 patients with high clinical suspicion of pyogenic spondylodiscitis who underwent C-arm guided percutaneous biopsy between January 2024 and April 2025. Outcome measures Positive rate of bacterial culture (including aerobic and anaerobic) from biopsy specimens; factors associated with positive culture using generalized estimating equations (GEE). Methods All enrolled patients underwent simultaneous percutaneous sample collections of both the vertebral body and the intervertebral disc under C-arm guidance. Specimens were sent for bacterial culture, anaerobic culture, metagenomic next-generation sequencing (mNGS), and histopathological examination. The McNemar test was used to compare paired culture positivity rates between the two sites. Multivariable analysis was performed using GEE to identify factors associated with positive cultures. Results Of 279 screened patients with suspected spinal infections, 68 were included (39 males, 29 females; median age 64.0 years). The intervertebral disc yielded a significantly higher microbial identification rate than the vertebral body (35/68 [51.5%] vs. 22/68 [32.4%]; P=0.002). On multivariable analysis, factors significantly associated with positive cultures included male sex, elevated preoperative dynamic erythrocyte sedimentation rate (ESR), increased procalcitonin (PCT), elevated interleukin-6 (IL-6), histopathological evidence of acute inflammation, and biopsy site (all P Conclusions In patients with pyogenic spondylodiscitis requiring solid-tissue sampling, percutaneous sampling of the intervertebral disc yields a significantly higher bacterial culture positivity rate than sampling of the vertebral body. Male sex, elevated ESR, PCT, IL-6, and acute inflammation on histopathology are also associated with positive cultures. These findings support prioritizing the intervertebral disc as the preferred percutaneous sampling target-reserving direct aspiration for accessible fluid collections-to optimize microbiological diagnosis in pyogenic spondylodiscitis."
+  },
+  {
     "id": "pmid-42970180",
     "type": "article-journal",
     "title": "Quantitative imaging-pathology correlation in nodular fasciitis and diagnostic discrimination from sarcoma",
@@ -863,6 +926,61 @@
     "abstract": "[SYNTHÈSE FR] Note technique et radio-anatomique de référence (*Pain Medicine*, nov. 2026, IF 2,9, Open-Access) analysant l'impact des montages d'arthrodèse cervicale antérieure (ACDF) et postérieure (vis de masses latérales ou vis pédiculaires) sur l'intégrité des **branches médiales cervicales (MBN)** lors de la prise en charge d'un syndrome facettaire du segment adjacent : alors que l'arthrodèse cervicale antérieure (ACDF) préserve intégralement les branches médiales postérieures, **l'instrumentation cervicale postérieure par vis de masses latérales ou vis pédiculaires interrompt presque systématiquement la branche médiale au niveau des vertèbres instrumentées**, ce qui permet d'adapter le nombre de nerfs à bloquer et à thermocoaguler sur le segment mobile adjacent.\n\n[ABSTRACT EN] Background Cervical fusion alters regional biomechanics and increases load transmission through adjacent facet joints, which may produce facet-mediated pain. Cervical medial branch blocks (MBBs) and radiofrequency ablation (RFA) remain highly useful diagnostic and therapeutic interventions; however, surgical approaches used in cervical fusion frequently disrupt the cervical medial branch nerves (MBNs) at treated levels. Identifying which MBNs remain anatomically intact is essential for accurate diagnostic and therapeutic targeting of relevant nerves (and sensate facet joints) and for avoiding unnecessary procedure levels or procedures altogether. Objective To present an approach to determining which cervical medial branches require management after fusion, drawing upon the surgical approach, anatomic landmarks, implant trajectory, and cross-sectional imaging. Design Technical note. Setting Cervical RFA following spinal fusion surgery. Conclusions A systematic, anatomy-based method improves diagnostic precision, reduces unnecessary procedures, and helps identify patients most likely to benefit from interventions. Posterior cervical fusion using modern screw-and-rod instrumentation will essentially always result in denervation of the MBN at the operated level(s). Anterior surgical approaches reliably preserve the MBNs, making them viable targets for cervical RFA."
   },
   {
+    "id": "pmid-42969557",
+    "type": "article-journal",
+    "title": "Denervation Techniques for Chronic Low Back Pain due to Lumbar Facet Joint Arthropathy: A Comparison Between Radiofrequency and Endoscopic Neurotomy",
+    "container-title": "Pain practice : the official journal of World Institute of Pain",
+    "volume": "26",
+    "issue": "8",
+    "page": "e70217",
+    "DOI": "10.1111/papr.70217",
+    "PMID": "42969557",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42969557/",
+    "author": [
+      {
+        "family": "Afifi",
+        "given": "A"
+      },
+      {
+        "family": "Teuben",
+        "given": "MPJ"
+      },
+      {
+        "family": "Shehu",
+        "given": "A"
+      },
+      {
+        "family": "Oikonomidis",
+        "given": "S"
+      },
+      {
+        "family": "Abujarad",
+        "given": "M"
+      },
+      {
+        "family": "Ringe",
+        "given": "M"
+      },
+      {
+        "family": "Sobottke",
+        "given": "R"
+      },
+      {
+        "family": "Mahmoud",
+        "given": "MA"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude prospective comparative sur **65 patients** (âge médian 62 ans, EVA initiale médiane de 8,0 [IQR 7,0–9,0] et score COMI-back de 8,6) suivis **12 mois** après dénervation facettaire lombaire par **radiofréquence thermique percutanée multi-étagée (RFN)** ou par neurotomie endoscopique (EN) (*Pain Practice*, nov. 2026, IF 2,7) : si les deux techniques réduisent significativement l'EVA en post-opératoire immédiat, **l'effet antalgique à 12 mois se maintient de façon stable dans le groupe radiofréquence percutanée (RFN)** alors que les scores de douleur remontent dans le groupe endoscopique, avec un **taux de complications significativement plus faible ($p < 0,007$)** et un **coût total significativement inférieur ($p < 0,01$)** pour la radiofréquence percutanée.\n\n[ABSTRACT EN] Purpose Radiofrequency neurotomy (RFN) of the lumbar medial branch is the standard of care for facet joint arthropathy-related chronic low back pain (CLBP). However, endoscopic neurotomy (EN) has also recently been adopted as a feasible treatment option for CLBP. The increasing population of patients with cardiac implantable electronic devices (CIEDs) highlights the need for alternative denervation methods to avoid device interference. We propose that both RFN and EN are effective for CLBP, with EN offering a safe option for patients with CIEDs and therapy-resistant aberrant innervation. Methods Patients with facet joint arthropathy-related CLBP who were treated between 01.01.2016 and 31.12.2019 were prospectively included and grouped as RFN or EN based on treatment. Over a 12-month period, the following outcomes were studied: Core Outcome Measures Index for the back (COMI-back), Visual Analogue Scale (VAS), complications, and costs. Results Sixty-five patients (35 female) with a median age of 62 years were included. Prior to the intervention, patients had a median COMI-back of 8.6 (IQR: 7.7-9.0) and a median VAS score of 8.0 (IQR: 7.0-9.0). After intervention, the VAS score dropped significantly for both groups. Thereafter, pain scores rose in the EN group, whereas VAS levels in the RFN group remained unaltered. Complication rates were significantly lower after RFN compared with EN patients (p Conclusion In conclusion, this prospective study shows that both EN and percutaneous multilevel RFN are safe and effective treatments for facet joint arthropathy-associated CLBP. RFN is preferred as the first treatment option for uncomplicated CLBP due to its lower invasiveness, while EN is suitable as an alternative for patients with CIEDs and those with therapy-resistant aberrant innervation or anatomical variations."
+  },
+  {
     "id": "pmid-43013146",
     "type": "article-journal",
     "title": "Local Control Options for Metastatic Disease in Sarcoma",
@@ -912,6 +1030,33 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Revue de synthèse oncologique de référence (*Current Oncology Reports*, nov. 2026, IF 4,7) comparant les trois piliers du contrôle local des oligométastases de sarcomes des parties molles — métastasectomie chirurgicale, radiothérapie stéréotaxique (SBRT) et **ablation thermique percutanée guidée par l'image (RFA, cryoablation, MWA)** : les trois modalités offrent des taux élevés et comparables de contrôle local et de survie sans progression chez les patients oligométastatiques sélectionnés (intervalle libre prolongé, faible nombre de lésions, histologie léiomyosarcome ou liposarcome), l'ablation percutanée se distinguant par son caractère répétable, sa faible morbidité et sa synergie immunologique potentielle.\n\n[ABSTRACT EN] Purpose of review To review the current evidence on local treatment strategies for oligometastatic soft tissue sarcoma at pulmonary and extrapulmonary sites, and evaluate their impact on oncological outcomes. Recent findings Pulmonary metastasectomy remains the most established local treatment, with 5-year survival rates of 20-58%. Complete (R0) resection, a longer disease-free interval, and fewer metastases are associated with improved outcomes. Stereotactic radiotherapy achieves high local control rates with low toxicity, and a recent systematic review reported survival outcomes comparable to surgery. Image-guided thermal ablation also achieves high local control rates for lung metastases of 1 cm or smaller and offers a minimally invasive option for extrapulmonary metastases. For all modalities, current data are derived predominantly from retrospective studies, and direct comparisons are lacking. Local treatment offers promising outcomes for carefully selected patients with oligometastatic soft tissue sarcoma. Surgery, stereotactic radiotherapy, and thermal ablation should be considered complementary options, selected within a multidisciplinary tumor board according to lesion size, number, and location. Prospective studies are needed to define optimal patient selection and determine the comparative effectiveness of these modalities."
+  },
+  {
+    "id": "pmid-42975651",
+    "type": "article-journal",
+    "title": "[Image-guided minimally invasive treatment options for endometriosis]",
+    "container-title": "Radiologie (Heidelberg, Germany)",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "DOI": "10.1007/s00117-026-01674-8",
+    "PMID": "42975651",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42975651/",
+    "author": [
+      {
+        "family": "Kostrzewa",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Mise au point structurée et série institutionnelle (*Die Radiologie [Heidelberg]*, nov. 2026, IF 1,1) évaluant l'ensemble des traitements mini-invasifs guidés par l'imagerie de l'endométriose : **la cryoablation percutanée détient le niveau de preuve le plus élevé pour les localisations extrapéritonéales et intramusculaires (endométriose pariétale abdominale)** et constitue une alternative mini-invasive validée à l'exérèse chirurgicale pariétale délabrante, tandis que la sclérothérapie à l'éthanol est établie pour les endométriomes ovariens et que les HIFU, la RFA et les micro-ondes restent complémentaires ou en cours d'évaluation.\n\n[ABSTRACT EN] Background Endometriosis affects approximately 10% of women of reproductive age with a mean diagnostic delay of 7-10 years. Image-guided procedures show increasingly promising results as minimally invasive alternatives to excision. Objective Structured overview of image-guided minimally invasive treatment options for endometriosis with focus on percutaneous cryoablation. Results Percutaneous cryoablation demonstrates the strongest evidence for extraperitoneal and intramuscular lesions and represents a valid minimally invasive alternative to excision. Three institutional cases illustrate technique and outcomes. Ethanol sclerotherapy is established for ovarian endometriomas. High-intensity focused ultrasound (HIFU) shows promising results for abdominal wall disease; radiofrequency ablation (RFA) and microwave ablation are investigational. Conclusion Interventional radiology offers a growing therapeutic spectrum. Prospective randomized trials are needed for guideline integration."
   },
   {
     "id": "pmid-42999001",
@@ -1918,6 +2063,37 @@
     "abstract": "[SYNTHÈSE FR] Étude prospective comparative (*European Journal of Radiology*, oct./déc. 2026, IF 3,2) portant sur 73 patients (339 corps vertébraux analysés) ayant bénéficié à la fois d'un scanner lombaire à comptage photonique (PCCT) et d'une IRM quantitative 6-échos q-Dixon (mesurant la fraction graisseuse en densité de protons PDFF de référence) : la fraction graisseuse dérivée des cartes virtuelles sans calcium du scanner à comptage photonique (**VNCa CTFF**) présente une très forte corrélation positive avec la PDFF IRM tant à l'échelle vertébrale ($r = 0,863$) qu'à l'échelle du patient ($r = 0,895$), tandis que les valeurs d'atténuation VNCa en UH montrent une forte corrélation négative ($r = -0,858$ à $-0,888$).\n\n[ABSTRACT EN] Rationale and objectives To evaluate the feasibility and accuracy of photon-counting CT (PCCT)-derived parameters for quantifying vertebral bone marrow adipose tissue (BMAT), using MRI proton density fat fraction (PDFF) as the reference standard. Materials and methods Adult participants with low back pain were prospectively recruited to undergo both PCCT and MRI. PCCT-derived parameters, including virtual non-calcium (VNCa) CT values, VNCa CT fat fraction (CTFF), and standardized 70 keV CT values, were obtained. MRI PDFF maps were generated using a 6-echo q-Dixon sequence. Correlation and agreement between PCCT-derived parameters and MRI PDFF were assessed at both vertebral and subject levels. Results A total of 73 participants were included, and 339 vertebral bodies were analyzed. VNCa CTFF showed strong positive correlation with MRI PDFF at both vertebral (r = 0.863) and subject (r = 0.895) levels. In contrast, VNCa CT values (r = -0.858 to -0.888) and standardized 70 keV CT values (r = -0.791 to -0.833) showed significant negative correlations with MRI PDFF. Bland-Altman plots showed small mean differences but relatively wide limits of agreement between calibrated VNCa CTFF and MRI PDFF. Conclusions PCCT-derived VNCa CTFF showed strong correlation with MRI PDFF, and linear calibration reduced the mean difference between the two measurements, although the limits of agreement remained relatively wide. Standardized 70 keV CT values were also correlated with MRI PDFF, but should be interpreted cautiously as attenuation-based surrogates influenced by both trabecular mineral content and marrow fat."
   },
   {
+    "id": "pmid-42820978",
+    "type": "article-journal",
+    "title": "Dual-energy CT virtual non-calcium imaging for differentiating pathologic from non-pathologic femoral fractures: a study of inexperienced non-radiologist readers",
+    "container-title": "Skeletal radiology",
+    "volume": "56",
+    "issue": "1",
+    "page": "147-156",
+    "DOI": "10.1007/s00256-026-05382-1",
+    "PMID": "42820978",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42820978/",
+    "author": [
+      {
+        "family": "Lee",
+        "given": "HY"
+      },
+      {
+        "family": "Jeon",
+        "given": "JY"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude rétrospective de performance diagnostique sur **45 fractures fémorales consécutives** admises aux urgences (**20 fractures pathologiques prouvées par histologie/chirurgie et 25 fractures non pathologiques**, *Skeletal Radiology*, sept./déc. 2026, IF 1,9) : l'ajout des **cartes couleur DECT Virtual Non-Calcium (VNCa)** au scanner conventionnel fait bondir la **sensibilité de détection des fractures pathologiques de 65 % à 95 % ($p = 0,031$, lecteur 1) et de 50 % à 85 % ($p = 0,016$, lecteur 2)**, augmente la précision globale à **91,1–95,6 %** et élève l'**AUC de 0,765 à 0,955 ($p = 0,0135$)** et de **0,670 à 0,905 ($p < 0,01$)** chez des lecteurs non spécialisés.\n\n[ABSTRACT EN] Objective To assess the effect of dual-energy CT (DECT) virtual non-calcium (VNCa) imaging on the ability of inexperienced non-radiologist readers to differentiate pathologic from non-pathologic femoral fractures. Materials and methods In this retrospective diagnostic accuracy study, 45 eligible emergency department patients with femoral fractures who underwent DECT between January 2022 and September 2024 were included, comprising 20 patients with pathologic fractures and 25 with non-pathologic fractures. The reference standard for fracture classification was established using surgical records or histopathologic results. Two inexperienced non-radiologist readers independently evaluated conventional CT alone and conventional CT combined with color-coded DECT VNCa images in separate reading sessions. Sensitivity, specificity, accuracy, and area under the receiver operating characteristic curve (AUC) were compared between the two sessions. AUCs were compared using the paired DeLong test. Results The addition of DECT VNCa significantly improved sensitivity for detecting pathologic fractures in both readers. For Reader 1, sensitivity increased from 65 to 95% (p = 0.031), and accuracy increased from 77.8% to 95.6%. For Reader 2, sensitivity increased from 50 to 85% (p = 0.016), and accuracy increased from 68.9% to 91.1%. Specificity remained high without significant differences between sessions. AUC increased from 0.765 (95% CI, 0.617-0.913) to 0.955 (95% CI, 0.883-1.0) for Reader 1 and from 0.670 (95% CI, 0.506-0.834) to 0.905 (95% CI, 0.802-1.0) for Reader 2 (p = 0.0135 and Conclusion Adding color-coded DECT VNCa to conventional CT improves the diagnostic performance of inexperienced non-radiologist readers in detecting pathologic femoral fractures."
+  },
+  {
     "id": "pmid-42942556",
     "type": "article-journal",
     "title": "Intraoperative Neurophysiological Monitoring During Continuous Radiofrequency Treatment of Morton's Neuroma: Complete Ablation",
@@ -2915,6 +3091,77 @@
     "abstract": "[SYNTHÈSE FR] Étude de validation sur 134 tumeurs des parties molles de novo non opérées confirmées par l'histopathologie (*Clinical Imaging*, sept./déc. 2026, IF 1,8) évaluant le système de stratification du risque IRM **ACR Soft Tissue-RADS (ST-RADS)** par 4 radiologues ostéo-articulaires seniors et par un calculateur algorithmique structuré : sensibilité de **85 %** et spécificité de **76,5 %** des radiologues MSK pour discriminer les lésions bénignes (ST-RADS 1 à 3) des tumeurs malignes/sarcomes (ST-RADS 4 et 5), le calculateur basé sur les descripteurs sémiologiques structurés atteignant une performance diagnostique équivalente aux experts (précision dichotomisée de 72 % vs 71 %, p = 0,46).\n\n[ABSTRACT EN] Purpose Soft-tissue RADS (ST-RADS) is an ACR-sponsored MRI-based scoring system for risk-stratification of soft tissue tumors and tumor-like lesions. Despite strong interobserver agreement and diagnostic accuracy, clinical adoption is limited by reader fatigue and workflow burden. We developed and validated an AI-based web tool (ST-RADS calculator) using ST-RADS algorithms and GPT API to facilitate routine implementation. Methods The ST-RADS calculator offers three input modes: image-only, text features-only, and combined. A retrospective study of 134 histopathology-confirmed soft tissue tumors compared ST-RADS scores from four fellowship-trained musculoskeletal (MSK) radiologists against the calculator using all three approaches. Sensitivity and specificity were compared using generalized estimating equations with pairwise contrasts. Results Sensitivity was similar across all methods: 85% for radiologists, 86% for image-only, 81% for text features-only, and 86% for combined (p > 0.90). Specificity differed significantly: 76.5% for radiologists, 69.4% for text features-only, 61.2% for combined, and 25.5% for image-only. Text features-only did not differ significantly from radiologists (p = 0.46). Dichotomized accuracy (benign 1-3 vs. malignant 4-5) was 71% for radiologists, 72% for text features-only, 61% for combined, and 42% for image-only. Full-scale accuracy ranged from 19% (image-only) to 52% (combined). Conclusion The ST-RADS calculator with text-based input achieved accuracy comparable to expert MSK radiologists, while image-only approaches require further refinement. This tool can support routine ST-RADS implementation in clinical practice."
   },
   {
+    "id": "pmid-42710425",
+    "type": "article-journal",
+    "title": "Gaussian mixture modelling enables valid intramuscular fat quantification on T2- and intermediate-weighted shoulder MRI relative to two-point Dixon",
+    "container-title": "European journal of radiology",
+    "volume": "205",
+    "issue": "",
+    "page": "113206",
+    "DOI": "10.1016/j.ejrad.2026.113206",
+    "PMID": "42710425",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42710425/",
+    "author": [
+      {
+        "family": "Kim",
+        "given": "B"
+      },
+      {
+        "family": "Wesselink",
+        "given": "EO"
+      },
+      {
+        "family": "Gandomkar",
+        "given": "Z"
+      },
+      {
+        "family": "McKay",
+        "given": "MJ"
+      },
+      {
+        "family": "Seitz",
+        "given": "AL"
+      },
+      {
+        "family": "Elliott",
+        "given": "JM"
+      },
+      {
+        "family": "Ashok Kumar",
+        "given": "A"
+      },
+      {
+        "family": "Cass",
+        "given": "B"
+      },
+      {
+        "family": "Young",
+        "given": "AA"
+      },
+      {
+        "family": "Linklater",
+        "given": "JM"
+      },
+      {
+        "family": "Moopanar",
+        "given": "TR"
+      },
+      {
+        "family": "Weber KA",
+        "given": "2nd"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude rétrospective de validation sur **80 patients** ($58 \\pm 15\\text{ ans}$) explorés par IRM d'épaule comprenant à la fois une séquence de référence **Dixon 2-points** et des séquences morphologiques standard **T2 et densité de protons (IW)** (*European Journal of Radiology*, sept./nov. 2026, IF 3,2) : la quantification automatisée de la fraction graisseuse intramusculaire (IMF) par **modèle de mélange gaussien (GMM)** sur les séquences T2 et IW standard ne diffère pas significativement des mesures Dixon ($p \\ge 0,074$ en T2 et $p \\ge 0,243$ en IW), avec un **biais moyen maximal inférieur à 3,07 %** et une **excellente fiabilité ($\\text{ICC}_{2,1} \\ge 0,90$)** sur les muscles supra-épineux, infra-épineux, subscapulaire et deltoïde, surpassant nettement le clustering K-means.\n\n[ABSTRACT EN] Objectives To evaluate the accuracy and reliability of automated Gaussian Mixture Modelling (GMM) and K-means clustering for intramuscular fat (IMF) quantification on T 2 -weighted (T 2 W) and intermediate-weighted (IW) shoulder MRI, using two-point Dixon as the reference standard. Materials & methods This retrospective study collected MRI datasets of patients who underwent both two-point Dixon with T 2 W and/or IW shoulder MRI. GMM and K-means were applied to quantify IMF of the supraspinatus, subscapularis, infraspinatus, teres minor, and deltoid. Accuracy and reliability relative to Dixon were evaluated using Bland-Altman analysis and intraclass correlation coefficients (ICC 2,1 ). Raw IMF values from GMM, K-means and Dixon were compared using repeated-measures ANOVA with post-hoc Dunnett's test (∝=0.05). Results Eighty patients (mean age, 58 years ± 15 [standard deviation]; 41 males) were evaluated. On T 2 W MRI, GMM outperformed K-means with a maximum mean bias of -3.07% and excellent reliability for supraspinatus, subscapularis, infraspinatus and deltoid (ICC 2,1 ≥ 0.90). K-means produced poor to moderate reliability. On IW MRI, GMM mean bias did not exceed -2.81% and showed excellent reliability for infraspinatus (ICC 2,1 = 0.92) with good reliability for other muscles. K-means showed higher bias (-4.36%) and lower reliability (ICC 2,1 ≤ 0.81) than GMM. GMM was the only model that did not significantly differ from Dixon IMF values on T 2 W (p ≥ 0.074) and IW (p ≥ 0.243) MRI. Conclusion IMF quantification using GMM thresholding achieves better agreement with Dixon IMF values than K-Means on T 2 W and IW MRI."
+  },
+  {
     "id": "pmid-42803442",
     "type": "article-journal",
     "title": "Mapping Genicular Nerve Endings for Optimal Pain Management: A Comparative Cadaveric Analysis Between Native Versus Prosthetic Knee",
@@ -3489,6 +3736,57 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Série clinique à long terme (*Frontiers in Surgery*, août 2026, IF 1,8, Open-Access, suivi moyen 61,1 mois jusqu'à 12 ans) chez 31 enfants et jeunes adultes porteurs d'un kyste osseux essentiel (dont 14 révélés par fracture pathologique) traités par injection percutanée de ciment phosphocalcique (CPC) : disparition complète des douleurs (EVA médiane à 0), score fonctionnel MSTS médian de 30/30, cicatrisation radiographique Neer I/II dans 100 % des cas finaux et taux de récidive primaire limité à 12,9 % (4/31).\n\n[ABSTRACT EN] Objective Unicameral bone cysts (UBCs) are fluid-filled, osteolytic lesions commonly affecting children and adolescents. Minimally invasive treatments such as percutaneous injection have become increasingly popular. Calcium phosphate cement (CPC), a biocompatible artificial bone substitute with mechanical strength and osteoconductivity, and may be suitable for such applications. This study aimed to evaluate the mid- to long-term clinical and radiographic outcomes of percutaneous calcium phosphate cement injection for UBCs, with particular emphasis on late recurrence, repeat injection, cortical remodeling, and cavity filling. Methods A retrospective review was conducted on 31 patients with UBC treated by CPC injection between January 2013 and January 2025, with at least 1 year of follow-up. Postoperative outcomes were assessed radiographically, functionally, and for complications. We recorded the patients' age, sex, preoperative and postoperative visual analog scale (VAS) scores, Musculoskeletal Tumor Society (MSTS) scores, modified Neer classification and Capanna classification, cortical thickness ratio, cavity filling, recurrence, repeat intervention, and complications. Results The mean follow-up duration was 61.1 months (range, 13-149 months). Among them, 14 patients experienced pathological fractures. Postoperatively, pain and functional outcomes improved significantly, with the median VAS score decreasing to 0 and the median MSTS score improving to 30 at final follow-up ( P Conclusion Percutaneous CPC injection was associated with pain relief, functional improvement, and radiographic stabilization in patients with UBCs. Repeat CPC injection appeared to provide stable outcomes in recurrent cases, whereas observation was considered reasonable for one clinically stable lesion with adequate cortical thickness. The observed cortical remodeling and cavity filling suggest that CPC injection may represent a potential minimally invasive strategy for reconstruction of UBC-related bone defects."
+  },
+  {
+    "id": "pmid-42861178",
+    "type": "article-journal",
+    "title": "Bone Marrow Aspirate Concentrate Combined With Demineralized Bone Matrix With Open Curettage vs Mini-Open Trocar-Assisted Injection for Unicameral Bone Cysts: A Retrospective Comparative Study",
+    "container-title": "Journal of the Pediatric Orthopaedic Society of North America",
+    "volume": "17",
+    "issue": "",
+    "page": "100449",
+    "DOI": "10.1016/j.jposna.2026.100449",
+    "PMID": "42861178",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42861178/",
+    "author": [
+      {
+        "family": "Gigi",
+        "given": "R"
+      },
+      {
+        "family": "Sternheim",
+        "given": "A"
+      },
+      {
+        "family": "Merose",
+        "given": "O"
+      },
+      {
+        "family": "Tudor",
+        "given": "A"
+      },
+      {
+        "family": "Segal",
+        "given": "O"
+      },
+      {
+        "family": "Danino",
+        "given": "B"
+      },
+      {
+        "family": "Gortzak",
+        "given": "Y"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude comparative rétrospective avec suivi long de **7,8 ans en moyenne** sur **35 patients** porteurs d'un kyste osseux essentiel (KOE / unicameral bone cyst, *Journal of the Pediatric Orthopaedic Society of North America — JPOSNA*, nov. 2026, IF 1,4, Open-Access) comparant l'injection simple au trocart de concentré de moelle osseuse autologue et matrice osseuse déminéralisée (MOTAI : BMAC/DBM, $n = 15$) au curetage mécanique de la membrane kystique combiné à l'injection de BMAC/DBM ($n = 20$) : bien que la guérison radiographique finale (Neer grades I–II : 73,3 % vs 70,0 %, $p = 1,00$) et les scores fonctionnels à long terme soient identiques, **l'absence de disruption mécanique initiale de la paroi kystique multiplie le taux de réintervention (66,7 % vs 15,0 %, $\\text{OR} = 9,92$, $p = 0,029$)**.\n\n[ABSTRACT EN] Background Unicameral bone cysts (UBCs) are common benign pediatric bone lesions prone to pathologic fracture and recurrence. Bone marrow aspirate concentrate combined with demineralized bone matrix (BMAC/DBM) is a biologically active treatment strategy. However, no study has directly compared open curettage combined with BMAC/DBM injection against mini-open trocar-assisted injection (MOTAI) of BMAC/DBM in a long-term cohort. Methods A retrospective comparative study was conducted at a single tertiary referral center. Thirty-five patients treated for UBCs between 2006 and 2019 were included: 20 underwent open curettage with BMAC/DBM injection (curettage group) and 15 received MOTAI (MOTAI group). The primary outcome was the need for an additional surgical intervention. Secondary outcomes included final Neer radiographic classification and a composite functional score at a mean follow-up of 7.8 years. Results The reoperation rate was 15.0% (3/20) in the curettage group vs 66.7% (10/15) in the MOTAI group (Fisher's exact P = .028 after adjustment for age and cyst activity status). On multivariable logistic regression, the MOTAI group had significantly higher odds of undergoing an additional surgical intervention than the curettage group (odds ratio: 9.92, 95% confidence interval: 1.27-77.35 P = .029). Cyst activity status did not independently predict the need for an additional intervention ( P = .394). A good radiographic result (Neer grades 1-2) was achieved in 70.0% of the curettage group and 73.3% of the MOTAI group (Fisher's exact P = 1.00). Hardware use did not significantly influence reoperation risk ( P = .835). Composite functional scores were excellent in both groups, with no significant difference between them (Benjamini-Hochberg-adjusted P > .80). Conclusions Open curettage with BMAC/DBM significantly reduces the need for additional surgical interventions compared with MOTAI, without compromising the final radiographic or functional outcomes at long-term follow-up. Curettage may be the principal surgical determinant of treatment efficacy in this setting. Key concepts (1)Open curettage with bone marrow aspirate concentrate combined with demineralized bone matrix lowers reoperation risk vs injection alone in unicameral bone cysts (UBCs).(2)Long-term radiographic and functional outcomes were similar between approaches.(3)Intramedullary hardware alone did not reduce reoperation risk in pediatric UBCs.(4)Active cyst status did not independently predict reoperation after adjustment.(5)Mechanical cyst-wall disruption may be the key surgical driver of cyst healing. Level of evidence III, Retrospective Comparative Study."
   },
   {
     "id": "pmid-42631901",
@@ -4406,6 +4704,112 @@
     "abstract": "[SYNTHÈSE FR] Série clinique rétrospective (*Acta Radiol*, juil. 2026, 43 patients, 59 os thoraciques traités) démontrant une efficacité antalgique de 88 % et une stabilisation fracturaire de 87 % après cimentoplastie percutanée du sternum, des côtes, de la clavicule et de la scapula.\n\n[ABSTRACT EN] BackgroundCementoplasty is widely used for spinal and weight-bearing extraspinal lesions, but its application in extraspinal thoracic bones (sternum, ribs, clavicles, and scapulae) remains poorly documented.PurposeTo evaluate the feasibility, safety and pain outcomes of cementoplasty for extraspinal thoracic bone lesions.Material and MethodsAll consecutive patients who underwent cementoplasty of an extraspinal thoracic bone between March 2012 and December 2024 were retrospectively included. The following data were systematically assessed: degree of lesion filling, fracture stabilization, cement leakage, adverse events, and pain outcome at 3 months postoperatively, assessed from follow-up consultations using a four-level semi-quantitative scale (worsening pain, stable pain, pain improvement, or complete pain resolution).ResultsA total of 59 extraspinal thoracic bones were treated by cementoplasty during 51 procedures among 43 consecutive patients (27 women [63%] and 16 men [37%]; median age = 60 years). Most lesions were metastases or multiple myeloma lesions. Among patients with available follow-up, pain improvement or complete pain resolution was observed in 29/33 (88%) patients. Cement filling of more than 60% of the lesion volume was achieved in 40/45 (89%) focal lesions. Fracture stabilization was successful in 20/23 (87%) cases. Major cement leakage occurred in 5/56 (9%) treated bones with available postoperative imaging and was asymptomatic in all cases. One infectious complication was recorded.ConclusionCementoplasty of extraspinal thoracic bone lesions appears technically feasible and may represent a valuable palliative option for pain relief with an acceptable safety profile."
   },
   {
+    "id": "pmid-42668572",
+    "type": "article-journal",
+    "title": "Paraspinal muscle CT measurements in predicting subsequent fractures after percutaneous kyphoplasty in elderly women",
+    "container-title": "North American Spine Society journal",
+    "volume": "28",
+    "issue": "",
+    "page": "100934",
+    "DOI": "10.1016/j.xnsj.2026.100934",
+    "PMID": "42668572",
+    "PMCID": "PMC13524699",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42668572/",
+    "author": [
+      {
+        "family": "Geng",
+        "given": "J"
+      },
+      {
+        "family": "Liu",
+        "given": "Y"
+      },
+      {
+        "family": "Zhang",
+        "given": "W"
+      },
+      {
+        "family": "Yuan",
+        "given": "Y"
+      },
+      {
+        "family": "Liu",
+        "given": "F"
+      },
+      {
+        "family": "Xu",
+        "given": "D"
+      },
+      {
+        "family": "Hu",
+        "given": "B"
+      },
+      {
+        "family": "Zhang",
+        "given": "Q"
+      },
+      {
+        "family": "Mai",
+        "given": "C"
+      },
+      {
+        "family": "Cheng",
+        "given": "X"
+      },
+      {
+        "family": "Wang",
+        "given": "L"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude longitudinale prospective sur **185 patientes âgées** ($70,9 \\pm 8,6\\text{ ans}$) opérées par cyphoplastie percutanée (PKP) pour fracture vertébrale ostéoporotique et suivies en moyenne **4,7 ans** (*North American Spine Society Journal — NASSJ*, juil./sept. 2026, IF 2,1, Open-Access) : 56 patientes (30,3 %) ont présenté une refracture ; en analyse multivariée de Cox, le **ratio de densité TDM (en unités Hounsfield) des muscles extenseurs (érecteurs du rachis + multifides) sur fléchisseurs (psoas) en L4** est un facteur protecteur indépendant puissant contre toute nouvelle fracture (**$\\text{HR} = 0,29$ par écart-type, IC 95 % : $0,11\\text{–}0,79$**), son ajout à la DMO volumétrique améliorant significativement la prédiction des refractures vertébrales ($\\text{IDI} = 0,09$, $p = 0,028$).\n\n[ABSTRACT EN] Background Subsequent fractures are a common complication after percutaneous kyphoplasty (PKP) in elderly women with osteoporotic vertebral compression fractures (OVCF). Although bone mineral density (BMD) is a known predictor, its limitations highlight the need for additional prognostic markers. Purpose This study aimed to evaluate the predictive value of lumbar paraspinal muscle parameters measured by preoperative computed tomography (CT) for subsequent fractures after PKP, and to assess whether incorporating these muscle parameters improves risk stratification beyond BMD alone. Methods This prospective longitudinal study enrolled 185 elderly female patients (mean age 70.9 ± 8.6 years) with OVCF who underwent PKP. Preoperative quantitative CT (QCT) was used to measure muscle parameters-including density (Hounsfield units [HU]) and functional cross-sectional area (FCSA) of the extensor (erector spinae and multifidus) and flexor (psoas major) muscles at the L4 level-as well as volumetric BMD (vBMD) and vertebral HU. Incident subsequent fractures were defined according to the semiquantitative Genant classification during a mean follow-up of 4.7 years. Cox proportional hazards models, Kaplan-Meier survival analysis, and integrated discrimination improvement (IDI) were employed to assess predictive performance. Results During follow-up, 56 patients (30.3%) developed incident fractures. In multivariable analysis adjusted for age, BMI, fracture history, and baseline vertebral fracture status, the extensor-to-flexor density ratio remained an independent protective factor for any incident fracture (hazard ratio [HR] = 0.29 per SD, 95% Confidence interval [CI]: 0.11-0.79), while vBMD showed the strongest protective effect for vertebral-specific fractures (HR = 0.60 per SD, 95% CI: 0.41-0.88). Incorporating muscle parameters into a baseline BMD model significantly improved predictive performance for both fracture endpoints (IDI = 0.067 for any fracture, p = .036; IDI = 0.09 for vertebral fracture, p = .028). Conclusions CT-based measurements of paraspinal muscles, particularly the extensor-to-flexor density ratio, are independent predictors of subsequent fractures after PKP in elderly women. Combining muscle parameters with vBMD enhances risk stratification, underscoring the clinical value of assessing the \"muscle-bone unit\" in postoperative management. These findings suggest that postoperative rehabilitation strategies should prioritize strengthening of the spinal extensor musculature to mitigate fracture risk."
+  },
+  {
+    "id": "pmid-42480043",
+    "type": "article-journal",
+    "title": "Comparative efficacy of percutaneous vertebroplasty combined with minimally invasive pedicle screw fixation versus percutaneous vertebroplasty alone in the treatment of elderly osteoporotic vertebral compression fractures",
+    "container-title": "The Libyan journal of medicine",
+    "volume": "21",
+    "issue": "1",
+    "page": "2670006",
+    "DOI": "10.1080/19932820.2026.2670006",
+    "PMID": "42480043",
+    "PMCID": "PMC13390159",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42480043/",
+    "author": [
+      {
+        "family": "Ma",
+        "given": "C"
+      },
+      {
+        "family": "Chen",
+        "given": "Z"
+      },
+      {
+        "family": "Fang",
+        "given": "Q"
+      },
+      {
+        "family": "Shu",
+        "given": "Y"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Essai prospectif randomisé sur **94 patients âgés** (47 par groupe) présentant une fracture vertébrale ostéoporotique par compression (*Libyan Journal of Medicine*, déc. 2026, IF 1,8, Open-Access) comparant la **vertébroplastie percutanée combinée à une fixation pédiculaire percutanée mini-invasive** à la vertébroplastie percutanée seule : le montage combiné procure une **réduction supérieure de l'EVA dès J1–J7**, une **meilleure restauration de la hauteur vertébrale antérieure et de l'angle de cyphose de Cobb à 3 mois ($p < 0,05$)**, une meilleure récupération fonctionnelle (ODI, JOA et ADL, $p < 0,05$) et une durée d'hospitalisation réduite, sans augmentation du taux de complications ($p > 0,05$).\n\n[ABSTRACT EN] The study aimed to assess the comparative efficacy of percutaneous vertebroplasty (PVP) combined with minimally invasive pedicle screw fixation versus PVP alone in elderly patients with osteoporotic vertebral compression fractures (OVCF). Ninety-four elderly patients with OVCF were randomly classified into the control (47 patients) and combined (47 patients) groups. The control group received PVP, while the combined group received PVP combined with minimally invasive pedicle screw fixation. Perioperative indicators such as intraoperative blood lose, operative time, and hospitalization time were recorded. Pain was assessed using the VAS before and at baseline and 1, 3, and 7 days postoperatively. At 1 and 3 days postoperatively, Serum CRP levels, WBC, and neutrophil counts were measured postoperatively. Radiographic outcomes (vertebral height ratio and Cobb angle), ADL scores, JOA scores, and ODI were evaluated preoperatively and at 3 months post-operation. Postoperative complications were documented. Baseline characteristics were comparable. The combined group showed superior pain relief, vertebral height restoration, Cobb angle correction, functional recovery, and reduced inflammatory markers (CRP, WBC, neutrophils) postoperatively (all P P P > 0.05). PVP combined with minimally invasive pedicle screw fixation yields better outcomes in elderly OVCF patients by enhancing pain control, vertebral height, and functional recovery without increasing perioperative risk."
+  },
+  {
     "id": "pmid-42477120",
     "type": "article-journal",
     "title": "Minimally Invasive Treatment of Aneurysmal Bone Cysts Utilizing a Modified Sclerograft Technique",
@@ -4735,6 +5139,49 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude rétrospective (*Eur Radiol Exp*, juil. 2026, 34 patients, 37 cryoablations) démontrant que les critères IRM adaptés à la viabilité tissulaire (M-RECIST) détectent 79,4 % de réponse objective (dont 44,1 % de réponse complète) contre seulement 28,6 % avec les critères dimensionnels RECIST 1.1.\n\n[ABSTRACT EN] Objective Percutaneous cryoablation (PC) has been incorporated among first-line treatment options for desmoid-type fibromatosis (DF). Loco-regional therapies, including PC, induce tissue changes that may precede measurable tumor shrinkage, thereby limiting the reliability of purely dimensional response criteria. To address this limitation, we compared response evaluation criteria in solid tumors (RECIST) 1.1 and magnetic resonance imaging (MRI)-adapted (M-)RECIST in patients with DF treated with PC. Materials and methods We retrospectively identified all consecutive patients with progressing extra-abdominal DF treated with PC. Responses were assessed with RECIST 1.1 and M-RECIST, the latter relying on T2- and diffusion-weighted imaging, as well as unenhanced and contrast-enhanced T1-weighted imaging, to define residual viable tumor. Non-progression (NPR) and overall response rates (ORR) were defined as the percentage of patients without radiological progression and partial/complete responses, respectively. Results Thirty-four patients (females/males, 26/8) and 37 procedures were identified. RECIST 1.1 and M-RECIST were applicable in 35 and 34 procedures, respectively. At a median follow-up of 15.7 months (interquartile range [IQR] 19.5), RECIST 1.1. Responses were: 10/35 (28.6%) partial response (PR), 22/35 (62.9%) stable disease (SD), and 3/35 (8.6%) progressive disease (PD), with ORR 28.6% and NPR 91.4%. At a median follow-up of 16.0 months (IQR 20.5), M-RECIST responses were: 15/34 (44.1%) complete response (CR), 12/34 (35.3%) PR, 4/34 (11.8%) SD, and 3/34 (8.8%) PD, with ORR 79.4% and NPR 91.2%. Overall concordance was negligible. Conclusion M-RECIST yielded higher NPR/ORR than RECIST 1.1. These findings pave the way for studies addressing whether this shift in response categorization associates with improved outcomes prediction. Relevance statement This work provides supporting evidence for the implementation of residual viable disease assessment in evaluating DF responses to PC. Key points In patients with DF, responses to cryoablation can be characterized using purely dimensional and viability-based criteria. RECIST 1.1 and M-RECIST yielded complete agreement for PD. M-RECIST may refine response categorization below the progression threshold."
+  },
+  {
+    "id": "pmid-42455370",
+    "type": "article-journal",
+    "title": "Elastofibroma dorsi: imaging-guided minimally invasive treatment using percutaneous CO2 cryoablation",
+    "container-title": "Skeletal radiology",
+    "volume": "55",
+    "issue": "11",
+    "page": "2967-2971",
+    "DOI": "10.1007/s00256-026-05302-3",
+    "PMID": "42455370",
+    "PMCID": "PMC13574846",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42455370/",
+    "author": [
+      {
+        "family": "Mauri",
+        "given": "G"
+      },
+      {
+        "family": "Glielmo",
+        "given": "P"
+      },
+      {
+        "family": "Cammarata",
+        "given": "F"
+      },
+      {
+        "family": "Albano",
+        "given": "D"
+      },
+      {
+        "family": "Sconfienza",
+        "given": "LM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Note technique innovante (*Skeletal Radiology*, juil./oct. 2026, IF 1,9, Open-Access) rapportant le traitement percutané d'un **élastofibrome dorsal sous-scapulaire gauche symptomatique** ($48 \\times 18 \\times 70\\text{ mm}$, volume $31,6\\text{ mL}$) chez un patient de 66 ans refusant la chirurgie d'exérèse ouverte : la **cryoablation percutanée au $\\text{CO}_2$ sous guidage combiné échographique et TDM** (applicateur à pointe active de 4,5 cm) a été réalisée sans aucune douleur per- ou post-procédurale ni complication, permettant à 3 mois une **réduction volumétrique de 55,3 % (volume résiduel $14,1\\text{ mL}$ avec nécrose centrale avasculaire en IRM)** et la **disparition complète de la gêne mécanique scapulaire**.\n\n[ABSTRACT EN] Objective Elastofibroma dorsi is a benign slow-growing fibroelastic pseudotumoral lesion that typically arises in the infrascapular region of elderly individuals and is usually managed conservatively or by surgical excision when symptomatic. Percutaneous cryoablation has only recently been described for this entity, and experience remains very limited. We report the case of a symptomatic left elastofibroma dorsi treated by percutaneous cryoablation using a CO 2 -based system. Materials and methods A 66-year-old man with non-painful but mechanically symptomatic left elastofibroma dorsi, unwilling to undergo surgery, came to our attention to be treated with minimally invasive approach. Pre-treatment MRI demonstrated a lesion measuring 48 × 18 × 70 mm (31.6 mL) in the typical subscapular location. The lesion was treated by US-CT-guided percutaneous cryoablation using a CO 2 -based system (Metrum Cryoflex, Lomianki, Poland) equipped with a 4.5 cm of exposed tip cryoapplicator. Results The procedure was technically successful and well tolerated, with no immediate or delayed complications and free from immediate and post-treatment pain. At 3-month follow-up, contrast-enhanced MRI showed size reduction to 38 × 12 × 59 mm (14.1 mL, - 55.3% volume reduction), with internal non-enhancing necrotic change consistent with post-ablation effect. Clinically, the patient reported complete resolution of mechanical symptoms. Conclusions This case suggests that percutaneous CO 2 cryoablation may represent a feasible minimally invasive treatment option for selected patients with symptomatic elastofibroma dorsi. The use of a CO 2 -based cryoablation platform may offer practical and economic advantages, although its lower freezing capacity compared with conventional argon-and nitrogen-based systems requires careful procedural planning."
   },
   {
     "id": "pmid-42612110",
@@ -5215,6 +5662,45 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Mise au point de référence (*Diagnostic and Interventional Imaging*, juin 2026, IF 3,9) synthétisant les avancées diagnostiques et interventionnelles dans l'ostéome ostéoïde : supériorité du scanner ultra-haute résolution (UHR-CT / comptage photonique) pour visualiser le nidus dans les localisations épiphysaires, intra-articulaires ou rachidiennes complexes, apport décisif de l'IRM dynamique injectée (DCE-MRI avec prise de contraste artérielle précoce du nidus et lavage) pour éliminer les diagnostics différentiels inflammatoires ou infectieux (abcès de Brodie), et sélection raisonnée de la technique ablative percutanée (radiofréquence monopolaire/bipolaire, cryoablation avec approche « no-touch », laser ou micro-ondes).\n\n[ABSTRACT EN] Osteoid osteoma is a common benign bone tumor that typically involves the diaphysis of long bones, though it can also occur in epiphyseal or intracapsular locations, which can make diagnosis difficult. Imaging relies on identifying a nidus, of variable appearance, associated with reactive sclerosis and bone marrow or soft-tissue edema. While radiographs are often the first step, they lack sensitivity. Computed tomography, and especially ultra-high-resolution computed tomography, is essential for nidus detection, and magnetic resonance imaging, particularly dynamic contrast-enhanced images, provides complementary diagnostic value. Treatment emphasizes the effectiveness of minimally invasive techniques, which are safe, cost-effective, and associated with minimal functional impairment. Unlike most review articles that focus on specific aspects of diagnostic imaging or interventional radiology techniques, this article provides a comprehensive overview of osteoid osteoma, covering both conventional imaging findings and current advances in imaging and interventional radiology."
+  },
+  {
+    "id": "pmid-42273455",
+    "type": "article-journal",
+    "title": "Efficacy and Safety of Microwave Ablation for Osteoid Osteoma: A Retrospective Analysis of 35 Cases",
+    "container-title": "Journal of orthopaedic case reports",
+    "volume": "16",
+    "issue": "6",
+    "page": "122-127",
+    "DOI": "10.13107/jocr.2026.v16.i06.7400",
+    "PMID": "42273455",
+    "PMCID": "PMC13248182",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42273455/",
+    "author": [
+      {
+        "family": "Davis",
+        "given": "D"
+      },
+      {
+        "family": "John",
+        "given": "J"
+      },
+      {
+        "family": "John",
+        "given": "A"
+      },
+      {
+        "family": "Puthur",
+        "given": "KD"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude rétrospective sur **35 patients** (âge moyen $18,1 \\pm 8,6\\text{ ans}$, localisation prédominante au fémur proximal dans 27 % des cas) traités par **ablation par micro-ondes (MWA)** sous guidage TDM pour ostéome ostéoïde (*Journal of Orthopaedic Case Reports*, juin 2026, IF 0,8, Open-Access) : résolution rapide et durable des douleurs chez **34 des 35 patients (97,1 % de succès clinique)** avec chute de l'EVA moyenne de **$7,4 \\pm 0,94$ à $1,9 \\pm 0,7$**, mais survenue de **14,3 % de complications mineures/thermiques (5/35)** soulignant la nécessité d'un contrôle rigoureux de la puissance et des distances de sécurité.\n\n[ABSTRACT EN] Introduction Osteoid osteoma is a benign bone tumor that commonly manifests in the lower extremities and causes significant pain. Contemporary treatment for this condition has shifted toward the use of percutaneous ablation techniques. In this study, we aimed to evaluate the efficacy and safety of microwave ablation in patients with osteoid osteoma. Materials and methods This retrospective study analyzed 35 patients with osteoid osteoma treated using microwave ablation between June 2019 and June 2025. Patient demographics and clinical characteristics, such as tumor location, pain levels (assessed using the Visual Analog Scale [VAS]), complications, and hospital stay, were recorded and analyzed using descriptive statistics. Results The average patient age was 18.08 ± 8.6 years, and the proximal femur was the most commonly affected site (9/35 patients [27%]). Microwave ablation significantly reduced pain in 34 of 35 patients (97.1%), with average VAS scores decreasing from 7.4 ± 0.94 to 1.9 ± 0.7 after the procedure. Complications occurred in 5 of 35 patients (14.3%), and the average hospital stay was 3 days. Conclusion Our retrospective analysis showed that microwave ablation helped achieve significant pain reduction in patients with osteoid osteoma. While the procedure demonstrates efficacy, caution is necessary to minimize the risk of thermal injury to surrounding non-target tissues."
   },
   {
     "id": "pmid-42234093",
