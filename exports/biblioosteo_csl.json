@@ -82,6 +82,65 @@
     "abstract": "[SYNTHÈSE FR] Revue systématique selon PRISMA (*Journal of Foot and Ankle Research*, déc. 2026, IF 2,8, Open-Access) portant sur 5 études et **308 patients** ayant bénéficié d'une biopsie osseuse avec double analyse microbiologique et histopathologique simultanée pour suspicion d'ostéomyélite du pied diabétique (DFO) : le taux moyen de **concordance positive entre culture et histologie n'est que de 43,4 %** (concordance négative de 10,8 %, concordance globale de 41 à 92,5 %) ; la **microbiologie offre une sensibilité supérieure (70 à 83,9 %)** indispensable au ciblage antibiotique, tandis que **l'histopathologie apporte une spécificité supérieure** (excluant les contaminations cutanées) et prédit le risque de reprise chirurgicale et d'antibiothérapie prolongée.\n\n[ABSTRACT EN] Background Diabetic foot osteomyelitis (DFO) is a serious complication of diabetic foot ulcers and is associated with increased risk of amputation, morbidity, and mortality. Bone biopsy remains the most definitive diagnostic modality, yet controversy persists over its diagnostic utility This study reviews the diagnostic concordance of histopathology and microbiology in bone biopsy specimens from patients with DFO and examines the clinical implications of the findings. Methods A systematic review was conducted using PubMed, Medline, CINHAL, Cochrane Library, and Google Scholar. Studies included adult patients with DFO in whom bone biopsy specimens underwent both histopathological and microbiological analysis. Five core studies met the eligibility criteria. Data on study design, setting, population, diagnostic methods, concordance rates, and outcomes were extracted and synthesized utilising a quantitative narrative synthesis. Results Across the five studies (n = 308 patients), histopathology and microbiology showed modest concordance, with mean rates of concordant positive results of 43.4% and common discordant findings. Histopathology demonstrated higher specificity, while microbiology had higher sensitivity, ranging from 70% to 83.9% but greater susceptibility to contamination. Positive histopathology was more strongly associated with the need for revision surgery or extended antibiotic therapy. Discussion Histopathology appears to offer superior diagnostic specificity, whereas microbiology provides valuable information for antimicrobial management. Frequent discordance underscores the importance of interpreting results in a clinical context. Further robust, prospective studies are needed to clarify the optimal diagnostic approach and standardise definitions."
   },
   {
+    "id": "pmid-43052493",
+    "type": "article-journal",
+    "title": "Computed tomography-guided percutaneous cryoablation for pediatric osteoid osteoma: clinical success and safety",
+    "container-title": "Pediatric radiology",
+    "volume": "",
+    "issue": "",
+    "page": "",
+    "DOI": "10.1007/s00247-026-06841-6",
+    "PMID": "43052493",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/43052493/",
+    "author": [
+      {
+        "family": "Grange",
+        "given": "S"
+      },
+      {
+        "family": "Grange",
+        "given": "R"
+      },
+      {
+        "family": "Stacoffe",
+        "given": "N"
+      },
+      {
+        "family": "Perez",
+        "given": "K"
+      },
+      {
+        "family": "Al Khoury Salem",
+        "given": "H"
+      },
+      {
+        "family": "Haddad",
+        "given": "E"
+      },
+      {
+        "family": "Boucher",
+        "given": "LM"
+      },
+      {
+        "family": "Pelage",
+        "given": "JP"
+      },
+      {
+        "family": "Gorelik",
+        "given": "N"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude rétrospective monocentrique portant sur **18 patients pédiatriques consécutifs** (10 garçons ; âge médian **13,5 ans**, extrêmes 6–17 ans) traités par cryoablation percutanée guidée par scanner pour un ostéome ostéoïde entre décembre 2022 et mai 2025 (*Pediatric Radiology*, nov. 2026, IF 2,1) : le **succès technique et le succès clinique à 1 mois atteignent 100 % (18/18)**, avec un **délai médian de disparition complète des douleurs de 1 jour (IQR 1–2 jours)** — **72 % des enfants (13/18) étant totalement indolores dès 24 heures**, 100 % à 14 jours avec arrêt complet des antalgiques à 1 mois — sans **aucune complication (0 % d'événement indésirable SIR)** et avec une exposition radique faible (**DLP médian de 158 mGy·cm**, IQR 100–300).\n\n[ABSTRACT EN] Percutaneous thermal ablation has replaced surgery as first-line treatment for osteoid osteoma in many centers. Radiofrequency ablation is the most widely reported technique, whereas cryoablation is an alternative thermal ablation technique. Pediatric data on cryoablation for osteoid osteoma remain limited. To evaluate the clinical and technical success of CT-guided percutaneous cryoablation for osteoid osteoma in children and adolescents. Safety and radiation exposure were assessed as secondary procedural outcomes. This retrospective single-center study included 18 consecutive patients (10 males; median age 13.5 years, range 6-17) who underwent CT-guided cryoablation between December 2022 and May 2025. Clinical success at 1 month and technical success were the main outcomes. Society of Interventional Radiology (SIR)-classified adverse events, pain evolution, analgesic use, procedure duration, and dose-length product were recorded as secondary outcomes. Pain was assessed using the numeric rating scale (NRS). Technical success was achieved in all procedures (18/18). Clinical success was achieved in all patients by the 1-month clinical follow-up. Median time to complete pain relief was 1 day (interquartile range, 1-2 days); 13/18 patients were pain-free within 24 h, all patients were pain-free within 14 days, and all had discontinued analgesics at 1 month. No SIR-classified procedure-related adverse event was observed in this cohort. Median dose-length product was 158 mGy·cm (interquartile range, 100-300). CT-guided cryoablation achieved technical success and complete clinical success at 1 month in this pediatric osteoid osteoma cohort, with rapid pain relief, discontinuation of analgesics, and no SIR-classified procedure-related adverse event observed."
+  },
+  {
     "id": "pmid-42995340",
     "type": "article-journal",
     "title": "Determinants of fluoroscopy frequency and effect of standardized workflow optimization in robot-assisted pelvic channel screw placement: a single-center retrospective cohort study",
@@ -416,6 +475,65 @@
     "abstract": "[SYNTHÈSE FR] Étude multicentrique avec validation externe et prospective portant sur **486 vertèbres fraîches traitées par vertébroplastie percutanée (PVP) chez 378 patients** (*JOR Spine*, nov./déc. 2026, IF 3,4, Open-Access) : l'analyse d'interprétabilité SHAP et la régression multivariée démontrent que la **destruction corticale**, l'**atteinte du mur postérieur**, le **volume de ciment injecté** et l'**IMC** sont les prédicteurs indépendants majeurs de fuite de ciment, le modèle multimodal combinant clinique, séméiologie TDM et radiomique atteignant une **AUC de 0,902–0,939 en test interne, 0,722–0,929 en validation externe et 0,834–0,925 en validation prospective**.\n\n[ABSTRACT EN] Background Bone cement leakage is a common complication of percutaneous vertebroplasty (PVP), but perioperative risk stratification remains challenging. Existing models based on single-source clinical or imaging features have limited performance. This study aimed to develop and validate multimodal artificial intelligence (AI) models integrating clinical, imaging, and radiomics features to predict bone cement leakage during PVP. Methods This multicenter study included 486 treated vertebrae from 378 patients at the North, South, and Shenshan campuses of our hospital. The treated vertebra was the prediction unit, while all vertebrae from the same patient were retained in the same dataset partition and cross-validation fold. Clinical variables, conventional CT imaging features, and CT-based radiomics features were extracted. Logistic regression identified independent risk factors. Six machine-learning algorithms were used to construct clinical, imaging, radiomics, and multimodal models. Performance was evaluated using the area under the receiver operating characteristic curve (AUC), accuracy, F1 score, and decision curve analysis. Independent external and prospective validations were performed, and SHapley Additive exPlanations (SHAP) were used for model interpretation. Results Among the 486 treated vertebrae, 215 (44.2%) had cement leakage. Higher body mass index (BMI), greater cement injection volume, cortical destruction, and posterior wall involvement were independently associated with leakage. Multimodal models generally achieved higher AUCs than the corresponding single-modality models, with AUCs of 0.902-0.939 in the internal test cohort, 0.722-0.929 in the external validation cohort, and 0.834-0.925 in the prospective validation cohort. Patient-level aggregation and one-vertebra-per-patient sensitivity analyses yielded broadly comparable discrimination. SHAP identified cortical destruction, cement injection volume, and posterior wall involvement as the most influential predictors. Conclusions The multimodal models demonstrated good and generally consistent discrimination across the internal test, external validation, and prospective validation cohorts and may support perioperative risk assessment and individualized cement injection planning during PVP."
   },
   {
+    "id": "pmid-43050914",
+    "type": "article-journal",
+    "title": "Percutaneous screw distraction versus open fusion surgery for anatomic restoration after burst fracture",
+    "container-title": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+    "volume": "156",
+    "issue": "",
+    "page": "112390",
+    "DOI": "10.1016/j.jocn.2026.112390",
+    "PMID": "43050914",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/43050914/",
+    "author": [
+      {
+        "family": "Tenhoeve",
+        "given": "SA"
+      },
+      {
+        "family": "Findlay",
+        "given": "MC"
+      },
+      {
+        "family": "Brown",
+        "given": "JD"
+      },
+      {
+        "family": "Orton",
+        "given": "S"
+      },
+      {
+        "family": "Olcott",
+        "given": "JR"
+      },
+      {
+        "family": "Ray",
+        "given": "WZ"
+      },
+      {
+        "family": "Stillerman",
+        "given": "CB"
+      },
+      {
+        "family": "Dailey",
+        "given": "AT"
+      },
+      {
+        "family": "Mahan",
+        "given": "MA"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de cohorte rétrospective en centre de traumatologie de niveau I comparant **24 patients traités par ostéosynthèse transpédiculaire percutanée à angle fixe avec distraction** à **39 patients opérés par arthrodèse postérieure ouverte** pour une fracture corporéale comminutive thoraco-lombaire (**burst fracture AO Spine A2, A3 et A4**) sans laminectomie directe entre 2018 et 2024 (*Journal of Clinical Neuroscience*, nov. 2026, IF 1,9) : à répartition fracturaire identique ($p = 0,25$), l'approche **percutanée réduit significativement les pertes sanguines per-opératoires ($p < 0,001$)**, procure un **gain supérieur de surface canalaire rachidienne par décompression indirecte (ligamentotaxis) entre le scanner pré- et post-opératoire ($p = 0,01$)** et maintient un **meilleur indice de hauteur corporéale vertébrale au dernier suivi ($p = 0,02$)**.\n\n[ABSTRACT EN] Open posterior transpedicular screw fixation for thoracolumbar burst fractures involves substantial muscle dissection, resulting in iatrogenic trauma, prolonged hospital stays, and extended recovery times, but minimally invasive techniques like percutaneous pedicle screw fixation cannot be used in all fracture patterns or indications. We compared perioperative and radiographic outcomes of a fixed-angle percutaneous instrumentation technique versus conventional open fixation in patients managed without direct decompression. In this retrospective cohort study at our Level I trauma center, patients who underwent either open or percutaneous instrumentation without laminectomy in 2018-2024 were identified. Patients with AO Spine fracture classifications of A2, A3, and A4 were present in the cohort. Student's t-test and Pearson's Chi-square statistical tests were used to compare the perioperative and radiographic outcomes of patients who underwent fixed-angle percutaneous instrumentation with those who underwent conventional open fixation without direct decompression. Among 63 included patients, 24 underwent percutaneous surgery and 39 had open procedures. Selection varied by on-call surgeon, not fracture characteristics. AO Spine fracture classifications (A2, A3, A4) were similarly distributed between groups (p = 0.25). Baseline characteristics were similar between groups. The percutaneous group experienced significantly less intraoperative blood loss (p < 0.001), showed greater improvement in canal cross-sectional area from preoperative to postoperative (p = 0.01), and had greater improvement in vertebral body index scores from postdistraction to last follow-up (p = 0.02). The groups were statistically similar in all other radiographic outcomes. Elective instrumentation removal was more frequent in patients in the percutaneous cohort (p = 0.001). Percutaneous instrumentation for thoracolumbar burst fractures not involving decompression achieved radiographic outcomes comparable with open techniques in this study. The percutaneous technique demonstrated favorable radiographic outcomes, with greater indirect canal decompression intraoperatively and better vertebral body index scores at last follow-up. These findings are hypothesis-generating and warrant prospective comparison."
+  },
+  {
     "id": "pmid-43033237",
     "type": "article-journal",
     "title": "Image-guided ablation treatment of Desmoid tumors: an approach for management and integration into the national comprehensive cancer network ® guidelines",
@@ -455,6 +573,53 @@
     "abstract": "[SYNTHÈSE FR] Mise au point de référence (*Skeletal Radiology*, nov. 2026, IF 1,9) consacrée à l'intégration officielle de l'ablation percutanée guidée par l'image — et tout particulièrement de la **cryoablation percutanée** — dans l'arbre décisionnel du National Comprehensive Cancer Network (NCCN) pour les tumeurs desmoïdes (fibromatoses agressives) : détaille les critères de passage de la surveillance active au traitement ablatif local, les avantages biophysiques de la cryoablation (contrôle visuel de l'iceball, préservation de la matrice collagénique, régression volumétrique prolongée et sédation douloureuse rapide) face aux traitements systémiques et à la chirurgie.\n\n[ABSTRACT EN] Desmoid tumors are proliferative mesenchymal tumors arising from musculoaponeurotic structures. Although lacking the ability to metastasize, these neoplasms have a propensity to locally invade and recur, resulting in significant morbidity and reduced quality of life. This variable natural history and unpredictable biologic behavior can complicate clinical management. Active surveillance may be appropriate as initial management, with systemic, surgical and other local treatment options considered depending on the extent of disease progression, in accordance with the current National Comprehensive Cancer Network guidelines. Notably, image-guided percutaneous cryoablation has emerged as an effective treatment option for rapid local control and sustained lesion regression. The efficacy of cryoablation in the management of these tumors is now supported by an increasing body of literature. This article will review the pathophysiology and natural history of desmoid tumors, together with treatment indications and national cancer guidelines. Image-guided ablation techniques will be described as well as how these options can fit into clinical paradigms and management pathways."
   },
   {
+    "id": "pmid-43042097",
+    "type": "article-journal",
+    "title": "EFFICACY AND SAFETY OF PERCUTANEOUS CRYOABLATION FOR DESMOID TUMORS: PROTOCOL FOR A SYSTEMATIC REVIEW AND META-ANALYSIS",
+    "container-title": "Acta ortopedica brasileira",
+    "volume": "34",
+    "issue": "6",
+    "page": "e310502",
+    "DOI": "10.1590/1413-785220263406e310502",
+    "PMID": "43042097",
+    "PMCID": "PMC13773520",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/43042097/",
+    "author": [
+      {
+        "family": "Guedes",
+        "given": "A"
+      },
+      {
+        "family": "de Mattos",
+        "given": "ESR"
+      },
+      {
+        "family": "Barreto",
+        "given": "ESR"
+      },
+      {
+        "family": "Romero Antunes",
+        "given": "C"
+      },
+      {
+        "family": "Vilaboim",
+        "given": "MDCCF"
+      },
+      {
+        "family": "de Camargo",
+        "given": "OP"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Protocole méthodologique de revue systématique et méta-analyse de niveau de preuve II (*Acta Ortopédica Brasileira*, nov. 2026, IF 0,8, Open-Access PMC13773520) dédié à l'évaluation quantitative de la **cryoablation percutanée chez l'adulte atteint de tumeur desmoïde** à travers les bases CENTRAL, Embase, PubMed et Scopus (évaluation du risque de biais par RoB-2 et ROBINS-I) : définit le **contrôle local (absence de progression locale ou de récidive radiologique/clinique)** comme critère de jugement principal, et structure six critères secondaires standardisés — **soulagement douloureux, taux de complications majeures, taux de retraitement, réduction volumétrique tumorale (mRECIST), amélioration fonctionnelle et survie sans progression (PFS)**.\n\n[ABSTRACT EN] Desmoid tumors are rare, locally aggressive soft tissue neoplasms that may cause substantial morbidity, including chronic pain, functional limitation, and impaired quality of life, despite lacking metastatic potential. Management remains challenging and may include active surveillance, surgery, radiotherapy, systemic therapy, or image-guided ablation. Percutaneous cryoablation has emerged as a minimally invasive option for selected patients, particularly when symptom control and local disease management are priorities. However, current evidence remains heterogeneous, and its overall efficacy and safety are uncertain. This systematic review and meta-analysis will evaluate the efficacy and safety of percutaneous cryoablation in adults with desmoid tumors. Eligible studies will include randomized controlled trials and cohort studies of adult patients treated with percutaneous cryoablation, with no comparator required. The primary outcome will be local control, defined as absence of local progression or recurrence assessed radiologically or clinically. Secondary outcomes will include pain relief, major complications, retreatment rate, tumor response or size/volume reduction, symptom or functional improvement, and progression-free survival or time to local progression. Searches will be conducted in CENTRAL, Embase, PubMed, and Scopus, with risk of bias assessed using RoB-2 and ROBINS-I. Level of Evidence II; Systematic Review."
+  },
+  {
     "id": "pmid-42998777",
     "type": "article-journal",
     "title": "Bleomycin-Induced Pulmonary Toxicity: A Systematic Review and Meta-Analysis of Incidence and Risk Factors",
@@ -492,6 +657,61 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Méta-analyse PRISMA 2020 (*Critical Reviews in Oncology/Hematology*, nov. 2026, IF 5,5, équipe de J. Gehl, 65 études / 7 601 patients) évaluant l'incidence et les facteurs de risque de toxicité pulmonaire à la bléomycine IV : contrairement aux cures répétées de chimiothérapie systémique (incidence globale 18 % en oncologie médicale), l'injection unique ou pauciséquentielle d'ECT à faible dose cumulative reste dépourvue de surrisque lié à l'âge ou aux métastases pulmonaires.\n\n[ABSTRACT EN] Bleomycin remains an important component of curative regimens for malignancies such as germ cell tumors, Hodgkin lymphoma, and in the local treatment modality electrochemotherapy. A limiting toxicity is bleomycin-induced pulmonary toxicity (BIP), with considerable variance in reported incidence across studies. OBJECTIVE: To estimate the incidence of BIP after intravenous bleomycin treatment and investigate the influence of diagnostic definitions, patient characteristics, and treatment-related factors on reported incidence. METHODS: A systematic review and meta-analysis was conducted according to PRISMA 2020. MEDLINE, Embase, and Cochrane Library were searched through May 2026. Studies including patients aged ≥15 years treated with intravenous bleomycin were eligible. Risk of bias was assessed using the Joanna Briggs Institute Critical Appraisal Checklist for Prevalence Studies. Random-effects meta-analysis and prespecified subgroup analyses were performed. RESULTS: A total of 65 studies comprising 7601 patients were included. The pooled incidence of BIP was 18% (95% CI 15-21%) with substantial between-study heterogeneity (I(2) = 87.3%). Reported incidence varied by diagnostic definition, ranging from 42% in imaging-based studies to 16% in studies using symptom-based composite definitions. Diagnostic definition explained a substantial proportion of between-study heterogeneity (R(2)=28%). No significant study-level associations were found between reported BIP incidence and age, sex, year of publication, overall cumulative bleomycin dose, use of granulocyte colony-stimulating factor, smoking history, or lung metastases. CONCLUSIONS: Reported BIP incidence varies widely, largely due to differences in diagnostic definitions. Standardized, clinically meaningful diagnostic criteria are needed to improve comparability between studies and support evidence-based clinical decision-making. REGISTRATION: PROSPERO (CRDxxxxxxxxxx)."
+  },
+  {
+    "id": "pmid-43041864",
+    "type": "article-journal",
+    "title": "Longitudinal spatial mapping of tumor-immune microenvironment following electrochemotherapy of cutaneous melanoma metastases",
+    "container-title": "Frontiers in immunology",
+    "volume": "17",
+    "issue": "",
+    "page": "1984950",
+    "DOI": "10.3389/fimmu.2026.1984950",
+    "PMID": "43041864",
+    "PMCID": "PMC13771791",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/43041864/",
+    "author": [
+      {
+        "family": "Kos",
+        "given": "T"
+      },
+      {
+        "family": "Milićević",
+        "given": "S"
+      },
+      {
+        "family": "Gašljević",
+        "given": "G"
+      },
+      {
+        "family": "Šantek",
+        "given": "I"
+      },
+      {
+        "family": "Omerzel",
+        "given": "M"
+      },
+      {
+        "family": "Serša",
+        "given": "G"
+      },
+      {
+        "family": "Perić",
+        "given": "B"
+      },
+      {
+        "family": "Čemažar",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude translationnelle longitudinale par **transcriptomique spatiale unicellulaire (plateforme Xenium)** sur des biopsies séquentielles de métastases de mélanome traitées par **électrochimiothérapie (ECT)** et de métastases voisines non traitées (à l'état basal, à J2–J3 et à J9–J10 post-ECT) (*Frontiers in Immunology*, nov. 2026, IF 5,7, Open-Access PMC13771791) : au-delà de la cytotoxicité directe par électroporation réversible, l'ECT induit une **réorganisation spatiale active du microenvironnement tumoral (TME)** avec formation d'un **front immunitaire cytotoxique (lymphocytes T infiltrants, cellules myéloïdes activées)** à l'interface tumeur-stroma et déclenche une **immunité anti-tumorale régionale (effet abscopal sur les lésions non traitées)** chez **2 patients sur 3** présentant un microenvironnement basal immunopermissif, tout en faisant basculer les cellules tumorales résiduelles vers un **état dormant exprimant SOX2-OT**.\n\n[ABSTRACT EN] Electrochemotherapy (ECT) utilizes reversible electroporation for localized chemotherapeutic delivery, where beyond local cytotoxicity, ECT acts as an in situ immunomodulator. However, the dynamic spatial orchestration of the TME that translates this localized therapy into potential abscopal-like responses in untreated lesions remains poorly understood. To uncover the mechanisms of evolving tumor microenvironment (TME) that dictate this immune activation, we applied Xenium spatial transcriptomics to longitudinally sampled in-transit cutaneous melanoma metastases from three patients, capturing baseline immune states and two distinct post-ECT intervals (two-to-three and nine-to-ten days). Furthermore, to explicitly characterize potential abscopal-like effects, biopsies were collected also from non-treated lesions. Following sample integration, we annotated cell types and identified functional subpopulations of key compartments, which we compared across treatment timepoints and patients. Further, we resolved functional spatial niches and identified spatially localized immune front, which we characterized and linked to patients' clinical responses. Our analysis uncovered heterogeneous patient trajectories: a robust local and regional responder, a localized-only responder, and a delayed regional responder. These divergent outcomes were linked to baseline TME heterogeneity that was reflected by diverging proportions of functional spatial niches. While the partial responder exhibited an immune-cold architecture, complete responders were characterized by an immune-permissive TME with a prominent immune front at the interface of malignant and immune-active niches. Molecular profiling of these spatial boundaries exposed patient-specific signatures of activation and suppression within infiltrating T cells, myeloid cells, and fibroblasts. Although the states of malignant cells remained predominantly unchanged in the partial responder, the malignant cells of complete responders transitioned into a unique SOX2-OT-expressing dormant state, sequestered within keratinocyte-rich zones and characterized by an immunosuppressive signature post-treatment. Together, our findings suggest that beside local ablation, ECT might actively instigate regional anti-tumor immunity, a therapeutic effect that we observed in two patients harboring a permissive TME. Further, our deep spatial TME profiling identifies several exploratory observations on the effects of ECT that should be addressed in future studies."
   },
   {
     "id": "pmid-43033832",
@@ -1428,6 +1648,100 @@
     "abstract": "[SYNTHÈSE FR] Essai prospectif randomisé contrôlé monocentrique de grande envergure sur **535 patients** (290 traités par augmentation vertébrale — vertébroplastie ou cyphoplastie — et 245 par radiofréquence thermique facettaire) souffrant de fractures-tassements vertébraux réfractaires au traitement conservateur (*North American Spine Society Journal — NASSJ*, oct./déc. 2026, IF 2,1, Open-Access) : à 6 mois, les deux bras procurent une analgésie majeure et comparable (**réduction moyenne d'EVA de $-5,6$ [IC 95 % : $-5,9$ à $-5,3$] après cimentoplastie vs $-5,3$ [IC 95 % : $-5,6$ à $-5,0$] après RFA**), la cimentoplastie présentant 8 % de fuites de ciment (23 cas, dont 0,5 % de décompression) et une durée de séjour de 1,4 jour contre 0 % de complication et une prise en charge purement ambulatoire (0,0 jour) pour la RFA.\n\n[ABSTRACT EN] Background Vertebral augmentation techniques are common for painful vertebral compression fractures (VCFs). Radiofrequency thermal facet ablation (RFA) is a potential alternative analgesic therapy, but comparative data remains limited. Methods In this single-center, prospective randomized controlled trial, patients with painful VCFs refractory to conservative treatment were randomized to vertebral augmentation or RFA. Pre- and postoperative Visual Analogue Scale (VAS) for axial pain and procedure-related complications were evaluated over a 6-month period. Results Among 535 patients completing follow-up (290 augmentation, 245 RFA), both arms provided robust analgesia. Mean VAS reduction at 6 months was -5.3 (95% CI: -5.6 to -5.0) in the RFA group and -5.6 (95% CI: -5.9 to -5.3) in the augmentation group. The augmentation group had an 8% cement leakage rate (23 cases), with 2 patients (0.5%) requiring decompression, and a mean length of stay (LOS) of 1.4 days. The RFA arm demonstrated a zero-complication rate and allowed for same-day discharge (LOS 0.0 days). Conclusions RFA and vertebral augmentation are highly effective at providing significant pain relief for VCFs, with comparable reductions in pain scores. With a zero-complication rate and outpatient feasibility, RFA is a safe and resource-efficient first-line alternative to cement-based augmentation."
   },
   {
+    "id": "pmid-43045197",
+    "type": "article-journal",
+    "title": "Minimally Invasive Surgery of the Pelvis and Acetabulum",
+    "container-title": "The Orthopedic clinics of North America",
+    "volume": "58",
+    "issue": "1",
+    "page": "39-54",
+    "DOI": "10.1016/j.ocl.2026.08.005",
+    "PMID": "43045197",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/43045197/",
+    "author": [
+      {
+        "family": "Sun",
+        "given": "JJ"
+      },
+      {
+        "family": "Katzir",
+        "given": "A"
+      },
+      {
+        "family": "Cannamela",
+        "given": "P"
+      },
+      {
+        "family": "Masters",
+        "given": "M"
+      },
+      {
+        "family": "Starr",
+        "given": "AJ"
+      },
+      {
+        "family": "Grewal",
+        "given": "IS"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Mise au point de référence sur les techniques percutanées et mini-invasives de fixation de l'**anneau pelvien postérieur et antérieur ainsi que de l'acétabulum** (*Orthopedic Clinics of North America*, oct. 2026, IF 1,6) : détaille l'exploitation des **corridors intra-osseux sécurisés** (vis ilio-sacrées S1/S2, vis trans-sacrées trans-iliaques, vis rétrogrades/antérogrades de la branche pubienne supérieure, corridor supra-acétabulaire LC-2 et colonne postérieure) couplée à l'**imagerie per-opératoire 3D et aux plateformes robotisées**, démontrant une réduction drastique des complications pariétales et infectieuses et une **remise en charge accélérée chez les populations à haut risque (patients oncologiques, gériatriques fragiles et obèses)**.\n\n[ABSTRACT EN] This review examines the evolving landscape of minimally invasive surgery (MIS) for pelvic and acetabular fractures, traditionally managed through extensile open approaches. MIS aims to optimize fracture reduction and stable fixation through limited exposures, leveraging safe intraosseous corridors and advanced intraoperative imaging. The article details contemporary percutaneous techniques for posterior and anterior pelvic ring injuries, as well as acetabular fixation methods. It highlights significant technological advancements, including endoscopic-assisted procedures, robotic platforms, and novel implants. Special focus is given to high-risk populations, including obese, geriatric, and oncology patients, who benefit from reduced wound morbidity and faster recovery."
+  },
+  {
+    "id": "pmid-42852010",
+    "type": "article-journal",
+    "title": "Clinicopathological Spectrum and Management of Aneurysmal Bone Cysts in Atypical Anatomical Location: A Comprehensive Review of Demographics, Presentation, Diagnosis, and Treatment Outcomes",
+    "container-title": "Journal of orthopaedic case reports",
+    "volume": "16",
+    "issue": "10",
+    "page": "571-579",
+    "DOI": "10.13107/jocr.2026.v16.i10.8344",
+    "PMID": "42852010",
+    "PMCID": "PMC13646818",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42852010/",
+    "author": [
+      {
+        "family": "Lingaiah",
+        "given": "P"
+      },
+      {
+        "family": "Abraham",
+        "given": "S"
+      },
+      {
+        "family": "Sai",
+        "given": "BM"
+      },
+      {
+        "family": "Lavudi",
+        "given": "R"
+      },
+      {
+        "family": "Shanmugham",
+        "given": "S"
+      },
+      {
+        "family": "Uthup",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Revue analytique de **17 publications de kystes osseux anévrismaux (KOA) de localisation anatomique atypique** sélectionnées parmi 42 études entre 2011 et 2026 (*Journal of Orthopaedic Case Reports*, oct. 2026, IF 0,8, Open-Access PMC13646818) : précise les critères diagnostiques IRM (**lésion ostéolytique expansive multiloculée avec niveaux liquide-liquide**) et l'obligation absolue d'une **confirmation histopathologique par biopsie** dans ces topographies inhabituelles (rachis, bassin, os plats, épiphyses ou diaphyses), et détaille l'individualisation thérapeutique entre **sclérothérapie percutanée mini-invasive**, curetage-comblement et résection selon les contraintes anatomiques, la maturité squelettique et le risque de récidive locale (**10 % à 30 %** dans la littérature).\n\n[ABSTRACT EN] Aneurysmal bone cysts (ABCs) are benign but locally aggressive osteolytic lesions characterized by blood-filled cystic spaces separated by fibrous septa containing osteoclast-like giant cells and reactive bone. Although commonly affecting the metaphysis of long bones in children and adolescents, ABCs may occur in atypical anatomical locations, creating diagnostic and therapeutic challenges. The aim of this study was to review the demographic characteristics, clinical presentation, radiological and histopathological features, diagnostic challenges, and current management strategies of atypically presenting ABCs. A narrative review was performed using articles published in the Journal of Orthopaedic Case Reports from 2011 to 2026. Forty-two records were initially identified (41 case reports and 1 case series); 15 were excluded after initial screening, and 10 additional reports were excluded at full-text assessment because they described conventional metaphyseal ABCs, leaving 17 reports (16 case reports and 1 case series) for the atypical-location review. Because this was a narrative review restricted to a single journal, no pooled effect estimates or formal comparative treatment conclusions were attempted. ABCs predominantly occur during the first two decades of life and commonly involve the distal femur, proximal tibia, proximal humerus, and spine. Pain and swelling are the most frequent presenting symptoms. Radiographs typically demonstrate expansile osteolytic lesions with a multiloculated appearance, while magnetic resonance imaging frequently reveals fluid-fluid levels. Histologically, lesions consist of blood-filled spaces, fibroblastic septa, osteoclast-like giant cells, and reactive woven bone. Management options include curettage with bone grafting, sclerotherapy, en bloc resection, and reconstruction depending on lesion location and aggressiveness. Recurrence rates vary between 10% and 30%, with lower recurrence following complete excision. ABCs exhibit a wide clinicopathological spectrum. In atypical anatomical locations, diagnosis requires careful clinicoradiological correlation and histopathological confirmation. Management should be individualized according to lesion biology, anatomical constraints, skeletal maturity, and functional requirements; however, treatment effectiveness and recurrence rates cannot be established reliably from the predominantly case-report-based evidence reviewed here."
+  },
+  {
     "id": "pmid-42955498",
     "type": "article-journal",
     "title": "Image-Guided Ablative Options for Desmoid Fibromatosis: Contemporary Evidence and Guideline Integration",
@@ -2094,6 +2408,77 @@
     "abstract": "[SYNTHÈSE FR] Étude rétrospective de performance diagnostique sur **45 fractures fémorales consécutives** admises aux urgences (**20 fractures pathologiques prouvées par histologie/chirurgie et 25 fractures non pathologiques**, *Skeletal Radiology*, sept./déc. 2026, IF 1,9) : l'ajout des **cartes couleur DECT Virtual Non-Calcium (VNCa)** au scanner conventionnel fait bondir la **sensibilité de détection des fractures pathologiques de 65 % à 95 % ($p = 0,031$, lecteur 1) et de 50 % à 85 % ($p = 0,016$, lecteur 2)**, augmente la précision globale à **91,1–95,6 %** et élève l'**AUC de 0,765 à 0,955 ($p = 0,0135$)** et de **0,670 à 0,905 ($p < 0,01$)** chez des lecteurs non spécialisés.\n\n[ABSTRACT EN] Objective To assess the effect of dual-energy CT (DECT) virtual non-calcium (VNCa) imaging on the ability of inexperienced non-radiologist readers to differentiate pathologic from non-pathologic femoral fractures. Materials and methods In this retrospective diagnostic accuracy study, 45 eligible emergency department patients with femoral fractures who underwent DECT between January 2022 and September 2024 were included, comprising 20 patients with pathologic fractures and 25 with non-pathologic fractures. The reference standard for fracture classification was established using surgical records or histopathologic results. Two inexperienced non-radiologist readers independently evaluated conventional CT alone and conventional CT combined with color-coded DECT VNCa images in separate reading sessions. Sensitivity, specificity, accuracy, and area under the receiver operating characteristic curve (AUC) were compared between the two sessions. AUCs were compared using the paired DeLong test. Results The addition of DECT VNCa significantly improved sensitivity for detecting pathologic fractures in both readers. For Reader 1, sensitivity increased from 65 to 95% (p = 0.031), and accuracy increased from 77.8% to 95.6%. For Reader 2, sensitivity increased from 50 to 85% (p = 0.016), and accuracy increased from 68.9% to 91.1%. Specificity remained high without significant differences between sessions. AUC increased from 0.765 (95% CI, 0.617-0.913) to 0.955 (95% CI, 0.883-1.0) for Reader 1 and from 0.670 (95% CI, 0.506-0.834) to 0.905 (95% CI, 0.802-1.0) for Reader 2 (p = 0.0135 and Conclusion Adding color-coded DECT VNCa to conventional CT improves the diagnostic performance of inexperienced non-radiologist readers in detecting pathologic femoral fractures."
   },
   {
+    "id": "pmid-42825809",
+    "type": "article-journal",
+    "title": "Regional variation in vertebral bone marrow adiposity: a population-based atlas of age- and sex-specific patterns",
+    "container-title": "Skeletal radiology",
+    "volume": "56",
+    "issue": "1",
+    "page": "157-166",
+    "DOI": "10.1007/s00256-026-05381-2",
+    "PMID": "42825809",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42825809/",
+    "author": [
+      {
+        "family": "Bach",
+        "given": "U"
+      },
+      {
+        "family": "Uslar",
+        "given": "T"
+      },
+      {
+        "family": "Fünning",
+        "given": "C"
+      },
+      {
+        "family": "Tombak",
+        "given": "G"
+      },
+      {
+        "family": "Frenes",
+        "given": "K"
+      },
+      {
+        "family": "Walter",
+        "given": "J"
+      },
+      {
+        "family": "Gerber",
+        "given": "PA"
+      },
+      {
+        "family": "Beuschlein",
+        "given": "F"
+      },
+      {
+        "family": "Konukoglu",
+        "given": "E"
+      },
+      {
+        "family": "Frauenfelder",
+        "given": "T"
+      },
+      {
+        "family": "Erdil",
+        "given": "E"
+      },
+      {
+        "family": "Ensle",
+        "given": "F"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude de référence en population générale analysant les IRM Dixon du rachis avec segmentation corporéale automatisée voxel-à-voxel chez **81 318 participants** de la cohorte **UK Biobank** (âge moyen $54,8 \\pm 7,6\\text{ ans}$, 51,8 % de femmes) (*Skeletal Radiology*, oct. 2026, IF 1,9) : la **fraction graisseuse médullaire osseuse (BMFF)** suit une distribution cranio-caudale **non linéaire** très structurée — **~39 % au rachis cervical, ~55 % au rachis thoracique, ~45 % au rachis lombaire et ~70 % au sacrum** —, augmente significativement avec l'âge dans tous les étages (**$+3,33\\%$ par décennie en cervical, $+3,41\\%$ en thoracique, $+2,95\\%$ en lombaire et $+3,83\\%$ au sacrum**, tous $p < 0,001$), et s'avère significativement plus élevée chez la femme que chez l'homme à tous les niveaux dans cette tranche d'âge ($p < 0,001$).\n\n[ABSTRACT EN] Bone marrow adipose tissue (BMAT) is a metabolically active fat depot implicated in skeletal aging and systemic metabolism. While chemical shift-encoding MRI enables noninvasive quantification of bone marrow fat fraction (BMFF), current knowledge of vertebral BMAT is largely limited to small cohorts or restricted anatomical regions. To characterize the spatial distribution of vertebral bone marrow fat fraction across the spine and determine region-specific associations with age and sex in a population-based cohort. In this retrospective study, MRI data from 82,920 UK Biobank participants recruited between 2006 and 2010 were analyzed. The baseline case subset (n = 81,318) had a mean age of 54.8 ± 7.6 years, and 42,113/81,318 (51.8%) were female. Automated vertebral body segmentation enabled voxel-wise BMFF quantification using Dixon MRI. Vertebra- and region-level BMFF metrics were derived. Associations with age and sex were assessed using region-specific linear regression. Vertebral BMAT demonstrated a non-linear cranio-caudal pattern. Mean BMFF was ~ 39% in the cervical, ~ 55% in the thoracic, ~ 45% in the lumbar spine, and ~ 70% in the sacrum. BMAT increased with age in all regions (all p < 0.001; increase per decade: cervical 3.33%, thoracic 3.41%, lumbar 2.95%, sacral 3.83%). Females exhibited higher BMFF than males across all regions (all p < 0.001). The overall spatial pattern remained consistent across age groups and sexes. Vertebral BMAT exhibits a structured, non-linear spatial distribution with region-specific age- and sex-dependent patterns. This population-based atlas provides normative reference data supporting region-specific BMAT assessment in skeletal and metabolic disease."
+  },
+  {
     "id": "pmid-42942556",
     "type": "article-journal",
     "title": "Intraoperative Neurophysiological Monitoring During Continuous Radiofrequency Treatment of Morton's Neuroma: Complete Ablation",
@@ -2268,6 +2653,49 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Essai prospectif randomisé contrôlé en simple aveugle de supériorité sur **90 patients** (84 analysés à 6 mois, 42 par bras) atteints de lombalgie facettaire chronique confirmée par double bloc test positif ($\\ge 80\\%$) (*American Journal of Physical Medicine & Rehabilitation*, oct. 2026, IF 2,2), comparant les **canules de radiofréquence à déploiement latéral multi-ailettes (lateral-deployment RF cannulas)** aux canules monopolaires conventionnelles (80 °C pendant 90 s) : à 6 mois, la canule à déploiement latéral permet une **réduction deux fois plus importante de la douleur NRS ($-5,52 \\pm 2,61$ vs $-2,81 \\pm 2,84$, différence ajustée $-2,795$, $p < 0,001$)**, double quasiment le **taux de répondeurs $\\ge 50\\%$ (73,8 % vs 38,1 %, $\\text{RR} = 1,94$, $p = 0,001$)** et améliore significativement le handicap MODI ($-13,85$ points, $p < 0,001$) et la qualité de vie SF-12 PCS ($+7,40$, $p < 0,001$), sans aucun événement indésirable grave.\n\n[ABSTRACT EN] Objective To compare conventional monopolar and lateral-deployment RF cannulas for lumbar medial branch radiofrequency ablation (RFA) in chronic facet-mediated low back pain. Design Single-center, randomized, participant-blinded, two-arm superiority trial. Ninety participants were randomized 1:1; 84 with complete 6-month data were analyzed. The primary outcome was change in Numeric Rating Scale (NRS) pain intensity from baseline to 6 months. Secondary outcomes were changes in the Modified Oswestry Disability Index (MODI) and SF-12 Physical (PCS) and Mental (MCS) Component Scores. Results Mean NRS change was -2.81 points with the conventional cannula and -5.52 points with the lateral-deployment cannula. The age-adjusted between-group difference was -2.795 points (95% CI, -3.967 to -1.624; P Conclusion The lateral-deployment cannula was associated with greater 6-month improvements in pain, disability, and physical health and with more participants achieving substantial pain relief. Larger trials with intention-to-treat analyses are needed."
+  },
+  {
+    "id": "pmid-42949097",
+    "type": "article-journal",
+    "title": "Ultrasound-Guided High-Voltage Long-Duration Pulsed Radiofrequency of the Suprascapular Nerve for Persistent Hemiplegic Shoulder Pain",
+    "container-title": "Journal of visualized experiments : JoVE",
+    "volume": "",
+    "issue": "236",
+    "page": "",
+    "DOI": "10.3791/73643",
+    "PMID": "42949097",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42949097/",
+    "author": [
+      {
+        "family": "Pan",
+        "given": "L"
+      },
+      {
+        "family": "Shi",
+        "given": "Y"
+      },
+      {
+        "family": "Lin",
+        "given": "S"
+      },
+      {
+        "family": "Chen",
+        "given": "M"
+      },
+      {
+        "family": "Zhi",
+        "given": "Y"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Protocole technique standardisé pas-à-pas avec démonstration clinique (*Journal of Visualized Experiments — JoVE*, oct. 2026, IF 1,2) décrivant la **radiofréquence pulsée haute tension et longue durée (HL-PRF)** du **nerf supra-scapulaire sous guidage échographique temps réel** pour les douleurs chroniques d'épaule réfractaires aux blocs nerveux classiques : après repérage échographique de l'**incisure scapulaire (suprascapular notch)** et de l'artère supra-scapulaire et confirmation par stimulation sensitive et motrice, la **HL-PRF est délivrée à 99 V pendant 6 minutes avec maintien thermique strict $\\le 42\\ ^\\circ\\text{C}$**, entraînant une réduction durable des douleurs au repos et à la mobilisation ainsi qu'un gain d'amplitude passive à **1 mois et 3 mois**, sans **aucun déficit moteur ni complication (0 %)**.\n\n[ABSTRACT EN] Hemiplegic shoulder pain (HSP) is a common complication after stroke that can interfere with upper-limb rehabilitation. Persistent cases may respond inadequately to conventional conservative treatments or suprascapular nerve blocks. This article describes a standardized ultrasound-guided high-voltage long-duration pulsed radiofrequency (HL-PRF) protocol targeting the suprascapular nerve. Ultrasound is used to identify the suprascapular notch, surrounding anatomical structures, and adjacent vessels. A radiofrequency cannula is advanced to the target under real-time guidance, and its position is confirmed by sensory and motor stimulation. HL-PRF is then delivered at 99 V for 6 min while the temperature is maintained at or below 42 °C. The clinical outcomes presented here are illustrative observations from two patients with persistent HSP and do not represent findings from a controlled clinical study. In both cases, lower resting and movement-evoked pain scores and increased shoulder passive range of motion were observed at the 1-month follow-up. Pain scores at the 3-month telephone follow-up remained below baseline values. No procedure-related adverse events were observed or documented in either case during the available follow-up period. These cases are included to illustrate the clinical application and potential outcomes of the protocol rather than to establish efficacy. This protocol provides a detailed procedural framework for ultrasound-guided HL-PRF of the suprascapular nerve in patients with persistent HSP."
   },
   {
     "id": "pmid-42909541",
@@ -2967,6 +3395,69 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Retour d'expérience sur 10 ans d'un centre de référence (*World Neurosurgery*, sept./nov. 2026, IF 2,0) évaluant la ponction-aspiration discale cervicale simple à l'aiguille fine sous guidage TDM et anesthésie locale (CTFNP, avant toute antibiothérapie probabiliste) chez les patients présentant une spondylodiscite cervicale à hémocultures négatives : positivité microbiologique dans **90 % des cas (9/10)** (avec prédominance du groupe *Streptococcus anginosus* chez les patients aux antécédents ORL/radiothérapie cervicale), durée moyenne de procédure de 20 minutes, délai médian de réalisation de 1,5 jour et **0 % de complication majeure**.\n\n[ABSTRACT EN] Background Disc/vertebral infection (DVI) often requires invasive sampling for microbiological diagnosis when blood cultures are negative. CT-guided disc/vertebral biopsy is the standard diagnostic procedure but is technically challenging and associated with neurological risks in the cervical region. The technique requires sedation or general anaesthesia. These factors may cause organizational complexity, longer processing times and further delay treatment. This study assesses the diagnostic value of simple CT-guided fine-needle disc puncture (CTFNP) under local anaesthesia as an alternative in suspected cervical DVI. Methods This retrospective study included patients managed for DVI between 2015 and 2025 at a single referral centre. All patients underwent CTFNP under local anaesthesia for suspected cervical DVI after a recent MRI and without prior empiric antibiotic therapy. Culture positivity was assessed for each case. Data were collected and correlated with microbiological findings. Results Ten patients were included. Microbiological cultures were positive in 9 of 10 cases. Five patients had a history of head and neck cancer or neck irradiation. In this subgroup, the bacteria predominantly originated from the otolaryngological (ENT) region and mainly belonged to the Streptococcus anginosus group (n = 5). Intradiscal fluid on MRI was reported in only 3 cases. Sample volumes were small. The mean procedure time was 20 minutes and the median interval between the referring physician's request and CTFNP was 1.5 days. No major complications were reported. Conclusions Fine-needle disc puncture may be an effective, rapid and low risk alternative to the standard technique in patients with disc vertebral infection in the cervical spine."
+  },
+  {
+    "id": "pmid-42747556",
+    "type": "article-journal",
+    "title": "Perivascular epithelioid cell (PEComa) tumors of the musculoskeletal system: a case series with MR imaging and histopathologic review",
+    "container-title": "Skeletal radiology",
+    "volume": "56",
+    "issue": "1",
+    "page": "93-109",
+    "DOI": "10.1007/s00256-026-05368-z",
+    "PMID": "42747556",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42747556/",
+    "author": [
+      {
+        "family": "Buckley",
+        "given": "BW"
+      },
+      {
+        "family": "White",
+        "given": "LM"
+      },
+      {
+        "family": "Demicco",
+        "given": "EG"
+      },
+      {
+        "family": "Dickson",
+        "given": "BC"
+      },
+      {
+        "family": "Naraghi",
+        "given": "A"
+      },
+      {
+        "family": "Atinga",
+        "given": "A"
+      },
+      {
+        "family": "Griffin",
+        "given": "AM"
+      },
+      {
+        "family": "Salawu",
+        "given": "A"
+      },
+      {
+        "family": "Gazendam",
+        "given": "AM"
+      },
+      {
+        "family": "Tsoi",
+        "given": "KM"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Série rétrospective monocentrique d'un centre tertiaire de référence des sarcomes portant sur **12 patients consécutifs** (7 hommes, âge moyen **64,3 ans**, extrêmes 16–89 ans) atteints d'un **PECome (tumeur à cellules épithélioïdes périvasculaires) musculo-squelettique des parties molles** prouvé histologiquement avec IRM pré-thérapeutique entre 2000 et 2025 (*Skeletal Radiology*, sept. 2026, IF 1,9) : hormis 1 cas bénin fibrome-like associé à une sclérose tubéreuse de Bourneville (TSC) en hyposignal T1/T2 homogène non rehaussé, les **11 PEComes sporadiques (non-TSC)** se présentent comme de **volumineuses masses profondes sous-fasciales (10/11, 91 %) de diamètre moyen 13,0 cm**, avec **extension trans-compartimentale (6/11, 55 %)**, **nécrose intratumorale macroscopique constante sur toutes les IRM injectées (10/10, 100 %)**, **engainement neurovasculaire dans 36 % (4/11)** et **envahissement osseux dans 18 % (2/11)**, associés à une morphologie histologique maligne (100 % des cas évaluables), un **taux métastatique de 91 %** et une **mortalité spécifique de 64 %** à un suivi médian de 19 mois.\n\n[ABSTRACT EN] To describe the spectrum of MRI features, histopathological findings, and clinical outcomes of musculoskeletal PEComas at a single tertiary sarcoma center. Following institutional ethics approval, orthopedic oncology and pathology databases were searched for histopathologically confirmed musculoskeletal soft tissue PEComas managed between 2000 and 2025. Inclusion required pretreatment MRI. Pulmonary, intra-abdominal/pelvic, and cutaneous lesions were excluded. Demographic and clinical features were reviewed for all cases. MRI examinations were reviewed in consensus by two fellowship-trained musculoskeletal radiologists and archival histopathology by a dedicated musculoskeletal pathologist. Twelve patients met inclusion criteria (7/12 male), mean age 64.3 years (range 16-89 years). One tuberous sclerosis complex (TSC)-associated fibroma-like PEComa appeared as a well-defined periarticular mass with homogeneously low T1 and T2 signal and no significant enhancement. The remaining 11 non-TSC tumors had a mean diameter of 13.0 cm; 10 of 11 were deep to deep fascia, and 6 of 11 showed trans-compartmental extension. Intratumoral nonenhancement consistent with necrosis was present in all 10 contrast-enhanced cases. Neurovascular encasement was identified in 4 of 11 (36%) and osseous invasion in 2 of 11 (18%). All nine histologically evaluable non-TSC cases showed malignant morphology. The overall metastatic rate was 91%, with disease-specific mortality of 64% at a median follow-up of 19 months. Musculoskeletal PEComas demonstrate large size, deep location, macroscopic intratumoral necrosis, as well as frequent trans-compartmental extension on MRI. Clinical outcomes reflect aggressive biologic behavior, with high metastatic rates and disease-specific mortality in non-TSC-related PEComas of the musculoskeletal system."
   },
   {
     "id": "pmid-42997935",
@@ -4498,6 +4989,53 @@
       ]
     },
     "abstract": "[SYNTHÈSE FR] Étude de cohorte longitudinale à très long terme (*Journal of Vascular and Interventional Radiology - JVIR*, août/nov. 2026, IF 2,6) portant sur 50 patients (100 métastases traitées au cours de 91 procédures par cryoablation, micro-ondes ou radiofréquence, suivi moyen de 8,0 ± 2,8 ans jusqu'à 10 ans) atteints de carcinome à cellules rénales oligométastatique (omRCC) : succès technique primaire de **99 %** (secondaire **100 %**), survie sans progression tumorale locale (LTPFS) à 10 ans de **87,6 %**, survie spécifique (CSS) à 10 ans de **75,5 %** et survie globale (OS) à 10 ans de **68,5 %**, sans aucune complication majeure (0 % grade SIR ≥ 3).\n\n[ABSTRACT EN] Purpose To evaluate the long-term overall survival (OS), cancer-specific survival (CSS), and local tumor progression-free survival (LTPFS) of patients who underwent percutaneous image-guided thermal ablation (TA) (cryoablation, microwave ablation, and radiofrequency ablation) of oligometastatic renal cell carcinoma (omRCC). Materials and methods This study cohort included 50 patients (age, 64.6 years [SD ± 13.1]; 78% [39/50] men and 22% [11/50] women) who underwent image-guided TA for omRCC between 2008 and 2019. Accounting for patient demographics, tumor characteristics, and technical outcomes, the OS, CSS, and LTPFS were derived by Kaplan-Meier analysis. Subgroup analyses were performed to assess the impact of outcomes by target lesion size, histology, location, and thermal energy using the log-rank test. All adverse events were categorized with the Society of Interventional Radiology (SIR) classification scheme. Results The study cohort comprised 100 omRCC lesions treated in 91 procedures, with a follow-up of up to 10 years (mean follow-up, 8.0 years [SD ± 2.8]). Primary and secondary technical success rates were 99% and 100%, respectively. The 10-year OS and CSS rates were 68.5% and 75.5%, respectively, with no significant difference between clear cell (P = .87) or nonclear cell (P = .52) histology. The 10-year LTPFS rate was 87.6% with no significant differences based on tumor histology (P = .47), size (P = .88), disease location (P = .72), or TA energy (P = .26). The adverse event rate of 9.9% (9/91) included 2 mild (2.2%) and 7 moderate (7.7%), mostly self-limited, events. Conclusions Image-guided TA of omRCC was safe and effective with excellent long-term OS, CSS, and LTPFS outcomes within 10 years."
+  },
+  {
+    "id": "pmid-42576091",
+    "type": "article-journal",
+    "title": "Personalizing Bone Tumor Ablation: Decision Models from the University Hospital of Strasbourg",
+    "container-title": "Cardiovascular and interventional radiology",
+    "volume": "49",
+    "issue": "10",
+    "page": "2042-2051",
+    "DOI": "10.1007/s00270-026-04568-3",
+    "PMID": "42576091",
+    "PMCID": "",
+    "URL": "https://pubmed.ncbi.nlm.nih.gov/42576091/",
+    "author": [
+      {
+        "family": "Cazzato",
+        "given": "RL"
+      },
+      {
+        "family": "Severac",
+        "given": "F"
+      },
+      {
+        "family": "Steffen",
+        "given": "DA"
+      },
+      {
+        "family": "Mandolini",
+        "given": "M"
+      },
+      {
+        "family": "Orkut",
+        "given": "S"
+      },
+      {
+        "family": "Gangi",
+        "given": "A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "abstract": "[SYNTHÈSE FR] Étude méthodologique et clinique du CHU de Strasbourg portant sur **926 tumeurs osseuses primitives et métastatiques** (618 tumeurs en cohorte d'entraînement, 308 en cohorte de validation) comparant un modèle consensuel d'experts seniors en radiologie interventionnelle à un arbre de décision algorithmique pour sélectionner la modalité d'ablation percutanée (*Cardiovascular and Interventional Radiology — CVIR*, août 2026, IF 2,8) : les deux modèles atteignent une **précision globale élevée et équivalente de 81,8 % vs 80,5 % ($p = 0,493$)**. Le modèle expert privilégie la sécurité et l'extension de la **cryoablation** avec une **sensibilité supérieure (94,0 % vs 87,5 %, $p = 0,008$)**, tandis que l'arbre de décision offre une spécificité supérieure pour la cryoablation (79,3 % vs 69,3 %, $p = 0,001$) et une sensibilité plus élevée pour la radiofréquence (35,8 % vs 7,5 %, $p < 0,001$).\n\n[ABSTRACT EN] To describe the clinical decision-making underlying the selection of the percutaneous ablation modality for bone tumors. Two experienced interventional radiologists designed in consensus a model for ablation modality selection. Consecutive patients with primary and metastatic bone tumors were retrospectively identified. Demographic, clinical, and imaging data were collected for each tumor. The dataset was randomly divided into a training set (618/926 tumors; 66.7%) and a test set (308/926 tumors; 33.3%). A decision-tree model derived from the training set and the model proposed by the experts were both verified on the test set. Models' performance was assessed. The decision-tree and the experts-based models achieved comparable accuracy (81.8% vs. 80.5%; p = 0.493). For cryoablation, the experts-based model demonstrated significantly higher sensitivity (94.0% vs. 87.5%, p = 0.008), whereas the decision-tree model showed significantly higher specificity (79.3% vs. 69.3%, p = 0.001). For radiofrequency ablation, the decision-tree model exhibited substantially higher sensitivity (35.8% vs. 7.5%, p < 0.001), while the experts-based model had higher specificity (98.4% vs. 93.7%, p = 0.004). Performance for interstitial laser ablation was comparable between the two models, with no significant differences in sensitivity (98.8% vs. 98.9%, p = 1) and specificity (94.1% vs. 95.0%, p = 0.500). The experts-derived and the decision-tree models demonstrated comparable overall accuracy despite relying on the different decision-making. Prospective multicenter studies are required to determine which of these two approaches is more suited for implementation in clinical practice."
   },
   {
     "id": "pmid-42677326",
