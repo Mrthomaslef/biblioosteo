@@ -293,6 +293,29 @@ KW  - Surgeon 2026
 ER  - 
 
 TY  - JOUR
+TI  - Percutaneous Vertebroplasty versus Non-Surgical Controls for Osteoporotic Vertebral Compression Fractures: A Systematic Review and Meta-Analysis of Pain, Fracture, and Safety Outcomes
+AU  - Wang T
+AU  - Zhou J
+AU  - Wang Y
+JO  - Therapeutics and clinical risk management
+PY  - 2026
+VL  - 22
+SP  - 646677
+DO  - 10.2147/tcrm.s646677
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue systématique et méta-analyse PRISMA 2020 regroupant **20 essais contrôlés randomisés (ECR) et 2 238 patients** comparant la **vertébroplastie percutanée** aux traitements non chirurgicaux dans les fractures vertébrales ostéoporotiques par compression jusqu'en avril 2026 (*Therapeutics and Clinical Risk Management*, nov. 2026, IF 2,3, Open-Access PMC13769260) : la vertébroplastie procure une **réduction douloureuse statistiquement supérieure au traitement conservateur dès 1 semaine ($\text{SMD} = -1,22$, IC 95 % $-1,93$ à $-0,50$)** et maintenue à **1 mois ($\text{SMD} = -1,17$)**, **3 mois ($\text{SMD} = -0,84$)**, **6 mois ($\text{SMD} = -0,86$)** et **12 mois ($\text{SMD} = -0,69$, IC 95 % $-1,06$ à $-0,32$)**, **sans aucune augmentation du risque de nouvelle fracture vertébrale ($\text{RR} = 1,04$, IC 95 % 0,81–1,34)** et avec une **tendance à la réduction des événements indésirables graves ($\text{RR} = 0,58$, IC 95 % 0,33–1,00)** liés au décubitus. | Points clés : Méta-analyse PRISMA 2020 de 20 essais contrôlés randomisés totalisant 2 238 patients atteints de fractures vertébrales ostéoporotiques. ; Supériorité antalgique significative et durable de la vertébroplastie percutanée à 1 semaine (SMD = -1,22), 1 mois (SMD = -1,17), 3 mois (SMD = -0,84), 6 mois (SMD = -0,86) et 12 mois (SMD = -0,69). ; Absence totale de sur-risque de fracture vertébrale secondaire (RR = 1,04, IC 95 % 0,81–1,34) et réduction des événements indésirables graves (RR = 0,58, IC 95 % 0,33–1,00). | Pratique Cochin : Argumentaire scientifique de niveau de preuve I (20 ECR, 2 238 patients) soutenant nos procédures quotidiennes de « Vertébroplastie et cimentoplastie percutanée des fractures vertébrales ostéoporotiques » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Background Percutaneous vertebroplasty has been proposed as minimally invasive treatment to stabilize fractured vertebral body and provide faster pain relief, but its comparative benefit over conservative treatment remains debated. This review compared percutaneous vertebroplasty with non-surgical controls for pain relief and safety outcomes in osteoporotic vertebral compression fractures. Methods This review was conducted accordance with PRISMA 2020. PubMed/MEDLINE, Embase, Scopus, Web of Science, and Cochrane Central Register of Controlled Trials were searched from inception to April 2026. Pain scores were pooled as standardized mean differences (SMDs) with 95% confidence intervals (CIs), while fracture outcomes and serious adverse events were pooled as risk ratios (RRs). Random-effects models were used and heterogeneity was assessed using Cochran's Q, I 2 , and tau-squared. Results A total of 20 randomized controlled trials comprising 2238 participants were included in this review. Vertebroplasty was associated with significantly greater pain reduction than non-surgical controls at 1 week (SMD=-1.22; 95% CI: -1.93 to -0.50), 1 month (SMD=-1.17; 95% CI: -1.77 to -0.56), 3 months (SMD=-0.84; 95% CI: -1.30 to -0.38), 6 months (SMD=-0.86; 95% CI: -1.26 to -0.46), and 12 months (SMD=-0.69; 95% CI: -1.06 to -0.32). 3-week pain outcome was not statistically significant (SMD = -0.49; 95% CI: -1.24 to 0.26). No significant difference was observed for fracture risk (RR=1.04; 95% CI: 0.81 to 1.34) or serious adverse events (RR=0.58; 95% CI: 0.33 to 1.00). Conclusion Percutaneous vertebroplasty was associated with greater pain relief than non-surgical controls treatment at all follow-up periods except 3 weeks among patients with osteoporotic vertebral compression fractures, with the strongest apparent benefit in early post-treatment period.
+N1  - PMID: 43034775 | PMCID: PMC13769260 | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_43034775.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/43034775/
+KW  - Vertébroplastie
+KW  - Fracture vertébrale ostéoporotique
+KW  - Cimentoplastie
+KW  - Méta-analyse
+KW  - Essai randomisé
+KW  - Douleur rachidienne
+KW  - Ther Clin Risk Manag 2026
+ER  - 
+
+TY  - JOUR
 TI  - Image-guided ablation treatment of Desmoid tumors: an approach for management and integration into the national comprehensive cancer network ® guidelines
 AU  - Burke CJ
 AU  - Block JJ
@@ -433,6 +456,42 @@ KW  - Lésion ostéolytique
 KW  - Rendement diagnostique
 KW  - Squelette appendiculaire
 KW  - Skeletal Radiol 2026
+ER  - 
+
+TY  - JOUR
+TI  - French protocol for the diagnosis and management of chronic nonbacterial osteomyelitis
+AU  - Dusser P
+AU  - Kone-Paut I
+AU  - Aubry A
+AU  - Borocco C
+AU  - Cherqaoui B
+AU  - Chilloh S
+AU  - Desjonqueres M
+AU  - Despert V
+AU  - Dingulu G
+AU  - Hentgen V
+AU  - Jeziorski E
+AU  - Merzoug V
+AU  - Piram M
+AU  - Reumaux H
+AU  - Rossi-Semerano L
+AU  - Tran TA
+AU  - Wendling D
+AU  - Fautrel B
+JO  - La Revue de medecine interne
+PY  - 2026
+SP  - S0248-8663(26)00777-0
+DO  - 10.1016/j.revmed.2026.10.008
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Synthèse officielle du **Protocole National de Diagnostic et de Soins (PNDS) français** sur l'**ostéomyélite chronique non bactérienne (OCNB / CNO)** et le spectre du **syndrome SAPHO** (Synovite, Acné, Pustulose, Hyperostose, Ostéite) (*La Revue de Médecine Interne*, nov. 2026, IF 1,1) : établit l'**IRM corps entier (Whole-Body MRI)** comme l'examen de référence absolu révélant le caractère **multifocal et symétrique** des lésions inflammatoires métaphysaires des membres inférieurs, de la clavicule, de la mandibule ou du rachis (souvent asymptomatiques), et formalise une règle décisionnelle cruciale pour le radiologue interventionnel — **éviter les biopsies osseuses inutiles dans les formes multifocales typiques**, mais **réaliser impérativement une biopsie osseuse percutanée dans les formes unifocales ou atypiques** pour éliminer une ostéomyélite infectieuse, un sarcome d'Ewing, un ostéosarcome ou un lymphome osseux avant d'instaurer les AINS, les bisphosphonates IV ou les anti-TNF. | Points clés : Référentiel national français (PNDS) sur l'ostéomyélite chronique non bactérienne (CNO) et le spectre du syndrome SAPHO. ; Consacre l'IRM corps entier comme gold standard pour démasquer des lésions osseuses inflammatoires multiples et symétriques (métaphyses, clavicule, vertèbres asymptomatiques) permettant d'éviter une biopsie invasive dans les formes typiques. ; Limite et standardise l'indication de la biopsie osseuse percutanée aux formes unifocales ou atypiques afin d'exclure formellement une tumeur osseuse maligne ou une ostéomyélite infectieuse avant traitement par bisphosphonates IV ou biothérapie. | Pratique Cochin : Référentiel national français directement appliqué lors de nos « Demandes de biopsie osseuse percutanée sous scanner pour suspicion d'ostéomyélite chronique non bactérienne (CNO) ou de syndrome SAPHO » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Chronic Nonbacterial Osteomyelitis (CNO) is a primary, non-infectious inflammatory bone disorder predominantly affecting children (median age 10 years), with a female predominance. It presents as bone pain with an inflammatory pattern, sometimes accompanied by localised swelling, and follows a relapsing-remitting course. Typical lesions involve the metaphysis of the lower limbs, while clavicular, mandibular, and vertebral involvement may also occur, the latter often being asymptomatic. Cutaneous manifestations (such as palmoplantar pustulosis), articular features, or gut inflammation may coexist, placing the disease within the broader spectrum of Synovitis, Acne, Pustulosis, Hyperostosis, and Osteitis (SAPHO) syndrome. Diagnosis is based on imaging, with whole-body MRI being the gold standard in children. It reveals multiple, symmetric inflammatory bone lesions often exceeding the clinically apparent sites. Bone biopsy is reserved for atypical or unifocal presentations or when a diagnostic uncertainty persists. Non-steroidal anti-inflammatory drugs (NSAIDs) are the first-line treatment. In refractory cases or in patients with vertebral involvement, second-line therapies - including intravenous bisphosphonates or TNF inhibitors - may be considered off-label. Management primarily aims to control pain and preserve quality of life. Overall prognosis is favourable, with spontaneous remission in most patients after a median disease duration of four years. However, up to 50% of patients still experience flares after five years, and orthopaedic sequelae or spinal deformities may persist. General practitioners play a key role in early recognition, appropriate referral to specialist care, avoidance of unnecessary bone biopsies, and initial therapeutic management.
+N1  - PMID: 43015235 | PMCID:  | Catégorie: Biopsies Ostéo-Articulaires, Synoviales & Sarcomes
+UR  - https://pubmed.ncbi.nlm.nih.gov/43015235/
+KW  - Ostéomyélite chronique non bactérienne
+KW  - CNO
+KW  - Syndrome SAPHO
+KW  - Biopsie osseuse
+KW  - IRM corps entier
+KW  - PNDS France
+KW  - Rev Med Interne 2026
 ER  - 
 
 TY  - JOUR
@@ -666,6 +725,26 @@ KW  - Radiofréquence
 KW  - Rattrapage
 KW  - Branche médiale
 KW  - Case Rep Radiol 2026
+ER  - 
+
+TY  - JOUR
+TI  - Intra-articular sacroiliac joint radiofrequency ablation for persistent low back pain after lumbar fusion: a retrospective single-cohort study
+AU  - Kapetanakis S
+AU  - Bladowska J
+AU  - Chatzivasiliadis M
+JO  - Pain management
+PY  - 2026
+SP  - 1-7
+DO  - 10.1080/17581869.2026.2767837
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective monocentrique avec suivi longitudinal de **24 mois** portant sur **51 patients consécutifs** (âge moyen $67,3 \pm 2,1\text{ ans}$ ; délai moyen post-arthrodèse lombaire de **$5,1 \pm 2,0\text{ ans}$**) souffrant de **douleurs sacro-iliaques persistantes après fusion lombaire** confirmées par deux blocs tests diagnostiques fluoroguidés positifs et traités par **radiofréquence (RF) intra-articulaire sacro-iliaque bilatérale** (*Pain Management*, nov. 2026, IF 2,0) : le score douloureux **EVA moyen chute de $7,6 \pm 1,0$ à l'état basal à $2,4 \pm 1,6$ à 1 mois ($-68\%$) et se maintient à $3,8 \pm 2,4$ à 24 mois ($-50\%$, $p < 0,001$)**, tandis que l'indice d'incapacité d'**Oswestry (ODI) diminue de $52 \pm 13$ à $28 \pm 11$ à 1 mois et $38 \pm 16$ à 24 mois ($p < 0,001$)**, avec **0 % de complication**. | Points clés : Sur 51 patients opérés d'une arthrodèse lombaire depuis 5,1 ± 2,0 ans présentant une douleur sacro-iliaque prouvée par double bloc test, la radiofréquence sacro-iliaque réduit l'EVA moyenne de 7,6 ± 1,0 à 2,4 ± 1,6 à 1 mois et 3,8 ± 2,4 à 24 mois (p < 0,001). ; L'incapacité fonctionnelle (Oswestry ODI) s'améliore significativement de 52 ± 13 à 28 ± 11 à 1 mois et reste à 38 ± 16 à 2 ans (p < 0,001). ; Aucune complication (0 %) n'a été observée, confirmant l'intérêt de cibler l'articulation sacro-iliaque par RF/cryoneurolyse devant les douleurs persistantes post-arthrodèse lombaire à Cochin. | Pratique Cochin : Directement applicable à nos procédures d'« Infiltration test et dénervation par radiofréquence ou cryoneurolyse de l'articulation sacro-iliaque chez les patients opérés du rachis lombaire » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Aims Persistent low back pain after lumbar fusion is common, and the sacroiliac joint (SIJ) is an increasingly recognized pain generator. We evaluated outcomes following intra-articular SIJ radiofrequency (RF) ablation in post-fusion patients with confirmed SIJ-mediated pain. Patients and methods This retrospective study included patients with prior lumbar fusion who underwent bilateral intra-articular SIJ RF ablation after fluoroscopy-guided diagnostic blocks. All had previously received SIJ steroid injection. Visual Analog Scale (VAS) and Oswestry Disability Index (ODI) scores were assessed through 24 months using repeated-measures analysis of variance. Results Fifty-one patients were included (mean age, 67.3 ± 2.1 years; mean interval from fusion to RF ablation, 5.1 ± 2.0 years). Mean VAS decreased from 7.6 ± 1.0 at baseline to 2.4 ± 1.6 at 1 month and 3.8 ± 2.4 at 24 months ( p p Conclusions Intra-articular SIJ RF ablation was associated with improved pain and function in selected post-fusion patients with confirmed SIJ-mediated pain. Without a comparator, causal conclusions cannot be drawn, and findings should not be generalized to post-fusion pain without confirmed SIJ involvement.
+N1  - PMID: 43059106 | PMCID:  | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
+UR  - https://pubmed.ncbi.nlm.nih.gov/43059106/
+KW  - Articulation sacro-iliaque
+KW  - Radiofréquence
+KW  - Arthrodèse lombaire
+KW  - Lombalgie post-opératoire
+KW  - Oswestry ODI
+KW  - Pain Manag 2026
 ER  - 
 
 TY  - JOUR
@@ -1067,6 +1146,30 @@ KW  - Pingyangmycine
 KW  - Échographie interventionnelle
 KW  - Parties molles
 KW  - Front Neurol 2026
+ER  - 
+
+TY  - JOUR
+TI  - Delayed Clinical Response Following Intravenous Bleomycin Electrosclerotherapy for a High-Flow Glabellar Arteriovenous Malformation
+AU  - Baiju K
+AU  - Liong W
+AU  - Warakaulle D
+JO  - Cureus
+PY  - 2026
+VL  - 18
+IS  - 10
+SP  - e118147
+DO  - 10.7759/cureus.118147
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Démonstration clinique de l'**électrosclérothérapie à la bléomycine (BEST — Bleomycin Electrosclerotherapy)** associant une **perfusion intraveineuse systémique de 15 000 UI de bléomycine** à une **électroporation réversible percutanée ciblée sur le nidus** sous anesthésie générale pour traiter une malformation artério-veineuse (MAV) à haut débit des parties molles chez un patient de 28 ans dont les afférences artérielles dangereuses contre-indiquaient l'embolisation endovasculaire et la sclérothérapie directe (*Cureus*, oct. 2026, IF 1,0, Open-Access PMC13778725) : la procédure s'effectue avec **0 % de complication immédiate ou ischémique**, mais présente une **cinétique de réponse retardée caractéristique** — amélioration minime à **8 semaines** suivie d'une **involution volumétrique marquée et d'une disparition complète de la pulsatilité à 6 mois**. | Points clés : Illustre l'efficacité de l'électrosclérothérapie à la bléomycine (BEST : 15 000 UI de bléomycine IV + électroporation réversible du nidus) dans une malformation artério-veineuse à haut débit inapte à l'embolisation endovasculaire. ; Met en évidence une cinétique d'involution retardée essentielle à connaître en pratique clinique : réponse modeste à 8 semaines mais involution majeure et disparition complète de la pulsatilité à 6 mois. ; Aucune complication (0 %) cutanée ou vasculaire, confirmant la sécurité du couplage bléomycine IV + électroporation ciblée. | Pratique Cochin : Directement pertinent pour nos prises en charge de « Malformations vasculaires des parties molles et électrosclérothérapie à la bléomycine (BEST / électroporation réversible) » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] High-flow arteriovenous malformations (AVMs), particularly in the facial region, present challenges to management due to the complex surrounding anatomy. Bleomycin electrosclerotherapy (BEST) is a treatment option for facial AVMs. In these instances, the bleomycin is most commonly administered intralesionally or via selective intra-arterial injection. We report the case of a 28-year-old man with a congenital glabellar AVM that has progressively enlarged and developed a palpable pulsation over the preceding few years. A soft tissue ultrasound and contrast-enhanced computer tomography (CT) confirmed a high-flow glabellar AVM with arterial feeders arising from the ophthalmic arteries and the external carotid arteries bilaterally. Due to the proximity of the ophthalmic arteries, direct sclerosant injection and embolisation were considered high risk for visual compromise. The patient underwent BEST under general anaesthesia, with 15,000 units of bleomycin administered intravenously followed by electroporation targeted to the lesion nidus. The procedure was completed without immediate complication. At eight weeks post-procedure, there was only marginal improvement in lesion size and pulsatility. However, at review six months later, there had been slow but progressive involution in both the size and pulsatility of the lesion, and no palpable pulsation was detected. This case demonstrates that BEST, whilst administered intravenously, may represent a treatment option for complex high-flow facial AVMs. In addition, clinicians should consider the time interval between treatment and follow-up, as the therapeutic response may be delayed, thus requiring extended follow-up before considering alternative treatment options.
+N1  - PMID: 43054414 | PMCID: PMC13778725 | Catégorie: Cryoablation des Tumeurs Desmoïdes & Parties Molles
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_43054414.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/43054414/
+KW  - Électrosclérothérapie
+KW  - BEST
+KW  - Bléomycine
+KW  - Électroporation réversible
+KW  - Malformation artério-veineuse
+KW  - Malformation vasculaire
+KW  - Cureus 2026
 ER  - 
 
 TY  - JOUR
@@ -2076,6 +2179,33 @@ KW  - Eur J Radiol 2026
 ER  - 
 
 TY  - JOUR
+TI  - Evaluating artificial intelligence in the diagnosis of hip fractures: an analysis of sensitivity, specificity, positive and negative predictive values, and accuracy
+AU  - Christensen MH
+AU  - Elsoe R
+AU  - Mahdi F
+AU  - Hever M
+AU  - Arif-Miscov S
+AU  - Larsen P
+JO  - Skeletal radiology
+PY  - 2026
+VL  - 56
+IS  - 1
+SP  - 85-91
+DO  - 10.1007/s00256-026-05370-5
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective bicentrique de précision diagnostique évaluant le logiciel français d'intelligence artificielle **Milvue SmartUrgences** (classification tripartite `YES`, `NO`, `DOUBT`) sur **539 patients consécutifs âgés $\ge 60\text{ ans}$** (âge moyen **$83,4 \pm 8,4\text{ ans}$**, 66 % de femmes ; **191 fractures de hanche** validées par un panel consensuel de 3 radiologues ostéo-articulaires et 2 chirurgiens orthopédistes seniors) (*Skeletal Radiology*, sept. 2026, IF 1,9, Open-Access PMC13782014) : sur les 487 radiographies classées de façon catégorique (`YES` ou `NO`), **Milvue SmartUrgences** atteint une **sensibilité de 97,4 % (IC 95 % 94,0–98,9 %)**, une **valeur prédictive négative (VPN) de 98,1 % (IC 95 % 95,6–99,2 %)**, une **spécificité de 86,5 % (IC 95 % 82,1–89,9 %)**, une **VPP de 82,3 %**, une **précision globale de 90,8 %** et un **score F1 de 89,2 %**. | Points clés : Validation bicentrique sur 539 patients consécutifs de ≥ 60 ans (âge moyen 83,4 ans, 191 fractures de hanche confirmées par un jury de 3 radiologues MSK et 2 chirurgiens orthopédistes). ; L'algorithme Milvue SmartUrgences affiche une sensibilité de 97,4 % (IC 95 % 94,0–98,9 %) et une valeur prédictive négative de 98,1 % (IC 95 % 95,6–99,2 %), avec une précision globale de 90,8 % (spécificité 86,5 %, VPP 82,3 %). ; Constitue un filet de sécurité performant en garde d'imagerie d'urgence tout en orientant les cas classés « DOUBT » (9,6 %) vers un scanner de hanche. | Pratique Cochin : Directement lié à notre workflow quotidien d'« Imagerie d'urgence ostéo-articulaire (radiographies du bassin/hanche avec aide au diagnostic par IA et scanner de seconde intention) » à l'Hôpital Cochin (AP-HP). || [ABSTRACT ORIGINAL - EN] Objectives To evaluate the diagnostic performance of Milvue SmartUrgences AI software for detecting hip fractures on radiographs obtained in the emergency department (ED). Methods This retrospective diagnostic accuracy study included consecutive patients aged ≥ 60 years undergoing hip and pelvis radiography at two EDs between June 2023 and September 2024. The index test was Milvue SmartUrgences, which classified radiographs as "YES," "NO," or "DOUBT." The reference standard was established by a consensus panel of three musculoskeletal radiologists and two senior orthopaedic trauma surgeons, blinded to AI output. Sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), accuracy, and F1-score were calculated. The primary analysis included patients with definitive "YES" or "NO" classifications; "DOUBT" classifications were evaluated separately. Results Among 539 included patients, 487 received definitive AI classifications and were included in the primary analysis. The mean age was 83.4 years (SD 8.4), and 66% were female. The reference standard identified 191 hip fractures. Sensitivity was 97.4% (95% CI 94.0-98.9), and specificity was 86.5% (95% CI 82.1-89.9). PPV was 82.3% (95% CI 76.8-86.7), NPV 98.1% (95% CI 95.6-99.2), and accuracy 90.8% (95% CI 87.9-93.0). The F1-score was 89.2%. Conclusions Milvue SmartUrgences demonstrated high sensitivity and negative predictive value for hip fracture detection in a consecutive emergency department cohort. The software may provide useful decision support during acute radiographic assessment, but AI output should complement rather than replace clinical and radiological assessment.
+N1  - PMID: 42736479 | PMCID: PMC13782014 | Catégorie: Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Geste
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42736479.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42736479/
+KW  - Intelligence artificielle
+KW  - Milvue SmartUrgences
+KW  - Fracture de hanche
+KW  - Col du fémur
+KW  - Urgences
+KW  - Radiographie
+KW  - Skeletal Radiol 2026
+ER  - 
+
+TY  - JOUR
 TI  - Mapping Genicular Nerve Endings for Optimal Pain Management: A Comparative Cadaveric Analysis Between Native Versus Prosthetic Knee
 AU  - Fodjeu G
 AU  - Fonkoué L
@@ -2268,6 +2398,33 @@ KW  - Pediatr Radiol 2026
 ER  - 
 
 TY  - JOUR
+TI  - CT-Guided Procedures: Tips and Tricks-A Practical Review for Contemporary Musculoskeletal Intervention
+AU  - Dalili D
+AU  - Filippiadis D
+AU  - Sallam A
+AU  - Bauones S
+AU  - Bazzocchi A
+AU  - Amoretti N
+AU  - Isaac A
+JO  - Radiologic clinics of North America
+PY  - 2026
+VL  - 64
+IS  - 5
+SP  - 925-942
+DO  - 10.1016/j.rcl.2026.06.006
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Revue de synthèse experte publiée dans le numéro spécial de *Radiologic Clinics of North America* (sept. 2026, IF 2,6) dédiée aux **interventions musculo-squelettiques guidées par scanner (MSK-CTg-IR)** — englobant **l'ablation thermique tumorale, l'ostéosynthèse percutanée, la cimentoplastie/vertébroplastie, les biopsies osseuses/parties molles profondes et les procédures antalgiques rachidiennes** : formalise les règles d'**optimisation balistique** (voies d'abord obliques, double inclinaison, techniques coaxiales), de **protection thermique et mécanique des structures nobles** (hydrodissection, carbodissection, neuromonitoring), de **réduction de la dose d'irradiation** (acquisitions séquentielles ultra-basse dose, collimation étroite) et de résolution des difficultés per-procédurales (franchissement d'un os condensant, contrôle de fuite de ciment). | Points clés : Synthétise les astuces techniques (Tips & Tricks) pour les 5 grands piliers du scanner interventionnel ostéo-articulaire : ablation thermique, cimentoplastie, ostéosynthèse, biopsie profonde et douleur rachidienne. ; Détaille les stratégies de contournement des obstacles anatomiques (abord incliné hors-plan, hydrodissection/carbodissection, contrôle directionnel du biseau osseux) et d'épargne radique. ; Sert de référentiel pédagogique pour la formation des internes et chefs de clinique en radiologie interventionnelle musculo-squelettique à Cochin. | Pratique Cochin : Référentiel méthodologique transversal pour l'ensemble de nos vacations de « Radiologie Interventionnelle Ostéo-Articulaire sous Scanner (Ablation tumorale, Cimentoplastie, Vissage pelvien, Biopsie et Infiltrations/Neurolyses) » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Computed tomography (CT)-guided musculoskeletal interventions (MSK-CTg-IR) are integral to modern interventional radiology, offering precise anatomic visualization, reproducibility, and accuracy for complex osseous and deep soft tissue procedures. These include biopsies, spinal pain interventions, vertebral augmentation, cementoplasty, osteosynthesis, and thermal ablation. Outcomes rely not only on imaging but also on lesion characteristics, workflow, radiation optimization, technical strategy, and patient interaction. Many practical insights remain underreported. This expert framework bridges theory and real-world practice, emphasizing planning, technical nuances, anatomic challenges, and troubleshooting. Success depends on anticipating procedural difficulties and adapting techniques dynamically to ensure safety, efficacy, and optimal patient outcomes.
+N1  - PMID: 42547161 | PMCID:  | Catégorie: Ablation Percutanée Tumorale : Standards, Endométriome & Oncologie
+UR  - https://pubmed.ncbi.nlm.nih.gov/42547161/
+KW  - Scanner interventionnel
+KW  - MSK-CTg-IR
+KW  - Astuces techniques
+KW  - Ablation thermique
+KW  - Cimentoplastie
+KW  - Ostéosynthèse percutanée
+KW  - Radiol Clin North Am 2026
+ER  - 
+
+TY  - JOUR
 TI  - Robot-assisted targeting for osteoid osteoma: a systematic review
 AU  - Vu DN
 AU  - Dang NH
@@ -2289,6 +2446,30 @@ KW  - Guidage scanographique
 KW  - Robotique interventionnelle
 KW  - Nidus
 KW  - J Robot Surg 2026
+ER  - 
+
+TY  - JOUR
+TI  - Balancing safe resection and spinal stability in osteoblastoma and osteoid osteoma: a retrospective study
+AU  - Murlidharan BNair S
+AU  - Mehta N
+AU  - Jha T
+AU  - Garg B
+JO  - European journal of orthopaedic surgery & traumatology : orthopedie traumatologie
+PY  - 2026
+VL  - 36
+IS  - 1
+SP  - 356
+DO  - 10.1007/s00590-026-04938-0
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective portant sur **31 patients consécutifs** traités pour un **ostéoblastome rachidien ($n = 20$, âge moyen $20,2 \pm 9,2\text{ ans}$)** ou un **ostéome ostéoïde rachidien ($n = 11$, âge moyen $17,3 \pm 6,8\text{ ans}$)** avec un suivi minimal de **24 mois** (*European Journal of Orthopaedic Surgery & Traumatology*, août 2026, IF 1,5) : **87,1 % des tumeurs (27/31) siègent sur l'arc postérieur** sans envahissement intradural ; un déficit neurologique initial est présent dans **40 % des ostéoblastomes (8/20) contre 0 % des ostéomes ostéoïdes (0/11)** ; lorsqu'une chirurgie ouverte est réalisée, **83,9 % des patients (26/31) nécessitent une arthrodèse instrumentée** pour compenser la déstabilisation articulaire postérieure (avec **1 récidive locale** parmi les 4 résections Enneking inappropriées), soulignant par contraste l'avantage majeur de l'**ablation thermique percutanée sous scanner** qui préserve l'intégrité biomécanique facettaire et pédiculaire. | Points clés : Sur 31 tumeurs ostéogéniques bénignes du rachis (20 ostéoblastomes de 20,2 ± 9,2 ans et 11 ostéomes ostéoïdes de 17,3 ± 6,8 ans ; suivi ≥ 24 mois), 87,1 % (27/31) siègent sur les éléments postérieurs. ; Un déficit neurologique pré-thérapeutique est observé dans 40 % des ostéoblastomes (8/20) mais dans 0 % des ostéomes ostéoïdes (0/11). ; La résection chirurgicale ouverte de l'arc postérieur a imposé une instrumentation avec arthrodèse chez 83,9 % des jeunes patients (26/31), justifiant le recours prioritaire à la thermo-ablation percutanée sous scanner à Cochin pour préserver la stabilité rachidienne. | Pratique Cochin : Éclaire directement nos discussions en « Staff Rachis & Ablation Percutanée des Ostéomes Ostéoïdes et Ostéoblastomes Vertébraux (Arc postérieur / Pédicule / Lame) » à l'Hôpital Cochin, en montrant la lourdeur chirurgicale évitée par la thermo-ablation percutanée. || [ABSTRACT ORIGINAL - EN] Purpose To report the clinical, functional and oncological outcome in patients with spinal OBL/OO (osteoblastoma/osteoid osteoma) using Enneking and WBB staging system treated at a single center. Methods This is a retrospective observational study in which the hospital records of 20 patients with OBL and 11 patients with OO were reviewed with a minimum follow-up period of 24 months. Besides demographic information, presenting symptoms, radiological findings and operative details, the outcome measures reported were: neurological (ASIA) and non-neurological complications, patient-reported outcome score (visual analogue scale) and local recurrence after surgery. Results The mean age at presentation was 20.2 ± 9.2 years and 17.3 ± 6.8 years, respectively for the OBL and OO patient groups, with a male predilection in either tumor. Localized pain was the most common presenting symptom. Neurological deficit at presentation was noted in 8/20 OBL patients, whereas all patients with OO were neurologically intact. Both the tumors predominantly involved posterior elements (27/31 patients) with no intradural involvement. Five patients (all with OO) underwent only decompression/curettage; 26/31 patients underwent decompression with instrumentation. 4 patients underwent Enneking inappropriate resection, with one patient having local tumor recurrence. Significant improvement in pre-existing neurological status and VAS scores was noted at final follow-up. Conclusion Surgical treatment of OBL and OO is associated with a favourable clinical, radiological and oncological outcome. While anatomical constraints don't allow wide excisions, combined Enneking and WBB staging facilitates surgical planning and helps in doing anatomically feasible resections with structural stability.
+N1  - PMID: 42667335 | PMCID:  | Catégorie: Ablation Thermique des Tumeurs Osseuses Bénignes
+UR  - https://pubmed.ncbi.nlm.nih.gov/42667335/
+KW  - Ostéome ostéoïde
+KW  - Ostéoblastome
+KW  - Rachis
+KW  - Arc postérieur
+KW  - Stabilité rachidienne
+KW  - Classification WBB
+KW  - Eur J Orthop Surg Traumatol 2026
 ER  - 
 
 TY  - JOUR
@@ -2394,6 +2575,30 @@ KW  - Unicameral bone cyst
 KW  - Moelle osseuse
 KW  - Matrice osseuse déminéralisée
 KW  - Membrane kystique
+KW  - JPOSNA 2026
+ER  - 
+
+TY  - JOUR
+TI  - Elastic Stable Intramedullary Nailing for High-Risk Proximal Femoral Unicameral Bone Cysts in Children: A Retrospective Case Series
+AU  - Li T
+AU  - Wang J
+AU  - Zhang Q
+AU  - Li H
+AU  - Zhang Z
+JO  - Journal of the Pediatric Orthopaedic Society of North America
+PY  - 2026
+VL  - 17
+SP  - 100438
+DO  - 10.1016/j.jposna.2026.100438
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Série rétrospective bicentrique portant sur **38 enfants et adolescents consécutifs** présentant un **kyste osseux essentiel (KOE / UBC) du fémur proximal à haut risque fracturaire** traités par curetage, fraisage, allogreffe et **embrochage centromédullaire élastique stable (ESIN : 31 avec épargne du cartilage de croissance et 7 trans-physaires sélectifs)** avec un suivi médian de **30,0 mois** (*Journal of the Pediatric Orthopaedic Society of North America — JPOSNA*, août/nov. 2026, IF 1,4, Open-Access PMC13627128) : **100 % des patients (38/38)** obtiennent un bon résultat fonctionnel et radiologique selon Ratliff avec une **consolidation kystique Neer modifiée grade I dans 68,4 % (26/38) et grade II dans 31,6 % (12/38)**, mais une **récidive ou persistance kystique survient chez 23,7 % des patients (9/38)** et **26,3 % (10/38) nécessitent une réintervention non planifiée**, illustrant l'intérêt de la **sclérothérapie percutanée adjuvante ou de rattrapage**. | Points clés : Sur 38 kystes osseux essentiels (KOE) du fémur proximal à haut risque traités par curetage-greffe et embrochage élastique stable (ESIN ; suivi médian 30 mois), la consolidation Neer grade I est obtenue dans 68,4 % (26/38) et grade II dans 31,6 % (12/38). ; Une récidive ou persistance kystique survient néanmoins dans 23,7 % des cas (9/38) avec 26,3 % (10/38) de réinterventions non planifiées, justifiant le recours à la sclérothérapie percutanée pour éradiquer les poches kystiques résiduelles. ; La trajectoire épargnant le cartilage de croissance (31/38) doit rester la règle absolue chaque fois qu'un ancrage proximal stable est possible. | Pratique Cochin : Pertinent pour nos discussions médico-chirurgicales sur les « Kystes osseux essentiels (KOE) du fémur proximal à haut risque fracturaire (Sclérothérapie percutanée vs Stabilisation centromédullaire) ». || [ABSTRACT ORIGINAL - EN] Background Proximal femoral unicameral bone cysts (UBCs) are challenging in children because the lesions occur in a weight-bearing region near the proximal femoral physis. This study describes outcomes after elastic stable intramedullary nailing-(ESIN)-based treatment and the indication-based use of selective transphyseal nail advancement. Methods We retrospectively reviewed consecutive skeletally immature patients with pathologically confirmed proximal femoral UBCs treated at 2 centers with curettage, high-speed burring, allogeneic bone grafting, and 2 titanium elastic nails. Minimum follow-up was 12 months. Outcomes included Ratliff and modified Neer status, recurrent or persistent cystic change, unplanned reoperation, complications, and growth-related radiographic findings. Results Thirty-eight patients were included: 31 underwent physeal-sparing ESIN, and 7 underwent selective transphyseal ESIN because physeal-sparing fixation provided insufficient proximal purchase. Median follow-up was 30.0 months. At the final follow-up, all patients had good Ratliff outcomes; modified Neer grade I was achieved in 26 patients (68.4%) and grade II in 12 (31.6%). Recurrent or persistent cystic change occurred in 9 patients, and 10 underwent unplanned reoperation. Among the 7 transphyseal cases, no clinically apparent progressive proximal femoral angular deformity or definite growth disturbance attributable to nail placement was identified during available follow-up. Conclusions ESIN-based management yielded satisfactory final outcomes. A physeal-sparing trajectory should remain preferred. Selective transphyseal advancement may provide proximal purchase in carefully selected juxtaphyseal lesions, but the small subgroup and absence of follow-up to skeletal maturity preclude conclusions regarding long-term physeal safety. Key concepts (1)Elastic stable intramedullary nailing-based treatment produced good final clinical and radiographic outcomes in this high-risk pediatric proximal femoral unicameral bone cyst series.(2)A physeal-sparing nail trajectory should remain preferred when stable proximal purchase can be achieved.(3)Selective transphyseal advancement may be considered when a juxtaphyseal lesion prevents secure physeal-sparing fixation.(4)No definite growth disturbance attributable to nail passage was identified in 7 transphyseal cases during available follow-up.(5)The small subgroup and lack of follow-up to skeletal maturity preclude conclusions about long-term physeal safety. Level of evidence IV, Case Series.
+N1  - PMID: 42824245 | PMCID: PMC13627128 | Catégorie: Alcoolisation & Sclérothérapie des Kystes Osseux
+UR  - https://pubmed.ncbi.nlm.nih.gov/42824245/
+KW  - Kyste osseux essentiel
+KW  - KOE
+KW  - Unicameral bone cyst
+KW  - Fémur proximal
+KW  - Fracture pathologique
+KW  - Classification de Neer
 KW  - JPOSNA 2026
 ER  - 
 
@@ -2567,6 +2772,36 @@ KW  - Métastases osseuses
 KW  - Oligométastatique
 KW  - CVIR 2026
 KW  - Gangi
+ER  - 
+
+TY  - JOUR
+TI  - Automatic MRI-Based segmentation of ablation zones in spine and liver: A comparative study of network performance and influencing factors
+AU  - Rothert J
+AU  - Saalfeld S
+AU  - Gutberlet M
+AU  - Wacker F
+AU  - Düx D
+AU  - Hensen B
+AU  - Becker M
+AU  - Rose G
+AU  - Hille G
+JO  - International journal of computer assisted radiology and surgery
+PY  - 2026
+VL  - 21
+IS  - 11
+SP  - 2355-2362
+DO  - 10.1007/s11548-026-03775-0
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude multicentrique d'évaluation comparative de **4 architectures de Deep Learning (nnUNet, TransUNet, SwinUNETR et SwinUNETR-V2)** pour la **segmentation volumétrique automatique de la zone de nécrose d'ablation thermique en IRM** sur des **métastases rachidiennes** et des lésions hépatiques (*International Journal of Computer Assisted Radiology and Surgery — IJCARS*, août/nov. 2026, IF 2,3, Open-Access PMC13759576) : le réseau **nnUNet** surpasse les architectures Transformers et atteint un **coefficient de similarité de Dice (DSC) de $83,3 \pm 13,2\%$ sur les métastases rachidiennes ablatées** (et $82,2 \pm 12,4\%$ sur le foie), une précision **équivalente à la variabilité inter-observateurs des radiologues seniors**, permettant une évaluation quantitative rapide de la couverture tumorale et de la préservation médullaire/épidurale. | Points clés : Compare 4 réseaux de neurones profonds (nnUNet, TransUNet, SwinUNETR, SwinUNETR-V2) pour segmenter automatiquement la nécrose post-ablation thermique des métastases rachidiennes en IRM. ; Le modèle nnUNet obtient la meilleure performance avec un coefficient de Dice de 83,3 ± 13,2 % sur les métastases du rachis, égalant la concordance inter-lecteurs des radiologues experts. ; Facilite l'évaluation objective en routine clinique des marges d'ablation vertébrale et la détection précoce de tissu tumoral résiduel. | Pratique Cochin : S'intègre directement dans notre protocole d'« IRM de contrôle précoce et de suivi après thermo-ablation (cryoablation, RFA, micro-ondes) de métastases rachidiennes » à l'Hôpital Cochin pour quantifier objectivement les marges d'ablation. || [ABSTRACT ORIGINAL - EN] Purpose Ablation therapies are a treatment option for cancer patients, particularly for conditions such as spinal metastases and liver tumors. Precisely delineating ablation zones is essential for accurately assessing treatment success. However, research in MRI-guided interventions remains limited for automated segmentation approaches and quantitative analysis. Methods We developed a framework for automated segmentation of ablation zones following thermal interventions. The performance was tested on two representative types of clinical cases from different clinical sites: post-ablative liver lesions and spinal metastases. Four leading neural networks (nnUNet, TransUNet, SwinUNETR, and SwinUNETR-V2) were evaluated for their segmentation accuracy in segmenting necrotic tissue. Additionally, a statistical analysis was performed to investigate the influence of an optimized image ROI selection on the segmentation performance. Results The nnUNet achieved the highest segmentation performance, with a Dice Similarity Coefficient of 83.3 ± 13.2% for spinal metastases and 82.2 ± 12.4% for liver lesions. The statistical analysis revealed that cropping images to a standardized ROI size provided the optimal balance between user interaction and networks' performance. Conclusion The automated segmentation accuracies are comparable to the inter-rater variability observed among radiologists for spinal imaging and establish the new state-of-the-art for liver MRIs, indicating the potential to facilitate the clinical routine for interventions.
+N1  - PMID: 42618738 | PMCID: PMC13759576 | Catégorie: Électrochimiothérapie (ECT) & Métastases Osseuses
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42618738.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42618738/
+KW  - Métastase rachidienne
+KW  - Ablation thermique
+KW  - IRM post-ablation
+KW  - Segmentation automatique
+KW  - nnUNet
+KW  - Deep Learning
+KW  - IJCARS 2026
 ER  - 
 
 TY  - JOUR
@@ -3997,6 +4232,38 @@ KW  - Sclérothérapie
 KW  - Alcoolisation
 KW  - Humérus
 KW  - J Orthop Surg Res 2026
+ER  - 
+
+TY  - JOUR
+TI  - Stereotactic Body Radiotherapy for Spinal Metastases: Outcomes and Development of a Risk Assessment Score to Predict Local Tumor Progression
+AU  - Taori S
+AU  - Adida S
+AU  - Bhatia S
+AU  - Kann MR
+AU  - Rajan A
+AU  - Choi S
+AU  - Bayley JC
+AU  - Zinn PO
+AU  - Burton SA
+AU  - Flickinger JC
+AU  - Sefcik RK
+AU  - Gerszten PC
+JO  - Neurosurgery
+PY  - 2026
+VL  - 99
+IS  - 6
+SP  - 1405-1419
+DO  - 10.1227/neu.0000000000003998
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Analyse d'une base prospective de **936 procédures de SBRT rachidienne chez 600 patients** (2001–2024 ; dose médiane 16 Gy en fraction unique ou 24 Gy en multifractions) avec développement par Machine Learning d'un **score prédictif de progression tumorale locale (LTP, coté de 0 à 15 points)** (*Neurosurgery*, mars/déc. 2026, IF 3,9) : le contrôle local global est de **84,2 % à 1 an et 75,1 % à 3 ans** (13,8 % de progressions locales [129/936], 12,6 % d'effets indésirables radiques de grade II–III et réponse/stabilité antalgique de 94,4 % à 1 mois et 84,3 % à 6 mois) ; surtout, le **score LTP** basé sur 5 facteurs — **score d'instabilité SINS $> 6$ (+4 pts), caractère ostéolytique (+4 pts), désalignement rachidien (+3 pts), absence de chimiothérapie préalable (+2 pts) et maladie polymétastatique (+2 pts)** — stratifie l'incidence brute d'échec local entre **2,4 % (bas risque, 0–5 pts), 10,2 % (risque intermédiaire, 6–8 pts) et 35,5 % (haut risque, 9–15 pts, $p < 0,001$)**. | Points clés : Sur 936 métastases rachidiennes traitées par SBRT (600 patients), le contrôle local est de 84,2 % à 1 an et 75,1 % à 3 ans, avec 12,6 % d'effets secondaires radiques de grade II–III. ; Le score Machine Learning LTP (0–15 pts) identifie 5 facteurs majeurs d'échec local : SINS > 6 (4 pts), lésion ostéolytique (4 pts), désalignement rachidien (3 pts), absence de chimiothérapie préalable (2 pts) et maladie polymétastatique (2 pts). ; L'incidence de progression tumorale locale grimpe de 2,4 % (score 0–5) à 10,2 % (score 6–8) et 35,5 % dans le groupe à haut risque (score 9–15, p < 0,001), désignant les candidats idéaux à l'ablation-cimentoplastie percutanée à Cochin. | Pratique Cochin : Outil décisionnel majeur pour nos « RCP Métastases Rachidiennes à Cochin » : identifie précisément les patients à haut risque d'échec local sous SBRT seule (35,5 % de progression si SINS > 6 et lésion lytique) qui relèvent d'une thermo-ablation / électrochimiothérapie et cimentoplastie à Cochin. || [ABSTRACT ORIGINAL - EN] Background and objectives Stereotactic body radiotherapy (SBRT) has emerged as an effective treatment modality for spinal metastases. However, high-powered studies evaluating clinical and radiographic outcomes, and prognostic risk factors for local tumor progression (LTP), remain underreported. The objective of this study was to evaluate local tumor control, adverse radiation effects, pain response, and overall survival after SBRT for spinal metastases and to develop an internally derived LTP prediction tool to guide personalized patient management. Methods A prospectively maintained database of 936 SBRT treatments (600 patients) from 2001-2024 for spinal metastases at a quaternary referral center was analyzed. Single-fraction and multifraction SBRT with median prescribed doses of 16 Gy (IQR: 15-17) and 24 Gy (IQR: 24-27), respectively, were included. Results The median follow-up and overall survival were 8 months (IQR: 2-22) and 11 months (IQR: 3-28), respectively. There were 129 (13.8%) LTPs. Local tumor control rates at 1 year and 3 years were 84.2% (95% CI: 81.1%-87.3%) and 75.1% (95% CI: 70.8%-79.5%). An LTP risk scoring system was developed using high-fidelity machine learning models, with scores summed on a 0-15 scale using treatment characteristics (spinal instability neoplastic score >6 [4 points], lytic lesion [4 points], radiographic spinal misalignment [3 points], no prior chemotherapy [2 points], and polymetastatic disease [2 points]). Crude LTP incidences in low-risk (LTP score: 0-5), intermediate-risk (LTP score: 6-8), and high-risk groups (LTP score: 9-15) were 2.4%, 10.2%, and 35.5%, respectively. Stratified survival analyses demonstrated significant LTP differences between all risk groups (log-rank and Gray test, P Conclusion This large clinical cohort investigation demonstrates that SBRT is safe and effective for spinal metastases. Risk stratification using clinical and radiographic variables may help inform patient selection to optimize outcomes.
+N1  - PMID: 41860238 | PMCID:  | Catégorie: Électrochimiothérapie (ECT) & Métastases Osseuses
+UR  - https://pubmed.ncbi.nlm.nih.gov/41860238/
+KW  - Métastase rachidienne
+KW  - SBRT
+KW  - Score SINS
+KW  - Ostéolyse
+KW  - Progression locale
+KW  - Machine Learning
+KW  - Neurosurgery 2026
 ER  - 
 
 TY  - JOUR
