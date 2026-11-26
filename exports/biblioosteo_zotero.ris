@@ -369,6 +369,53 @@ KW  - Int J Spine Surg 2026
 ER  - 
 
 TY  - JOUR
+TI  - Development and Internal Validation of a Preoperative Prediction Model for Pain-Function Discordance Among Pain Responders After Percutaneous Vertebroplasty for Osteoporotic Vertebral Compression Fractures
+AU  - Duan Y
+AU  - Xu X
+AU  - Chen Y
+AU  - Liu X
+AU  - Hu H
+AU  - Han S
+JO  - Orthopaedic surgery
+PY  - 2026
+DO  - 10.1111/os.70470
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte rétrospective (*Orthopaedic Surgery*, nov. 2026, IF 2,1) portant sur **450 patients ayant obtenu un soulagement antalgique cliniquement significatif ($\Delta\text{EVA} \ge 39\%$) à 3 mois d'une vertébroplastie percutanée (PVP) pour fracture vertébrale ostéoporotique** : **15,8 % des répondeurs antalgiques ($71/450$, soit 1 patient sur 6) présentent une discordance douleur–fonction** (incapacité résiduelle avec amélioration du score fonctionnel $\text{ODI} < 35\%$), prédite indépendamment par **4 facteurs préopératoires ($p < 0,001$)** — **l'âge avancé ($\text{OR} = 1,70$ par tranche de 5 ans), un IMC élevé ($\text{OR} = 1,16$ par $\text{kg/m}^2$), une limitation pré-fracturaire de la marche ($\text{OR} = 4,33$) et l'infiltration graisseuse des muscles paravertébraux mesurée sur l'IRM préopératoire ($\text{OR} = 1,57$ par $+10\%$ d'infiltration)** — avec une **AUC corrigée de l'optimisme de $0,797$ (pente de calibration $0,949$)**. | Points clés : Parmi 450 patients significativement soulagés sur le plan douloureux (baisse d'EVA ≥ 39 %) après vertébroplastie percutanée, 15,8 % (71 patients, soit 1 sur 6) présentent une amélioration fonctionnelle insuffisante (baisse d'ODI < 35 % à 3 mois). ; Quatre variables préopératoires prédisent indépendamment cette discordance douleur–fonction (p < 0,001) : trouble de la marche pré-fracturaire (OR = 4,33), âge (OR = 1,70 par 5 ans), infiltration graisseuse des muscles paravertébraux en IRM (OR = 1,57 par 10 %) et IMC (OR = 1,16 par kg/m²). ; Ce modèle à 4 variables atteint une excellente discrimination (AUC apparente 0,808 ; AUC corrigée par bootstrap 0,797 ; pente de calibration 0,949). | Pratique Cochin : Directement utile pour le bilan IRM pré-cimentoplastie et l'information pronostique de nos « Vertébroplasties et cimentoplasties thoraco-lombaires pour fractures vertébrales ostéoporotiques » à Cochin. || [ABSTRACT ORIGINAL - EN] To characterize pain-function discordance among patients who achieve clinically meaningful pain relief after percutaneous vertebroplasty (PVP) for osteoporotic vertebral compression fractures (OVCFs) and to develop and internally validate a preoperative model for this conditional recovery pattern. This retrospective cohort study included patients with OVCFs treated with PVP between June 2022 and June 2025. Pain and disability were assessed using the visual analog scale (VAS) and Oswestry Disability Index (ODI) at baseline and 3 months. Clinically meaningful improvement was defined as a relative VAS reduction of ≥ 39% and ODI reduction of ≥ 35%. Among patients meeting the pain-response criterion, pain-function discordance was defined as VAS improvement ≥ 39% with ODI improvement < 35%. A prespecified logistic regression model included age, body mass index (BMI), pre-fracture walking impairment, and MRI-derived paraspinal muscle fatty infiltration. Performance was assessed by discrimination, calibration, Brier score, decision curve analysis, and 1000-bootstrap internal validation. LASSO and an absolute-MIC sensitivity analysis were performed as secondary analyses. Of 450 pain responders, 71 (15.8%) had pain-function discordance. Older age (adjusted odds ratio [OR] 1.70 per 5 years, 95% confidence interval [CI] 1.36-2.14), higher BMI (OR 1.16 per 1 kg/m2, 95% CI 1.07-1.26), pre-fracture walking impairment (OR 4.33, 95% CI 2.40-7.83), and greater paraspinal muscle fatty infiltration (OR 1.57 per 10 percentage points, 95% CI 1.24-1.99) were independently associated with discordance (all p < 0.001). The apparent AUC was 0.808 (95% CI 0.754-0.855) and the optimism-corrected AUC was 0.797; the optimism-corrected Brier score was 0.114 and the calibration slope was 0.949. LASSO at λ1se retained the same four predictors, and associations were directionally consistent in the absolute-MIC sensitivity analysis. Approximately one in six patients with meaningful pain relief after PVP did not meet the prespecified threshold for relative functional improvement and experienced substantial residual disability. A four-variable preoperative model showed good internal discrimination and satisfactory calibration for this conditional recovery pattern. The model estimates the risk of functional discordance among pain responders and requires external validation before clinical implementation.
+N1  - PMID: 43085976 | PMCID:  | Catégorie: Cimentoplastie & Vissage Percutané du Bassin
+UR  - https://pubmed.ncbi.nlm.nih.gov/43085976/
+KW  - Vertébroplastie percutanée
+KW  - Cimentoplastie
+KW  - Fracture vertébrale ostéoporotique
+KW  - Muscles paravertébraux
+KW  - IRM rachidienne
+KW  - Score ODI
+KW  - Orthop Surg 2026
+ER  - 
+
+TY  - JOUR
+TI  - Efficacy and Safety of Percutaneous Sclerotherapy using Sodium Tetradecyl Sulfate for the Primary Management of Aneurysmal Bone Cysts
+AU  - Joshi A
+AU  - Limphaibool N
+AU  - Bahl A
+AU  - Teh J
+AU  - De Souza FS
+AU  - Mansour R
+JO  - Journal of vascular and interventional radiology : JVIR
+PY  - 2026
+SP  - 109210
+DO  - 10.1016/j.jvir.2026.109210
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective publiée dans le *Journal of Vascular and Interventional Radiology* (*JVIR*, nov. 2026, IF 2,6) évaluant la **sclérothérapie percutanée de première intention par tétradécyl sulfate de sodium (STS)** chez **23 patients porteurs d'un kyste osseux anévrismal (KOA / ABC) histologiquement prouvé** : **aucune complication immédiate ($0\%$)** n'est survenue, **$71\%$ des patients rapportent une amélioration fonctionnelle dans leurs activités quotidiennes**, et **100 % des kystes osseux anévrismaux localisés au rachis ou au sacrum ont obtenu une réponse clinique et radiologique favorable (score du *Royal Orthopaedic Hospital* ROH), évitant totalement le recours à la chirurgie et tout déficit neurologique**. | Points clés : Sur 23 kystes osseux anévrismaux (KOA) histologiquement prouvés traités en première intention par sclérothérapie percutanée au tétradécyl sulfate de sodium (STS), aucun événement indésirable immédiat n'a été observé (0 %). ; Tous les kystes osseux anévrismaux situés au rachis et au sacrum (100 %) ont présenté une évolution clinique et radiologique favorable, évitant toute intervention chirurgicale et tout risque de déficit neurologique. ; Sur l'ensemble de la cohorte, 71 % des patients ont retrouvé une capacité améliorée dans leurs activités quotidiennes, confirmant la sclérothérapie percutanée comme traitement de première ligne de choix des KOA rachidiens et pelviens. | Pratique Cochin : Directement applicable à nos « Sclérothérapies et alcoolisations percutanées sous scanner/scopie de kystes osseux anévrismaux (KOA) rachidiens, sacrés et appendiculaires » à l'Hôpital Cochin. || [ABSTRACT ORIGINAL - EN] Purpose To determine the clinical and radiological effectiveness and safety of using sodium tetradecyl sulfate (STS) during percutaneous sclerotherapy for the primary treatment of aneurysmal bone cysts (ABCs). Materials and methods - A retrospective data search from December 2015 to August 2023 included 23 patients with histologically proven ABCs who underwent sclerotherapy as primary management. Pre- and post- sclerotherapy imaging was obtained with images anonymized and randomized for evaluation of tumor volume and appearances as per the Royal Orthopedic Hospital scoring system. Evaluation of clinical response was determined through clinic letters. Results -There were no immediate adverse events following sclerotherapy with STS. The Pearson correlation for inter-observer agreement of radiological tumor assessment by two independent reviewers was strongly positive (p= 25%- 50% tumor volume reduction in 5 cases and failed tumor volume reduction in 10 cases. Using the ROH scoring system for radiological success, 5 cases had excellent success, 4 cases had a good outcome, 3 equivocal and 7 had a poor outcome. 71% of patients reported improved ability to carry out daily activities. All spinal ABCs had positive radiological and clinical outcomes. Surgery was not required for any of the ABCs located in the spine or sacrum. Conclusion Sclerotherapy using STS is an effective and safe first-line treatment method for ABCs, particularly in the spine, where it can be used as the primary treatment method and have the potential to avoid the requirement for surgery and neurological deficit.
+N1  - PMID: 43078390 | PMCID:  | Catégorie: Alcoolisation & Sclérothérapie des Kystes Osseux
+UR  - https://pubmed.ncbi.nlm.nih.gov/43078390/
+KW  - Kyste osseux anévrismal
+KW  - KOA
+KW  - Sclérothérapie percutanée
+KW  - Rachis
+KW  - Sacrum
+KW  - Tétradécyl sulfate de sodium
+KW  - JVIR 2026
+ER  - 
+
+TY  - JOUR
 TI  - Image-guided ablation treatment of Desmoid tumors: an approach for management and integration into the national comprehensive cancer network ® guidelines
 AU  - Burke CJ
 AU  - Block JJ
@@ -1462,6 +1509,34 @@ KW  - J Surg Oncol 2026
 ER  - 
 
 TY  - JOUR
+TI  - Diagnostic Utility of Ultrasound-Guided Synovial Biopsy in Undifferentiated Monoarticular Ankle Arthritis: A Prospective Exploratory Study From Bangladesh
+AU  - Azad MAK
+AU  - Hassan MM
+AU  - Hossain D
+AU  - Shazzad MN
+AU  - Islam A
+AU  - Ahmed Ullah AK
+AU  - Choudhury MR
+JO  - Cureus
+PY  - 2026
+VL  - 18
+IS  - 10
+SP  - e117778
+DO  - 10.7759/cureus.117778
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude prospective monocentrique (*Cureus*, oct. 2026, IF 1,0, Open-Access PMC13750914) évaluant l'apport de la **biopsie synoviale guidée par échographie** chez **22 patients consécutifs présentant une monoarthrite indifférenciée de la cheville** (parmi 30 monoarthrites évaluées) : la biopsie synoviale identifie une **arthrite tuberculeuse dans $22,7\%$ des cas ($5/22$, avec inflammation granulomateuse dans $100\%$ des cas contre $0\%$ dans les synovites non tuberculeuses, $p < 0,001$)**, et démontre que **le test moléculaire GeneXpert MTB/RIF réalisé sur les fragments de tissu synovial biopsié est trois fois plus sensible ($60,0\%$, spécificité $100\%$, précision globale $90,9\%$) que le même test réalisé sur le liquide synovial aspiré ($20,0\%$ de sensibilité, précision $81,8\%$)** ou que la coloration de Ziehl-Neelsen ($20,0\%$). | Points clés : Dans une cohorte prospective de monoarthrites indifférenciées de cheville explorées par biopsie synoviale échoguidée (22 patients biopsiés sur 30), l'histologie synoviale a permis d'identifier 22,7 % (5/22) d'arthrites tuberculeuses (100 % de granulomes, p < 0,001). ; La PCR moléculaire GeneXpert MTB/RIF réalisée directement sur les fragments de tissu synovial offre une précision diagnostique de 90,9 % (sensibilité 60 %, spécificité 100 %), trois fois plus sensible que la PCR sur liquide synovial (sensibilité 20 %, précision 81,8 %). ; Ces résultats confirment l'obligation d'associer une biopsie synoviale tissulaire (envoyée en histologie et en PCR/culture microbiologique) à la simple ponction articulaire devant toute monoarthrite chronique inexpliquée. | Pratique Cochin : Correspond directement à nos « Biopsies synoviales percutanées sous échographie ou scanner (genou, cheville, hanche, poignet) avec envoi conjoint en anatomopathologie et bactériologie/mycobactériologie (PCR BK) » à Cochin. || [ABSTRACT ORIGINAL - EN] Background Monoarticular ankle arthritis has a broad differential diagnosis, and establishing the underlying aetiology can be challenging when initial clinical, laboratory, and imaging investigations are inconclusive. Ultrasound-guided synovial biopsy enables tissue sampling for histopathological and microbiological evaluation. This study evaluated the histopathological findings and potential role of ultrasound-guided synovial biopsy in patients with undifferentiated monoarticular ankle arthritis. Methods This prospective, single-centre exploratory study was conducted at Bangladesh Medical University, Dhaka, Bangladesh, from January to December 2025. Thirty consecutive adults with monoarticular ankle arthritis underwent standardised clinical, laboratory, and imaging evaluation. Eight patients (26.7%) received a clinical diagnosis without biopsy, whereas 22 (73.3%) with undifferentiated arthritis underwent ultrasound-guided synovial biopsy. Within the biopsy cohort, a prespecified histopathological classification was used to classify cases as tuberculous or nontuberculous arthritis; this classification was not considered an independent microbiological reference standard. The GeneXpert Mycobacterium tuberculosis/rifampicin (MTB/RIF) assay (Cepheid, Sunnyvale, CA, USA) and acid-fast bacilli (AFB) staining were performed on available synovial tissue and fluid specimens. Sensitivity, specificity, and diagnostic accuracy were calculated with exact 95% CIs. Results Among the 30 participants, 22 (73.3%) had undifferentiated arthritis and underwent biopsy. Their mean age was 38.5 ± 15.0 years, and 17 of the 22 (77.3%) were male. Based on the prespecified histopathological classification, five of the 22 (22.7%) were classified as having tuberculous arthritis and 17 (77.3%) as having nontuberculous arthritis, most commonly nonspecific synovitis. Granulomatous inflammation was present in all five (100.0%) classified tuberculous cases and zero of the 17 (0%) nontuberculous cases (p Conclusions Ultrasound-guided synovial biopsy may provide useful diagnostic information in selected patients with undifferentiated monoarticular ankle arthritis, particularly when tuberculosis is suspected. Histopathological examination and molecular testing of synovial tissue may complement clinical, radiological, and microbiological assessment. However, these findings should be interpreted cautiously because of the exploratory study design, small number of tuberculous cases, and absence of an independent microbiological reference standard. Larger prospective studies incorporating mycobacterial culture, molecular testing, histopathology, and longitudinal follow-up are warranted to further define the role of ultrasound-guided synovial biopsy.
+N1  - PMID: 43012037 | PMCID: PMC13750914 | Catégorie: Biopsies Ostéo-Articulaires, Synoviales & Sarcomes
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_43012037.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/43012037/
+KW  - Biopsie synoviale
+KW  - Échographie interventionnelle
+KW  - Monoarthrite
+KW  - Cheville
+KW  - Tuberculose ostéo-articulaire
+KW  - GeneXpert MTB/RIF
+KW  - Cureus 2026
+ER  - 
+
+TY  - JOUR
 TI  - Current Role of Radiomics for Management of Soft Tissue Sarcoma
 AU  - Chang YC
 AU  - McGowan N
@@ -2420,6 +2495,34 @@ KW  - Skeletal Radiol 2026
 ER  - 
 
 TY  - JOUR
+TI  - Imaging characteristics of osteitis condensans ilii. A follow-up study
+AU  - Jurik AG
+AU  - Mills AAM
+AU  - Niesen AB
+AU  - Mills EM
+AU  - Kiil RM
+AU  - Zejden A
+AU  - Linauskas A
+JO  - Skeletal radiology
+PY  - 2026
+VL  - 55
+IS  - 12
+SP  - 3347-3360
+DO  - 10.1007/s00256-026-05360-7
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude longitudinale de suivi (*Skeletal Radiology*, sept. 2026, IF 1,9, Open-Access PMC13668895) réévaluant **129 patients consécutifs initialement diagnostiqués comme spondyloarthrite axiale (axSpA)** entre 2012 et 2023 : après révision clinico-biologique et imagerie multimodale (IRM, radiographies, TDM), la spondyloarthrite axiale n'a été confirmée que chez **95 patients ($73,6\%$)**, tandis que **27 patients ($20,9\%$) avaient un œdème médullaire sacro-iliaque non spécifique** et **7 femmes présentaient une ostéose iliaque condensante (OCI)** ; fait crucial, **100 % des patientes avec OCI remplissaient les seuils quantitatifs IRM de métaplasie graisseuse d'axSpA et $5/7$ ($71,4\%$) remplissaient aussi les seuils d'œdème médullaire ASAS**, mais l'OCI s'en distingue par une **signature topographique spécifique : sclérose prédominant dans la région antéro-moyenne de l'os iliaque entourée en périphérie d'une couronne d'œdème et de dépôts graisseux, avec un œdème et une métaplasie graisseuse sous-chondraux prédominant sur le versant sacré en regard**. | Points clés : Sur 129 patients initialement diagnostiqués spondyloarthrite axiale (axSpA), la réévaluation longitudinale multimodale n'a confirmé l'axSpA que chez 95 patients (73,6 %), révélant 27 cas d'œdème sacro-iliaque non spécifique (20,9 %) et 7 cas d'ostéose iliaque condensante (OCI). ; Toutes les patientes atteintes d'OCI (7/7, 100 %) remplissaient les seuils quantitatifs IRM de dépôts graisseux compatibles avec une axSpA et 5/7 (71,4 %) remplissaient également les seuils d'œdème médullaire (BME), expliquant leur erreur diagnostique initiale. ; Le diagnostic d'OCI en IRM repose sur la topographie lésionnelle : sclérose iliaque antéro-moyenne bordée en périphérie d'œdème et de graisse, associée à un œdème et un dépôt graisseux sous-chondraux sur le versant sacré en regard, sans érosion articulaire. | Pratique Cochin : Complète directement notre référentiel d'« IRM des articulations sacro-iliaques en Radiologie B à Cochin » pour éviter de confondre une ostéose iliaque condensante (remplissant à tort les seuils quantitatifs ASAS d'œdème et de graisse) avec une spondyloarthrite axiale. || [ABSTRACT ORIGINAL - EN] Objective To evaluate the diagnostic ability of combined clinical and MRI findings in a cohort of patients initially diagnosed with axial spondyloarthritis (axSpA) and to detect potential patients with osteitis condensans ilii (OCI) for further analyses. Materials and methods We conducted a retrospective follow-up study of 129 consecutive patients aged ≥ 18 years (49 women/80 men) diagnosed with axSpA during the period 2012-2023. Uniform baseline MRI of the sacroiliac joints (SIJ) and spine with concomitant radiography and/or CT were reassessed by an experienced radiologist using fulfillment of thresholds for SIJ MRI changes consistent with axSpA and a global assessment of all imaging material. Clinical and biochemical findings at baseline and during follow-up were reevaluated and in combination with imaging findings used as a reference standard for axSpA and OCI changes, respectively. Imaging findings consistent with OCI were confirmed by a second experienced radiologist and OCI imaging characteristics were systematically assessed. Results axSpA was confirmed in 95 patients. Seven women had OCI and 27 (15 women/12 men) had non-specific SIJ bone marrow edema (BME). None of the OCI women fulfilled radiographic criteria for axSpA, but all fulfilled fat deposition thresholds on MRI consistent with axSpA and five also fulfilled thresholds for BME. The detected OCI MRI characteristics were as follows: sclerosis predominating at the anterior-middle iliac joint areas with BME and fat deposition at the periphery, and subchondral BME and fat deposition predominantly in the sacrum. Conclusion The location of sclerosis, BME, and fat deposition can be used to diagnose OCI changes on MRI.
+N1  - PMID: 42704454 | PMCID: PMC13668895 | Catégorie: Imagerie Ostéo-Articulaire Diagnostique & Suivi Post-Geste
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42704454.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42704454/
+KW  - Ostéose iliaque condensante
+KW  - IRM sacro-iliaque
+KW  - Spondyloarthrite axiale
+KW  - Œdème médullaire
+KW  - Métaplasie graisseuse
+KW  - Surdiagnostic
+KW  - Skeletal Radiol 2026
+ER  - 
+
+TY  - JOUR
 TI  - Mapping Genicular Nerve Endings for Optimal Pain Management: A Comparative Cadaveric Analysis Between Native Versus Prosthetic Knee
 AU  - Fodjeu G
 AU  - Fonkoué L
@@ -2756,6 +2859,30 @@ KW  - Artère vertébrale
 KW  - Navigation 3D O-arm
 KW  - Pédicule C7
 KW  - J Orthop Case Rep 2026
+ER  - 
+
+TY  - JOUR
+TI  - Osteoid osteoma of the femoral neck as a rare cause of hip pain in a 50-year-old male: A case report
+AU  - Vistisen HCS
+AU  - Kold S
+AU  - Baad-Hansen T
+AU  - Akreyi IAA
+JO  - Radiology case reports
+PY  - 2026
+VL  - 21
+IS  - 10
+SP  - 5209-5214
+DO  - 10.1016/j.radcr.2026.07.040
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Cas clinique didactique (*Radiology Case Reports*, août 2026, IF 1,0, Open-Access PMC13476709) d'un **ostéome ostéoïde de la région antéro-médiale du col fémoral chez un homme de 50 ans** présentant une coxalgie rebelle depuis 8 mois : alors que les radiographies standard étaient normales et que **l'IRM ainsi que l'arthro-IRM de hanche ne montraient qu'un œdème médullaire aspécifique sans nidus individualisable** (conduisant à des infiltrations tests et une exploration rachidienne lombaire infructueuses), le **scanner en coupes fines a mis en évidence le petit nidus à calcification centrale au bord antéro-médial du col fémoral**, permettant une **confirmation histologique per-procédurale et une guérison clinique complète après ablation percutanée par radiofréquence guidée par scanner (RFA)**. | Points clés : Même à 50 ans, un ostéome ostéoïde du col fémoral doit être évoqué devant une coxalgie persistante avec œdème médullaire focal en IRM ou arthro-IRM. ; L'IRM et l'arthro-IRM peuvent masquer totalement le nidus au sein de l'œdème médullaire réactionnel ; seul le scanner en coupes fines identifie avec certitude le nidus et sa calcification centrale. ; L'ablation percutanée par radiofréquence guidée par scanner couplée à une biopsie coaxiale permet de confirmer histologiquement le diagnostic et d'obtenir une résolution complète et définitive des symptômes. | Pratique Cochin : Illustre directement nos « Ablations par radiofréquence sous scanner d'ostéomes ostéoïdes du col fémoral (avec biopsie per-geste) après IRM non concluante » en Radiologie B à Cochin. || [ABSTRACT ORIGINAL - EN] Osteoid osteoma (OO) is a benign osteoblastic tumor typically affecting young individuals. OO arising in the femoral neck is rare and may present with atypical clinical and radiological features, frequently leading to diagnostic delay. We report a case of a 50-year-old man with persistent hip pain for 8 months. Initial radiographs were unremarkable, and both magnetic resonance arthrography (MRA) and magnetic resonance imaging (MRI) demonstrated nonspecific bone marrow edema without identification of a nidus. Despite multiple clinical evaluations, including diagnostic injections and lumbar spine imaging, the patient's symptoms persisted. Computed tomography (CT) ultimately revealed a small nidus with central mineralization in the anteromedial region of the femoral neck. The diagnosis was confirmed histologically, and the patient was successfully treated with CT-guided radiofrequency ablation (RFA), resulting in complete symptom resolution. This case highlights the diagnostic challenges of OO in the femoral neck, particularly in older patients with atypical symptoms. MRI may obscure the nidus due to extensive bone marrow edema, emphasizing the importance of CT in cases of persistent focal bone marrow edema and inconclusive MRI findings.
+N1  - PMID: 42604067 | PMCID: PMC13476709 | Catégorie: Ablation Thermique des Tumeurs Osseuses Bénignes
+UR  - https://pubmed.ncbi.nlm.nih.gov/42604067/
+KW  - Ostéome ostéoïde
+KW  - Col fémoral
+KW  - Arthro-IRM
+KW  - Scanner TDM
+KW  - Radiofréquence
+KW  - Douleur de hanche
+KW  - Radiol Case Rep 2026
 ER  - 
 
 TY  - JOUR
@@ -3243,6 +3370,29 @@ KW  - Prothèse totale de genou
 KW  - Douleur post-chirurgicale
 KW  - Coolief
 KW  - 2026
+ER  - 
+
+TY  - JOUR
+TI  - Long-term efficacy of genicular nerve radiofrequency ablation in patients with advanced knee osteoarthritis: A retrospective cohort study
+AU  - Gozukizil ST
+AU  - Altun HI
+JO  - Northern clinics of Istanbul
+PY  - 2026
+VL  - 13
+IS  - 4
+SP  - 387-394
+DO  - 10.14744/nci.2026.39269
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte longitudinale (*Northern Clinics of Istanbul*, août 2026, IF 1,5, Open-Access PMC13591036) évaluant à **1, 6 et 12 mois** l'efficacité de l'**ablation par radiofréquence échoguidée des trois nerfs géniculés (SMGN, SLGN et IMGN)** chez **44 patients souffrant de gonarthrose avancée réfractaire** : les scores moyens **NRS et WOMAC diminuent significativement à tous les temps de suivi ($p < 0,001$)** avec une forte corrélation douleur–fonction, et le **taux de succès clinique (défini par une réduction de douleur $\ge 50\%$) atteint $81,8\%$ à 1 mois et se maintient à un niveau élevé de $75,0\%$ à 6 mois**, quel que soit le grade radiologique de Kellgren-Lawrence, avant de **décroître à $11,4\%$ à 12 mois** (0 % d'effet indésirable grave), définissant une **fenêtre d'efficacité optimale de 6 à 9 mois** avant réévaluation pour éventuel retraitement. | Points clés : Chez 44 patients atteints de gonarthrose avancée traités par radiofréquence échoguidée des 3 nerfs géniculés (SMGN, SLGN, IMGN), une réduction douloureuse ≥ 50 % est obtenue chez 81,8 % des patients à 1 mois et maintenue chez 75,0 % des patients à 6 mois. ; L'efficacité antalgique et fonctionnelle (WOMAC, p < 0,001) est indépendante du grade radiologique de gonarthrose et s'accompagne de 0 % de complication grave. ; En raison de la régénération nerveuse périphérique, le taux de réduction ≥ 50 % passe à 11,4 % à 12 mois (tout en conservant un gain moyen significatif par rapport à l'état basal, p < 0,001), positionnant la GNRFA comme un traitement de moyen terme (6–9 mois) renouvelable. | Pratique Cochin : Essentiel pour planifier le suivi et le retraitement éventuel à 6–12 mois de nos « Radiofréquences et cryoneurolyses des nerfs géniculés sous échographie/scanner dans la gonarthrose avancée » à Cochin. || [ABSTRACT ORIGINAL - EN] Objective Conventional treatments for advanced knee osteoarthritis (OA) are often insufficient, and surgery is not always feasible. This retrospective cohort study aimed to evaluate changes in pain, function, and safety over 12 months following ultrasound-guided genicular nerve radiofrequency ablation (GNRFA). Methods We included 44 patients with chronic knee pain unresponsive to conservative treatments for at least 3 months. All patients underwent US-guided radiofrequency ablation of the superomedial, superolateral, and inferomedial genicular nerves. Pain numeric rating scale (NRS) and functional status Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) scores were assessed at baseline, and routinely at 1, 6, and 12 months post-procedure. Results Compared to baseline, mean NRS and WOMAC scores decreased significantly at all follow-up points (p Conclusion US-guided GNRFA was associated with improvements in pain and function, which were most pronounced within the first 6 months in patients with advanced knee OA. However, the marked decline in responder rates at 12 months suggests reduced durability beyond 6 months. These findings suggest that GNRFA may serve as a medium-term management option rather than a permanent solution, and that re-evaluation may be appropriate in patients with recurrent symptoms.
+N1  - PMID: 42769295 | PMCID: PMC13591036 | Catégorie: Douleur & Neurolyse : Morton, Géniculés, Intercostaux & Clunéal
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42769295.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42769295/
+KW  - Nerfs géniculés
+KW  - Radiofréquence
+KW  - Échographie interventionnelle
+KW  - Gonarthrose avancée
+KW  - Score WOMAC
+KW  - Durabilité à 12 mois
+KW  - North Clin Istanb 2026
 ER  - 
 
 TY  - JOUR
@@ -3904,6 +4054,43 @@ KW  - Pain Pract 2026
 ER  - 
 
 TY  - JOUR
+TI  - Clinical outcomes of percutaneous cryoablation for pulmonary metastases of soft tissue and bone sarcomas under local anesthesia: a single-institution retrospective cohort study
+AU  - Aoki Y
+AU  - Kaseda K
+AU  - Nishida R
+AU  - Okubo Y
+AU  - Masai K
+AU  - Hishida T
+AU  - Tamura M
+AU  - Inoue M
+AU  - Yashiro H
+AU  - Nakatsuka S
+AU  - Nakayama R
+AU  - Yamauchi Y
+AU  - Izumi Y
+AU  - Kawamura M
+AU  - Jinzaki M
+AU  - Asakura K
+JO  - BMC cancer
+PY  - 2026
+VL  - 26
+IS  - 1
+SP  - 1130
+DO  - 10.1186/s12885-026-16380-w
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude de cohorte rétrospective (*BMC Cancer*, juil. 2026, IF 3,4, Open-Access PMC13595653) évaluant la **cryoablation percutanée guidée par scanner sous anesthésie locale exclusive** de **84 métastases pulmonaires de sarcomes osseux et des parties molles chez 28 patients non opérables (53 séances)** : avec un diamètre tumoral médian de $1,1\text{ cm}$ ($0,4\text{ à }6,5\text{ cm}$), les **taux d'efficacité primaire sont de $88,8\%$ à 1 an et $79,1\%$ à 3 et 5 ans**, et les **taux d'efficacité assistée après retraitement par cryoablation atteignent $95,6\%$ à 1 an, $82,8\%$ à 3 ans et $77,9\%$ à 5 ans** ; un **diamètre tumoral $\le 2\text{ cm}$ est significativement associé à un meilleur contrôle local primaire ($p = 0,024$) et assisté ($p = 0,015$)**, la **survie globale médiane est de 34 mois ($75,0\%$ à 1 an, $52,8\%$ à 3 ans)**, avec **$0\%$ de complication de grade $\ge 3$ (CTCAE v5.0) ni de mortalité à 30 jours**. | Points clés : Sur 84 métastases de sarcomes osseux et des parties molles traitées par cryoablation percutanée sous anesthésie locale (53 séances, 28 patients), l'efficacité primaire est de 88,8 % à 1 an et 79,1 % à 3 et 5 ans, et l'efficacité assistée atteint 95,6 % à 1 an et 82,8 % à 3 ans. ; Une taille tumorale ≤ 2 cm prédit significativement un meilleur contrôle local primaire (p = 0,024) et secondaire (p = 0,015), avec une survie globale médiane de 34 mois (75,0 % à 1 an, 52,8 % à 3 ans). ; Toutes les procédures ont pu être menées sous anesthésie locale sans aucune complication de grade ≥ 3 (CTCAE v5.0) ni mortalité à 30 jours. | Pratique Cochin : En lien direct avec notre activité d'« Ablation thermique percutanée (Cryoablation / Radiofréquence) des récidives et oligométastases de sarcomes osseux et des parties molles (RCP Sarcomes Cochin) ». || [ABSTRACT ORIGINAL - EN] Background The management of pulmonary metastases of soft tissue and bone sarcomas is challenging due to their resistance to chemotherapy and radiotherapy. This study aimed to evaluate local tumor progression, overall survival (OS), and procedural safety after percutaneous cryoablation for pulmonary metastases of soft tissue and bone sarcomas. Methods This retrospective cohort study included 28 patients who underwent percutaneous cryoablation for 84 metastatic lung tumors of soft tissue and bone sarcomas during 53 sessions between July 2002 and December 2016. Percutaneous cryoablation was performed under local anesthesia using the CRYOcare system and computed tomography fluoroscopy. Procedural complications within 30 days were assessed using prospectively recorded clinical data and retrospectively graded according to the Common Terminology Criteria for Adverse Events version 5.0. The time to local progression of the treated tumors and overall survival were estimated using the Kaplan-Meier method. Results All cryoablation procedures were performed under local anesthesia. The median tumor diameter was 1.1 cm (range: 0.4-6.5 cm). Twelve tumors (14.3%) showed local tumor progression after initial cryoablation during the median follow-up duration of 16 months (range: 0-216 months). The primary efficacy rates were 88.8%, 79.1%, and 79.1% at 1, 3, and 5 years, respectively. After repeat cryoablation for four tumors with local progression, the assisted efficacy rates were 95.6%, 82.8%, and 77.9% at 1, 3, and 5 years, respectively. Three tumors in two patients had no local progression for more than 10 years. A tumor diameter of ≤ 2 cm was significantly associated with improved primary and assisted efficacy rates (P = 0.024 and P = 0.015, respectively). The median OS was 34 months (range, 2-155 months), and the OS rates were 75.0%, 52.8%, and 28.8% at 1, 3, and 5 years, respectively. Adverse events occurred in 31 sessions (58.5%); all were grade 1 or 2, and no grade ≥ 3 adverse events or 30-day mortality were observed. Conclusions In this selected single-institution cohort of nonsurgical candidates with pulmonary metastases of soft tissue and bone sarcomas, percutaneous cryoablation was feasible and was associated with local tumor control and an acceptable safety profile.
+N1  - PMID: 42393581 | PMCID: PMC13595653 | Catégorie: Ablation Percutanée Tumorale : Standards, Endométriome & Oncologie
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42393581.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42393581/
+KW  - Cryoablation
+KW  - Sarcome osseux
+KW  - Sarcome des parties molles
+KW  - Oligométastases
+KW  - Anesthésie locale
+KW  - Contrôle tumoral local
+KW  - BMC Cancer 2026
+ER  - 
+
+TY  - JOUR
 TI  - Evaluating the Predictive Value of Pre-procedural Diagnostic Nerve Blocks in Patients Undergoing Cryoneurolysis
 AU  - Young S
 AU  - Gunkan A
@@ -4110,6 +4297,35 @@ KW  - FAVA
 KW  - Électrosclérothérapie
 KW  - Bléomycine
 KW  - Clin Plast Surg 2026
+ER  - 
+
+TY  - JOUR
+TI  - Cryoablation as a downsizing strategy enabling R0 resection in a giant mediastinal desmoid tumor: a case report
+AU  - Bayer IB
+AU  - Santos Portela AM
+AU  - Radu DM
+AU  - Petit A
+AU  - Seror O
+AU  - Peretti M
+AU  - Martin A
+AU  - Chouahnia K
+AU  - Martinod E
+AU  - Onorati I
+JO  - Mediastinum (Hong Kong, China)
+PY  - 2026
+VL  - 10
+SP  - 31
+DO  - 10.21037/med-2026-1-0004
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Publication clinique issue du cadre de l'essai **CRYODESMO-01** (*Mediastinum*, juin 2026, IF 1,8, Open-Access PMC13346003) rapportant pour la première fois l'utilisation de la **cryoablation percutanée (PCA) comme stratégie de réduction tumorale (*downsizing*) préopératoire** chez une patiente de 64 ans porteuse d'une **tumeur desmoïde endothoracique géante symptomatique, initialement non résécable et en progression malgré deux lignes de traitements systémiques** : la cryoablation percutanée a induit une **réduction volumique majeure et une libération des rapports anatomiques critiques**, rendant possible une **exérèse chirurgicale secondaire complète R0** dont l'**analyse anatomopathologique finale a démontré plus de $90\%$ de nécrose tumorale ($< 10\%$ de tissu desmoïde résiduel viable)**, sans récidive à 8 mois postopératoires. | Points clés : Chez une patiente porteuse d'une tumeur desmoïde géante réfractaire à deux lignes de traitement systémique et initialement contre-indiquée à la chirurgie, la cryoablation percutanée (cadre CRYODESMO-01) a permis une réduction volumique majeure. ; L'examen anatomopathologique de la pièce opératoire après cryoablation a objectivé une réponse histologique majeure avec moins de 10 % de tissu desmoïde résiduel viable (> 90 % de nécrose cryo-induite) et des marges R0. ; La cryoablation percutanée constitue non seulement un traitement définitif pour les tumeurs desmoïdes de taille petite à moyenne, mais aussi un outil puissant de « downsizing » multimodal pour les formes géantes. | Pratique Cochin : En lien direct avec notre prise en charge en RCP Sarcomes à Cochin par « Cryoablation percutanée sous scanner des tumeurs desmoïdes (fibromatoses agressives) pariétales, thoraciques et des ceintures ». || [ABSTRACT ORIGINAL - EN] Background Endothoracic desmoid tumors are rare, locally aggressive soft-tissue neoplasms whose intrathoracic location often precludes safe surgical resection. The historical paradigm of upfront radical surgery has shifted toward a more conservative and stepwise approach, prioritizing active surveillance and non-surgical treatments whenever feasible. Surgical resection is now typically reserved for selected cases. Percutaneous cryoablation (PCA) has emerged as a promising minimally invasive treatment and valid therapeutic alternative for selected patients, although its role as a tumor downsizing strategy remains poorly defined. Case description We report the case of a 64-year-old woman presenting with a giant anterior mediastinal desmoid tumor causing progressive respiratory symptoms and pain. Initial systemic therapies were associated with disease progression, and despite second-line treatment, tumor control was not achieved, leading to surgical contraindication. Within the framework of the prospective CRYODESMO-O1 trial, the multidisciplinary team proposed PCA, resulting in a significant reduction in tumor size and improved anatomical relationships. This evolution allowed reconsideration of surgical resection, which was subsequently performed via a left sternothoracotomy approach. Final pathological examination demonstrated less than 10% residual desmoid tissue with complete (R0) resection. At the last follow-up at 8 months after surgery the patient was well and without recurrence. Conclusions In this case, cryoablation was associated with marked tumor downsizing and a major pathological response, facilitating reconsideration of surgical resection in a tumor initially deemed unresectable. This approach may represent a potential component of multimodal management in carefully selected patients, although further evidence is needed to confirm its role.
+N1  - PMID: 42427484 | PMCID: PMC13346003 | Catégorie: Cryoablation des Tumeurs Desmoïdes & Parties Molles
+UR  - https://pubmed.ncbi.nlm.nih.gov/42427484/
+KW  - Tumeur desmoïde
+KW  - Fibromatose agressive
+KW  - Cryoablation
+KW  - CRYODESMO-01
+KW  - Downsizing tumoral
+KW  - Réponse histologique
+KW  - Mediastinum 2026
 ER  - 
 
 TY  - JOUR
@@ -4493,6 +4709,43 @@ KW  - Bléomycine
 KW  - Parties molles
 KW  - Drainage veineux
 KW  - Laryngoscope 2026
+ER  - 
+
+TY  - JOUR
+TI  - Bleomycin-Electrosclerotherapy in the treatment of superficial slow-flow vascular malformations of head and neck
+AU  - Obereisenbuchner F
+AU  - Seebauer CT
+AU  - Borisch E
+AU  - Puhr-Westerheide D
+AU  - Deniz S
+AU  - Sint A
+AU  - Platz Batista da Silva N
+AU  - Vielsmeier V
+AU  - Kühnel T
+AU  - Vollbach FH
+AU  - Haehl J
+AU  - Hartl A
+AU  - Wohlgemuth WA
+AU  - Ricke J
+AU  - Seidensticker M
+AU  - Wildgruber M
+AU  - Schmidt VF
+JO  - Frontiers in neurology
+PY  - 2026
+VL  - 17
+SP  - 1826764
+DO  - 10.3389/fneur.2026.1826764
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude clinique (*Frontiers in Neurology*, avr. 2026, IF 2,7, Open-Access PMC13111130) évaluant la sécurité et l'efficacité de **41 séances d'électrosclérothérapie à la bléomycine (BEST)** chez **25 patients présentant des malformations vasculaires superficielles à flux lent (SFVM)** situées au contact étroit de structures nerveuses et fonctionnelles critiques : avec une moyenne de **$1,6 \pm 1,1\text{ séance}$ par patient et une dose médiane très faible de $5\text{ mg}$ de bléomycine ($1\text{ à }15\text{ mg}$)**, **$100\%$ des patients ont présenté une réponse clinique** — dont **$32\%$ ($8/25$) de réponse complète, $56\%$ ($14/25$) de réduction marquée des symptômes et $12\%$ ($3/25$) de réduction modérée** — avec une **diminution systématique du volume en IRM de contrôle (réduction de prise de contraste dans $80\%$)** et **aucune complication majeure ni aucune lésion nerveuse ($0\%$)**. | Points clés : Sur 25 patients (41 séances BEST) traités pour des malformations vasculaires superficielles à flux lent en zone critique avec une dose médiane de seulement 5 mg de bléomycine (1,6 ± 1,1 séance), 88 % obtiennent une réponse clinique complète (32 %) ou marquée (56 %) et 12 % une réponse modérée (0 % de non-répondeur). ; L'IRM de suivi objective une réduction de taille lésionnelle chez 100 % des patients évalués et une diminution franche ou complète du rehaussement après injection dans 80 % des cas. ; Aucune complication majeure ni aucune atteinte nerveuse (0 %) n'est survenue ; la pigmentation cutanée (36 %) et l'œdème prolongé (9,8 % des séances) ont tous régressé au cours du suivi. | Pratique Cochin : Confirme la sécurité neurologique et l'efficacité à faible dose de nos procédures d'« Électrochimiothérapie / électrosclérothérapie à la bléomycine (BEST) des malformations vasculaires à flux lent et lésions superficielles » à Cochin. || [ABSTRACT ORIGINAL - EN] Introduction Recently, Bleomycin-Electrosclerotherapy (BEST) has emerged as a novel alternative in the treatment of slow-flow vascular malformations. Regarding the commonly affected head and neck area, this procedure has to be safe and controllable due to the close anatomical proximity of critical structures. The aim of this study is to evaluate the safety and clinical outcome of BEST for slow-flow vascular malformations of the head and neck region. Methods Twenty-five patients with symptomatic predominantly superficial SFVMs were treated by 41 BEST sessions between 11/21 and 09/24. Treatments of lesions involving the aerodigestive tract were excluded. Patient records and imaging findings were analyzed with respect to clinical and procedural details. Changes in overall symptom severity were classified into five categories (complete-, marked-, mild-, no response, and progress) based on patients' reports. Pre- and postprocedural lesion size was determined by measuring the maximum diameter in three orthogonal planes on MRI. Complications and side-effects including skin discoloration were assessed. Results The most common indications for treatment were swelling in 17/25 patients (68%), followed by pain (7/25, 28%), and functional impairment (7/25, 28%). Patients received 1.6 ± 1.1 BEST sessions with a median bleomycin dose of 5 mg (range 1-15 mg). Complete response at the end of follow-up was observed in 8/25 (32%), strong reduction of symptoms in 14/25 (56%), and mild reduction in 3/25 (12%) patients. No patients showed progression or were non-responders. Follow-up MRI revealed a lesion size reduction in all patients for which a follow-up MRI was available and complete or partial reduced contrast uptake in 8/10 (80%) patients. Prolonged pain and swelling were observed after 4/41 (9.8%) of BEST sessions. There were no major complications following the treatment of superficial SFVMs, especially no nerve injury. Skin discoloration was observed in 9/25 (36%) of patients while all patients already reported partially fading during follow-up. All complications were temporary only and subsided at follow-up. Discussion BEST is safe and effective for treating slow-flow vascular malformations of the head and neck region with an acceptable risk- and complication profile.
+N1  - PMID: 42051780 | PMCID: PMC13111130 | Catégorie: Cryoablation des Tumeurs Desmoïdes & Parties Molles
+L1  - https://mrthomaslef.github.io/biblioosteo/pdfs/PMID_42051780.pdf
+UR  - https://pubmed.ncbi.nlm.nih.gov/42051780/
+KW  - Électrosclérothérapie
+KW  - BEST
+KW  - Bléomycine
+KW  - Malformation vasculaire à flux lent
+KW  - Sécurité nerveuse
+KW  - IRM post-thérapeutique
+KW  - Front Neurol 2026
 ER  - 
 
 TY  - JOUR
@@ -5596,6 +5849,30 @@ KW  - Métastases osseuses
 KW  - Compression médullaire épidurale
 KW  - Épargne nerveuse
 KW  - CVIR 2025
+ER  - 
+
+TY  - JOUR
+TI  - Longitudinal Radiographical Changes Following Minimally Invasive Ablation and Cementoplasty of Osteolytic Vertebral Metastases: A Retrospective Study
+AU  - Jiang W
+AU  - Lee S
+AU  - Gan D
+AU  - Latich I
+JO  - HSS journal : the musculoskeletal journal of Hospital for Special Surgery
+PY  - 2025
+VL  - 22
+IS  - 2
+SP  - 145-155
+DO  - 10.1177/15563316251346485
+AB  - [RÉSUMÉ CLINique COCHIN - FR] Étude rétrospective longitudinale du *Hospital for Special Surgery* (*HSS Journal*, avr. 2026 / epub juin 2025, IF 1,9, Open-Access PMC12204986) évaluant sur **54 niveaux vertébraux thoraciques et lombaires ostéolytiques traités par ablation par radiofréquence couplée à la cimentoplastie (RFA/C)** (suivi moyen $15,8 \pm 13,8\text{ mois}$, évaluations à 3, 6, 12 et 24 mois) l'intégrité mécanique à long terme : **la hauteur des colonnes antérieure, moyenne et postérieure ainsi que l'angle de cyphose vertébrale locale restent parfaitement stables jusqu'à 24 mois** (avec un gain significatif de hauteur de la colonne moyenne à 3 mois), **la densité osseuse péricimentaire mesurée en unités Hounsfield (UH) au scanner se stabilise durablement**, et les rares fractures adjacentes observées ($15,4\%$, $4/26$ patients) étaient toutes liées à une progression néoplasique systémique et non à un conflit mécanique du ciment. | Points clés : Sur 54 métastases vertébrales ostéolytiques thoraco-lombaires traitées par radiofréquence + cimentoplastie (RFA/C) avec un suivi moyen de 15,8 mois (jusqu'à 24 mois), aucune perte de hauteur des colonnes antérieure, moyenne ou postérieure ni aggravation angulaire n'a été observée. ; La densité osseuse évaluée en unités Hounsfield (UH) sur scanner axial se stabilise durablement après RFA/C, avec une restauration significative de la hauteur de la colonne moyenne à 3 mois. ; Les fractures adjacentes survenues chez 4 patients (15,4 %) étaient toutes associées à une progression tumorale systémique envahissant les niveaux voisins et non à une complication mécanique de la cimentoplastie. | Pratique Cochin : Valide directement la durabilité mécanique à 1–2 ans de nos « Radiofréquences bipolaires refroidies (OsteoCool) + cimentoplasties des métastases vertébrales ostéolytiques » réalisées au scanner de Cochin. || [ABSTRACT ORIGINAL - EN] Background: For orthopedic oncology patients who are poor candidates for open spine surgery, minimally invasive radiofrequency ablation and cementoplasty (RFA/C) is becoming increasingly popular for managing osteolytic vertebral metastases. Purpose: We sought to characterize long-term changes in vertebral body radiographical parameters and potential risk of adjacent fractures occurring. Methods: A single-institution, retrospective study of all patients receiving RFA/C for osteolytic thoracic or lumbar vertebral body metastases from 2017 to 2023 was conducted. Vertebral body integrity was assessed by column height changes (anterior, middle, and posterior 1/3), local vertebral angle, and indirect bone mass assessment (at 3, 6, 12, and 24 months postoperatively). The latter was assessed via Hounsfield unit (HU) changes on axial computed tomography. Adjacent vertebral fractures were defined as within 3 vertebral levels above or below index site. Treatment history including radiation therapy was tracked. Results: A total of 54 vertebral levels (26 patients; mean age 59.8 ± 19.0 years; 18 females) were included (mean follow-up 15.8 ± 13.8 months). HU (bone mass proxy) stabilized after RFA/C. Except for middle column height increasing at 3 months, no column height or local angle deformity changes were detected. Adjacent fracture occurred in 4 patients (15.4%); all 4 demonstrated systemic cancer progression. Conclusions: Our findings suggest that RFA/C may provide effective long-term stabilization of the index site that is maintained for at least 1 year postoperatively. All patients who experienced an adjacent fracture occurrence demonstrated radiographic evidence of cancer progression surrounding the treatment sites that appeared unrelated to the procedure itself.
+N1  - PMID: 40586103 | PMCID: PMC12204986 | Catégorie: Électrochimiothérapie (ECT) & Métastases Osseuses
+UR  - https://pubmed.ncbi.nlm.nih.gov/40586103/
+KW  - Métastase vertébrale
+KW  - Ostéolyse
+KW  - Radiofréquence
+KW  - Cimentoplastie
+KW  - OsteoCool
+KW  - Stabilité biomécanique
+KW  - HSS J 2026
 ER  - 
 
 TY  - JOUR
